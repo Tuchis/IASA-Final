@@ -3,6 +3,7 @@
 import pandas as pd
 import os
 import json
+import ast
 from openai_client import OpenAI_Client
 
 # Read train data
@@ -62,8 +63,16 @@ for row_ind, row in train_data.iterrows():
     print(type(answer), type(model_response))
 
     # Check if the model response is correct
-    if model_response == answer:
-        correct_answers[answer_type] += 1
+    if answer_type == 'coordinates':
+        coord = ast.literal_eval(answer)
+        bbox = ast.literal_eval(model_response)
+        print(f"Answer: {coord}")
+        # Check if answer is in bbox
+        if coord[0] >= bbox[0] and coord[1] >= bbox[1] and coord[2] <= bbox[2] and coord[3] <= bbox[3]:
+            correct_answers[answer_type] += 1
+    else:
+        if model_response == answer:
+            correct_answers[answer_type] += 1
     
     questions[answer_type] += 1
 

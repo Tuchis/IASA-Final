@@ -1,0 +1,847 @@
+App bundle	App name	Screen id	Question	Answer	Answer Type
+com.jetson.24hourwallpaper-setapp	24hourwallpaper	1707228345	How many checkboxes are there on the screen?	3	number
+com.jetson.24hourwallpaper-setapp	24hourwallpaper	1707228419	How many buttons are on the screen?	2	number
+com.jetson.24hourwallpaper-setapp	24hourwallpaper	1707228419	Is the selected wallpaper Grand Canyon Mix?	Yes	yes/no
+com.jetson.24hourwallpaper-setapp	24hourwallpaper	1707228419	How many dropdown menus are on the screen?	1	number
+com.jetson.24hourwallpaper-setapp	24hourwallpaper	1707228389	"Is there a button ""Save"" on the screen?"	No	yes/no
+com.jetson.24hourwallpaper-setapp	24hourwallpaper	1707228389	How many images (wallpapers) are on the screen?	4	number
+com.jetson.24hourwallpaper-setapp	24hourwallpaper	1707228345	How many toolbar buttons are on the screen?	6	number
+com.jetson.24hourwallpaper-setapp	24hourwallpaper	1707228345	Does the application open at login?	No	yes/no
+com.jetson.24hourwallpaper-setapp	24hourwallpaper	1707228389	How many wallpapers are in the app?	105	number
+com.onmyway133.Almighty-setapp	Almighty	1707228267	"Is this a ""Utility"" menu section?"	Yes	yes/no
+com.onmyway133.Almighty-setapp	Almighty	1707228277	"How many ""+"" buttons are there on the visible part of the screen?"	4	number
+com.onmyway133.Almighty-setapp	Almighty	1707228194	"Where should I click to switch to ""Dock"" menu?"	[(20, 512), (380, 572)]	coordinates
+com.onmyway133.Almighty-setapp	Almighty	1707228277	"Is this a ""Settings"" menu section?"	No	yes/no
+com.onmyway133.Almighty-setapp	Almighty	1707228277	"Is this an ""Automation"" menu section?"	Yes	yes/no
+com.onmyway133.Almighty-setapp	Almighty	1707228289	How many toggle buttons are turned on?	2	number
+com.onmyway133.Almighty-setapp	Almighty	1707228289	How many toggle buttons are turned off?	2	number
+com.onmyway133.Almighty-setapp	Almighty	1707228289	"Is ""Launch at login"" turned on?"	No	yes/no
+com.onmyway133.Almighty-setapp	Almighty	1707228267	On the visible screen, how many toggle buttons are turned on?	0	number
+com.onmyway133.Almighty-setapp	Almighty	1707228267	On the visible screen, how many toggle buttons are there?	1	number
+com.onmyway133.Almighty-setapp	Almighty	1707228256	How many toggle buttons are turned off?	1	number
+com.onmyway133.Almighty-setapp	Almighty	1707228256	How many toggle buttons are turned on?	1	number
+com.onmyway133.Almighty-setapp	Almighty	1707228245	How many toggle buttons are turned on?	1	number
+com.onmyway133.Almighty-setapp	Almighty	1707228229	Is it possible to hide cursor using this menu?	Yes	yes/no
+com.onmyway133.Almighty-setapp	Almighty	1707228229	"Is the selected menu page ""Mouse""?"	Yes	yes/no
+com.onmyway133.Almighty-setapp	Almighty	1707228229	On the visible screen, how many toggle buttons are there?	2	number
+com.onmyway133.Almighty-setapp	Almighty	1707228222	Is it possible to change the sound of keyboard using this menu?	Yes	yes/no
+com.onmyway133.Almighty-setapp	Almighty	1707228222	On the visible screen, how many toggle buttons are there?	3	number
+com.onmyway133.Almighty-setapp	Almighty	1707228216	How many search bars are on the screen?	1	number
+com.onmyway133.Almighty-setapp	Almighty	1707228216	"Is the selected menu page ""Keyboard""?"	No	yes/no
+com.onmyway133.Almighty-setapp	Almighty	1707228216	On the visible screen, how many toggle buttons are there?	3	number
+com.onmyway133.Almighty-setapp	Almighty	1707228194	How many search bars are on the screen?	1	number
+com.onmyway133.Almighty-setapp	Almighty	1707228194	On the visible screen, how many toggle buttons are there?	2	number
+com.onmyway133.Almighty-setapp	Almighty	1707228177	How many search bars are on the screen?	1	number
+com.onmyway133.Almighty-setapp	Almighty	1707228177	On the visible screen, how many toggle buttons are turned on?	0	number
+com.onmyway133.Almighty-setapp	Almighty	1707228245	How many search bars are on the screen?	1	number
+com.onmyway133.Almighty-setapp	Almighty	1707228245	Is it possible to change screenshot location using this menu?	Yes	yes/no
+com.onmyway133.Almighty-setapp	Almighty	1707228256	Where should I click to Clear componenents on the System Clipboard?	[(1344, 670), (1408, 714)]	coordinates
+com.onmyway133.Almighty-setapp	Almighty	1707228222	Where should I click to Lock Keyboard?	[(1336, 414), (1412, 458)]	coordinates
+com.onmyway133.Almighty-setapp	Almighty	1707228177	Where should I click to Add a Quit option to Finder menu?	[(1336, 162), (1412, 206)]	coordinates
+com.apple.appstore	AppStore	1707173654	Where should I click to see all Mac Favourites?	[(2170, 1286), (2280, 1324)]	coordinates
+com.apple.appstore	AppStore	1707174097	What is the price of the app 'Final Draft 13'?	199.99	number
+com.apple.appstore	AppStore	1707174097	How many app icons are on the screen?	4	number
+com.apple.appstore	AppStore	1707173654	What is the price of Pixelmator Pro displayed on the screen?	49.99	number
+com.apple.appstore	AppStore	1707173654	How many categories are listed in the sidebar menu?	8	number
+com.apple.appstore	AppStore	1707174122	How many updates are indicated in the sidebar menu?	5	number
+com.apple.appstore	AppStore	1707174122	What is the price of 'Things 3' in the Editors' Choice?	49.99	number
+com.apple.appstore	AppStore	1707174097	What is the name of the current tab?	Create	string
+com.apple.appstore	AppStore	1707174130	How many updates are available on the screen?	5	number
+com.apple.appstore	AppStore	1707174073	How many top arcade games are presented on the screen?	4	number
+com.apple.appstore	AppStore	1707174073	What's the name of the sidebar page that is selected?	Arcade	string
+com.apple.appstore	AppStore	1707174073	How many categories are listed in the sidebar menu?	8	number
+com.apple.appstore	AppStore	1707174122	How many categories are listed in the 'Categories' section?	21	number
+com.apple.appstore	AppStore	1707174130	Where should I click to update all applications?	[(2120, 154), (2280, 192)]	coordinates
+com.apple.appstore	AppStore	1707174130	I want to use a search bar, where should I click?	[(80, 104), (368, 160)]	coordinates
+com.surteesstudios.Bartender-setapp	Bartender	1707227556	How many toggle buttons are turned off on the visible screen?	6	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227556	"Is the selected menu page ""Menu Bar Items""?"	No	yes/no
+com.surteesstudios.Bartender-setapp	Bartender	1707227543	How many toggle buttons are there on the visible part of the screen?	0	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227543	"Is the selected menu page ""Menu Bar Items""?"	Yes	yes/no
+com.surteesstudios.Bartender-setapp	Bartender	1707227479	How many toggle buttons are there on the visible part of the screen?	10	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227479	What is the numeric value selected on the slider of seconds of delay before showing on hover?	0.2	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227543	How many buttons (not including menu buttons) are on the screen?	0	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227575	How many toggle buttons are turned on, on the visible screen?	1	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227583	"Is the selected menu page ""Advanced""?"	No	yes/no
+com.surteesstudios.Bartender-setapp	Bartender	1707227575	"Is the selected menu page ""Triggers""?"	Yes	yes/no
+com.surteesstudios.Bartender-setapp	Bartender	1707227583	How many ACTIVE buttons (excluding toolbar menu buttons) are there on the screen?	1	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227591	How many toggle buttons are turned on?	3	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227591	How many sliders are visible on the screen?	1	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227591	What is the numeric value selected on the slider of seconds of delay before hiding temporarily shown menu bar items?	15	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227599	How many sliders are visible on the screen?	0	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227599	How many buttons (excluding toolbar menu buttons) are there on the screen?	5	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227599	"Is the selected menu page ""About""?"	Yes	yes/no
+com.surteesstudios.Bartender-setapp	Bartender	1707227424	Where should I click to Quit Bartender?	[(26, 1322), (272, 1386)]	coordinates
+com.surteesstudios.Bartender-setapp	Bartender	1707227583	Where do I click to Add menu bar item hot key?	[(1382, 1030), (1776, 1094)]	coordinates
+com.surteesstudios.Bartender-setapp	Bartender	1707227479	How many sliders are visible on the screen?	1	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227575	"Is the ""Show Wi-Fi when Wi-Fi condition met"" trigger active?"	No	yes/no
+com.surteesstudios.Bartender-setapp	Bartender	1707227556	Where should I click to Reset menu bar?	[(510, 1012), (764, 1092)]	coordinates
+com.surteesstudios.Bartender-setapp	Bartender	1707227424	How many toggle buttons are there on the screen?	1	number
+com.surteesstudios.Bartender-setapp	Bartender	1707227424	How many buttons (not including toggle buttons) are on the screen?	7	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235174	How many checkboxes are checked on the visible screen?	1	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235260	How many checkboxes are checked on the visible screen?	6	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235260	What is the free space after ESC button (in px)?	10	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235260	"Is the current selected sidebar page ""Touch Bar""?"	Yes	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235049	"Where should I click to click on ""Configure Move / Resize"" button?"	[(1308, 496), (1762, 560)]	coordinates
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235024	"Where should I click to click on ""Select Trigger"" button?"	[(1320, 230), (1762, 294)]	coordinates
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235279	How many sliders are visible on the screen?	0	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235279	How many checkboxes are checked on the visible screen?	12	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235279	"Is the current selected menubar item ""Snapping""?"	Yes	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235174	How many checkboxes are there on the visible screen?	3	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235174	How many sliders are visible on the screen?	4	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235133	How many checkboxes are there on the visible screen?	6	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235133	Is the current menu responsible for mouse triggers?	Yes	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235011	How many checkboxes are visible on the screen?	8	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235011	How many checkboxes are checked on the visible screen?	0	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235024	Is the screen responsible for creating trigger pipeline for a Computer Mouse?	No	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235024	Is the screen responsible for creating trigger pipeline for a Touch Bar?	Yes	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235049	"Is the selected action ""Custom Move / Resize Window""?"	Yes	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235011	"Is the selected app ""Finder""?"	Yes	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235049	"Is the selected preset ""Touch Bar""?"	No	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235097	How many checkboxes are unchecked on the visible screen?	6	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235097	How many checkboxes are checked on the visible screen?	1	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235097	"Is the current selected trigger ""Brightness Slider Widget""?"	No	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235133	Are notes shown instead of description?	No	yes/no
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235072	How many checkboxes are checked on the visible screen?	3	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235072	What is the Widget Width (in px)?	200	number
+com.hegenberg.bettertouchtool-setapp	Bettertouchtool	1707235072	What is the value of Trigger after sliding (in %)?	0	number
+com.hogbaysoftware.Bike-setapp	Bike	1707240207	"Does ""Click"" open in a current window?"	Yes	yes/no
+com.hogbaysoftware.Bike-setapp	Bike	1707240233	How many buttons (excluding menubar buttons) are there on the screen?	3	number
+com.hogbaysoftware.Bike-setapp	Bike	1707240226	Are smart dashes used in formatting?	Yes	yes/no
+com.hogbaysoftware.Bike-setapp	Bike	1707240226	"Is the selected menubar page ""Autocorrect""?"	Yes	yes/no
+com.hogbaysoftware.Bike-setapp	Bike	1707240226	How many checkboxes are unchecked on the screen?	0	number
+com.hogbaysoftware.Bike-setapp	Bike	1707240217	What is the value of font size (in pt)?	14	number
+com.hogbaysoftware.Bike-setapp	Bike	1707240217	How many slider are visible on the screen?	4	number
+com.hogbaysoftware.Bike-setapp	Bike	1707240217	How many checkboxes are checked on the screen?	3	number
+com.hogbaysoftware.Bike-setapp	Bike	1707240207	"Does ""⌘-Click"" open in a current window?"	No	yes/no
+com.hogbaysoftware.Bike-setapp	Bike	1707240200	"Is the selected menubar page ""General""?"	No	yes/no
+com.hogbaysoftware.Bike-setapp	Bike	1707240200	How many checkboxes are checked on the screen?	1	number
+com.hogbaysoftware.Bike-setapp	Bike	1707240200	Does the application close documents when Bike is quit?	No	yes/no
+com.hogbaysoftware.Bike-setapp	Bike	1707240192	How many options for appearance are there?	3	number
+com.hogbaysoftware.Bike-setapp	Bike	1707240192	"Is the selected menubar page ""General""?"	Yes	yes/no
+com.hogbaysoftware.Bike-setapp	Bike	1707240192	"Is the selected appearance ""Light""?"	No	yes/no
+com.hogbaysoftware.Bike-setapp	Bike	1707240233	"Is the selected menubar page ""General""?"	No	yes/no
+com.hogbaysoftware.Bike-setapp	Bike	1707240207	How many checkboxes are checked on the screen?	1	number
+com.hogbaysoftware.Bike-setapp	Bike	1707240233	How many ACTIVE buttons (excluding menubar buttons) are there on the screen?	2	number
+com.apple.iBooksX	Books	1707082803	Is the searchbar currently selected?	Yes	yes/no
+com.apple.iBooksX	Books	1707082815	What is the title of the book on the screen?	The Fellowship of the Ring	string
+com.apple.iBooksX	Books	1707082754	What is the name of the account?	Mariya Hirna	string
+com.apple.iBooksX	Books	1707082815	What is the price of displayed book?	14.99	number
+com.apple.iBooksX	Books	1707082803	How many suggestions for the query are provided?	4	number
+com.apple.iBooksX	Books	1707082803	What is the price of the first book in Top Results?	14.99	number
+com.apple.iBooksX	Books	1707082692	What is the name of current tab on the screen?	Read Now	string
+com.apple.iBooksX	Books	1707082692	How many Special Offers & Free books are suggested?	6	number
+com.apple.iBooksX	Books	1707082731	How many limited-time offers are displayed?	2	number
+com.apple.iBooksX	Books	1707082692	I want to the books i finished, where should I click?	[(20, 606), (380, 662)]	coordinates
+com.apple.iBooksX	Books	1707082754	I want to add new collection, where should I click?	[(20, 958), (380, 1014)]	coordinates
+com.apple.iBooksX	Books	1707082731	How many sections are the in the sidebar menu?	3	number
+com.apple.iBooksX	Books	1707082815	What is typed in the searchbar on the screen?	lord of the rings	string
+com.apple.iBooksX	Books	1707082731	What is the title of this screen?	Audiobook Store	string
+com.apple.iBooksX	Books	1707082754	How many books are there on the screen?	8	number
+com.apple.iCal	Calendar	1707174386	Where should I click to add an event?	[(286, 0), (378, 76)]	coordinates
+com.apple.iCal	Calendar	1707174386	"Where should I click to change the layout to ""Month""?"	[(936, 14), (1066, 64)]	coordinates
+com.apple.iCal	Calendar	1707174363	How many checkboxes are checked on the screen?	4	number
+com.apple.iCal	Calendar	1707174363	Is today the 6th of January?	No	yes/no
+com.apple.iCal	Calendar	1707174363	"Is the selected calendar layout ""Day""?"	No	yes/no
+com.apple.iCal	Calendar	1707174386	"Is the selected calendar layout ""Week""?"	Yes	yes/no
+com.apple.iCal	Calendar	1707174410	How many search bars are on the screen?	1	number
+com.apple.iCal	Calendar	1707174410	What is the name of the event created?	New Event	string
+com.apple.iCal	Calendar	1707174410	What is the duration of a created event (in hours)?	2	number
+com.mailrtech.canarymail-setapp	Canary Mail	1707211164	Where should I click to continue?	[(100, 1098), (652, 1198)]	coordinates
+com.mailrtech.canarymail-setapp	Canary Mail	1707211183	Where do I click to go to the next page?	[(552, 1098), (652, 1198)]	coordinates
+com.mailrtech.canarymail-setapp	Canary Mail	1707211212	How many text input fields are on the screen?	0	number
+com.mailrtech.canarymail-setapp	Canary Mail	1707211212	How many checkboxes are visible on the screen?	0	number
+com.mailrtech.canarymail-setapp	Canary Mail	1707211164	How many buttons are there on the screen?	3	number
+com.mailrtech.canarymail-setapp	Canary Mail	1707211212	How many sliders are visible on the screen?	0	number
+com.mailrtech.canarymail-setapp	Canary Mail	1707211183	"Is the selected prompt option ""Email boss, say I quit. Make it funny.""?"	No	yes/no
+com.mailrtech.canarymail-setapp	Canary Mail	1707211164	How many checkboxes are checked on the screen?	0	number
+com.mailrtech.canarymail-setapp	Canary Mail	1707211183	How many text input fields are on the screen?	1	number
+com.google.Chrome	Chrome	1707230671	How many toggle buttons are there on the visible screen?	1	number
+com.google.Chrome	Chrome	1707230679	How many toggle buttons are turned on, on the visible screen?	1	number
+com.google.Chrome	Chrome	1707230679	How many toggle buttons are turned off, on the visible screen?	1	number
+com.google.Chrome	Chrome	1707230679	Is energy saver turned on when the battery is at 20% or lower?	Yes	yes/no
+com.google.Chrome	Chrome	1707230659	Is the enhanced spell check selected?	No	yes/no
+com.google.Chrome	Chrome	1707230706	"Is the current selected menu item ""Accessibility""?"	Yes	yes/no
+com.google.Chrome	Chrome	1707230706	How many toggle buttons are there on the screen?	3	number
+com.google.Chrome	Chrome	1707230621	How many theme colour options are on the screen?	15	number
+com.google.Chrome	Chrome	1707230621	"Is the current selected menu item ""You and Google""?"	Yes	yes/no
+com.google.Chrome	Chrome	1707230659	How many toggle buttons are turned on, on the visible screen?	1	number
+com.google.Chrome	Chrome	1707230671	"Is the current selected menu item ""System""?"	Yes	yes/no
+com.google.Chrome	Chrome	1707230588	Where do I click to go to the previous page?	[(10, 92), (78, 160)]	coordinates
+com.google.Chrome	Chrome	1707230706	How many toggle buttons are turned off, on the visible screen?	3	number
+com.google.Chrome	Chrome	1707230561	Where do I click to reject all cookies?	[(1380, 1416), (1560, 1488)]	coordinates
+com.google.Chrome	Chrome	1707230392	How many text input fields are on the screen?	2	number
+com.google.Chrome	Chrome	1707230392	Is it possible to go to a Google Drive bookmark using this screen?	No	yes/no
+com.google.Chrome	Chrome	1707230392	How many checkboxes are visible on the screen?	0	number
+com.google.Chrome	Chrome	1707230455	How many text input fields are on the screen?	2	number
+com.google.Chrome	Chrome	1707230514	How many tabs are open in Chrome?	2	number
+com.google.Chrome	Chrome	1707230671	How many toggle buttons are turned on, on the visible screen?	0	number
+com.google.Chrome	Chrome	1707230659	"Is the current selected menu item ""You and Google""?"	No	yes/no
+com.google.Chrome	Chrome	1707230621	Where do I click to change the theme colour to orange?	[(1258, 994), (1422, 1156)]	coordinates
+com.google.Chrome	Chrome	1707230514	How many text input fields are on the screen?	2	number
+com.google.Chrome	Chrome	1707230561	Is the selected tab Youtube?	Yes	yes/no
+com.google.Chrome	Chrome	1707230588	Where do I click to create a new tab?	[(1136, 0), (1192, 82)]	coordinates
+com.google.Chrome	Chrome	1707230514	"Is the selected tab on ""What's new in Chrome""?"	No	yes/no
+com.google.Chrome	Chrome	1707230541	Where do I click to close this tab?	[(1064, 12), (1120, 68)]	coordinates
+com.google.Chrome	Chrome	1707230455	Where do I click to search for images?	[(2176, 282), (2262, 330)]	coordinates
+com.google.Chrome	Chrome	1707230455	Where do I click to customise Chrome?	[(2026, 1536), (2368, 1600)]	coordinates
+com.google.Chrome	Chrome	1707230561	What is the url address of this tab?	youtube.com	string
+com.google.Chrome	Chrome	1707230541	How many checkboxes are visible on the screen?	0	number
+com.google.Chrome	Chrome	1707230541	"Is the selected tab on ""miyazaki hayao""?"	Yes	yes/no
+com.google.Chrome	Chrome	1707230588	Is there a settings icon on the page?	Yes	yes/no
+com.littlefin.chroniclemac-setapp	Chronicle	1707169173	How many sections are there in the sidebar menu in the background?	2	number
+com.littlefin.chroniclemac-setapp	Chronicle	1707169173	What is the amount due for the Internet bill as shown on the screen in UAH?	270	number
+com.littlefin.chroniclemac-setapp	Chronicle	1707169173	What is the title of displayed bill?	Internet	string
+com.littlefin.chroniclemac-setapp	Chronicle	1707169110	How many buttons are there in the sidebar menu in Bills section?	4	number
+com.littlefin.chroniclemac-setapp	Chronicle	1707169110	What is the title of the current window?	Overview	string
+com.littlefin.chroniclemac-setapp	Chronicle	1707169110	Is the search bar currently selected?	No	yes/no
+com.littlefin.chroniclemac-setapp	Chronicle	1707169240	How many buttons are in sidebar in the reports sections?	5	number
+com.littlefin.chroniclemac-setapp	Chronicle	1707169240	How many buttons are provided in the right bottom of the screen?	2	number
+com.littlefin.chroniclemac-setapp	Chronicle	1707169240	Is there a search bar on the screen?	Yes	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308651	"Is the selected element ""Smart connection""?"	No	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308692	How many country elements are available for selection on the VISIBLE screen?	6	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308706	How many buttons are there on the screen?	6	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308718	How many stream service UI blocks are displayed on the VISIBLE screen?	7	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308718	Is Netflix an option to select on the VISIBLE screen?	No	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308718	Is the VPN connection on?	No	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308692	What's the ping in ms for USA (Chicago)?	147	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308692	Is #TopPrivacy a selected tag?	No	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308679	Does Germany have #RichContent flag?	Yes	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308679	What's the ping in ms for France (Paris)?	31	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308679	What's the ping in ms for Ukraine (Odesa)?	42	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308651	Am I currently located in Ukraine?	No	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081939	How many toggle buttons are on the screen?	0	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081902	How many toggle buttons are turned off?	1	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081939	How many buttons (not including toolbar menu items or close the window button) are there on the screen?	5	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081927	"Is the current toolbar menu page ""Account""?"	No	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081927	How many buttons (not including toolbar menu items or close the window button) are there on the screen?	2	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081916	"Is the current toolbar menu page ""Shortcuts""?"	Yes	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081916	"Is the current toolbar menu page ""Account""?"	No	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081916	How many buttons (not including toolbar menu items or close the window button) are there on the screen?	0	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081902	"Is the current toolbar menu page ""System settings""?"	Yes	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081893	How many search bars are on the screen?	0	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081893	"Is the current toolbar menu page ""Account""?"	No	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081939	How many checkboxes are on the screen?	0	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081902	How many toggle buttons are turned on?	2	number
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308706	Is it possible to connect to Ukraine VPN from this screen?	No	yes/no
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308651	Where should I click to connect to VPN?	[(560, 1128), (1040, 1224)]	coordinates
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081893	Where should I click to close the settings menu?	[(1488, 76), (1552, 140)]	coordinates
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707081927	Where should I click to donate to Ukraine?	[(690, 460), (1010, 524)]	coordinates
+com.macpaw.clearvpn.macos-setapp	ClearVPN	1707308706	Where should I click to change settings?	[(56, 1160), (104, 1208)]	coordinates
+com.apple.clock	Clock	1707172767	Where to click to stop the watch?	[(1032, 1368), (1356, 1448)]	coordinates
+com.apple.clock	Clock	1707172625	I want to add a clock, where should I click?	[(1960, 0), (2032, 104)]	coordinates
+com.apple.clock	Clock	1707172693	"Where is ""Save"" button located?"	[(1212, 1028), (1364, 1092)]	coordinates
+com.apple.clock	Clock	1707172767	How many seconds has the stopwatch been running?	6.38	number
+com.apple.clock	Clock	1707172625	"Is the displayed city ""London""?"	Yes	yes/no
+com.apple.clock	Clock	1707172625	How many radio buttons are on the screen?	4	number
+com.apple.clock	Clock	1707172693	"Is there a ""Cancel"" button on the screen?"	Yes	yes/no
+com.apple.clock	Clock	1707172693	How many checkboxes are there on the screen?	1	number
+com.apple.clock	Clock	1707172767	How many buttons are in the bottom of the screen?	2	number
+com.lukilabs.lukiapp-setapp	Craft	1707210383	How many templates are displayed on the screen?	10	number
+com.lukilabs.lukiapp-setapp	Craft	1707210293	What is the name of the first displayed document?	Essay Practice	string
+com.lukilabs.lukiapp-setapp	Craft	1707210293	What is the name of the space in the screen?	Yelyzaveta's Space	string
+com.lukilabs.lukiapp-setapp	Craft	1707210293	How many folders are there in the sidebar menu?	5	number
+com.lukilabs.lukiapp-setapp	Craft	1707210383	Is there a search field on the screen?	Yes	yes/no
+com.lukilabs.lukiapp-setapp	Craft	1707210383	What is the name of the first template in the 'Craft for Self-Improvement' section?	Bullet Journal	string
+com.lukilabs.lukiapp-setapp	Craft	1707210355	Which month is today according to the screen?	February	string
+com.lukilabs.lukiapp-setapp	Craft	1707210368	How many buttons are there in the top right card?	6	number
+com.lukilabs.lukiapp-setapp	Craft	1707210333	What is the name of the selected sidebar item?	My Templates	string
+com.lukilabs.lukiapp-setapp	Craft	1707210368	Is there a search bar on the screen?	Yes	yes/no
+com.lukilabs.lukiapp-setapp	Craft	1707210368	Is a search bar currently selected?	No	yes/no
+com.lukilabs.lukiapp-setapp	Craft	1707210333	I want to see notes I removed lately, where should I click?	[(128, 1086), (500, 1150)]	coordinates
+com.lukilabs.lukiapp-setapp	Craft	1707210355	What is the title of the current open tab?	How to use Craft	string
+com.lukilabs.lukiapp-setapp	Craft	1707210333	How many tables above the folders section are listed in the sidebar menu?	5	number
+com.lukilabs.lukiapp-setapp	Craft	1707210355	How many documents are displayed?	3	number
+com.kapeli.dash-setapp	Dash	1707235734	Is there a checkbox on the screen?	Yes	yes/no
+com.kapeli.dash-setapp	Dash	1707235822	How many application icons are on the screen?	34	number
+com.kapeli.dash-setapp	Dash	1707235815	How many checkboxes are checked?	2	number
+com.kapeli.dash-setapp	Dash	1707235815	What is the name of the current tab?	Web Search	string
+com.kapeli.dash-setapp	Dash	1707235822	"Is ""RubyMine"" among listed apps?"	Yes	yes/no
+com.kapeli.dash-setapp	Dash	1707235822	"Is ""MonoDevelop"" among listed apps?"	No	yes/no
+com.kapeli.dash-setapp	Dash	1707235734	"How many many ""Download"" buttons are on the screen?"	13	number
+com.kapeli.dash-setapp	Dash	1707235815	How many checkboxes are there on the screen?	3	number
+com.kapeli.dash-setapp	Dash	1707235734	How radio buttons are on the screen?	13	number
+com.kapeli.dash-setapp	Dash	1707235626	How many docsets are listed in the side menu?	11	number
+com.kapeli.dash-setapp	Dash	1707236145	How many functions are listed in Conversions section?	2	number
+com.kapeli.dash-setapp	Dash	1707236145	What text is written in the bottom of the window?	You can modify and improve this cheat sheet 	string
+com.kapeli.dash-setapp	Dash	1707235618	I want to download docsets, where should I click?	[(822, 416), (1182, 776)]	coordinates
+com.kapeli.dash-setapp	Dash	1707236061	How many functions are listed in the sidebar menu?	9	number
+com.kapeli.dash-setapp	Dash	1707236061	What is the first function name?	buildWarpAffineMaps()	string
+com.kapeli.dash-setapp	Dash	1707236061	Is there there a search bar on screen?	Yes	string
+com.kapeli.dash-setapp	Dash	1707235626	How many tabs are visible in the top of the screen?	6	number
+com.kapeli.dash-setapp	Dash	1707235618	How many buttons are there in the top right panel?	4	number
+com.kapeli.dash-setapp	Dash	1707235618	Is something typed in searchbar on the screen?	No	yes/no
+com.kapeli.dash-setapp	Dash	1707235807	How many checkboxes are there on the screen?	9	number
+com.kapeli.dash-setapp	Dash	1707235807	What's the name of the toolbar page that is selected?	Docsets	string
+com.kapeli.dash-setapp	Dash	1707235807	How many checkboxes are selected?	9	number
+com.kapeli.dash-setapp	Dash	1707235626	How many checkboxes are there on the screen?	1	number
+com.kapeli.dash-setapp	Dash	1707235830	What's the name of the toolbar page that is selected?	Snippets	string
+com.kapeli.dash-setapp	Dash	1707235830	How many disabled textfields are on the screen?	4	number
+com.kapeli.dash-setapp	Dash	1707235787	What is the name of the selected sidebar tab?	User Contributed	string
+com.kapeli.dash-setapp	Dash	1707235787	How many search fields can you see?	1	number
+com.kapeli.dash-setapp	Dash	1707235787	How many docsets are listed?	13	number
+com.kapeli.dash-setapp	Dash	1707236105	How many autorization buttons are there in the top right panel?	2	number
+com.kapeli.dash-setapp	Dash	1707236105	What text is written on the button in the screen center?	Sign up to code in Python	string
+com.kapeli.dash-setapp	Dash	1707236105	Is there a searchbar currently selected?	No	yes/no
+com.kapeli.dash-setapp	Dash	1707235830	What is the name of the check button on the screen?	Enable	string
+com.kapeli.dash-setapp	Dash	1707236145	How many categories are listed in the sidebar menu?	3	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210570	How many tabs are there in the left sidebar menu?	6	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210504	How many checked checboxes are on the screen?	4	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210504	Is there an option to import 'Events from Calendar' to the daily prompt selected?	No	yes/no
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210504	How many checkboxes are there on the screen?	6	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210545	How many notes are listed in February 2024?	1	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210545	Is there a sidebar on the screenshot?	Yes	yes/no
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210570	What is the name of the button in bottom left of the screen?	Settings	string
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210545	How many buttons are there in the top right panel?	4	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210570	"How many notes are displayed in ""All Notes"" section?"	1	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210514	What text is written on the button at the bottom of the window?	Continue	string
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210514	Is an to display past memories selected?	No	yes/no
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210492	How many options are there to choose the main purpose of your journal?	6	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210492	Which option is currently selected for the main purpose of the journal?	Reflect and cultivate mental health.	string
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210492	How many purpose options are currently selected?	1	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210622	Is there a search field on the screen?	Yes	yes/no
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210622	According to the screen, how many attachments do I have?	1	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210622	How many words are now in my journal?	518	number
+com.pureformstudio.diaryOSX-setapp	Diarly	1707210514	How many checkboxes are there on the screen?	2	number
+com.dueapps.duemac-setapp	Due	1707213342	How many buttons are there in the sidebar menu?	3	number
+com.dueapps.duemac-setapp	Due	1707213342	How many images are there on this screen?	1	number
+com.dueapps.duemac-setapp	Due	1707213342	Is the searchbar currently selected?	No	yes/no
+com.dueapps.duemac-setapp	Due	1707213324	According to the screen, arethe notifications turned on?	No	yes/no
+com.dueapps.duemac-setapp	Due	1707213324	How many buttons except sidebar menu are on the screen?	1	number
+com.dueapps.duemac-setapp	Due	1707213324	What is the name of selected sidebar tab?	Logbook	string
+com.dueapps.duemac-setapp	Due	1707213295	How many buttons are there in the sidebar menu?	5	number
+com.dueapps.duemac-setapp	Due	1707213295	How many checkboxes are there on the screen?	0	number
+com.dueapps.duemac-setapp	Due	1707213295	What is the name of selected sidebar tab?	Reminders	string
+com.kamban.elephas-setapp	Elelphas	1707210149	Is the length of a video on the screen larger than 4 minutes?	No	yes/no
+com.kamban.elephas-setapp	Elelphas	1707210149	Is there a stop button on the screen?	No	yes/no
+com.kamban.elephas-setapp	Elelphas	1707210133	Does Elephas require additional permissions?	Yes	yes/no
+com.kamban.elephas-setapp	Elelphas	1707210133	How many checkboxes are there on the screen?	0	number
+com.kamban.elephas-setapp	Elelphas	1707210149	Is there a play button on the screen?	Yes	yes/no
+com.kamban.elephas-setapp	Elelphas	1707210133	How many buttons are there on the screen?	3	number
+com.pixyzehn.Expenses-setapp	Expenses	1707168816	How many search bars are on the screen?	1	number
+com.pixyzehn.Expenses-setapp	Expenses	1707168706	Is there a settings icon on the page?	Yes	yes/no
+com.pixyzehn.Expenses-setapp	Expenses	1707168706	How many search bars are on the screen?	1	number
+com.pixyzehn.Expenses-setapp	Expenses	1707168769	How many checkboxes are on the screen?	2	number
+com.pixyzehn.Expenses-setapp	Expenses	1707168769	What is the selected currency? Provide three letter abbreviation.	UAH	string
+com.pixyzehn.Expenses-setapp	Expenses	1707168769	How many checkboxes are checked on the screen?	2	number
+com.pixyzehn.Expenses-setapp	Expenses	1707168816	Is it possible to change the currency from UAH to ANG using this screen?	Yes	yes/no
+com.pixyzehn.Expenses-setapp	Expenses	1707168849	Is there a selected category?	No	yes/no
+com.pixyzehn.Expenses-setapp	Expenses	1707168849	What is the selected currency? Provide three letter abbreviation.	USD	string
+com.pixyzehn.Expenses-setapp	Expenses	1707168706	Where do I click to create a new sheet?	[(32, 1482), (194, 1514)]	coordinates
+com.pixyzehn.Expenses-setapp	Expenses	1707168816	Where should I click to change the currency to ANG?	[(484, 1104), (1564, 1190)]	coordinates
+com.pixyzehn.Expenses-setapp	Expenses	1707168877	Where should I click to add a new category?	[(484, 1354), (708, 1388)]	coordinates
+com.pixyzehn.Expenses-setapp	Expenses	1707168943	Where should I click to set a custom repeat pattern?	[(484, 966), (1564, 1030)]	coordinates
+com.pixyzehn.Expenses-setapp	Expenses	1707168988	Where should I click to export the expenses?	[(484, 570), (1564, 630)]	coordinates
+com.pixyzehn.Expenses-setapp	Expenses	1707168988	How many checkboxes are unchecked on the screen?	0	number
+com.pixyzehn.Expenses-setapp	Expenses	1707168849	What month is selected in date? (provide numeric answer given DD.MM.YYYY notation)	2	number
+com.pixyzehn.Expenses-setapp	Expenses	1707168988	How many checkboxes are checked on the screen?	2	number
+com.pixyzehn.Expenses-setapp	Expenses	1707168943	Does the expense repeat?	No	yes/no
+com.pixyzehn.Expenses-setapp	Expenses	1707168901	Is there an option to create a yellow category?	Yes	yes/no
+com.pixyzehn.Expenses-setapp	Expenses	1707168901	"Is the selected tab ""Income""?"	No	yes/no
+com.pixyzehn.Expenses-setapp	Expenses	1707168901	Is it possible to set a custom color for the category?	Yes	yes/no
+com.pixyzehn.Expenses-setapp	Expenses	1707168877	How many search bars are on the screen?	1	number
+com.pixyzehn.Expenses-setapp	Expenses	1707168877	Is the selected category Groceries?	No	yes/no
+com.pixyzehn.Expenses-setapp	Expenses	1707168943	How many checkboxes are checked on the screen?	1	number
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229152	Where should I click to refresh GIF selection?	[(1224, 284), (1264, 324)]	coordinates
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229072	Where should I click to import media from iOS?	[(940, 770), (1132, 890)]	coordinates
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229105	Where should I click to add fading zoom in effect for text?	[(1160, 462), (1360, 570)]	coordinates
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229060	Where should I click to open the project?	[(60, 240), (320, 292)]	coordinates
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229060	How many search bars are on the screen?	1	number
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229187	What is current sample rate?	44100	number
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229072	"Is the current selected top toolbar item ""Media""?"	Yes	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229072	"Is the current selected sidebar item ""Favorite""?"	No	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229105	"Is the current selected top toolbar item ""Media""?"	No	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229105	"Is the current selected top toolbar item ""Resources""?"	Yes	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229116	"Is the current selected top toolbar item ""Effects""?"	Yes	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229116	"Is the current selected sidebar item ""Animation""?"	No	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229116	Is there a Splash effect on the screen?	No	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229152	"Is the current selected top toolbar item ""Resources""?"	Yes	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229152	"Is the current selected sidebar item ""Picture""?"	No	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229160	"Is the current selected top toolbar item ""Resources""?"	Yes	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229160	"Is the current selected sidebar item ""Text""?"	No	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229160	"Is the current selected sidebar item ""Unsplash""?"	Yes	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229187	How many sliders are there on the screen?	1	number
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229060	Is the logo located below the open project button?	No	yes/no
+com.PDFTechnologies.FilmageEditor-setapp	Filmage Editor	1707229187	What's the selected screen ratio? Provide answer in XX:Y format	16:9	string
+com.apple.garageband10	GarageBand	1707175615	"Is the selected key signature for Songwriter template ""C""?"	Yes	yes/no
+com.apple.garageband10	GarageBand	1707175387	Is the audio recording using microphone selected as a track type?	Yes	yes/no
+com.apple.garageband10	GarageBand	1707175575	Is the Chord Trainer selected?	No	yes/no
+com.apple.garageband10	GarageBand	1707175575	Is Intro to Guitar selected?	Yes	yes/no
+com.apple.garageband10	GarageBand	1707175589	How many lessons are there in classical piano series?	4	number
+com.apple.garageband10	GarageBand	1707175589	How many checkboxes are there on the screen?	0	number
+com.apple.garageband10	GarageBand	1707175589	"Is the current selected sidebar menu item ""New Project""?"	No	yes/no
+com.apple.garageband10	GarageBand	1707175615	What is the selected tempo for SongWriter template?	96	number
+com.apple.garageband10	GarageBand	1707175575	Where do I click to learn piano?	[(1168, 92), (1368, 140)]	coordinates
+com.apple.garageband10	GarageBand	1707175368	Where should I click to Play?	[(1000, 74), (1074, 134)]	coordinates
+com.apple.garageband10	GarageBand	1707175387	Is the Software Instrument selected as a track type?	No	yes/no
+com.apple.garageband10	GarageBand	1707175615	"Is the selected key for Songwriter template ""Minor""?"	No	yes/no
+com.apple.garageband10	GarageBand	1707175368	What's the selected tempo? Provide a numeric answer.	120	number
+com.apple.garageband10	GarageBand	1707175368	Is the loop menu open?	Yes	yes/no
+com.apple.garageband10	GarageBand	1707175387	How many checkboxes are ticked on the TOP screen?	0	number
+com.macpaw.Gemini-setapp	Gemini	1707169940	How many search bars are on the screen?	0	number
+com.macpaw.Gemini-setapp	Gemini	1707169977	"Is the app scanning the ""Downloads"" folder?"	No	yes/no
+com.macpaw.Gemini-setapp	Gemini	1707170221	How many MB of duplicates were removed? Provide an integer only answer.	1	number
+com.macpaw.Gemini-setapp	Gemini	1707170197	"Is the image ""IMG_8660.JPG"" selected?"	No	yes/no
+com.macpaw.Gemini-setapp	Gemini	1707170197	How many checkboxes are unchecked on the screen?	1	number
+com.macpaw.Gemini-setapp	Gemini	1707170197	How many checkboxes are checked on the screen?	2	number
+com.macpaw.Gemini-setapp	Gemini	1707170014	Can you select automatically to delete duplicates?	No	yes/no
+com.macpaw.Gemini-setapp	Gemini	1707170014	How many buttons are on the screen?	3	number
+com.macpaw.Gemini-setapp	Gemini	1707170014	How many MB of duplicates were found in Projects folder? Provide an integer only answer.	292	number
+com.macpaw.Gemini-setapp	Gemini	1707169977	"Is the app scanning the ""Projects"" folder?"	Yes	yes/no
+com.macpaw.Gemini-setapp	Gemini	1707170221	How many buttons are there on the screen?	5	number
+com.macpaw.Gemini-setapp	Gemini	1707170221	How many checkboxes are there on the screen?	0	number
+com.macpaw.Gemini-setapp	Gemini	1707169949	"Can you locate ""Stop"" button on the screen?"	Yes	yes/no
+com.macpaw.Gemini-setapp	Gemini	1707169949	"Can you locate ""Play"" button on the screen?"	No	yes/no
+com.macpaw.Gemini-setapp	Gemini	1707169949	How many buttons are on the screen?	2	number
+com.macpaw.Gemini-setapp	Gemini	1707169940	How many checkboxes are checked on the screen?	0	number
+com.macpaw.Gemini-setapp	Gemini	1707169940	Is the color of the button to scan for duplicates green?	Yes	yes/no
+com.macpaw.Gemini-setapp	Gemini	1707169977	How many GB of files was found? Provide an integer.	4	number
+com.neededapps.gluemotion-setapp	GlueMotion	1707240028	Where should I click to continue?	[(1588, 1508), (2332, 1588)]	coordinates
+com.neededapps.gluemotion-setapp	GlueMotion	1707240040	Is the selected crop freeform?	No	yes/no
+com.neededapps.gluemotion-setapp	GlueMotion	1707240011	How many buttons are there on the screen?	3	number
+com.neededapps.gluemotion-setapp	GlueMotion	1707240011	How many checkboxes are there on the screen?	0	number
+com.neededapps.gluemotion-setapp	GlueMotion	1707240040	"Is the current top toolbar item ""Transforms""?"	Yes	yes/no
+com.neededapps.gluemotion-setapp	GlueMotion	1707240066	How many passes are selected?	2	number
+com.neededapps.gluemotion-setapp	GlueMotion	1707240066	Is ther a deflickering option selected?	No	yes/no
+com.neededapps.gluemotion-setapp	GlueMotion	1707240066	Is there a blending option selected?	No	yes/no
+com.neededapps.gluemotion-setapp	GlueMotion	1707240076	How many frames per second are selected?	30	number
+com.neededapps.gluemotion-setapp	GlueMotion	1707240076	What is the duration in seconds?	0	number
+com.neededapps.gluemotion-setapp	GlueMotion	1707240085	Is the selected video format MP4?	No	yes/no
+com.neededapps.gluemotion-setapp	GlueMotion	1707240028	"Is the current top toolbar item ""Frames""?"	Yes	yes/no
+com.neededapps.gluemotion-setapp	GlueMotion	1707240085	Is the selected background black?	Yes	yes/no
+com.neededapps.gluemotion-setapp	GlueMotion	1707240076	Where do I click to generate the preview?	[(588, 702), (948, 752)]	coordinates
+com.neededapps.gluemotion-setapp	GlueMotion	1707240040	Where do I click to press play?	[(160, 1378), (212, 1416)]	coordinates
+com.neededapps.gluemotion-setapp	GlueMotion	1707240028	How many frames are being imported?	2	number
+com.neededapps.gluemotion-setapp	GlueMotion	1707240011	How many search bars are there on the screen?	0	number
+com.neededapps.gluemotion-setapp	GlueMotion	1707240085	"Is the selected option for aspect ""Keep the original resolution""?"	No	yes/no
+com.hahainteractive.GoodTask-setapp	GoodTask	1707213983	How many buttons are there on the screen?	2	number
+com.hahainteractive.GoodTask-setapp	GoodTask	1707213983	Can you go to the next page using the functionality on the screen?	Yes	yes/no
+com.hahainteractive.GoodTask-setapp	GoodTask	1707214026	Where do I click to see recent reminders?	[(32, 396), (528, 446)]	coordinates
+com.hahainteractive.GoodTask-setapp	GoodTask	1707213983	Can you create a task using the functionality on the screen?	No	yes/no
+com.hahainteractive.GoodTask-setapp	GoodTask	1707213995	Can you go to the next page using the functionality on the screen?	Yes	yes/no
+com.hahainteractive.GoodTask-setapp	GoodTask	1707213995	Can you go to the previous page using the functionality on the screen?	Yes	yes/no
+com.hahainteractive.GoodTask-setapp	GoodTask	1707214100	How many recent reminders are there?	2	number
+com.hahainteractive.GoodTask-setapp	GoodTask	1707214004	How many buttons are there on the screen?	4	number
+com.hahainteractive.GoodTask-setapp	GoodTask	1707214004	Can you go to the previous page using the functionality on the screen?	Yes	yes/no
+com.hahainteractive.GoodTask-setapp	GoodTask	1707214004	Can you go to the next page using the functionality on the screen?	No	yes/no
+com.hahainteractive.GoodTask-setapp	GoodTask	1707214026	How many overdue reminders are there?	1	number
+com.hahainteractive.GoodTask-setapp	GoodTask	1707214026	"Is the selected sidebar menu item ""All Lists""?"	Yes	yes/no
+com.hahainteractive.GoodTask-setapp	GoodTask	1707214100	How many reminders are there?	2	number
+com.hahainteractive.GoodTask-setapp	GoodTask	1707214100	How many high priority reminders are there?	0	number
+com.hahainteractive.GoodTask-setapp	GoodTask	1707213995	How many buttons are there on the screen?	2	number
+com.apple.Maps	Maps	1707083131	What is the website of the Ukrainian Catholic University?	ucu.edu.ua	string
+com.apple.Maps	Maps	1707083089	How many buttons are there in the top right panel?	8	number
+com.apple.Maps	Maps	1707083174	How many transport options are provided in the top right?	4	number
+com.apple.Maps	Maps	1707083174	"Is there a ""Quit"" button on the screen?"	No	yes/no
+com.apple.Maps	Maps	1707083131	I want to discard recent searches, where should I click?	[(32, 544), (178, 592)]	coordinates
+com.apple.Maps	Maps	1707083089	How many places are added to Favourites?	2	number
+com.apple.Maps	Maps	1707083174	I want to add one more stop, where should I click?	[(1490, 338), (1990, 394)]	coordinates
+com.apple.Maps	Maps	1707083089	I want search for a place, where should i click?	[(30, 74), (534, 134)]	coordinates
+com.apple.Maps	Maps	1707083131	What is the name of the selected place?	Ukrainian Catholic University	string
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169473	Is the selected folder Root?	Yes	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169495	How many notebooks are there on the screen?	1	number
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169495	"Is the selected sidebar menu item ""Study""?"	Yes	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169495	Are the documents sorted by Name?	No	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169504	"Is the selected sidebar menu item ""Study""?"	No	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169504	"Is the selected sidebar menu item ""Review""?"	Yes	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169504	Is there a search icon on the screen?	Yes	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169517	Is it possible to find lost notes?	Yes	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169517	Is it possible to download an item using current screen?	No	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169517	"Is the selected sidebar menu item ""Review""?"	Yes	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169473	"Is the selected sidebar menu item ""Study""?"	No	yes/no
+com.QReader.MarginStudyMac-setapp	Marginnote	1707169473	"Is the selected sidebar menu item ""Document""?"	Yes	yes/no
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242984	Are the options available to select for cost?	Yes	yes/no
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242942	Are the selected initials D.R.?	Yes	yes/no
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242942	Is the person selected overutilised?	No	yes/no
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242942	What's the availability for the project (in %)?	100	number
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242950	"Is the calendar based on ""Standard"" selected?"	Yes	yes/no
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242984	How many options for cost type are available?	4	number
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242984	How many status options are available?	5	number
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242950	"Is the current resource ""Calendar""?"	Yes	yes/no
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242976	How many pounds are available in resources?	1	number
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242976	Is the selected currency British Pound?	Yes	yes/no
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242976	How many hours per week are selected?	40	number
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242959	"Is the current resource ""Tags""?"	Yes	yes/no
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242959	How many checkboxes are checked on the screen?	0	number
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242959	How many checkboxes are there on the screen?	4	number
+net.projectwizards.merlinprojectexpress-setapp	Merlin Project Express	1707242950	"Is the current resource ""List""?"	No	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239205	How many checkboxes are there on the screen?	0	number
+com.mockuuups.studio-setapp	Mockuuups studio	1707239241	How many buttons are there on the TOP window?	2	number
+com.mockuuups.studio-setapp	Mockuuups studio	1707239241	Is the app asking a user to save mockup?	No	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239241	Is the app asking a user to log in?	Yes	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239258	"Is the selected option for photo type ""Portrait""?"	Yes	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239258	Is there an option of a vacation mockup?	Yes	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239258	"Is the selected option for gender ""Male""?"	No	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239192	"Is the selected option in device menu ""Tablets""?"	No	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239192	"Is the selected option in device menu ""Phones""?"	Yes	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239205	Is it possible to remove last change using a button?	Yes	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239192	Are the phones shown iPhones?	No	yes/no
+com.mockuuups.studio-setapp	Mockuuups studio	1707239205	How many buttons are there in top menu for PHONE APPEARANCE settings?	7	number
+com.betamagic.News-Explorer-setapp	News-Explorer	1707239688	What is the title of the displayed card?	Seeking ideas for my final year project [P]	string
+com.betamagic.News-Explorer-setapp	News-Explorer	1707239688	I want to start search, where to click?	[(2228, 12), (2312, 92)]	coordinates
+com.betamagic.News-Explorer-setapp	News-Explorer	1707239447	Where should I click to add the selected RSS feeds to my subscriptions?	[(1480, 1072), (1792, 1136)]	coordinates
+com.betamagic.News-Explorer-setapp	News-Explorer	1707239688	How many buttons are there in the top right panel?	3	number
+com.betamagic.News-Explorer-setapp	News-Explorer	1707239447	How many RSS feed options are presented in the search results?	4	number
+com.betamagic.News-Explorer-setapp	News-Explorer	1707239413	How many tabs are there in the sidebar menu?	3	number
+com.betamagic.News-Explorer-setapp	News-Explorer	1707239413	How many articles are in the latest news?	0	number
+com.betamagic.News-Explorer-setapp	News-Explorer	1707239413	Is there a search bar on the screen?	Yes	yes/no
+com.betamagic.News-Explorer-setapp	News-Explorer	1707239447	What keyword is used in the search bar on the screen?	machine learning	string
+co.noteplan.NotePlan-setapp	NotePlan	1707242545	How many checkboxes are there on the screen?	0	number
+co.noteplan.NotePlan-setapp	NotePlan	1707242529	"Is the selected top toolbar menu ""Calendars""?"	No	yes/no
+co.noteplan.NotePlan-setapp	NotePlan	1707242529	"Is the selected top toolbar menu ""Markdown""?"	Yes	yes/no
+co.noteplan.NotePlan-setapp	NotePlan	1707242529	How many checkboxes are there on the screen?	6	number
+co.noteplan.NotePlan-setapp	NotePlan	1707242545	How many themes are listed on the screen?	6	number
+co.noteplan.NotePlan-setapp	NotePlan	1707242573	"Is the ""Turn Off Sync"" option selected?"	No	yes/no
+co.noteplan.NotePlan-setapp	NotePlan	1707242545	What is the name of selected theme?	Orange	string
+co.noteplan.NotePlan-setapp	NotePlan	1707242499	"Is the name of the project ""Super Project""?"	No	yes/no
+co.noteplan.NotePlan-setapp	NotePlan	1707242573	What is the name of the current selected tab?	Sync	string
+co.noteplan.NotePlan-setapp	NotePlan	1707242499	Is there a button to share a note?	Yes	yes/no
+co.noteplan.NotePlan-setapp	NotePlan	1707242482	"Are the ""Mentions"" selected in the sidebar menu?"	Yes	yes/no
+co.noteplan.NotePlan-setapp	NotePlan	1707242482	How many hashtags are there?	2	number
+co.noteplan.NotePlan-setapp	NotePlan	1707242482	How many mentions are there?	2	number
+co.noteplan.NotePlan-setapp	NotePlan	1707242470	How many checkboxes are there on the screen?	0	number
+co.noteplan.NotePlan-setapp	NotePlan	1707242470	"How many ""Template"" buttons are visible?"	6	number
+co.noteplan.NotePlan-setapp	NotePlan	1707242470	Is this page scrollable?	Yes	yes/no
+co.noteplan.NotePlan-setapp	NotePlan	1707242434	Are calendar notes shown Daily?	Yes	yes/no
+co.noteplan.NotePlan-setapp	NotePlan	1707242434	Is today the 6th of February?	Yes	yes/no
+co.noteplan.NotePlan-setapp	NotePlan	1707242434	Where do I click to insert template?	[(950, 708), (1240, 772)]	coordinates
+co.noteplan.NotePlan-setapp	NotePlan	1707242573	What is the name of the current screen?	Preferences	string
+co.noteplan.NotePlan-setapp	NotePlan	1707242499	Is there a button to delete a note?	No	yes/no
+com.apple.iWork.Numbers	Numbers	1707175049	What is the name of the current selected column?	D	string
+com.apple.iWork.Numbers	Numbers	1707175049	How many columns does the table have?	16	number
+com.apple.iWork.Numbers	Numbers	1707175235	How many columns does the table have?	2	number
+com.apple.iWork.Numbers	Numbers	1707175235	What is the name of the current opened file?	clustered_queries_06.numbers	string
+com.apple.iWork.Numbers	Numbers	1707175049	How many rows does the table have?	37	number
+com.apple.iWork.Numbers	Numbers	1707175235	How to invite someone to collaborate, where to click?	[(1918, 56), (2066, 140)]	coordinates
+com.nikolaeu.numi-setapp	Numi	1707235415	How many buttons are there in the top right panel?	2	number
+com.nikolaeu.numi-setapp	Numi	1707235415	"Is there a ""Save"" button on the screen?"	No	yes/no
+com.nikolaeu.numi-setapp	Numi	1707235443	Is 'Night Mode' currently seleted in the preferences?	Yes	yes/no
+com.nikolaeu.numi-setapp	Numi	1707235443	How many checkboxes are there on the screen?	5	number
+com.nikolaeu.numi-setapp	Numi	1707235443	What is the selected precision value chosen?	2	number
+com.nikolaeu.numi-setapp	Numi	1707235415	What is the title of this screen?	Numi	string
+app.loshadki.OpenIn-setapp	OpenIn	1707239986	How many buttons (excluding toolbar items and checkboxes) are on the screen?	3	number
+app.loshadki.OpenIn-setapp	OpenIn	1707239986	I want to import a backup, where should I click?	[(1440, 418), (1542, 450)]	coordinates
+app.loshadki.OpenIn-setapp	OpenIn	1707239986	Is it possible to create a backup using this page?	Yes	yes/no
+app.loshadki.OpenIn-setapp	OpenIn	1707239972	How many buttons (excluding toolbar items and checkboxes) are on the screen?	4	number
+app.loshadki.OpenIn-setapp	OpenIn	1707239972	"Is the ""tel:// scheme handler"" enabled?"	No	yes/no
+app.loshadki.OpenIn-setapp	OpenIn	1707239965	Is it possible to add another mail application?	Yes	yes/no
+app.loshadki.OpenIn-setapp	OpenIn	1707239972	"Is current open toolbar page ""General""?"	No	yes/no
+app.loshadki.OpenIn-setapp	OpenIn	1707239965	How many mail applications are on the screen?	2	number
+app.loshadki.OpenIn-setapp	OpenIn	1707239910	How many buttons are there on the top screen?	2	number
+app.loshadki.OpenIn-setapp	OpenIn	1707239910	Can the top screen be scrolled?	No	yes/no
+app.loshadki.OpenIn-setapp	OpenIn	1707239965	How many switches/toggle buttons are turned on?	0	number
+app.loshadki.OpenIn-setapp	OpenIn	1707239910	What text is written on the BLUE button?	Close	string
+com.charliemonroe.Permute-setapp	Permute	1707228874	Is this screen scrollable?	No	yes/no
+com.charliemonroe.Permute-setapp	Permute	1707228951	How many conversions have been completed?	24	number
+com.charliemonroe.Permute-setapp	Permute	1707228860	How many audio files are listed in the main window?	1	number
+com.charliemonroe.Permute-setapp	Permute	1707228860	What is the selected audio format?	MP3	string
+com.charliemonroe.Permute-setapp	Permute	1707228794	Can you add a new FILE on this page?	Yes	yes/no
+com.charliemonroe.Permute-setapp	Permute	1707228794	What is the title of this screen?	Permute	string
+com.charliemonroe.Permute-setapp	Permute	1707228794	How many buttons are there in the bottom panel of the screen?	5	number
+com.charliemonroe.Permute-setapp	Permute	1707228951	What is the selected image format?	JPEG	string
+com.charliemonroe.Permute-setapp	Permute	1707228874	Is there a search bar on the screen?	No	yes/no
+com.charliemonroe.Permute-setapp	Permute	1707228874	"Is there a ""Cancel"" button on the screen?"	Yes	yes/no
+com.charliemonroe.Permute-setapp	Permute	1707228951	How many images are FULLY displayed on the screen?	6	number
+com.charliemonroe.Permute-setapp	Permute	1707228860	What is the name of the first listed audio file?	alarm	string
+com.neededapps.photosrevive-setapp	PhotosRevive	1707212776	Is there a search bar on the screen?	No	yes/no
+com.neededapps.photosrevive-setapp	PhotosRevive	1707212776	How many photos are uploaded?	1	number
+com.neededapps.photosrevive-setapp	PhotosRevive	1707212776	How many buttons are there in the right bottom of the screen?	2	number
+com.neededapps.photosrevive-setapp	PhotosRevive	1707212757	How many buttons are there in the top right panel?	1	number
+com.neededapps.photosrevive-setapp	PhotosRevive	1707212757	What is the title of this window?	PHOTOS REVIVE	string
+com.neededapps.photosrevive-setapp	PhotosRevive	1707212757	Can i drop MP4 files to the window?	No	yes/no
+com.apple.podcasts	Podcasts	1707174291	How many Top Episodes are presented on the screen?	4	number
+com.apple.podcasts	Podcasts	1707174276	Is there a searchbar on the screen?	Yes	yes/no
+com.apple.podcasts	Podcasts	1707174291	How many checkboxes are there on the screen?	0	number
+com.apple.podcasts	Podcasts	1707174291	Where should i click to see all podcast categories?	[(1776, 200), (1968, 258)]	coordinates
+com.apple.podcasts	Podcasts	1707174276	I want to see my saved podcasts, where should i click?	[(20, 646), (420, 702)]	coordinates
+com.apple.podcasts	Podcasts	1707174194	I want to listen about sports, where should I click?	[(1264, 272), (1966, 886)]	coordinates
+com.apple.podcasts	Podcasts	1707174194	How many items are listed in the sidebar menu?	9	number
+com.apple.podcasts	Podcasts	1707174276	How many podcasts are suggested to listen?	3	number
+com.apple.podcasts	Podcasts	1707174194	Where is the current selected element located?	[(20, 298), (420, 354)]	coordinates
+de.holtwick.mac.receipts-setapp	Receipts	1707209585	How many selected checkboxes are there on the screen?	11	number
+de.holtwick.mac.receipts-setapp	Receipts	1707209585	Is the 'Reference' column cheked?	No	yes/no
+de.holtwick.mac.receipts-setapp	Receipts	1707209585	Is the 'Note' column cheked?	Yes	yes/no
+de.holtwick.mac.receipts-setapp	Receipts	1707209308	What is the name of the selected sidebar tab?	All	string
+de.holtwick.mac.receipts-setapp	Receipts	1707209308	How many items in categories section in the sidebar are fully visible on the screen?	5	number
+de.holtwick.mac.receipts-setapp	Receipts	1707209308	Is possible to drop the folder to this window?	Yes	yes/no
+com.apple.reminders	Reminders	1707082130	How many buttons are there in the top right panel?	3	number
+com.apple.reminders	Reminders	1707082130	How many radio buttons are on the screen?	8	number
+com.apple.reminders	Reminders	1707082130	What is the name of the last listed reminder?	water plants	string
+com.apple.Safari	Safari	1707176352	How many buttons are there in the top right panel?	3	number
+com.apple.Safari	Safari	1707176352	Is the searchbar currently selected?	No	yes/no
+com.apple.Safari	Safari	1707176352	How many items are listed in favorites?	4	number
+com.apple.Safari	Safari	1707176465	Is there a 'Sign in' button on the screen?	Yes	yes/no
+com.apple.Safari	Safari	1707176465	What text is typed in the searchbar on the screen?	iasa champ	string
+com.apple.Safari	Safari	1707176465	How many total search results were found?	248000	number
+com.philipyoungg.session-setapp	Session	1707170331	How many buttons are on the screen?	2	number
+com.philipyoungg.session-setapp	Session	1707170331	What text is written on the button in the bottom of the window?	Cancel Session	string
+com.philipyoungg.session-setapp	Session	1707170331	What is the text on the top of the screen?	Breathe out	string
+com.philipyoungg.session-setapp	Session	1707170363	How many checkboxes are there on the screen?	4	number
+com.philipyoungg.session-setapp	Session	1707170363	How many checkboxes are checked on the screen?	4	number
+com.philipyoungg.session-setapp	Session	1707170383	How many buttons are there in the sidebar menu?	5	number
+com.philipyoungg.session-setapp	Session	1707170383	What is the title of current session?	work	string
+com.philipyoungg.session-setapp	Session	1707170392	What is the selected category for the session reflection?	General	string
+com.philipyoungg.session-setapp	Session	1707170392	How many emoticon options are there to express your session experience?	3	number
+com.philipyoungg.session-setapp	Session	1707170383	I want to stop the session, where should I click?	[(540, 1240), (1156, 1328)]	coordinates
+com.philipyoungg.session-setapp	Session	1707170363	Where should I click to finish the tutorial?	[(416, 1078), (1280, 1150)]	coordinates
+com.philipyoungg.session-setapp	Session	1707170392	Where should I click to submit the session reflection?	[(608, 1170), (1088, 1242)]	coordinates
+com.setapp.DesktopClient	Setapp	1707127679	What's the name of the toolbar page that is selected?	Favorites	string
+com.setapp.DesktopClient	Setapp	1707127671	What is the name of the first listed app?	PixelSnap	string
+com.setapp.DesktopClient	Setapp	1707127599	What is the name of the application displayed in the main window?	SnapMotion	string
+com.setapp.DesktopClient	Setapp	1707127599	Is there a way to get the iOS version of the application?	Yes	yes/no
+com.setapp.DesktopClient	Setapp	1707127671	How many apps are displayed?	9	number
+com.setapp.DesktopClient	Setapp	1707127679	What to click to go to Collections?	[(88, 422), (232, 454)]	coordinates
+com.setapp.DesktopClient	Setapp	1707127679	How to switch to see newly added apps?	[(1946, 252), (2110, 292)]	coordinates
+com.setapp.DesktopClient	Setapp	1707127599	Where to click to install the app?	[(830, 402), (1050, 454)]	coordinates
+com.setapp.DesktopClient	Setapp	1707127627	Where should I click to start chat with AI Assistant?	[(740, 50), (932, 110)]	coordinates
+com.setapp.DesktopClient	Setapp	1707127671	What is the name of the current selected sidebar tab?	7	number
+com.setapp.DesktopClient	Setapp	1707127627	What is the name of the current selected sidebar tab?	On This Mac	string
+com.setapp.DesktopClient	Setapp	1707127627	How many apps are VISIBLE 'On This Mac' section?	8	number
+com.setapp.DesktopClient	Setapp	1707127693	Is the searchbar currently selected?	No	yes/no
+com.setapp.DesktopClient	Setapp	1707127693	According to the screen, how many notifications i have?	24	number
+com.setapp.DesktopClient	Setapp	1707127693	What is the name of the displayed app?	Clobbr	string
+com.acqualia.soulver-setapp	Soulver	1707236446	What's the name of the toolbar page that is selected?	Calculator	number
+com.acqualia.soulver-setapp	Soulver	1707236376	What is the name of the selected sidebar menu option?	Stocks	string
+com.acqualia.soulver-setapp	Soulver	1707236446	What is the name of the selected sidebar tab?	Global Variables	number
+com.acqualia.soulver-setapp	Soulver	1707236376	Is the 'Automatically fetch prices every hour' option turned on?	Yes	yes/no
+com.acqualia.soulver-setapp	Soulver	1707236340	How many sheets are there in the sidebar menu?	1	number
+com.acqualia.soulver-setapp	Soulver	1707236446	I want to add a new Global Variable, can i do that?	Yes	yes/no
+com.acqualia.soulver-setapp	Soulver	1707236367	How many tabs are visible in the top of the screen?	6	number
+com.acqualia.soulver-setapp	Soulver	1707236367	How many checkboxes are on the screen?	1	number
+com.acqualia.soulver-setapp	Soulver	1707236526	Can you perform currency conversions on this screen?	Yes	yes/no
+com.acqualia.soulver-setapp	Soulver	1707236367	What is the name of the selected sidebar tab?	Regional Settings	string
+com.acqualia.soulver-setapp	Soulver	1707236340	Is there a searchbar on the screen?	No	yes/no
+com.acqualia.soulver-setapp	Soulver	1707236359	How many buttons are there in the sidebar menu?	9	number
+com.acqualia.soulver-setapp	Soulver	1707236359	What is the selected menu page?	Calculator	string
+com.acqualia.soulver-setapp	Soulver	1707236359	Is the 'Convert foreign numbers when pasting' option checked?	No	yes/no
+com.acqualia.soulver-setapp	Soulver	1707236526	How many buttons are in the top right panel?	3	number
+com.acqualia.soulver-setapp	Soulver	1707236376	How many tabs are visible in the top of the screen?	6	number
+com.acqualia.soulver-setapp	Soulver	1707236526	How many conversion calculations are shown on the screen?	5	number
+com.acqualia.soulver-setapp	Soulver	1707236340	Can i create new sheet on this screen?	Yes	yes/no
+com.readdle.SparkDesktop-setapp	Spark	1707176091	How many sidebar menus are on the screen?	2	number
+com.readdle.SparkDesktop-setapp	Spark	1707176034	How many buttons are there in the top right panel?	2	number
+com.readdle.SparkDesktop-setapp	Spark	1707175759	How many emails are received from people?	16	number
+com.readdle.SparkDesktop-setapp	Spark	1707176091	How many unread messages are in the Inbox?	3235	number
+com.readdle.SparkDesktop-setapp	Spark	1707175759	Where should I click to check my inbox?	[(1026, 874), (1280, 950)]	coordinates
+com.readdle.SparkDesktop-setapp	Spark	1707176046	Where should I click to go to Inbox?	[(1212, 1358), (1452, 1434)]	coordinates
+com.readdle.SparkDesktop-setapp	Spark	1707175759	How many buttons are there in the top right panel?	2	number
+com.readdle.SparkDesktop-setapp	Spark	1707176046	How many buttons are there in the sidebar menu?	7	number
+com.readdle.SparkDesktop-setapp	Spark	1707176034	How many drafts are listed?	15	number
+com.readdle.SparkDesktop-setapp	Spark	1707176034	How many drafts are listed for 2020 year?	3	number
+com.readdle.SparkDesktop-setapp	Spark	1707176046	How many images are on the screen?	1	number
+com.readdle.SparkDesktop-setapp	Spark	1707176091	What is the name of the selected tab?	Inbox	string
+com.spotify.client	Spotify	1707229950	What is the author of the song currently playing?	Bo Burnham	string
+com.spotify.client	Spotify	1707229751	How many buttons are there in the top right panel?	3	number
+com.spotify.client	Spotify	1707229751	Is the screen scrollable?	Yes	yes/no
+com.spotify.client	Spotify	1707229819	How many buttons are there in the top right panel?	3	number
+com.spotify.client	Spotify	1707229765	What is typed in the searchbar on the screen?	dakh 	string
+com.spotify.client	Spotify	1707229765	What is the name of the first song in search results?	Rozy	string
+com.spotify.client	Spotify	1707229819	How many songs are in the 'Ogre Vibes > Bad Vibes' playlist are VISIBLE on the screen?	6	number
+com.spotify.client	Spotify	1707229819	What is the name of the third song in the playlist?	I'm A believer	string
+com.spotify.client	Spotify	1707229950	Are there any devices found except current one? 	No	yes/no
+com.spotify.client	Spotify	1707229765	How many songs are listed under the 'Songs' section?	4	number
+com.spotify.client	Spotify	1707229950	What is the name of the name of the second queued song, after the one playing now?	Shit	string
+com.spotify.client	Spotify	1707229751	What is the name of the first listed podcast?	AI HOUSE Podcast	string
+com.spotify.client	Spotify	1707229717	What is the duration of the last listed song in the album?	04:16	string
+com.spotify.client	Spotify	1707229717	What is the title of the album displayed on the screen?	Зелений	string
+com.spotify.client	Spotify	1707229717	How many songs are listed in the album on the screen?	4	number
+com.apple.stocks	Stocks	1707170751	How many stock items are displayed in the sidebar?	8	number
+com.apple.stocks	Stocks	1707170751	According to the screen, what is the price for Apple Inc. stock?	187,68	number
+com.apple.stocks	Stocks	1707170763	Where to click see more finance data from Yahoo?	[(714, 1088), (1168, 1120)]	coordinates
+com.apple.stocks	Stocks	1707170751	According to the screen, has the S&P 500 stock price grown?	No	yes/no
+com.apple.stocks	Stocks	1707170763	What is typed into the search bar?	apple	string
+com.apple.stocks	Stocks	1707170763	How many buttons are there in the top right panel?	2	number
+com.leomehlig.today-setapp	Structured	1707168465	Is it possible to dictate your plans using natural language?	Yes	yes/no
+com.leomehlig.today-setapp	Structured	1707167985	How many radio buttons are on the screen?	2	number
+com.leomehlig.today-setapp	Structured	1707168145	Is it 'OpenDyslexic' font option selected on screen?	No	yes/no
+com.leomehlig.today-setapp	Structured	1707168054	Are notifications and alerts turned on?	No	yes/no
+com.leomehlig.today-setapp	Structured	1707168054	How many setting items are listed on the screen?	8	number
+com.leomehlig.today-setapp	Structured	1707168098	How many buttons are in the app color panel?	5	number
+com.leomehlig.today-setapp	Structured	1707168098	What is the title of the window on the screen?	Appearance	string
+com.leomehlig.today-setapp	Structured	1707168465	What is the name of the first task suggested by assistant?	Wake Up	string
+com.leomehlig.today-setapp	Structured	1707168098	Is the window on the screen scrollable?	Yes	yes/no
+com.leomehlig.today-setapp	Structured	1707168465	"Is the ""Structured Assistant"" labeled to be in its beta version?"	Yes	yes/no
+com.leomehlig.today-setapp	Structured	1707167985	How many buttons are in the right bottom corner of the screen?	1	number
+com.leomehlig.today-setapp	Structured	1707168145	Which background color option currently selected?	System	string
+com.leomehlig.today-setapp	Structured	1707168054	Is this screen scrollable?	Yes	yes/no
+com.leomehlig.today-setapp	Structured	1707168145	How many layout options are available for customization?	3	number
+com.leomehlig.today-setapp	Structured	1707167985	What is the title of the last task in the day on the screen?	Sleep well!	string
+com.mentalfaculty.studies-setapp	Studies	1707242806	What is the title of the current app?	Studies	string
+com.mentalfaculty.studies-setapp	Studies	1707242755	How many images are on the screen?	1	number
+com.mentalfaculty.studies-setapp	Studies	1707242806	How many buttons are on the bottom panel?	5	number
+com.mentalfaculty.studies-setapp	Studies	1707242806	How many buttons are on the top panel?	7	number
+com.mentalfaculty.studies-setapp	Studies	1707242649	Is the searchbar currently selected?	No	yes/no
+com.mentalfaculty.studies-setapp	Studies	1707242755	Is there a checkbox on the screen?	No	yes/no
+com.mentalfaculty.studies-setapp	Studies	1707242688	Where to click to see flagged notes?	[(84, 278), (258, 310)]	coordinates
+com.mentalfaculty.studies-setapp	Studies	1707242688	How many sections are there in the sidebar menu?	3	number
+com.mentalfaculty.studies-setapp	Studies	1707242688	"How many items are in the ""Recent"" sections in the sidebar?"	4	number
+com.mentalfaculty.studies-setapp	Studies	1707242649	What text is displayed on the main window?	No Stack Selected	string
+com.mentalfaculty.studies-setapp	Studies	1707242755	I want to create new stack, where should I click?	[(578, 0), (718, 104)]	coordinates
+com.mentalfaculty.studies-setapp	Studies	1707242649	How many buttons are there in the sidebar menu?	9	number
+co.highlyopinionated.swish-setapp	Swish	1707243059	"I want to disable ""Drag to Unsnap"" option, where should I click?"	[(538, 402), (574, 438)]	coordinates
+co.highlyopinionated.swish-setapp	Swish	1707243052	How many general modifiers are listed?	6	number
+co.highlyopinionated.swish-setapp	Swish	1707243052	What is the name of the last listed modifier?	Spaces	string
+co.highlyopinionated.swish-setapp	Swish	1707243052	"Is a ""Mission Control"" option selected?"	Yes	yes/no
+co.highlyopinionated.swish-setapp	Swish	1707243081	"Where should I click to navigate to the ""Snapping"" tab?"	[(32, 248), (268, 320)]	coordinates
+co.highlyopinionated.swish-setapp	Swish	1707243059	What is the selected tab name?	Snapping	string
+co.highlyopinionated.swish-setapp	Swish	1707243059	How many checkboxes are on the screen?	4	number
+co.highlyopinionated.swish-setapp	Swish	1707243095	How many libraries under MIT license are listed?	9	number
+co.highlyopinionated.swish-setapp	Swish	1707243095	What is the version number of the application displayed on the screen?	1.10.3	string
+co.highlyopinionated.swish-setapp	Swish	1707243095	What is the provided website name for the app?	highlyopinionated.co/swish	string
+co.highlyopinionated.swish-setapp	Swish	1707243081	"Is the a ""Save"" button on the screen?"	No	yes/no
+co.highlyopinionated.swish-setapp	Swish	1707243088	Is the 'Active Event Listener' option turned on?	Yes	yes/no
+co.highlyopinionated.swish-setapp	Swish	1707243088	What sidebar item is currently selected?	Advanced	string
+co.highlyopinionated.swish-setapp	Swish	1707243044	How many checkboxes on the screen?	4	number
+co.highlyopinionated.swish-setapp	Swish	1707243081	How many functions are listed in the Menubar section?	5	number
+co.highlyopinionated.swish-setapp	Swish	1707243044	Is 'Launch at Login' currently enabled?	No	yes/no
+co.highlyopinionated.swish-setapp	Swish	1707243044	What sidebar item is currently selected?	General	string
+co.highlyopinionated.swish-setapp	Swish	1707243088	Where should I click to quit the application?	[(1448, 0), (1544, 104)]	coordinates
+com.hogbaysoftware.TaskPaper3-setapp	TaskPaper	1707213215	How many projects are listed in the sidebar under 'Projects'?	4	number
+com.hogbaysoftware.TaskPaper3-setapp	TaskPaper	1707213215	How many tags are listed in the sidebar?	4	number
+com.hogbaysoftware.TaskPaper3-setapp	TaskPaper	1707213215	What is the title of the document in the main window?	Untitled	string
+com.unmarked.textsoap-setapp	TextSoap	1707237535	What's the name of the current screen?	Clipboard Workspace	string
+com.unmarked.textsoap-setapp	TextSoap	1707237615	Is the searchbar currently selected?	Yes	yes/no
+com.unmarked.textsoap-setapp	TextSoap	1707237624	How many checkboxes are there on the screen?	1	number
+com.unmarked.textsoap-setapp	TextSoap	1707237615	"How many cards are displayed on the ""Start"" view?"	3	number
+com.unmarked.textsoap-setapp	TextSoap	1707237535	How many toolbar buttons are in the top panel?	6	number
+com.unmarked.textsoap-setapp	TextSoap	1707237615	How many buttons are there in the bottom of the sidebar?	4	number
+com.unmarked.textsoap-setapp	TextSoap	1707237535	Where to click to select the 'Copy All' tool?	[(1592, 0), (1706, 104)]	coordinates
+com.unmarked.textsoap-setapp	TextSoap	1707237624	What is name of current selected sidebar tab?	Import	string
+com.unmarked.textsoap-setapp	TextSoap	1707237624	"How many buttons are there in the sidebar menu in the ""Library"" section?"	4	number
+com.dejal.timeout-setapp	TimeOut	1707213722	How many checkboxes are on the screen?	8	number
+com.dejal.timeout-setapp	TimeOut	1707213670	I want to proceed further, where to click?	[(1024, 1062), (1202, 1126)]	coordinates
+com.dejal.timeout-setapp	TimeOut	1707213714	"What value is typed into the ""Name"" input field?"	Normal	string
+com.dejal.timeout-setapp	TimeOut	1707213722	Is the 'Show button to end early' option enabled?	No	yes/no
+com.dejal.timeout-setapp	TimeOut	1707213722	What is the opacity percentage set for the Background color?	75	number
+com.dejal.timeout-setapp	TimeOut	1707213714	How many button options are provided on the top panel to configure?	4	number
+com.dejal.timeout-setapp	TimeOut	1707213714	How many checkboxes are on the screen?	1	number
+com.dejal.timeout-setapp	TimeOut	1707213746	"Is there a ""Save"" button on the screen?"	No	yes/no
+com.dejal.timeout-setapp	TimeOut	1707213746	What is the name of the selected sidebar tab?	Updates	string
+com.dejal.timeout-setapp	TimeOut	1707213732	How many items are listed in the sidebar under the Options section?	5	number
+com.dejal.timeout-setapp	TimeOut	1707213670	How many input fiields are there on the screen?	4	number
+com.dejal.timeout-setapp	TimeOut	1707213682	How many buttons are on the screen?	2	number
+com.dejal.timeout-setapp	TimeOut	1707213682	Is there an app icon displayed on the screen?	Yes	yes/no
+com.dejal.timeout-setapp	TimeOut	1707213746	How many version updates descriptions are displayed on the?	3	number
+com.dejal.timeout-setapp	TimeOut	1707213757	Is the 'Hide the Pause function' option enabled?	No	yes/no
+com.dejal.timeout-setapp	TimeOut	1707213757	What sidebar tab is currently selected?	Advanced	string
+com.dejal.timeout-setapp	TimeOut	1707213757	How many checkboxes are there on the screen?	8	number
+com.dejal.timeout-setapp	TimeOut	1707213732	Is there a seach bar on the screen?	No	yes/no
+com.dejal.timeout-setapp	TimeOut	1707213670	What is the value selected for the normal break to last, in minutes?	10	number
+com.dejal.timeout-setapp	TimeOut	1707213732	How many shortcuts are listed?	10	number
+com.dejal.timeout-setapp	TimeOut	1707213682	How many steps are listed in the instructions on the screen?	6	number
+com.catforce.timemator-setapp	Timemator	1707239617	How many period options are displayed in the top panel?	5	number
+com.catforce.timemator-setapp	Timemator	1707239617	"Which day of the week for task ""First Task"" running?"	Tuesday	string
+com.catforce.timemator-setapp	Timemator	1707239617	How many tasks total are listed?	1	number
+com.catforce.timemator-setapp	Timemator	1707239607	How many tabs are there in the sidebar menu?	3	number
+com.catforce.timemator-setapp	Timemator	1707239636	How many buttons are there in the top right panel?	2	number
+com.catforce.timemator-setapp	Timemator	1707239636	What is the name of the current selected tab?	Tracking	string
+com.catforce.timemator-setapp	Timemator	1707239594	How many seconds has the stopwatch been running?	8	number
+com.catforce.timemator-setapp	Timemator	1707239594	Which sidebar tab is currently selected?	Tracking	string
+com.catforce.timemator-setapp	Timemator	1707239594	What is the name of the current task running?	First Task	string
+com.catforce.timemator-setapp	Timemator	1707239548	How many buttons are there on the screen?	1	number
+com.catforce.timemator-setapp	Timemator	1707239548	What is the title of the app?	Timemator	string
+com.catforce.timemator-setapp	Timemator	1707239548	Is current screen an onboarding screen?	Yes	yes/no
+com.catforce.timemator-setapp	Timemator	1707239636	I want to create new time entry, where should I click?	[(1322, 510), (1848, 556)]	coordinates
+com.catforce.timemator-setapp	Timemator	1707239607	I want to navigate to the repots tab, where should I click?	[(20, 248), (324, 320)]	coordinates
+com.catforce.timemator-setapp	Timemator	1707239607	According to the screen, which year is the timeline presented for?	2024	number
+info.eurocomp.Timing-setapp	Timing	1707212916	"Is there a ""Quit"" button on the screen?"	No	yes/no
+info.eurocomp.Timing-setapp	Timing	1707212935	Where to click to proceed to the next screen?	[(978, 1212), (1100, 1292)]	coordinates
+info.eurocomp.Timing-setapp	Timing	1707212935	How many examples are listed under 'Categorize your activities'?	3	number
+info.eurocomp.Timing-setapp	Timing	1707212935	What is the title of this screen?	Get a complete picture of your time.	string
+info.eurocomp.Timing-setapp	Timing	1707212916	How many images are on the screen?	1	number
+info.eurocomp.Timing-setapp	Timing	1707212916	Is there a search bar on the screen?	No	yes/no
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229429	What is the name of the current photo opened?	547875140019.jpg	string
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229429	What is the current opacoty percentage selected?	80	number
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229389	Where should I click to use the 'Object Removal' tool?	[(1216, 44), (1356, 140)]	coordinates
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229389	Where is the 'Export' button located on the screen?	[(2860, 44), (3000, 140)]	coordinates
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229429	I want to see the history of changes, where should I click?	[(2720, 44), (2860, 140)]	coordinates
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229257	How many toolbar buttons are on the screen?	12	number
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229257	What is the name of the app on the screen?	TouchRetouch	string
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229257	Is there a photo opened on the screen?	No	yes/no
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229439	What is the name of the currently selected tool?	crop	string
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229439	Where should I click to use the 'Clone Stamp' tool?	[(1642, 44), (1782, 140)]	coordinates
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229389	What is the size of the brush for editing?	25	number
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229439	What is the Ratio option selected for the crop?	Free	string
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229362	How many sliders are listed on the screen?	9	number
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229362	How many sliders sections are in the right sidebar?	3	number
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229362	What percentage is the image zoomed to as displayed on the screen?	126	number
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229422	How many line thickness option buttons are on the screen?	3	number
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229422	Is there a search bar on the screen?	No	yes/no
+com.advasoft.touchretouchmacadva-setapp	TouchRetouch	1707229422	What is the current zoom percentage displayed on the screen?	64	number
+com.criminalbird.typeface-setapp	TypeFace	1707237843	How many checkboxes are there on the screen?	0	number
+com.criminalbird.typeface-setapp	TypeFace	1707237809	Is there a search bar on the screen?	Yes	yes/no
+com.criminalbird.typeface-setapp	TypeFace	1707237843	I want to navigate to the system tab, where should I click?	[(20, 208), (298, 264)]	coordinates
+com.criminalbird.typeface-setapp	TypeFace	1707237857	How many font options are displayed on the screen?	5	number
+com.criminalbird.typeface-setapp	TypeFace	1707237809	How many font styles (along with names) are displayed on the screen?	15	number
+com.criminalbird.typeface-setapp	TypeFace	1707237809	Is there a slider in the top panel of the screen?	Yes	yes/no
+com.criminalbird.typeface-setapp	TypeFace	1707237893	How many sections with tabs are there in sidebar menu?	3	number
+com.criminalbird.typeface-setapp	TypeFace	1707237843	What is typed in the searchbar on the screen?	IASA Champ' 2024	string
+com.criminalbird.typeface-setapp	TypeFace	1707237893	Is the searchbar currently selected?	Yes	yes/no
+com.criminalbird.typeface-setapp	TypeFace	1707237893	What is the name of the current collection window?	quick-collection	string
+com.criminalbird.typeface-setapp	TypeFace	1707237857	What is the current value for the slider in the top of the screen?	44	number
+com.criminalbird.typeface-setapp	TypeFace	1707237857	How many seach fields are there on the screen?	1	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209966	How many buttons are there above the text input field?	4	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209853	Is the character selected to be pinned for the main page?	No	yes/no
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209853	How many text fields are proposed to fill?	4	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209853	How many buttons are available on the screen?	2	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707210002	"Is the selected theme ""Dark""?"	No	yes/no
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707210002	On the visible screen, how many toggle buttons are there?	5	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707210002	On the visible screen, how many toggle buttons are turned on?	4	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209909	Is there a Claude API Key input section?	No	yes/no
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209909	Is this a menu to save API Keys?	Yes	yes/no
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209909	"How many ""Save"" buttons are on the screen?"	3	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707210015	Is there a shortcut to quit the application?	No	yes/no
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209993	Is there a searchbar on the screen?	No	yes/no
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707210015	How many saved chats do I have?	5	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209966	What the name of the selected model?	Setapp GPT-3.5	string
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209966	How many messages are in the current chat?	2	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209926	Is there a delete option for provided templates?	No	yes/no
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209993	What is the name of the button in the bottom of the window?	Save	string
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707210015	How many shortucts are suggested for the app?	8	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209895	How many buttons are available on the screen?	1	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209895	How many Setapp models are available?	2	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209895	Is there a search field on the screen?	No	yes/no
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209926	What the name of the third proposed template?	Act as a Job Interviewer	string
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209926	How many my own prompts I have?	0	number
+com.devuap.Typing-Mind-setapp	Typing-Mind	1707209993	How many text fields are proposed to fill?	2	number
+com.soulmen.ulysses-setapp	Ulysses	1707171227	How many sections are there in the left sidebar menu?	4	number
+com.soulmen.ulysses-setapp	Ulysses	1707171227	What is the title of the note on the screen?	A Voyage to Lilliput	string
+com.soulmen.ulysses-setapp	Ulysses	1707171227	How many words are in the document currently open?	835	number
+com.microsoft.VSCode	VSCode	1707226855	How many buttons are there in the top right panel?	4	number
+com.microsoft.VSCode	VSCode	1707226855	Is there a searchbar on the screen?	Yes	yes/no
+com.microsoft.VSCode	VSCode	1707226873	What is the shortut to open recent contents?	⌃R	string
+com.microsoft.VSCode	VSCode	1707226897	How many recommended extensions are displayed?	2	number
+com.microsoft.VSCode	VSCode	1707226873	Is there an input typed into the search bar?	No	yes/no
+com.microsoft.VSCode	VSCode	1707226803	How many recent projects are listed in the 'Recent' section?	5	number
+com.microsoft.VSCode	VSCode	1707226948	"How many items are listed in the side panel under the ""Text Editor"" Section?"	8	number
+com.microsoft.VSCode	VSCode	1707226948	"What value is chosen for the ""Accessibility Page Size""?"	10	number
+com.microsoft.VSCode	VSCode	1707226971	How empty checkboxes are there on the screen?	2	number
+com.microsoft.VSCode	VSCode	1707226971	Is the 'Auto Detect Color Scheme' option enabled?	Yes	yes/no
+com.microsoft.VSCode	VSCode	1707226971	How many checkboxes are there on the screen?	5	number
+com.microsoft.VSCode	VSCode	1707226897	How many extensions are listed as installed?	6	number
+com.microsoft.VSCode	VSCode	1707226803	"What many items are listed in ""Walkthroughs"" section? "	3	number
+com.microsoft.VSCode	VSCode	1707226873	Can you create a new FILE on this page?	Yes	yes/no
+com.microsoft.VSCode	VSCode	1707227004	What is the name of the sidebar tab that is currently selected?	Extensions	string
+com.microsoft.VSCode	VSCode	1707226803	Where should I click to clone git repository?	[(272, 666), (598, 712)]	coordinates
+com.microsoft.VSCode	VSCode	1707226920	Is the search bar currently selected?	No	yes/no
+com.microsoft.VSCode	VSCode	1707226920	What is the current setting for 'Files: Auto Save'?	off	string
+com.microsoft.VSCode	VSCode	1707226920	How many buttons are there on the sidebar panel?	7	number
+com.microsoft.VSCode	VSCode	1707227004	Where should I click to edit advanced Copylot settings?	[(728, 876), (966, 906)]	coordinates
+com.microsoft.VSCode	VSCode	1707226897	Where should I click to search for new extensions in the Marketplace?	[(150, 158), (1414, 196)]	coordinates
+com.microsoft.VSCode	VSCode	1707226855	I want to open a folder, where should I click?	[(136, 316), (596, 374)]	coordinates
+com.microsoft.VSCode	VSCode	1707226948	Where to click to look for specific settings?	[(158, 176), (1880, 214)]	coordinates
+com.microsoft.VSCode	VSCode	1707227004	How many checkboxes are on the screen?	2	number
+com.apple.weather	Weather	1707084038	Is there a search bar on the screen?	Yes	yes/no
+com.apple.weather	Weather	1707084038	How many locations are listed in the sidebar menu?	7	number
+com.apple.weather	Weather	1707084038	What is the wind speed in the displayed city (in MPH)?	21	string
+com.apple.weather	Weather	1707083741	How many checkboxes are on the screen?	0	number
+com.apple.weather	Weather	1707083741	What is the temperature for 'My Location' in celsius?	9	number
+com.apple.weather	Weather	1707083741	Is the search bar currently selected?	Yes	yes/no
+org.zotero.zotero	Zotero	1707127355	How many vertical view sections are presented on this screen?	3	number
+org.zotero.zotero	Zotero	1707127355	How many seach bars are on the screen?	2	number
+org.zotero.zotero	Zotero	1707127414	Can this screen be scrolled?	Yes	yes/no
+org.zotero.zotero	Zotero	1707127414	What is the title of this screen?	2106.13884.pdf	string
+org.zotero.zotero	Zotero	1707127414	How many tabs are available are on the screen?	2	number
+org.zotero.zotero	Zotero	1707127355	How many documents are listed in the 'Representation Learning' folder?	5	number
+us.zoom.xos	us.zoom.xos	1707156708	Where to click to start searching?	[(404, 24), (674, 80)]	coordinates
+us.zoom.xos	us.zoom.xos	1707156708	I want to start a meeting, where should I click?	[(40, 256), (160, 376)]	coordinates
+us.zoom.xos	us.zoom.xos	1707156708	What time is displayed on the screen?	19:11	string

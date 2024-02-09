@@ -1,0 +1,3 @@
+App bundle	App name	Screen id	Question	Answer	Answer Type
+com.vlad.test	Vlad Test	1	How many menu bars are there on the screen?	4	number
+com.vlad.test	Vlad Test	1	"Where should I click ""Delete"" menu?"	[(20, 512), (380, 572)]	coordinates

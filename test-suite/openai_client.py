@@ -7,7 +7,7 @@ class OpenAI_Client:
         # створіть клієнт використовуючи токен вашої команди
         self.openai_client = OpenAI(api_key="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")
 
-    def get_model_response(self, client, question_type, question, screen_representation):
+    def get_model_response(self, question_type, question, screen_representation):
         prompt = self.PROMPTS[question_type]
         formatted_prompt = prompt\
             .replace("<screen_representation>", screen_representation)\

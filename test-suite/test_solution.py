@@ -6,18 +6,21 @@ import json
 from openai_client import OpenAI_Client
 
 # Read train data
-train_data_path = 'IASA_Champ_Final'
+train_data_path = '../IASA_Champ_Final'
 train_data_file = 'ui_questions_train.tsv'
+
+# Path to the sample file (comment or delete for the final solution)
+train_data_file = 'ui_questions_train_test.tsv'
 
 train_data = pd.read_csv(os.path.join(train_data_path, train_data_file), sep='\t')
 
 print(train_data.head(5))
 
 # Image representations folder
-image_representations_folder = "results"
+image_representations_folder = "../results"
 
 def get_screen_representation(app_name, screen_id):
-    path = os.path.join(image_representations_folder, app_name, screen_id)
+    path = os.path.join(image_representations_folder, f"{app_name}_{screen_id}.extension")
     with open(path, 'r') as file:
         return file.read()
 
@@ -36,8 +39,9 @@ for prompt in PROMPTS:
 # Iterate over the train data and get responses
 for row_ind, row in train_data.iterrows():
     app_bundle, app_name, screen_id, question, answer, answer_type = row
-    # screen_representation = row['screen_representation']
-    print(answer_type, question)
+
+    # Make screen_id a string
+    screen_id = str(screen_id)
 
     # Find the representation of the screen
     screen_representation = get_screen_representation(app_name, screen_id)
@@ -48,6 +52,14 @@ for row_ind, row in train_data.iterrows():
         question, 
         screen_representation
     )
+
+    model_response = str(model_response) 
+
+    print(f"Question: {question}")
+    print(f"Answer: {answer}")
+    print(f"Model response: {model_response}")
+
+    print(type(answer), type(model_response))
 
     # Check if the model response is correct
     if model_response == answer:
@@ -60,13 +72,21 @@ for prompt in PROMPTS:
     print(f"Prompt: {prompt}")
     print(f"Correct answers: {correct_answers[prompt]}")
     print(f"Total questions: {questions[prompt]}")
-    print(f"Accuracy: {correct_answers[prompt] / questions[prompt]}")
-    print("\n")
+    # Division by zero check
+    if questions[prompt] == 0:
+        print(f"Accuracy: 0")
+    else:
+        print(f"Accuracy: {correct_answers[prompt] / questions[prompt]}")
+    print("\n\n")
 
 # Get the overall statistics
 total_correct = sum(correct_answers.values())
 total_questions = sum(questions.values())
 print(f"Total correct answers: {total_correct}")
 print(f"Total questions: {total_questions}")
-print(f"Total accuracy: {total_correct / total_questions}")
+# Division by zero check
+if total_questions == 0:
+    print(f"Total accuracy: 0")
+else:
+    print(f"Total accuracy: {total_correct / total_questions}")
 print("\n")

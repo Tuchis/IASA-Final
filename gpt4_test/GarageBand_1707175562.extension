@@ -1,0 +1,25 @@
+The UI interface of the app presented in the image has the following elements:
+
+Left Panel:
+1. A vertical navigation menu with icons including:
+   - New Project
+   - Recent
+   - Learn to Play
+   - Lesson Store
+   - Project Templates
+
+2. An option labeled "Details" with an arrow pointing to the right, indicating it may be expandable or collapsible.
+
+Main Panel:
+1. A header titled "Choose a Project" at the top of the main panel.
+
+2. A square with rounded corners containing a grid icon and a plus sign, representing an option to create something, labeled "Empty Project" below the graphic.
+
+3. A line of text beneath the square that reads "Create an empty project."
+
+4. A text link or button at the bottom, stating "Open an existing project..."
+
+Bottom Right:
+1. A button labeled "Choose" situated at the lower right corner of the interface.
+
+The interface appears to allow the user to start new projects, access recent projects, lessons, or templates, and provides a way to create a new empty project or open an existing one.

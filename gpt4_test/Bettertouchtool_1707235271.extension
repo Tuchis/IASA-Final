@@ -1,0 +1,50 @@
+The image is a screenshot of the BetterTouchTool settings interface, specifically for the "Notch / Action Menu Bar" settings. Here's a detailed description of each UI element in this window:
+
+- At the top, there are three dots that likely represent the window control buttons for closing, minimizing, or expanding the window.
+- Below that, the header reads "BetterTouchTool Settings".
+
+On the left-hand side, there is a vertical navigation menu with several items, and only a subset of them is visible in the screenshot:
+
+1. Basic (with a settings icon)
+2. User Interface (with a UI window icon)
+3. Touch Bar (with a hand icon)
+4. Stream Deck (with a grid icon)
+5. Notch / Action Menu Bar (with a computer screen and tick mark icon, currently selected)
+6. Window Snapping & Moving (with a window resizing icon)
+7. BTT Remote (with a remote icon)
+
+Below these are "Advanced Settings", which include:
+
+1. General (with a cog wheel icon)
+2. Trackpad (with a trackpad icon)
+3. Magic Mouse (with a mouse icon)
+4. Keyboard (with a keyboard icon)
+5. Drawings / Mouse Gestures (with a pen icon)
+6. MIDI Settings (with MIDI ports icon)
+7. Scripting BTT (with a code bracket icon)
+8. Web Server (with a web globe icon)
+9. Normal Mouse (with a mouse icon)
+
+In the main content area of the window:
+
+- There is a checkbox with the label "Enable Notch / Custom Action Bar Support (requires macOS 12 or later)".
+- A checkbox with "Toggle between Menu Bar and Widget mode by scrolling up/down on the Bar Alternatively use the predefined action "Toggle Bar Mode" which you can assign to any BTT trigger."
+- Tabs labels "General Settings" and "Advanced", with "General Settings" tab seemingly active.
+- Additional checkboxes below:
+   - "Also show on Standard Screens without Notch"
+   - "Show mini menubar and mini status items on top edge of Notch Bar instead of bottom edge"
+   - "Use desktop background image for Notch Bar"
+   - A paragraph explaining the ability to use a completely custom background.
+- A slider labeled "Notch Bar width" with a percentage field next to it displaying "100% of screen width" and an "Apply Width" button.
+- A link to the documentation with the URL "https://docs.folivora.ai/docs/1200_notch_bar.html".
+
+In the bottom section, there's an illustration showing the layout of the Notch Bar with labels:
+
+- "Mini Menubar Area" on the left.
+- "Scrollable Left" next to it.
+- "Notch" in the center.
+- "Scrollable Right" to the right of the notch.
+- "Mini Status Icon Area" next to "Scrollable Right".
+- "Fixed Right" at the far right.
+
+Please note that while the UI layout and elements are described, any additional details such as color or style are omitted as requested.

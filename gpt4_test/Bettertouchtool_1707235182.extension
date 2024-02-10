@@ -1,0 +1,52 @@
+The image is a screenshot of the user interface settings for the "BetterTouchTool" application.
+
+On the left side of the window, there's a vertical sidebar which contains different setting categories:
+- Standard Settings (expanded in the view):
+  - Basic
+  - User Interface (selected and highlighted)
+  - Touch Bar
+  - Stream Deck
+  - Notch / Action Menu Bar
+  - Window Snapping & Moving
+  - BTT Remote
+- Advanced Settings:
+  - General
+  - Trackpad
+  - Magic Mouse
+  - Keyboard
+  - Drawings / Mouse Gestures
+  - MIDI Settings
+  - Scripting BTT
+  - Web Server
+  - Normal Mouse
+
+The main area of the window is divided into three sections:
+
+The first section is titled "Standard Settings" and includes options under "User Interface" with the following controls:
+- A checkbox labeled "Show Menu Bar Icon" with a note in parentheses: "(If you hide the icon you can access the preferences by starting BTT again)"
+- A checkbox labeled "Show Dock Icon while running (may require restart)".
+- A subheading "Font Sizes in the Main User Interface:" with a text field to "Increase / Decrease Base Font Size by:" followed by an empty input field for specifying the point size (pt). A button labeled "Restart BTT to Apply Changes" is below the text field.
+- A subheading "App Side-Bar:" with a checkbox labeled "Use Default Dark Translucent Side-Bar" and an associated button with a refresh icon.
+- A subheading "Language & Region" with two options: "Language:" followed by a button labeled "System Language (if available)" and "Region Settings" followed by a refresh icon button with a note below: "Restart BTT to Apply Changes".
+
+The second section is titled "Various things:" and contains only one option:
+- A checkbox labeled "Only show recently used colors in side-bar color picker dropdown".
+
+On the right side, there's a section titled "Hidden Trigger Sections:" with a list of checkboxes, none of which are checked:
+- Touch Bar
+- Stream Deck
+- Magic Mouse
+- Trackpad
+- Keyboard Shortcuts
+- Key Sequences / Typed Words
+- Normal Mouse
+- Siri Remote
+- BTT Remote
+- Automations, Named & Other Triggers
+- MIDI Triggers
+- Drawings / Mouse Gestures
+- Notch Bar / Menu Bar Replacement
+- Generic Devices
+- Floating Menus
+
+Below this list, there is a button labeled "Restart BTT to Apply Changes".

@@ -1,0 +1,18 @@
+The image shows a keyboard-based user interface of a typing application. Here are the UI elements detailed:
+
+1. At the top left, there is a hamburger menu icon.
+2. To the right of it, three metrics are shown in separate boxes:
+   - The first box displays a speed metric reading "0 char/min" (characters per minute).
+   - The middle box shows a percentage with an "accuracy" label beside it, reading "100 %".
+   - The third box indicates typing errors with a "typo" symbol and reads "0 typos".
+3. At the top right, there is a settings gear icon.
+4. Just below these metrics, there is a text area where the words "at tee e eat e tea tata tee at ate o tee tate too at ate tata too t toe to ate at tee tattoo e too t" are displayed for the typing practice.
+5. The majority of the screen is taken up by a visual representation of a keyboard with the following keys shown:
+   - The top row from left to right includes keys: '`', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', and 'delete.'
+   - The second row from left to right includes: 'tab', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', '[', ']', and '\' (backslash).
+   - The third row from left to right includes: 'caps lock', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', ';', ''', and 'enter.'
+   - The fourth row from left to right includes: 'shift', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', ',', '.', '/', and an upward pointing arrow key (indicating another 'shift' key).
+   - The bottom row from left to right includes: 'fn', 'control', 'option', 'command', spacebar, 'command', 'option', left arrow, up arrow, down arrow, and right arrow.
+6. In the very bottom left, there is a circular icon with a question mark.
+
+Each key in the virtual keyboard is visually represented as a button, and certain keys like the 'A' and 'command

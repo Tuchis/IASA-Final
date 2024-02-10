@@ -1,0 +1,9 @@
+The image depicts a user interface for configuring synchronization and encryption settings, and it contains the following elements:
+
+1. A heading at the top that says "Configure Sync & Encryption."
+
+2. Two checkboxes with accompanying labels and descriptions:
+   - The first checkbox is for "Enable iCloud Sync" with a description that reads: "Synchronize your diary in real time across all your iCloud-enabled devices, allowing you to work seamlessly on any device. Automatically back up your entries for easy retrieval in case of device issues."
+   - The second checkbox is for "Enable Encryption" with a description that reads: "All text content in your journals will be end-to-end encrypted. Attachments are not encrypted."
+
+3. A button at the bottom labeled "Continue."

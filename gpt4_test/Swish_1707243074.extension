@@ -1,0 +1,28 @@
+This screenshot shows a UI interface of an app with various options and settings. I'll describe each UI element on the screen starting from the left side:
+
+1. Top left: There are three symbolic buttons indicating window control actions (these are typically used to close, minimize, or maximize the window).
+2. Side Menu: 
+   - "General": Appears to be an option or a tab.
+   - "Windows": Another option/tab.
+   - "Snapping": Another option/tab.
+   - "Apps": It's highlighted indicating it's the currently selected tab.
+   - "Menubar": An unselected option/tab.
+   - "Advanced": An option/tab with a gear icon suggesting settings or more complex features.
+   - "About": An option/tab with an information icon typically indicating details about the app or version information.
+
+3. Main Content Area (center to right):
+    - Header "Apps": Referring to the section for app controls or settings.
+    - Description Text: "Control running applications by swiping and pinching on their dock icon."
+    - Toggle Checkbox and text "Application Menu": It's an on/off toggle option with accompanying text.
+    - Beneath that, two fields labeled "General Modifier" and "Secondary Modifier", each with a drop-down symbol indicating that these fields are selectable or can be changed.
+    - Below the modifier fields are a series of options each associated with gestures:
+       - "Activate": Circle radio button indicating a selection/non-selection state.
+       - "Cycle": A left arrow and a right arrow with a blue (selected) radio button in-between suggesting a cycling action.
+       - "Quit": Has an "x" symbol and text suggesting a quitting action along with a pinch gesture icon.
+       - "Minimize": Has a downward arrow symbol with text and a "2" downward swipe gesture icon.
+       - "Unminimize": Has an upward arrow symbol with text and a "2" upward swipe gesture icon.
+       - "Hide": Has an "o" symbol with text and a "2 o" double-tap gesture icon.
+
+4. Top right: There's a "Quit" button that suggests it will close the application or exit the current screen.
+
+Next to each gesture control option on the right side, there is a brief description explaining what the gesture does. These descriptions provide additional context on how to use each feature, such as tapping, swiping, or using a secondary modifier key for different window control actions.

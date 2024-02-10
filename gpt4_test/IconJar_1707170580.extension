@@ -1,0 +1,14 @@
+This is a UI interface showcasing various features of an application called IconJar. The elements from left to right are as follows:
+
+1. Three slider dots at the top, suggesting there might be additional pages or sections that can be navigated to by clicking these dots.
+2. A large app icon for IconJar with a stylized graphic.
+3. A title reading "Welcome to IconJar" followed by a descriptive subtitle saying "Store all your icons in one place, just a click away."
+4. Beneath the welcome message, there are two social media icons, presumably for Facebook and Twitter.
+5. Three sections are laid out horizontally, each with an icon at the top followed by a feature title and description:
+    - The first section has a magnifying glass icon and is titled "Browse, search & preview". The description explains that users can preview icons at any size using a custom Quicklook feature.
+    - The middle section has a directional arrow-like icon and is titled "Export icons with ease". It describes that users can select icons, pick sizes, click export, and the rest is handled automatically.
+    - The third section has an up-and-rightward-pointing cursor icon and is titled "Drag & Drop". It mentions a QuickDrag feature and compatibility with apps that don't support SVGs.
+6. In the bottom-right corner, there is a chat icon with a tooltip or feature highlight marker, and the title "Optimised for the Mac" with a description about exceptional native performance and responsiveness.
+7. A button labeled "Get Started" is located below the second feature section on the right side.
+
+This layout provides an overview of the different functionalities within the IconJar application and invites new users to get started using the app.

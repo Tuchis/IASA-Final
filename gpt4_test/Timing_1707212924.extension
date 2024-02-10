@@ -1,0 +1,18 @@
+The image shows a portion of a user interface with the following elements:
+
+1. Heading: "Set it and forget it."
+2. Subheading: "Timing sits in the background, automatically tracking what you do across documents, apps and websites."
+3. A list of options with checkboxes:
+   - Checked: "Automatically start background tracking at login"
+   - Checked: "Automatically ask to record time when a video call ends"
+     - Subtext: "Requires your permission to send notifications."
+   - Unchecked: "Automatically ask what I did whenever I return to my Mac"
+4. A tracking list with application names and icons, alongside duration of usage:
+   - "Safari" with "1h 5m"
+   - "Mail" with "16m"
+   - "FaceTime" with "39m"
+5. A graphic representation of multiple overlapping windows with app icons for Mail and FaceTime being visible.
+6. A navigation area at the bottom:
+   - A "Back" button on the left.
+   - Navigation dots indicating page status, where the second dot from the left is highlighted.
+   - A "Next" button on the right.

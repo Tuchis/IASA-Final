@@ -1,0 +1,29 @@
+In this UI interface, you are looking at what seems to be a journaling or personal diary-like application.
+
+On the left side of the screen:
+1. Top bar includes a search magnifier icon followed by a hamburger menu icon.
+2. Below the top bar is a list of journal categories or sections featuring the following:
+   - An icon likely representing the "Journals" section, followed by text, possibly a journal name.
+   - The "View" section with a submenu containing icons for "List," "Calendar," "Map," "Gallery," and "Stats."
+   - The bottom of this panel has a "Settings" gear icon.
+
+In the middle section of the screen:
+1. There is a navigation bar showing the year "2024" with left and right arrows to navigate years and a settings cogwheel icon.
+2. Below the navigation bar are three calendar months displayed vertically, January, February, and March, with dates laid out in a standard calendar format.
+
+On the right side of the screen:
+1. At the top, there is a navigation bar with a left-pointing arrow, the text "Tue, 6 February," and another right-pointing arrow. This seems for navigating between dates.
+2. Three prompts or questions each preceded by a bullet or identifier and a text field for user input:
+   - "Three small things I'm grateful for:"
+   - "What is my positive intention for the day?"
+   - "How did I feel today and what patterns or triggers..."
+3. Below the prompts is a section with location information including a location identifier icon, the name of a street, weather-related icons (indicating the temperature and weather conditions), and some text with hashtags and a welcome message.
+4. The far right sidebar contains a statistics box with several bullet-points:
+   - "WORDS" followed by a number.
+   - "CHARACTERS" followed by a number.
+   - "PARAGRAPHS" followed by a number.
+   - A progress circle with a percentage and text indicating progress towards a word count goal.
+   - "LAST MODIFIED ON" followed by a date and time.
+   - "CREATED ON" followed by a date and time.
+
+Icons and buttons present in these sections perform specific functions like navigating through the journal, accessing settings, and viewing different representations of the entries. The interface also includes fields where the user can write and reflect on personal experiences or thoughts according to the given prompts, and it tracks usage stats of the entries.

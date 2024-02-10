@@ -1,0 +1,21 @@
+In the image provided, it appears to be a user interface for an application called "OpenIn Settings," which seems to manage default application settings for various URL schemes and file types on a computer operating system. Here's a description of the UI elements as visible in the image:
+
+1. At the top left corner, there are three circular icons, typically used to close, minimize, and maximize the window.
+
+2. There is a gear icon aligned to the top, indicating a settings or preferences menu, with tabs labeled "General," "Browsers," "Mail apps," "Call apps," "Files," "Backups," and "About."
+
+3. In the "Browsers" tab, there is a section labeled "https:// scheme handler" with the following elements:
+   - A label "Enabled" followed by a toggle switch that is in the "On" position.
+   - A warning message that says "OpenIn is not set as the default application for https:// URLs" accompanied by a yellow warning icon and a "Fix it" button.
+
+4. Below that, there's a section labeled "Applications" with a list of applications:
+   - Each application has a menu icon (three horizontal lines), an application icon, the application name, and an indication if it is in "Private" mode if applicable (e.g., "Firefox (Private)").
+   - Below the list, there are two buttons: "Remove all applications" and "Add application...".
+
+5. Further down, there is a section labeled "Rules" with a list containing a single item:
+   - The item has a menu icon and the text "Default", with an "Add rule..." button aligned to the bottom right of the section.
+
+6. Lastly, at the bottom, there is a section labeled "Shortened URLs":
+   - It contains a label "Resolve Shortened URLs" followed by a toggle switch in the "On" position.
+
+This UI seems to focus on setting up default applications, rules for opening specific URL schemes, and handling of shortened URLs. The interface provides options to add, remove, or specify default applications for opening specific types of links.

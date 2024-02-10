@@ -1,0 +1,44 @@
+The photo shows the user interface of the OpenIn Settings application. Here's a detailed description of the UI elements as seen in the image:
+
+At the very top left corner, there are three window control buttons typically used for closing, minimizing, and maximizing the window.
+
+At the top center, there is the application logo followed by the text "OpenIn Settings."
+
+Below the application name, a horizontal menu is present with the following items:
+- General (currently selected as indicated by the highlighting underneath the text)
+- Browsers
+- Mail apps
+- Call apps
+- Files
+- Backups
+- About
+
+On the right side of the horizontal menu, there are three additional buttons:
+- A button with a symbol suggestive of toggling or settings
+- A button with a schematic representation of a window with formatting lines
+- An information ("i") button
+
+In the main content area below the horizontal menu, there are several sections with headers and corresponding settings:
+
+1. Under the "Build" header:
+   - A text description that probably contains version information for the app, which reads "4.1.5 (221064) Setapp build"
+
+2. In the "Configuration" section, there are two toggle switches:
+   - "Start at login"
+   - "Show menu bar icon"
+   A question mark button is placed at the rightmost part of this section.
+
+3. The "Notifications" section contains one toggle switch:
+   - "Check that OpenIn is a default app in background"
+
+4. Under the "History" header:
+   - A toggle switch labeled "Store history of opened links and files"
+   - A dropdown menu identified by "Month" with a downward-pointing arrow, suggesting that you can select how long the history should be stored.
+
+5. The "App selection window" section has a couple of settings:
+   - A toggle switch labeled "Always show the Window (even with one app)"
+   - Under the "Icon Size" label, three radio button options labeled "Small," "Medium," and "Large," with "Small" currently selected.
+
+At the very bottom, there's a header "Developer Mode" which doesn't have any visible UI elements associated with it in this image.
+
+The background of the application is gray, and the selected or active toggle switches and radio buttons are shown with a filled circular indicator. Additionally, there is some text and a scrollbar on the right side, but no specific content can be seen as it's either cut off or not in focus.

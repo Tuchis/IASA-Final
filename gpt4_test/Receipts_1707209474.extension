@@ -1,0 +1,38 @@
+The user interface of the app depicted in the image consists of several sections and elements:
+
+1. Top Menu Bar:
+   - Window control buttons (likely for minimizing, maximizing, and closing the application window)
+   - App file path or name indicated as "Receipts.receipts"
+   - Icons for different views or functionalities
+   - A search bar with a magnifying glass icon
+   - A button that might represent a way to add a new item or perform a similar action
+
+2. Left Sidebar:
+   - A section for filtering receipts:
+     - "All"
+     - "Unconfirmed" with a number indicator (6)
+     - "Not Paid" with a number indicator (6)
+     - "Starred"
+     - "Without Attachment"
+     - "Recent Imports" with a number indicator (6)
+     - "Trash"
+   - A "Journal" section with sub-items for different years (2023, 2022)
+   - A "Contacts" section with an entry labeled "Unassigned"
+   - A "Categories" section with items such as "Car," "Communication," "Food," "Gifts," "Goods," and more indicated by scrolling.
+   - Plus button at the bottom, likely for adding new items or categories
+   - Three dots which may indicate more options or settings
+
+3. Main Content Area:
+   - A filter area with dropdown menus labeled "Period," "Category," "Contact," "Tag," "Features"
+   - A list of dates with corresponding financial amounts and red down arrow indicators which might represent a dropdown function or a decrease in value
+
+4. Summary Section (Top-Right):
+   - A date range: "19.10.2022 - 29.12.2023"
+   - A breakdown of values labeled "Subtotal," "Tax," and "Total", followed by numerical figures
+   - The word "Years" above a graphical representation that resembles a bar chart with monetary values on the y-axis
+
+5. Bottom-Right Options:
+   - Checkboxes or buttons for "Net amounts"
+   - Three buttons labeled "Print," "Report," and "Export"
+
+The interface likely serves as a financial management or accounting application, as it involves dates, monetary amounts, filtering options for different categories, contacts, and periods, and options for reporting and exporting data.

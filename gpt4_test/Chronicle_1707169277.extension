@@ -1,0 +1,31 @@
+This application interface appears to be for tracking and managing bills. The UI is divided into three main columns or sections.
+
+Left Column:
+- There are multiple tabs which represent different views or sections of the application:
+   - Bills:
+       - Overview (selected) with an indication of "2 bills"
+       - Due Soon with an indication of "1 bill - 270,00 UAH"
+       - Due This Month with an indication of "1 bill - 270,00 UAH"
+       - Paid Recently with an indication of "No Bills"
+   - Reports:
+       - Income
+       - Forecast
+       - Monthly History
+       - Annual Spending
+       - Archive
+
+Middle Column:
+- At the top, there are three buttons or icons for different functions (the icons are not described), as well as a dropdown menu labeled "All Items" and a search bar with the placeholder text "Search."
+- Below this, there is a table with three columns titled "Name", "Amount", and "Due Date". It lists two items:
+   1. Internet (with a note "Every month") for "270,00 UAH", and a due date labeled "Due today Mon, 5 Feb" accompanied by a colored indicator (not described).
+   2. Netflix (with a note "Every month") for "440,00 UAH", and a due date labeled "Due in over 1 month Wed, 20 Mar" also accompanied by a colored indicator.
+
+Right Column:
+- The right section shows details for one of the items, which is Netflix in this case:
+   - At the top, the word "Netflix" is displayed next to a check mark, implying this item is selected.
+   - Below that, there is a back arrow and the word "Statistics" indicating the current view.
+   - The statistics section is divided into two parts:
+       - The first part provides two figures under "TOTAL PAID" and "AVERAGE" which both show "440,00 UAH".
+       - The next part is titled "TOTALS BY YEAR" with entries for the years 2024, 2023, and 2022, with only 2023 having a value of "440,00 UAH in 1 payments".
+       - Below that is a "PAYMENTS BY MONTH" section listing dates and associated amounts for several months, with all amounts showing "0,00 UAH" aside from the most recent month.
+- At the very bottom of this section, there are two buttons: "Archive" and "Edit".

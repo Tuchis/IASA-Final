@@ -1,0 +1,36 @@
+The user interface in the image includes the following elements, starting from the left side and moving to the right:
+
+1. Sidebar Menu:
+   - "All Icons" menu item with an icon representing multiple squares stacked.
+   - "Starred" menu item with a star icon.
+   - "Recently Used" menu item with a clockwise circular arrow icon.
+   - "Your Icon Sets" section with a dropdown icon to expand or collapse it:
+       - "Material Design Icons" submenu item with a rightward-pointing arrow indicating it can be expanded.
+
+2. Search Bar:
+   - A search input field labeled "Find in All Sets" with a magnifying glass icon.
+
+3. Main Content Area:
+   - A header with the word "regular."
+   - A subheader with the text "Material Design Icons" followed by "maps."
+
+4. Zoom Control:
+   - A slider with two icons on either side representing smaller and larger sizes, and the current size indicated by "60pt" with a dropdown arrow for more options.
+   
+5. Right Sidebar:
+   - Two tabs at the top: "Icon Set" and "Selection."
+   - Under the "Icon Set" tab:
+       - A field labeled "Multiple Names."
+       - A text area with the placeholder "Description."
+       - A dropdown input with the placeholder text "No License."
+       - An informational section with the following details:
+           - "Icon Count" followed by the number of icons, "7737 Icons."
+           - "Import Date" with a date, "06 Feb 2024."
+           - "File Size" indicating "3,7 MB."
+           - "Selection" with "85 Sets" indicated.
+       - A button labeled "Export" followed by "| IconJar..."
+
+6. Top Row of the Interface:
+   - At the very top left, three window control buttons typical for window management.
+   - A set of window action buttons including a "+" button, a dropdown arrow, and what appears to be a sharing or connectivity icon.
+   - On the top right, system icons for connectivity, battery, and another menu or indicator, followed by a bell icon labeled "Notifications."

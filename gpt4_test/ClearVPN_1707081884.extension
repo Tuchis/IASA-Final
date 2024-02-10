@@ -1,0 +1,19 @@
+The user interface (UI) of the app presents the following elements:
+
+- A header with the title "Account".
+- A close button, represented by an "x", located at the top right corner of the interface.
+- A navigation panel on the left side with several items, which appear to be:
+  - "Account" (currently selected)
+  - "Your devices"
+  - "System settings"
+  - "Shortcuts"
+  - "Stand with Ukraine" accompanied by the flag of Ukraine.
+  - "Need help?"
+
+- In the main content area, there are two sections with options/settings:
+  - "App language" followed by "English" and a link that says "How to change app language on Mac".
+  - "ClearVPN's newsletter" with descriptive text "Don't miss updates, tips & special offers" and a toggle switch to the right.
+
+- On the bottom left, there is an image accompanied by a text bubble with the message "Are you sure all your devices are protected?" and below that, a statement "7 of 8 slots remaining".
+
+Please note that I am describing the elements without referring to colors or styles, as per your request.

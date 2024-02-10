@@ -1,0 +1,23 @@
+The UI interface of the app in the image shows a pop-up overlay with various settings for a typing/chat assistant. Here's a breakdown of the individual elements visible in this interface:
+
+1. At the top of the pop-up, there's a heading labeled "Typing Mind."
+
+2. Below the heading is a section with a smaller title "Welcome message:" followed by a text field containing a message that reads: "Hello, I'm a life coach. How can I help you today?"
+
+3. The next section is labeled "Conversation Starters:" with a subtext that reads, "Suggest some first messages for the user to select from in the beginning of the conversation." There is a button beneath labeled "+ Add Conversation Starters."
+
+4. Followed by that is the section "Training Examples:" with a description saying "Training examples help the AI assistant learn how to respond to users." Below this description is another button labeled "+ Add Training Examples."
+
+5. The subsequent section is named "Assigned Model:" with accompanying text to describe the setting, "The model to use for this AI character (GPT-3.5, GPT-4, Claude, etc.)." It has a dropdown menu set to "None" and a checkbox option underneath labeled "Enforce assigned model (Users won't be able to change the model when using this character)."
+
+6. Proceeding downward, there's another section titled "Assigned Plugins:" with a checkbox that reads "Assign plugins for this character."
+
+7. The last section in the interface is labeled "Assigned Text-to-Speech Settings:" with a checkbox that says "Assign text-to-speech settings for this character."
+
+8. At the bottom of the pop-up, there are two buttons side by side: one is labeled with a checkmark followed by "Save," the other is labeled "Cancel."
+
+9. Finally, at the very bottom of the pop-up there is a "Close" text link.
+
+On the left side of the image, underlying the overlay, you can see a partial view of the rest of the app interface with conversation snippets from various chat examples labeled "(Example)" before the rest of their respective titles. On the bottom left corner, there are icons and tabs with text that seem to represent different sections or functionalities of the app, such as "API Key," "Typing Mind," and icons indicating settings or feedback.
+
+This delineation addresses only the UI elements described in text or shown as controls in the screenshot.

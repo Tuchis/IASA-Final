@@ -1,0 +1,20 @@
+The image displays a spreadsheet with various elements related to scheduling and course management. Starting from the top left and going to the right, I'll describe the UI elements and content visible:
+
+1. The title bar reads "HumanAI_schedule2023_v3".
+2. File menu buttons such as a folder icon, a cloud with an arrow indicating upload or save to cloud function, a printer icon, a paintbrush for formatting, and an eye-shaped icon likely for previewing the document. 
+3. Viewing options including a magnifying glass with a "-" sign for zoom out, a percentage dropdown (currently at 125%), and a magnifying glass with a "+" sign for zoom in.
+4. Add, Category, Pivot Table are three options for manipulating data.
+5. Standard spreadsheet manipulation tools like Insert, Table, Chart, Text, Shape, Media, and Comment.
+6. Collaboration tools indicated by an icon symbolising two figures for shared workspaces or shared editing.
+7. Formatting, organizing, and sheet management tools represented by the Format, Organise, and a dropdown for Sheet options with a checkbox beside "Background," buttons for "Duplicate Sheet" and "Delete Sheet."
+
+Below these controls is the actual spreadsheet content, which includes the following sections and information:
+
+- A schedule organized by weeks, room numbers, days, and times. It specifically mentions rooms "HG-06A37" and "NU-4B43", indicating locations.
+- Scheduled times and activities, such as "lecture times," "Monday Morning," "subject and slides," "texts," and "exercising times."
+- Entries pertaining to various lectures, such as "Lecture 1: Introduction: Network-Oriented Modeling" and "Lecture 2: Designing Mental and Social Network Models" among others.
+- References to textbooks like "Book 2 Ch. 2 Ins and Outs of Network-Oriented Modeling" and "Book 1 Ch 2. A Temporal-Causal Network Modeling Approach."
+- Assignments are mentioned, such as "Assignment 1: Minitutorial for the Nonadaptive Matlab Template" and "Final Project Assignment."
+- Lastly, the name "Lecturer Jan Treur" is visible, likely indicating the instructor responsible for these lectures and assignments.
+
+The image shows various elements of a functional UI within a spreadsheet application, used for outlining a course schedule, including lectures, practical sessions, and assignments.

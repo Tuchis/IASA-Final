@@ -1,0 +1,29 @@
+This interface seems to be a settings or configuration panel for an application called "Almighty." The UI is divided into a side menu on the left and a main panel on the right.
+
+On the left side menu, there's a vertical list of categories and functionalities represented by icons and text. From top to bottom, the listed items are:
+
+- An icon that seems to represent an aggregation or collection, labeled "All."
+- An icon that implies something new, with a label "New."
+- An icon for something signifying popularity or trending, labeled "Popular."
+- An icon that suggests a random selection, labeled "Random."
+
+Below these items, under the heading "Apps," there are several more items with accompanying icons, which are:
+
+- "Desktop"
+- "Display"
+- "Dock"
+- The currently selected item "Effect," which is highlighted indicating it is active.
+- "Finder"
+- "Keyboard"
+- "Mouse"
+- "Photos"
+- "Screenshot"
+
+In the main panel on the right, there are different UI elements related to the "Effect" category since it is the chosen item from the side menu:
+
+- At the very top, there's a bar with the application name "Almighty," a button with what appears to be a menu or list icon, and a search field with a magnifying glass icon.
+- Below that bar, we have two sections that show settings for effects:
+    - The first section has the title "Confetti" and a subtitle "Show confetti effect," with a toggle button on the right side that is switched on.
+    - The second section is labeled "Rain" and has a subtitle "Rain effect," with a toggle button on the right side that is switched off.
+ 
+Each section has an icon on the left that visually represents the effect (confetti and rain respectively) and a water droplet icon labeled "Effect" below each effect's title and description.

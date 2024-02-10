@@ -1,0 +1,28 @@
+In the UI interface of the app displayed in the photo, you can see several distinct areas and elements listed as follows:
+
+1. Top-left corner: Three horizontally-aligned dots - typical representation of a window control panel for minimizing, maximizing and closing the window.
+
+2. Left sidebar:
+   - An icon resembling a play button labeled "Tracking"
+   - An icon that looks like a clock face or a timeline labeled "Timeline"
+   - An icon with two stacked horizontal bars that could represent reports, labeled "Reports"
+
+3. Center-Left section:
+   - Three tabs named "All Tasks", "Recent", and "Archive" with a "+" button next to them and a downward-pointing arrow indicating a dropdown menu or additional options.
+   - A large button with the text "Start timer".
+   - A description text underneath that says "to create the first task or import your existing data".
+   - A hyperlink or button labeled "Import data as CSV..."
+
+4. Bottom-left corner:
+   - A digital clock display reading "00:00:00".
+   - Text below the timer that reads "No Task" with a play button icon next to it, signaling that it could be a button to start timing a task.
+
+5. Center-Right section:
+   - A header with the text "Time Entries" and a subheader saying "last 30 days".
+   - A "+" button and a button that appears to be a trash can icon, which typically suggests a delete function.
+
+6. Main Panel:
+   - A message in bold that reads "No time entries found".
+   - A smaller message underneath that recommends to "Add a time entry or start the timer" along with a "+" button, probably for adding new time entries.
+
+These elements together suggest that the app is designed for tracking time, managing tasks, and possibly generating reports based on time-tracked data.

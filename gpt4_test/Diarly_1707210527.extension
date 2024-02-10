@@ -1,0 +1,13 @@
+The image displays a section of a user interface with the following elements:
+
+1. A heading at the top that reads "Configure Sync & Encryption"
+
+2. Under the heading, there is a checkbox with the label "Enable iCloud Sync" followed by a descriptive paragraph.
+
+3. The paragraph describes the function of iCloud Sync, indicating it enables real-time synchronization of a diary across devices with iCloud, seamless work on any device, and automatic backup for easy retrieval.
+
+4. Beneath that, there is a second checkbox with the label "Enable Encryption" followed by a descriptive paragraph.
+
+5. The paragraph for encryption describes that all text content in the journals will be end-to-end encrypted, but mentions that attachments are not encrypted.
+
+6. At the bottom of the interface, there is a button with the label "Continue".

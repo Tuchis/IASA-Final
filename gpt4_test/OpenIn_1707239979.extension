@@ -1,0 +1,15 @@
+The image displays the user interface of an application named "OpenIn Settings." The top left corner contains three typical window control buttons. To the right, there is a gear icon followed by six tabs named "General," "Browsers," "Mail apps," "Call apps," "Files," and "Backups," with another icon and "About" tagged at the very end.
+
+On the left side of the window, there is a sidebar divided into two sections:
+
+1. "Groups" section: This area contains an item with an icon followed by the text "Add group..."
+
+2. "File types" section: Similar to the "Groups" section, this area contains an item with an icon followed by the text "Add file type..."
+
+The main content area on the right has a message that reads, "Select file handlers from the sidebar or create a new one." Below this message, there are two buttons:
+
+1. A button with an icon and the label "Add group..."
+
+2. Another button with an icon and the label "Add file type..."
+
+The UI layout suggests that this application is used to manage settings related to how different types of files and calls are handled by the system or specific applications. The options to add groups or file types imply customization capabilities for organizing file handling preferences.

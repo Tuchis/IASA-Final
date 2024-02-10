@@ -1,0 +1,53 @@
+The image displays a user interface, likely from a financial application or a piece of software for managing receipts or accounting information. The UI is divided into two main sections: a table or list view on the left, and a sidebar on the right with various editable options and settings.
+
+In the left section, we can see a table with the following headers:
+- Date
+- Contract
+- Category
+- Tags
+- Note
+- Tax in UAH
+- Net in UAH
+- Amount in UAH
+- Tax 20%
+- Tax 7%
+
+Each row under these headers seems to represent individual records or transactions with corresponding data. Multiple records are visible, but only the dates are fully displayed, ranging from 10.10.2022 to 29.12.2023.
+
+The right sidebar section is divided into three subsections:
+
+1. Title:
+   - A text field labeled "Title" where one can presumably input a title for whatever document or report is being generated or viewed.
+
+2. Options:
+   - A subsection labeled "Options" with three checkboxes:
+     - Show sums
+     - Show +/- signs
+     - Landscape
+
+3. Columns:
+   - A subsection labeled "Columns" listing different column options, each with a checkbox. Some of the checkboxes are checked, indicating that the corresponding columns are being displayed in the table on the left. The column options include:
+     - Reference
+     - Date
+     - Paid
+     - Contact
+     - Category
+     - Tags (checked)
+     - Title
+     - Export File Name
+     - Note (checked)
+     - Currency
+     - Tax
+     - Amount
+     - Tax in UAH (checked)
+     - Net in UAH (not displayed here due to cutoff)
+
+Lastly, there are additional interface elements:
+- A "Search" field in the upper right corner of the UI, most likely for filtering or finding specific entries in the table.
+- Toward the bottom left, there's a "Cancel" button, which would typically be used to dismiss the current task or screen without saving changes.
+- In the bottom right, there are two checkboxes labeled "Attach documents" and "Formatted," suggesting options for attaching files or changing the format of the output.
+- Two buttons labeled "Save as PDF..." and "Print...", which indicate actions to either export the information as a PDF file or print the document directly.
+
+At the very top of the window, there is a title that reads "Receipts.receipts," which could be the name of the file or document being edited or viewed. The window controls typical for a desktop application (minimize, maximize, and close) are also visible in the upper-left corner.
+
+Please note that details such as the exact functionality tied to each button or checkbox, the full dataset in the table, and the precise purpose of the "Attach documents" and "Formatted" checkboxes cannot be definitively determined from the image alone.

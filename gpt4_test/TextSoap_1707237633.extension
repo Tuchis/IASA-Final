@@ -1,0 +1,26 @@
+The UI interface shown features the following elements:
+
+1. At the very top of the window, there are three window control buttons typically used for closing, minimizing, and maximizing the window, and there is a window options button with a dropdown functionality, indicated by a small icon with three horizontal lines.
+
+2. Below that, on the left side of the window, there is a vertical toolbar with a search input field at the top labeled "Filter." The toolbar is divided into two sections labeled "LIBRARY" and "CLEANER GROUPS." Within the LIBRARY section, there are four items listed, which appear to be:
+   - Start
+   - Import
+   - Export (This item is currently selected, as indicated by a different background shading)
+   - Remove
+
+3. Below the LIBRARY section, there is another labeled "CUSTOM CLEANERS," but no items are visible beneath it.
+
+4. At the bottom of the same sidebar, there are two action buttons:
+   - A button with a plus icon, likely for adding new items.
+   - A button with what seems to be a collection of squares and lines that might represent a list or grid view option.
+
+5. The main area of the window to the right is divided into two parts:
+   - The header, which reads "Export"
+   - The content section, which includes two tabs labeled "CLEANER GROUPS" and "CUSTOM CLEANERS." Each tab has a list area below it, but no items are visible in either list.
+
+6. At the bottom right of the window, there are three elements:
+   - A checkbox labeled "Export as Cleaner Library."
+   - A search input field with the placeholder text "Filter."
+   - A button labeled "Export."
+
+These elements together make up the user interface of the app where the user seems to be able to manage and export data related to "CLEANER GROUPS" and "CUSTOM CLEANERS."

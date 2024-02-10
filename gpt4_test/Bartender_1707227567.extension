@@ -1,0 +1,30 @@
+The UI interface displayed in the photo contains the following elements:
+
+1. On the top left, it looks like a standard window control with three dots, typically indicating window management functions like close, minimize, and maximize.
+
+2. Below that, on the left-hand side, there's a sidebar menu with the following items, each accompanied by an icon:
+   - General
+   - Menu Bar Items
+   - Menu Bar Style
+   - Presets (which seems to be the selected section, indicated by a different background tone and an arrow pointing right)
+   - Triggers
+   - Hotkeys
+   - Advanced
+   - About
+
+3. In the top-middle area of the main panel, there is a title "Presets" followed by a description below that says "Create Presets that can be applied to change your menu bar item layout."
+
+4. Below the title and description, there's a section with an outlined box that contains:
+   - A header text saying "Default macOS menu bar items"
+   - A subheading or description text below the header that says "Shows only the default menu bar items on a clean install of macOS, all other menu bar items are hidden. Great for screen recording or screen shots."
+   - Two buttons to the right labeled "Settings" and "Apply"
+
+5. Below the outlined box, there is a divider line suggesting that the area is meant to list multiple items or presets.
+
+6. In the center of the outlined box, there's a large plus sign, indicating that this is probably a button to add a new preset.
+
+7. At the bottom-right corner of the main panel, two buttons are visible:
+   - "Delete Preset"
+   - "Add Preset"
+
+Without information on color and style, this description focuses on the layout and possible functionalities each UI element suggests based on conventional software design patterns.

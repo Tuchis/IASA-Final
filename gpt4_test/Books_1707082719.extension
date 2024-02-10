@@ -1,0 +1,35 @@
+This image is of the user interface for the "Apple Books" app. The UI is divided into various sections with different elements:
+
+Top of the UI:
+- Three dots (presumably a status indicator)
+- A search field with the placeholder text "Search"
+- A profile/account icon on the top right corner
+- A button labeled "Browse Sections" with a dropdown indicator
+
+Left Sidebar:
+- The category "Apple Books" is highlighted with a series of list items under it:
+    - "Read Now"
+    - "Book Store" (currently selected)
+    - "Audiobook Store"
+- The "Library" section below with list items:
+    - "All"
+    - "Want to Read"
+    - "Finished"
+    - "Books"
+    - "Audiobooks"
+    - "PDFs"
+    - "My Samples"
+- The "My Collections" section with a list item:
+    - "New Collection" and an icon to add a new collection
+
+Main Content Area:
+- The main header "Book Store"
+- Two promotional sections side by side:
+    - One titled "GREAT PRICES" with text "Get must-read books by best-selling writers for under £2."
+    - Another titled "BOOKS WE LOVE" with text "Discover the excellent new reads February has in store."
+- Each promotional section contains images that are suggestive of book covers corresponding to each title. 
+- Below these promos, there's a header that says "New & Trending" with a subheader "Recently released and notable books."
+- A series of book covers are displayed in a horizontal scrollable section with visible titles and authors.
+- A button labeled "See All" on the right side of the "New & Trending" header.
+
+At the bottom of the UI, there is what appears to be a placeholder or a watermark with text "Mariya Hirna" and an icon associated with it.

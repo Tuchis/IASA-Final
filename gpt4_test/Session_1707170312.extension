@@ -1,0 +1,20 @@
+The UI interface of the app displays two main sections divided down the middle.
+
+On the left side:
+
+1. At the top left, there's a navigation menu icon with three horizontal lines. 
+2. Just below the navigation menu icon, there is a question, "What's your focus?" with a dropdown menu labeled "General" underneath it, signifying a category or label for the focus session one might be setting.
+3. A text field labeled "Intention" is located directly under the dropdown menu for users to input their intention for the focus session.
+4. A small circular icon with a question mark inside it appears at the top right, likely indicating a help or info button.
+5. In the middle, there is a circular timer with a knob and what appears to be the ability to set a duration for the focus session. The current time is indicated at the bottom of the timer.
+6. Below the timer, there is a rectangular button labeled "START SESSION," which is presumably used to commence the focus or timer session.
+7. In the bottom left-hand corner, there is a settings cogwheel icon.
+
+On the right side:
+
+1. At the top, there is a calendar-like interface with the word "Today" at the top center, flanked by left and right arrow buttons. Below this are the days of the week, from Monday to Sunday (MON, TUE, WED, THU, FRI, SAT, SUN), with dates from 05 to 11 under each day. One of the days appears to be highlighted, suggesting it's the current day.
+2. Below the days, there is a horizontal timeline divided into hours, starting from 19:00 up to 24:00.
+3. On the right side of the horizontal timeline, there is a vertical slider with a plus sign at the bottom, seemingly used to adjust or add sessions on the timeline.
+4. Finally, just above the timeline and the vertical slider, there is a long horizontal bar, indicating the duration within the timeline which is labeled "0H 0M FOCUS," likely reflecting the amount of focused time scheduled or spent on the selected day.
+
+Note that elements may be interactive and serve specific functions within the app, for setting up and tracking focused work sessions or activities.

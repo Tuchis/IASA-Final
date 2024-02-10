@@ -1,0 +1,26 @@
+The image displays a typing interface with various elements that include:
+
+1. A typing statistics area at the top with three circular icons:
+   - The first icon depicts characters per minute with a "0" next to it and "char/min" below.
+   - The second icon depicts typing accuracy with a "100 %" next to it and "accuracy" below.
+   - The third icon depicts the number of typos with a "0" next to it and "typos" below.
+
+2. A text field (editing area) above the keyboard that contains an excerpt of text. This appears to be the text that the user is supposed to type.
+
+3. An on-screen keyboard visually illustrating which keys should be typed:
+   - A row at the top from left to right has the following keys:
+     ` , 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, -, =, delete
+   - The second row from left to right has the following keys:
+     tab, Q, W, E, R, T, Y, U, I, O, P, [, ], \
+   - The third row from left to right has the following keys:
+     caps lock, A, S, D, F, G, H, J, K, L, ;, ', enter, return
+   - The fourth row from left to right has the following keys:
+     shift, Z, X, C, V, B, N, M, ,, ., /, shift
+   - The bottom row from left to right has the following keys:
+     fn, control, option, command, spacebar (depicted as a long blank key), command, option, left-arrow, up-arrow, down-arrow, right-arrow
+
+4. At the bottom left of the screen, there is a question mark icon, which could indicate a help or more information function.
+
+5. At the bottom right of the screen, there is an icon representing settings or configuration options.
+
+Some keys on the keyboard are highlighted or have an indicator, suggesting these are the keys that should be pressed or they have been pressed recently.

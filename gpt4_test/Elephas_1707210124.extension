@@ -1,0 +1,20 @@
+This is a screen showing the onboarding process for an app named "Elephas." Here's a breakdown of the UI elements visible in the image:
+
+1. Header: At the top of the screen, there is a window control (three buttons typically used for closing, minimizing, and maximizing the window) and text saying "Elephas Onboarding".
+
+2. Welcome message: Below the header, prominently displayed is "Welcome to Elephas".
+
+3. Feature descriptions:
+   - "Across Apps": Text underneath explaining that "Elephas consistently works across all applications" with an associated icon.
+   - "Super Brain": Accompanied by text stating "Load your own data from popular data sources to let Elephas help you with your day-to-day writing tasks" and an associated icon.
+   - "Never Feel Stuck": With text below saying "Our smart AI assistant can help with everything from proposals and cover letters to blogs." and an associated icon.
+   - "Fix Grammar": Below which the description reads "Good grammar reflects your credibility. Elephas fixes your grammar mistakes across your applications." and an icon.
+   - "Smart Reply": Text saying "Reply to your emails, social media, and messages with just a click. Use Super Brain in conjunction." and an icon.
+   - "Rewrite": With a description "Rewrite in different modes, from Professional mode to Viral modes." and an icon.
+   - "Super Chat": Text explaining "Run any task with the super-command bar, from filling out your Google Sheets to summarizing articles for you" and an icon.
+   - "Snippets": Accompanied by the description "Define any tasks you need to do repeatedly. Invoke with the super command." and an icon.
+   - "iOS Keyboard": The explanation says "Write across apps with the smart AI keyboard." and an icon.
+
+4. Continue button: At the bottom center of the screen is a "Continue" button, suggesting this is part of a multi-step onboarding process or initial setup.
+
+Each feature is depicted with a relevant icon that represents the functionality described by the text. The layout is organized in three columns with pairs of feature icons and descriptions.

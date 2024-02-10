@@ -1,0 +1,21 @@
+This is a screenshot of a project management application that features a UI with multiple elements to help organize and track the details of planning a "Big birthday." Here are the different UI elements shown:
+
+1. Main Menu/Toolbar: At the top, there's a toolbar or menu with various icons that might represent actions like adding a new item, undoing an action, or changing view settings.
+
+2. Three-pane Layout: The interface is divided into three main sections.
+
+   - Left Pane: Appears to be a task list with a hierarchical structure. Columns include "Traits" (with icons indicating status or type like folders or notes), "Title" (naming each task or category such as "Set date" or "Guest list"), "Given Work" (with durations like "1 day"), and "Given Earliest Start" (with specific start dates like "7 Feb 2024"). Some items can be expanded or collapsed, indicated by the triangle icons.
+   
+   - Middle Pane: This section displays a Gantt chart, which is a visual representation of the project timeline. It shows tasks as horizontal bars across a calendar grid, indicating their duration and dependencies. There are headers indicating the week number and dates. Each task on the Gantt chart correlates with an item in the left pane's task list.
+   
+   - Right Pane: This sidebar contains project settings and details structured in categories with dropdown menus for "Date Presets," "Work & Duration," "Default Values," "Status Date," and "Resources." Fields and selections include various configurations like "Direction," "Start," "First day of week," "Hours per day," "Calculation Unit," "Actual Start/End," and "Currency Symbol."
+
+3. Upper Right Controls: In the upper right corner, there's a search function, some form of filter or funnel icon, list view toggle, and hamburger menu (three horizontal lines), suggesting additional settings or options.
+
+4. Top Right Pane Title: The top of the right pane displays the title of the current settings category or view ("Big birthday: General").
+
+5. Status Bar/Tabs (Top): Across the very top of the window, there seems to be a status bar or tab bar with the title "Big birthday," along with window control buttons (minimize, maximize, close) on the left and other navigation or status icons on the right.
+
+6. Scroll Bars: Visible scroll bars indicate that both horizontal and vertical scrolling is possible within the task list and Gantt chart panes.
+
+Each of these elements would be used to enter, view, and manage different parts of the project, facilitating efficient planning and tracking of tasks and resources.

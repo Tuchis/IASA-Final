@@ -1,0 +1,42 @@
+The UI interface in the image appears to be for a bill management or expense tracking application. Here's a description of the elements visible in the interface:
+
+1. Left Sidebar:
+   - "Bills" section with subcategories:
+       a. Overview (indicates 1 bill)
+       b. Due Soon (indicates 1 bill with a specific amount in UAH)
+       c. Due This Month (indicates 1 bill with the same amount as in Due Soon)
+       d. Paid Recently (indicates there are no bills)
+   - "Reports" section with options:
+       a. Income
+       b. Forecast
+       c. Monthly History
+       d. Annual Spending
+       e. Archive
+
+2. Middle Pane:
+   - At the top, left-aligned, there is a dropdown menu labeled "All Items."
+   - To the right, there is a search field with a magnifying glass icon.
+   - Below are columns labeled "Name," "Amount," and "Due Date" with one entry under "Name" stating "Internet" and a note below it saying "Every month."
+
+3. Pop-up Modal Window:
+   - Title of the modal indicates "Netflix."
+   - Below the title, "Video Streaming & Television" is specified.
+   - A checkbox with a checked state next to an icon (potentially indicating a category or status).
+   - A dropdown menu for "Next Due Date" with a specified date of "20.02.2024" and a "View" button next to it.
+   - A dropdown menu for "Repeat Interval" with the option "Every Month" selected.
+   - A text field for "Amount Due" with a specified amount of "440,00 UAH."
+   - A text field for "Payment URL" with the placeholder "Optional" and an information icon.
+   - Two unchecked checkboxes for "Amount Varies" and "Paid Automatically."
+   - One checked checkbox with the label "Enable Reminder" followed by a text field with the number "7" and a label stating "days before due."
+   - A tags section with a text field apparently for inputting tags but left blank.
+   - A link to "Show More Bill Details."
+   - At the bottom, two buttons: "Cancel" on the left and "Save" on the right.
+
+4. Right Pane:
+   - At the top, right-aligned, a dropdown menu with a checkmark and the word "Internet."
+   - A centered headline stating "Due today" followed by the date "Monday, 5 February 2024" and an amount in UAH.
+   - Two buttons: "Log Payment" and "Skip."
+   - Below, two links: "View Payment History" with the text "Never Paid" and "View Statistics" with the text "Never Paid."
+   - At the bottom, a text input field with the placeholder "Click to add notes" and two buttons labeled "Archive" and "Edit."
+
+Please note that UAH likely refers to the Ukrainian Hryvnia, which is the currency of Ukraine. The UI suggests that the user can track their bills, due dates, and payment history, as well as add reminders for upcoming bills.

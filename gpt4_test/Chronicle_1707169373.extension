@@ -1,0 +1,40 @@
+The UI interface of the app is divided into three main sections. Here is the description of each element in the user interface from left to right:
+
+**Left Section:**
+- A navigation panel with selectable items:
+  - Bills, with subcategories:
+    - Overview (indicates "2 bills")
+    - Due Soon (indicates "1 bill - 270,00 UAH")
+    - Due This Month (indicates "1 bill - 270,00 UAH")
+    - Paid Recently (indicates "No Bills")
+  - Reports, with subcategories that are not selected:
+    - Income (currently selected and highlighted)
+    - Forecast
+    - Monthly History
+    - Annual Spending
+    - Archive
+
+The navigation panel has 3 circle toggles at the top that likely serve as a menu or status indicator.
+
+**Middle Section:**
+- At the top:
+  - Icons for menu, add new item, and another action (three vertical dots)
+  - Dropdown menu with text "All Items"
+  - Search field with placeholder text "Search"
+- A list view with columns for Name, Amount, and Due Date, showing a single entry:
+  - A row with an item labeled "Salary," marked as "INCOME," recurring "Every month," showing an amount of "20 000,00 UAH," and a due date status "Paid in 20 days," due on "Sun, 25 Feb."
+
+**Right Section:**
+- A detailed view of the selected item "Salary":
+  - Header with item name "Salary"
+  - Status message "Due in 20 days"
+  - Date "Sunday, 25 February 2024"
+  - Amount "20 000,00 UAH"
+  - Tag labeled "INCOME"
+  - Two buttons: "Log Payment" and "Skip"
+  - Options for "View Payment History" and "View Statistics" (both indicate "Never Paid")
+  - Text entry area with placeholder "Click to add notes"
+- At the bottom:
+  - Two buttons: "Archive" and "Edit"
+
+Please note that there may be more UI elements that are not immediately visible or interactive within the screenshot provided.

@@ -1,0 +1,14 @@
+The user interface of the app in the image presents several elements focused on adding an email account:
+
+1. At the top left corner, there is a "Back" button, which likely allows users to return to the previous screen.
+2. At the top right corner, there is a "Restore" button, which might be used to restore purchases or settings.
+3. The central upper part of the screen features a large title saying "Add Account".
+4. Below the title, there is a text field with a placeholder that says "Type in your email", indicating where users can enter their email address.
+5. Directly below the text field, there is a large "Add Account" button, presumably to proceed with adding the typed email account.
+6. Below the "Add Account" button is a grid of icons with text labels, representing different email service providers:
+   - The first row contains: "Gmail", "iCloud", and "Outlook".
+   - The second row contains: "Exchange", "Office365", and "Yahoo".
+   - The third row contains just one labeled "Other" to presumably add email services not listed.
+7. The bottom text on the screen states, "Connect and sync all your email accounts with Canary." This appears to be a descriptive statement about the function of the app.
+
+In the top bar of the device's interface, there are signal strength indicators, network connectivity status, and battery status, which are typical for a device's status bar.

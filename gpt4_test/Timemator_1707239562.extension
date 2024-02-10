@@ -1,0 +1,22 @@
+This is an interface guide detailing how to grant Accessibility API access to an application named Timemator. The UI is divided into different sections, and here are the elements in each section:
+
+1. Header: A large header reads "Accessibility API Access."
+
+2. Instructions: Below the header, there is a paragraph explaining that the application named Timemator requires permission to use the Mac's Accessibility system for auto-tracking or activity tracking. It prompts the user to follow the steps below to activate this access.
+
+3. Step-by-Step Instructions: A list of three numbered steps detailing the process of granting Accessibility access:
+  - Step 1: Instructions to open System Preferences and go to Security & Privacy.
+  - Step 2: Directions to click the Privacy tab and select Accessibility from the list.
+  - Step 3: A prompt to click the lock icon to make changes and check the box next to Timemator.
+
+4. Supportive Images: On the right side, there are two images representing the Mac's System Preferences:
+  - The first image shows the System Preferences window with various settings like Wi-Fi, Bluetooth, and Network, including a search bar at the top.
+  - The second image shows the Accessibility section within System Preferences, indicating where to find and enable Timemator.
+
+5. Navigation Buttons:
+  - At the bottom left, there is a "Back" button that presumably takes the user to the previous screen.
+  - At the bottom right, there is a more prominent button labeled "Open System Preferences," which seems to be an actionable button that could be used to directly open the System Preferences.
+
+6. Page Navigation Dots: At the bottom center, there are dots that suggest this is a slide within a series of slides or pages; the active dot indicates the current page.
+
+This is a high-level description of the UI elements and their intended use within the app's interface guide.

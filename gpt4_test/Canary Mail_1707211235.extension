@@ -1,0 +1,9 @@
+The UI interface of the app contains the following elements:
+
+1. At the top left, there's a "Back" button for navigation purposes.
+2. In the upper middle section, there is text that reads "Add Account".
+3. Below the "Add Account" title, there's a notification that says "Please enter a valid email address," which is likely a prompt for user input validation.
+4. There is a text field where a partial email has been entered ("yelyzaveta.").
+5. Below the text field, there's a button labeled "Sign In", which is presumably used to submit the information entered into the text field.
+
+The topmost part of the UI shows the system status bar, which typically displays signal strength, time, battery level, etc., but these details are not specifically UI elements of the app itself.

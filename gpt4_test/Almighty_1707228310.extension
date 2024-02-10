@@ -1,0 +1,20 @@
+The UI interface in the image presents a window with a split layout. The left side of the window features a vertical navigation menu with the following elements:
+
+1. A button labeled "General" with an associated gear icon.
+2. A button labeled "Workflows" with an associated lightning bolt icon which appears to be selected or active, highlighted by a surrounding shape.
+3. A button labeled "Shortcuts" with an associated keyboard icon.
+4. A button labeled "License" with an associated checkmark icon.
+
+At the top of the window, there's a window control header with:
+
+1. Standard window control buttons (three circles typical on a macOS interface, suggesting this is an application window on a Mac).
+2. The title of the app or window appears to be "Almighty".
+
+On the right side of the window, it looks like a content area with the following elements:
+
+1. A header labeled "Workflows".
+2. Below the header, there is an item labeled "Favorite" with an associated star icon.
+3. Adjacent to the "Workflows" header, there is a plus button, likely for adding a new workflow.
+4. At the bottom, there is a text field with placeholder text that reads "Organize tweaks with workflows".
+
+This sums up all the identifiable UI elements presented in the image.

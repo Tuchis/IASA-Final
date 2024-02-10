@@ -1,0 +1,27 @@
+In the UI interface, there are several elements as described below:
+
+1. At the top of the window, there is a title which reads "Merlin Project Express".
+
+2. Just below the window control buttons (three dots), there's a side panel on the left with four items:
+   - A symbol that looks like a piece of paper with a corner folded, labeled "New Document"
+   - A clock-like symbol indicating "Recent Documents"
+   - A question mark inside a circle indicating "Help & Instructions"
+   - A symbol that appears to represent a folder or file system, labeled "Own Templates"
+
+3. In the main panel, there are two sections:
+   - The first section at the top has two options:
+     - A square named "Empty Document" with a document icon.
+     - Another square named "Demo Document" with a presentation or projection screen icon.
+   - The second section is labeled "Templates", containing six options, each with an icon and text:
+     - "Big birthday"
+     - "Online advertising campaign"
+     - "Road trip"
+     - "Simple activity plan"
+     - "Start of self employment"
+     - "Wedding"
+
+4. Below the template section, there's a button labeled "Open existing document…".
+
+5. At the bottom, there are two buttons aligned to the right:
+   - A button labeled "Cancel"
+   - Another button labeled "Create"

@@ -1,0 +1,20 @@
+The UI interface of the app shown in the image contains various elements:
+
+1. Top navigation bar:
+   - A "< Go Back" link on the left side.
+   - Title tabs: "Frames," "Transforms," "Adjustments," "Blending," "Speed," "Export."
+   - On the far right side of this bar, there are three icons: a shopping cart, a magnifying glass for search, and a profile or account symbol.
+
+2. Main content area:
+   - This area displays the image or video being edited, with a two-pane layout. The left pane shows the visual content; the right pane has adjustment controls.
+   - In the right pane, a titled section "Adjust Colors" with a subheading "Adjust colors using keyframes".
+   - Below the titles, there are several collapsible menus with sliders and circular buttons next to them for further settings: "White Balance," "Motion," "Noise Reduction," "Color Controls," "Light Correction," "Exposure Correction," "Gamma Correction," "Hue Correction," and "Sepia Tone."
+
+3. Bottom navigation:
+   - Four video playback control icons (presumably "Previous frame," "Play/Pause," "Stop," "Next frame").
+   - A ratio indicator "1/2" probably indicating that the user is viewing the first of two items.
+   - A horizontal slider that is likely meant to seek through the video or select a specific frame.
+   - A drop-down labeled "More" with a downward arrow indicating more options or settings.
+   - A "Continue" button with an arrow, likely to proceed with the next step in the editing process or to save the changes.
+
+The interface seems to be designed for editing visual content, with a focus on video or photo color adjustment and enhancement.

@@ -10,7 +10,7 @@ def encode_image(image_path):
         return base64.b64encode(image_file.read()).decode('utf-8')
 
 # Replace 'path_to_your_image.jpg' with the path to your actual image file
-image_path = "/home/kuzhum/IASA/IASA-Final-Vlad/IASA_Champ_Final/app_data/AppStore/1707173654/App Store-1707173656.53.png"
+image_path = "/home/kuzhum/IASA/IASA-Final-Vlad/test-suite/ClearVPN-1707081884.62.png"
 base64_image = encode_image(image_path)
 
 headers = {
@@ -18,7 +18,7 @@ headers = {
     "Authorization": f"Bearer {api_key}"
 }
 
-prompt = "Here is an image of an app. I want you to detect all UI elements that are present in the image. For each UI element detected, I want you to provide the name of the UI element and the coordinates of the bounding box around the UI element. Also, if that UI element has some special property (it is a button, a text field, a label, etc.), I want you to provide that information as well. If there are any other details that you think are important, please include them as well."
+prompt = "You have a photo of UI interface of an app. Describe every element of UI. Include all buttons and text fields. Do not talk about color, style etc"
 
 payload = {
     "model": "gpt-4-vision-preview",
@@ -36,7 +36,7 @@ payload = {
         ]
       }
     ],
-    "max_tokens": 300
+    "max_tokens": 500
 }
 
 # Make the API request and print out the response

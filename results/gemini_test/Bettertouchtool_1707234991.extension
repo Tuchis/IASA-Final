@@ -1,0 +1,5 @@
+ The UI of the app consists of a main window which is divided into two parts. The left part is a sidebar which contains a list of all the apps on the computer. The right part is the main area which shows the contents of the selected app.
+
+The sidebar has a search field at the top, a list of apps in the middle, and a button to add a new app at the bottom. The main area has a toolbar at the top, a content area in the middle, and a status bar at the bottom.
+
+The toolbar has a back button, a forward button, a reload button, and a stop button. The content area shows the contents of the selected app. The status bar shows information about the current app.

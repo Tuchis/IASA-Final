@@ -1,0 +1,11 @@
+ The UI is divided into two parts. The left part has a sidebar with 5 sections: Calendars, Markdown, Todo, Editor and Themes. The right part has the content of the selected section.
+
+In the Calendars section, there are 4 subsections: General, Show calendar notes, Request Permissions and Reminders.
+
+In the General subsection, there are 2 rows. The first row has a label "Start week on:" and a dropdown next to it with "Monday" as the selected option. The second row has a label "Show calendar notes:" and 4 checkboxes next to it. The checkboxes are "Weekly", "Monthly", "Quarterly" and "Yearly". The "Weekly" checkbox is checked.
+
+In the Show calendar notes subsection, there is a checkbox with a label "Select which calendar notes should be visible in the sidebar." and a dropdown next to it. The dropdown has 3 options: "iCloud", "Home" and "Work". The "iCloud" option is selected.
+
+In the Request Permissions subsection, there is a button that says "Request Permissions".
+
+In the Reminders subsection, there are 2 rows. The first row has a label "iCloud" and a checkbox next to it. The checkbox is checked. The second row has a label "Reminders" and a checkbox next to it. The checkbox is checked.

@@ -1,0 +1,7 @@
+ The UI of the app has a minimal design. It consists of a  text field, a button and a back button in the upper left corner. 
+
+The text field is located in the middle of the screen and has a label "Please enter a valid email address". The text field is empty and the user is expected to enter their email address. 
+
+The button is located below the text field and has a blue background with a white label "Sign In". The button is disabled and the user is not able to click it until they enter a valid email address. 
+
+The back button is located in the upper left corner of the screen and has a label "Back". The button is enabled and the user is able to click it to go back to the previous screen.

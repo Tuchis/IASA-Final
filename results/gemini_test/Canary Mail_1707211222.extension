@@ -1,0 +1,9 @@
+ The UI of the app has a minimal design. It consists of a  header, a body, and a footer.
+
+The header has a back button on the left and a restore button on the right. In the middle, there is the text "Add Account".
+
+The body has a text field where the user can enter their email address. Below the text field, there is a blue button that says "Add Account".
+
+Below the button, there are a number of logos for different email providers. The logos are for Gmail, iCloud, Outlook, Exchange, Office 365, Yahoo, and Other.
+
+The footer has the text "Connect and sync all your email accounts with Canary".

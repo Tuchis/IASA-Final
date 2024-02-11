@@ -1,0 +1,12 @@
+ The UI of the app has a sidebar on the left and a main content area on the right.
+
+In the sidebar, there are 5 sections:
+- New Project
+- Recent
+- Learn to Play
+- Lesson Store
+- Project Templates
+
+The main content area has a large blue button in the center. The text on the button is "Empty Project". Below the button, there is a text field that says "Create an empty project". Next to the text field, there is a blue button that says "Choose".
+
+In the bottom left corner of the window, there is a button that says "Details".

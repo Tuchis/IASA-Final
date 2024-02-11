@@ -1,0 +1,13 @@
+ The UI interface of the app includes the following elements:
+
+- A navigation bar with a "Home" button on the left and a "Welcome to Bike" title in the center.
+- A text field with the text "Welcome to Bike!"
+- A text field with the text "Use Bike to record and process your ideas. You'll need to spend a little time learning Bike to get the most out of it."
+- A checkbox with the text "Watch intro movie" and a link to a video.
+- A checkbox with the text "Browse the User's Guide" and a link to a guide.
+- A checkbox with the text "Learn the keyboard shortcuts" and a link to a page of keyboard shortcuts.
+- A checkbox with the text "Learn Bike's innovative rich text editing" and a link to a page about rich text editing.
+- A text field with the text "Feel free to delete this text. Uncheck "Show Welcome in new documents" in Bike's preferences to stop including this text in new outlines."
+- A text field with the text "Thanks,"
+- A text field with the text "Jesse"
+- A button with the text "Heading"

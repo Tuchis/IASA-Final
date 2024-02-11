@@ -1,0 +1,10 @@
+ The UI is divided into 3 parts: The left side is the **library** section, the middle is the **track** section and the right side is the **controls** section.
+
+**Library**
+The library section has a search bar at the top. Below the search bar, there is a list of sounds. The list of sounds is divided into 4 categories: Voice, Acoustic Guitar, Electric Guitar and Bass, and Effects.
+
+**Track**
+The track section has a waveform of the audio file. Above the waveform, there is a play button, a pause button, a stop button, a record button, and a mute button. Below the waveform, there is a volume slider.
+
+**Controls**
+The controls section has 3 tabs: Recording Settings, Master, and Compare. The Recording Settings tab has a drop-down menu to select the input device, a slider to adjust the input level, and a button to enable or disable the noise gate. The Master tab has a fader to adjust the volume of the track, and a button to enable or disable the compressor. The Compare tab has a waveform of the original audio file and a waveform of the processed audio file.

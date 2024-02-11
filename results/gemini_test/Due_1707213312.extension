@@ -1,0 +1,7 @@
+ The UI of the app includes a search bar at the top, a list of reminders below the search bar, and a set of buttons at the bottom of the screen.
+
+The search bar has a magnifying glass icon on the left and a text field on the right. The text field is labeled "Search" and has a placeholder that says "Search".
+
+Below the search bar is a list of reminders. Each reminder consists of a time, a title, and a play button. The time is displayed in a large font on the left side of the reminder. The title is displayed in a smaller font below the time. The play button is located on the right side of the reminder.
+
+The buttons at the bottom of the screen are used to create new reminders. The first button is a plus sign. The second button is a clock. The third button is a notebook. The fourth button is a bell. The fifth button is a triangle with an exclamation mark.

@@ -1,0 +1,35 @@
+ The UI of the app is divided into two parts: the left sidebar and the main content area.
+
+The left sidebar contains a list of options, each of which corresponds to a different section of the app. The main content area displays the content of the selected section.
+
+The following is a list of the elements in the left sidebar:
+
+Standard Settings:
+- User Interface
+- Touch Bar
+- Stream Deck
+- Notch/Action Menu Bar
+- Window Snapping & Moving
+- BTT Remote
+
+Advanced Settings:
+- General
+- Trackpad
+- Magic Mouse
+- Keyboard
+- Drawings / Mouse Gestures
+- MIDI Settings
+- Scripting BTT
+- Web Server
+
+The following is a list of the elements in the main content area:
+
+- A checkbox that says "Enable Notch / Custom Action Bar Support (requires macOS 12 or later)".
+- A checkbox that says "Toggle between Menu Bar and Widget Mode by scrolling up/down on the Bar".
+- A checkbox that says "Toggle Bar Mode" which can assign to any BTT trigger.
+- A checkbox that says "Also show on Standard Screens without Notch".
+- A checkbox that says "Show mini menubar and mini status items on top edge of Notch Bar instead of bottom edge".
+- A checkbox that says "Use desktop background image for Notch Bar".
+- A slider that says "Notch Bar Width".
+- A button that says "Apply Width".
+- Documentation is available on: https://docs.folivora.ai/docs/1200_notch_bar.html

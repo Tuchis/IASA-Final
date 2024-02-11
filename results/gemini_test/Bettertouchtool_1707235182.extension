@@ -1,0 +1,49 @@
+ At the top of the window, there is a menu bar with the following items:
+
+- Standard Settings
+- Advanced Settings
+- Help
+
+In the main area of the window, there are two sections:
+
+- The left section contains a tree view of the different settings categories.
+- The right section contains the controls for the selected setting.
+
+The following is a list of the items in the tree view:
+
+- User Interface
+- Touch Bar
+- Trackpad
+- Notch / Action
+- Menu Bar
+- Window Snapping & Moving
+- BTT Remote
+- General
+- Magic Mouse
+- Keyboard
+- Drawings / Gestures
+- MIDI Settings
+- Scripting BTT
+- Web Server
+- Normal Mouse
+
+The following is a list of the controls in the right section:
+
+- Show Menu Bar Icon (if you hide the icon you can access the preferences by starting BTT again)
+- Show Dock Icon while running (may require restart)
+- Font Sizes in the Main User Interface:
+    - Increase / Decrease Base Font Size by:
+    - pt
+    - Reset BTT to Apply Changes
+- App Side-Bar:
+    - Use Default Dark Translucent Side-Bar
+    - Restart BTT to Apply Changes
+- Language & Region:
+    - Language:
+        - System Language (if available)
+    - Region Settings
+    - Restart BTT to Apply Changes
+- Various things:
+    - Only show recently used colors in side-bar color picker dropdown
+
+At the bottom of the window, there is a button that says "Restore Defaults".

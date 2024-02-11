@@ -1,0 +1,20 @@
+ The UI of the Google sign-in page consists of the following elements:
+
+1. Google logo
+2. Search bar
+3. Profile picture
+4. Sign in button
+5. Create account button
+6. Language selector
+7. Help Center link
+8. Privacy Policy link
+9. Terms of Service link
+
+In addition to the visual elements, the UI also includes the following interactive elements:
+
+1. Sign in button: Allows users to sign in to their Google account.
+2. Create account button: Allows users to create a new Google account.
+3. Language selector: Allows users to select their preferred language for the Google interface.
+4. Help Center link: Opens the Google Help Center in a new tab.
+5. Privacy Policy link: Opens the Google Privacy Policy in a new tab.
+6. Terms of Service link: Opens the Google Terms of Service in a new tab.

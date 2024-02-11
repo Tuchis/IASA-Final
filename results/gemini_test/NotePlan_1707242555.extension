@@ -1,0 +1,18 @@
+ The UI of the app has a sidebar on the left and a content area on the right.
+
+The sidebar contains a list of items, each of which represents a different section of the app. The items are:
+
+- Calendars
+- Markdown
+- Todo
+- Editor
+- Themes
+- AI & Plugins
+- Sync
+- Shortcuts
+- Files
+- License
+
+The content area displays the contents of the selected section. For example, if the "Calendars" section is selected, the content area will display a list of calendars.
+
+The app also has a number of buttons and text fields. The buttons are used to perform actions, such as creating a new calendar or opening a file. The text fields are used to enter data, such as the name of a new calendar or the text of a new note.

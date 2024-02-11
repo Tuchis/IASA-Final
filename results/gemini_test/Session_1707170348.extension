@@ -1,0 +1,9 @@
+ The app's UI is divided into three main sections.
+
+The top section has a timer that is counting down from 25 minutes. To the right of the timer is a button that says "Show notes only". Below the timer is a calendar that shows the current week. The days of the week are abbreviated as "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", and "Sun". The current day, "Thu", is highlighted in blue.
+
+The middle section is a table that shows the user's focus and break time. The table has three columns: "Total Focus", "Average Focus/Day", and "Most Focused". The "Total Focus" column shows the total amount of time that the user has been focused for. The "Average Focus/Day" column shows the average amount of time that the user has been focused for each day. The "Most Focused" column shows the day of the week when the user was most focused.
+
+The bottom section is a pie chart that shows the distribution of the user's focus time across different categories. The pie chart is divided into five slices: "Work", "Personal", "Health", "Social", and "Other". The "Work" slice is the largest, followed by the "Personal" slice. The "Health", "Social", and "Other" slices are all relatively small.
+
+In the bottom right corner, there is a button with a plus sign on it. When the user clicks on this button, they will be able to add a new task to their list.

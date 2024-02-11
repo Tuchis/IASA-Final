@@ -1,0 +1,27 @@
+ The UI is divided into two parts. The left part has a sidebar with 5 items:
+* General
+* Windows
+* Snapping
+* Apps
+* Menubar
+* Advanced
+* About
+
+The right part has the content area. In the screenshot, the content area is showing the settings for the "Apps" section. The content area has a title "Apps" and a description "Control running applications by swiping and pinching on their dock icon."
+
+Below the description, there is a section called "Application Menu". It has a checkbox "You can also invoke gestures on the app's menu, right next to the  symbol."
+
+Below the "Application Menu" section, there is a section called "General Modifier". It has a label "Tap and hold to activate and chain an app's frontmost window. This allows you to apply any window gesture afterwards." and a modifier key icon.
+
+Below the "General Modifier" section, there is a section called "Secondary Modifier". It has a label "Swipe up to activate and chain windows of an app in forward or backward order." and a modifier key icon.
+
+Below the "Secondary Modifier" section, there is a list of 6 actions:
+
+* Activate
+* Cycle
+* Quit
+* Minimize
+* Unminimize
+* Hide
+
+Each action has a label and a shortcut. The shortcuts are modifier keys or combinations of modifier keys.

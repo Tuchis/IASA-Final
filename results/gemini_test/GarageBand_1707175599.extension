@@ -1,0 +1,18 @@
+ The UI is divided into 2 parts. Left side and right side.
+Left side has 5 buttons:
+- New Project
+- Recent
+- Learn to Play
+- Lesson Store
+- Project Templates
+
+Right side has 5 sections. Each section has a title, an image and a description.
+First section is selected and it's title is "Keyboard Collection". Its image is a keyboard and description reads "A diverse collection of keyboards and synthesizers".
+Other sections are:
+- Amp Collection
+- Voice
+- Hip-Hop
+- Electronic
+- Songwriter
+
+Below these 5 sections, there is a button that reads "Choose". Below this button there is a text field that reads "Open an existing project...".

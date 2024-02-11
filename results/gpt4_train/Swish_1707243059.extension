@@ -1,0 +1,29 @@
+This image shows a UI interface for what appears to be an application settings window, possibly for a window management app named "Swish." Here are the elements present in the UI:
+
+On the left-hand side, there is a vertical navigation pane with the following items, where one item is highlighted indicating the current selection:
+- A cogwheel icon with the text "General" beside it.
+- An icon resembling two overlapping windows with the text "Windows" beside it.
+- A highlighted icon featuring a window with an arrow pointing inwards on each side, which reads "Snapping."
+- An icon suggestive of application windows, with the label "Apps."
+- An icon symbolizing a menu bar, with the text "Menubar."
+- An icon of a cogwheel with connected dots, with the text "Advanced."
+- An information icon with the text "About."
+
+On the top right corner of the window, there is a "Quit" button.
+
+In the main content area to the right, there are sections, titles, adjustable settings, toggle switches, and descriptive text with the following elements:
+
+- The heading "Snapping" followed by a brief description about window snapping to different grid layouts.
+- A "Grid Spacing" slider with a scale, a bubble indicating the current position, and a "Default" button beside it. There is a question mark icon indicating help or more information and accompanying text about the purpose of grid spacing.
+- A section with toggle options and descriptions:
+  - A checked checkbox labeled "Drag to Unsnap" with accompanying descriptive text.
+  - An unchecked checkbox labeled "Activate Window" next to an unchecked checkbox labeled "Move Cursor" with no descriptive text shown.
+  - A checked checkbox labeled "Resize Adjacent Windows" with descriptive text below it.
+
+- A separator line, followed by a customizable key command section with checkboxes (none are checked in the image), swipe or tap command icons, and accompanying descriptive text for four functions:
+  - "Center & Unsnap" with a double-tap hand gesture icon.
+  - "Maximize" with an upward swipe gesture icon.
+  - "Halves" with left and right swipe gesture icons.
+  - "Vertical" with double upward and downward swipe gesture icons.
+
+This interface allows users to customize how their windows behave through various gesture controls and spacing configurations.

@@ -3,7 +3,7 @@ from openai import OpenAI
 
 class OpenAI_Client:
     def __init__(self) -> None:
-        self.PROMPTS = json.load(open("data/prompts.json"))
+        self.PROMPTS = json.load(open("/home/kuzhum/IASA/IASA-Final-Vlad/test-suite/data/prompts.json"))
         # створіть клієнт використовуючи токен вашої команди
         self.openai_client = OpenAI(api_key="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")
 

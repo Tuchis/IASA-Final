@@ -1,0 +1,11 @@
+The image displays a user interface with the following elements:
+
+1. A header text that reads: "Choose the main purpose of your journal for a personalized experience:"
+2. A list with five options, each with a circular button to the left that can be selected, and each option is accompanied by an icon and a description. The options are as follows:
+   - Option 1: "Foster self-improvement and self-discovery" with a sprout icon.
+   - Option 2: "Practice mindfulness and live in the present" with a meditating person icon.
+   - Option 3: "Document your everyday moments and thoughts" with a book icon.
+   - Option 4: "Reflect and cultivate mental health" with a smiling face and leaf icon. This option has a checkmark indicating it is currently selected.
+   - Option 5: "Capture memories and experiences from your journeys" with a globe icon.
+   - Option 6: "Set, track, and celebrate your progress" with a checkmark icon.
+3. A button at the bottom that reads "Continue".

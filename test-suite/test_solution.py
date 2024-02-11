@@ -15,7 +15,7 @@ train_data_file = 'ui_questions_train.tsv'
 
 train_data = pd.read_csv(os.path.join(train_data_path, train_data_file), sep='\t')
 
-image_representations_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gemini_test"
+image_representations_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gpt4_train"
 
 # Get screen representation ids from files in the folder
 screen_representations = os.listdir(image_representations_folder)
@@ -25,8 +25,6 @@ screen_representations = [int(screen.split('_')[1].split('.')[0]) for screen in 
 
 # Get rows from the train data that are in the screen representations
 train_data = train_data[train_data['Screen id'].isin(screen_representations)]
-
-print(train_data.head(5))
 
 # Image representations folder
 
@@ -42,49 +40,56 @@ openai_client = OpenAI_Client()
 questions = {}
 correct_answers = {}
 
-PROMPTS = json.load(open("data/prompts.json"))
+PROMPTS = json.load(open("/home/kuzhum/IASA/IASA-Final-Vlad/test-suite/data/prompts.json"))
 for prompt in PROMPTS:
     questions[prompt] = 0
     correct_answers[prompt] = 0
 
 # Iterate over the train data and get responses
 for row_ind, row in train_data.iterrows():
-    app_bundle, app_name, screen_id, question, answer, answer_type = row
+    try:
+        app_bundle, app_name, screen_id, question, answer, answer_type = row
 
-    # Make screen_id a string
-    screen_id = str(screen_id)
+        if answer == 'Yes':
+            answer = 'yes'
+        if answer == 'No':
+            answer = 'no'
 
-    # Find the representation of the screen
-    screen_representation = get_screen_representation(app_name, screen_id)
+        # Make screen_id a string
+        screen_id = str(screen_id)
 
-    # Get the model response
-    model_response = openai_client.get_model_response(
-        answer_type,
-        question, 
-        screen_representation
-    )
+        # Find the representation of the screen
+        screen_representation = get_screen_representation(app_name, screen_id)
 
-    model_response = str(model_response) 
+        # Get the model response
+        model_response = openai_client.get_model_response(
+            answer_type,
+            question, 
+            screen_representation
+        )
 
-    print(f"Question: {question}")
-    print(f"Answer: {answer}")
-    print(f"Model response: {model_response}")
+        model_response = str(model_response) 
 
-    print(type(answer), type(model_response))
+        print(f"Question: {question}")
+        print(f"Answer: {answer}")
+        print(f"Model response: {model_response}")
 
-    # Check if the model response is correct
-    if answer_type == 'coordinates':
-        coord = ast.literal_eval(answer)
-        bbox = ast.literal_eval(model_response)
-        print(f"Answer: {coord}")
-        # Check if answer is in bbox
-        if coord[0] >= bbox[0] and coord[1] >= bbox[1] and coord[2] <= bbox[2] and coord[3] <= bbox[3]:
-            correct_answers[answer_type] += 1
-    else:
-        if model_response == answer:
-            correct_answers[answer_type] += 1
-    
-    questions[answer_type] += 1
+        # Check if the model response is correct
+        if answer_type == 'coordinates':
+            bbox = ast.literal_eval(answer)
+            coord = ast.literal_eval(model_response)
+            print(f"Answer: {coord}")
+            # Check if answer is in bbox
+            if coord[0] >= bbox[0][0] and coord[1] >= bbox[0][1] and coord[0] <= bbox[1][0] and coord[1] <= bbox[1][1]:
+                correct_answers[answer_type] += 1
+        else:
+            if model_response == answer:
+                correct_answers[answer_type] += 1
+        
+        questions[answer_type] += 1
+    except Exception as e:
+        print(f"Error: {e}")
+        continue
 
 # Get statistics
 for prompt in PROMPTS:

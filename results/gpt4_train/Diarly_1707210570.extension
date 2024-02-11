@@ -1,0 +1,36 @@
+The image displays a user interface of a journaling app, with several distinct elements:
+
+On the left-hand side of the screen, we have a sidebar:
+
+1. At the top of the sidebar, there's a magnifying glass icon indicating a search functionality followed by a search text field where users can input text to search within the app.
+2. Below the search bar, there are two tabs. The first one shows an emoji followed by "My Journal", which suggests that this is a personalized journal section. The second tab is titled "All Notes", suggesting it displays all the entries or notes.
+3. In the sidebar, there is a "View" section with five different icons:
+   - A "List" icon indicating a list view.
+   - A "Calendar" icon suggesting a calendar view.
+   - A "Map" icon indicating a geolocation or map view.
+   - A "Gallery" icon suggesting a media or photo view.
+   - A "Stats" icon likely indicating a statistics or analytics view of the user's journal entries.
+4. After these view options, there's a "Settings" icon, presumably to adjust the app's settings.
+
+In the main content area on the right-hand side of the screen, there are two visible panels:
+
+1. The first panel on the right, the top bar includes:
+   - A grid icon which might open additional options or modules.
+   - A bell icon which typically represents notifications or reminders.
+   - A circular icon that likely takes the user to the current day's entry or view.
+   - A three-dots vertical icon suggesting more options or settings.
+
+2. The main content of this panel displays text, comprising:
+   - A welcome message titled "Welcome to Diarly" followed by a short introduction paragraph.
+   - A timestamp indicating "2m" which likely means the welcome note was created 2 minutes ago.
+   - Two icons at the bottom, one resembling sharing/exporting functionality and the other resembling more options (ellipsis icon).
+
+3. The second panel on the right features:
+   - An arrow icon pointing left, a calendar icon with "Tue, 6 February" showing the date, and an arrow icon pointing right at the top bar, suggesting navigation between dates.
+   - Text prompts for journaling such as "Three small things I'm grateful for:", "What is my positive intention for the day?", and "How did I feel today and what patterns or triggers did I notice?"
+   - Below the text prompts, there is a location tagged as "Kyiv, Antonovycha Street" along with weather-related icons and text indicating "2°C" and a wind power indicator.
+   - At the bottom of this entry, there are tags or categories shown as "#StartingOut" and "Welcome to Diarly" with an associated icon.
+
+4. A note editing tool panel is partially visible with options such as "Heading 1," "Checklist," "Quote," "List," "Ordered List," "Insert current time," "Insert current date," "Insert time-separator," "Insert weather," and "Insert current location."
+
+The UI seems to be designed for ease of use, with clear labeling and categorization of features for an appealing user experience in creating and navigating journal entries.

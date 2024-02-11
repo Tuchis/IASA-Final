@@ -26,20 +26,21 @@ if FINAL_RUN:
         if folder.endswith('DS_Store'):
             continue
         for screenshot in os.listdir(os.path.join(file_folder, folder)):
-            if screenshot.endswith('DS_Store'):
-                continue
-            for file in os.listdir(os.path.join(file_folder, folder, screenshot)):
-                if file.endswith('DS_Store'):
+            if not os.path.exists(os.path.join(result_folder, f"{folder}_{screenshot}.extension")):
+                if screenshot.endswith('DS_Store'):
                     continue
-                if file.endswith('.json') or file.endswith('box.png'):
-                    continue
-                else:
-                    print(folder, screenshot, file)
-                    counter += 1
-                    response = gpt4v_response(os.path.join(file_folder, folder, screenshot, file), prompt, max_tokens)
-                    content = response['choices'][0]['message']['content']
-                    with open(os.path.join(result_folder, f"{folder}_{screenshot}.extension"), 'w') as file:
-                        file.write(content)
+                for file in os.listdir(os.path.join(file_folder, folder, screenshot)):
+                    if file.endswith('DS_Store'):
+                        continue
+                    if file.endswith('.json') or file.endswith('box.png'):
+                        continue
+                    else:
+                        print(folder, screenshot, file)
+                        counter += 1
+                        response = gpt4v_response(os.path.join(file_folder, folder, screenshot, file), prompt, max_tokens)
+                        content = response['choices'][0]['message']['content']
+                        with open(os.path.join(result_folder, f"{folder}_{screenshot}.extension"), 'w') as file:
+                            file.write(content)
 
         print("\n")
 

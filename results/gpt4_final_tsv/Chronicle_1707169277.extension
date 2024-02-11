@@ -1,0 +1,37 @@
+The image provided is a screenshot of a financial management application's user interface (UI). This application appears to be designed for tracking bills and expenses. The UI is divided into three main columns, with additional navigation options on the far left. I will describe each element of the UI from left to right.
+
+**Left Navigation Panel:**
+1. **Radio buttons** - The top left corner features three horizontal radio buttons, likely for toggling different views or sections of the app.
+2. **Bills Section** - Below are toggle options related to various bill categories:
+   - Overview: listing 2 bills
+   - Due Soon: 1 bill due amounting to 270,00 UAH
+   - Due This Month: 1 bill due amounting to 270,00 UAH
+   - Paid Recently: showing 'No Bills'
+3. **Reports Section** - Further down, there are report-related toggles which include:
+   - Income
+   - Forecast
+   - Monthly History
+   - Annual Spending
+   - Archive
+
+**Center Main Content Area:**
+1. **Top bar** - Here, there are icons for navigation (horizontal lines), addition of new items (+ sign), and a dropdown menu that currently shows "All Items."
+2. **Search Field** - An input field enabled for search with a magnifying glass icon.
+3. **Bill List** - This comprises a table with three headers:
+   - Name: displaying two entries, "Internet" tagged as 'Every month' and "Netflix" also tagged as 'Every month'
+   - Amount: respective bill amounts are listed here, 270,00 UAH for Internet and 440,00 UAH for Netflix.
+   - Due Date: Each bill's due date is displayed with color-coded tags, indicating "Due today" for the Internet bill on 'Mon, 5 Feb' and "Due in over 1 month" for the Netflix bill on 'Wed, 20 Mar'.
+
+**Right Detail View:**
+1. **Header** - There's a checkmark next to the text "Netflix," implying selection or completion.
+2. **Back Navigation** - A left-pointing arrow indicating a way to navigate back.
+3. **Statistics Section** - Details specific to Netflix billing are shared here:
+   - TOTAL PAID: 440,00 UAH
+   - AVERAGE: 440,00 UAH
+4. **Totals By Year Table** - This table has three entries for years 2024, 2023, and 2022, with only 2023 having an entry next to it stating "440,00 UAH in 1 payments."
+5. **Payments By Month** - A list showing payment history by month with entries for Feb 24, Jan 24, Dec 23, Nov 23, Oct 23, and Sep 23, each showing 0,00 UAH.
+6. **Buttons** - Two buttons at the bottom labeled "Archive" and "Edit."
+
+The UAH currency indicates that this app may be used in a country where the Ukrainian hryvnia is the local currency.
+
+This comprehensive description provides an overview of the UI and its elements within the context of the application.

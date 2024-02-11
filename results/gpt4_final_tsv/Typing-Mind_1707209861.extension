@@ -1,0 +1,33 @@
+The image displays a user interface of an application with features for setting up a chatbot or AI assistant. Here is a detailed breakdown of the visible UI elements:
+
+1. **Welcome message:**
+   - Heading indicating this section is for setting the initial message for new chats.
+   - A text field with the placeholder message: "Hello, I'm a life coach. How can I help you today?" This is editable and serves as the first message users will see when starting a new conversation with the chatbot.
+
+2. **Conversation Starters:**
+   - A heading for setting up suggested first messages for users.
+   - A button labeled "+ Add Conversation Starters" allows the user to add new conversation starter prompts.
+
+3. **Training Examples:**
+   - A heading for adding examples that help train the AI on how to respond.
+   - A button labeled "+ Add Training Examples" enables the user to contribute more training samples.
+
+4. **Assigned Model:**
+   - Describes the section where one can assign a specific AI model for the character.
+   - A dropdown menu that is currently set to "None," with placeholder text suggesting available options such as GPT-3.5, GPT-4, Claude, etc.
+   - A descriptive subtext explains that enforcing the assigned model means users won't be able to change the model when using this character.
+   - There's a radio button option to 'Enforce assigned model' which is currently unchecked.
+
+5. **Assigned Plugins:**
+   - An option to assign plugins to the chatbot character, with an associated unchecked checkbox labeled "Assign plugins for this character."
+
+6. **Assigned Text-to-Speech Settings:**
+   - An option for configuring text-to-speech settings specific to the chatbot character with an unchecked checkbox labeled "Assign text-to-speech settings for this character."
+
+7. **Save and Cancel Buttons:**
+   - Two action buttons are present, a blue "Save" button to confirm the changes and a "Cancel" button to discard them.
+
+8. **Close Button:**
+   - A "Close" button with a dark background located at the bottom-right of the window to exit the settings.
+
+The surrounding context includes some blurred elements suggesting a navigation bar on the left side with various chat-related settings or logs, possibly representing different chatbot characters or configurations. There is also a watermark at the bottom-right corner that reads "Typing Mind," which could be the name of the application or the platform you are viewing the settings in.

@@ -1,0 +1,45 @@
+The image shows a user interface, presumably of a VPN application named ClearVPN, with a focus on the "Account" section. The UI elements are set against a dark blue background, creating a modern and sleek look. Let's describe the elements from left to right, top to bottom:
+
+On the left side:
+1. **Orange dot**: It's located at the top left corner, likely indicating application status or a notification.
+2. **Menu items**: There's a vertical menu with the following items, each potentially leading to different sections of the application:
+   - Account (currently selected, highlighted with a bright blue background)
+   - Your devices
+   - System settings
+   - Shortcuts
+   - Stand with Ukraine (accompanied by an emoji of the Ukrainian flag)
+   - Need help?
+
+On the right side:
+1. **Header**: "Account" in large, bold white text, indicating the current section.
+2. **Close button**: An "X" in a white circle located at the top right corner, probably used to close the current view.
+3. **App language setting**: It shows "English" as the selected application language. There is a link below it that says "How to change app language on Mac," suggesting help information.
+4. Horizontal divider: Separates the language setting from the newsletter option.
+5. **Newsletter toggle**: "ClearVPN's newsletter" described with "Don't miss updates, tips & special offers" and a switch toggle set to off (greyed out). This suggests you can opt in to receive updates from ClearVPN.
+
+On the bottom:
+6. **Promotional box**: It contains an image of multiple devices (likely representing the VPN service usage across devices) and has a caption inside a purple tag which says, "Are you sure all your devices are protected?" There is also a circular progress indicator with "7 of 8 slots remaining," implying you can use this service on one more device.
+
+Overall, the UI appears to be straightforward and user-friendly, using color highlights to indicate available features and the current selection. It has been designed to guide the user's attention to various settings and information about their VPN account and service.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+18	1	Button	[1488, 76, 64, 64]	[1520.0, 108.0]		|settings-close-button
+17	1	StaticText	[448, 132, 188, 48]	[542.0, 156.0]	Account	
+16	1	StaticText	[48, 224, 320, 68]	[208.0, 258.0]	Account	
+15	1	StaticText	[48, 292, 320, 68]	[208.0, 326.0]	Your devices	
+14	1	StaticText	[448, 310, 188, 28]	[542.0, 324.0]	App language	
+13	1	StaticText	[48, 360, 320, 68]	[208.0, 394.0]	System settings	
+12	1	StaticText	[448, 358, 96, 28]	[496.0, 372.0]	English	
+11	1	StaticText	[48, 428, 320, 68]	[208.0, 462.0]	Shortcuts	
+10	1	Button	[448, 412, 470, 48]	[683.0, 436.0]		|How to change app language on Mac
+9	1	StaticText	[48, 496, 320, 104]	[208.0, 548.0]	Stand with Ukraine 🇺🇦	
+8	1	StaticText	[448, 536, 298, 28]	[597.0, 550.0]	ClearVPN’s newsletter	
+7	1	StaticText	[448, 578, 458, 24]	[677.0, 590.0]	Don’t miss updates, tips & special offers	
+6	1	CheckBox	[1476, 552, 76, 44]	[1514.0, 574.0]	0	|
+5	1	StaticText	[48, 600, 320, 68]	[208.0, 634.0]	Need help?	
+4	1	Image	[82, 870, 252, 148]	[208.0, 944.0]		|banner-devices
+3	1	StaticText	[114, 1044, 188, 80]	[208.0, 1084.0]	"Are you sure 
+all your devices are protected?"	
+2	1	Button	[80, 1150, 256, 44]	[208.0, 1172.0]		|7 of 8 slots remaining

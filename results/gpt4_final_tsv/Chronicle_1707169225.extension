@@ -1,0 +1,44 @@
+This is an image of a finance management application's user interface, specifically a section where bills are tracked and managed. Here's a detailed description of the UI elements:
+
+On the left side of the screen, we see a sidebar with several sections:
+
+1. Bills:
+   - Overview (1 bill)
+   - Due Soon ("1 bill - 270,00 UAH")
+   - Due This Month ("1 bill - 270,00 UAH")
+   - Paid Recently (No Bills)
+
+2. Reports: (These items are not focused and thus the details are not visible)
+   - Income
+   - Forecast
+   - Monthly History
+   - Annual Spending
+   - Archive
+
+On the top center of the screen, there is a header with utility icons for view settings and tabs for "All Items" and a search bar.
+
+Below the header and to the right, there's a focused pop-up window with the following elements related to a specific bill (Netflix):
+
+- A large heading "Netflix" with a green checkmark and the category "Video Streaming & Television."
+- Fields and options within this window:
+   - "Next Due Date" with a date picker set to "20.02.2024" and a 'View' button.
+   - "Repeat Interval" with a dropdown menu set to "Every Month."
+   - "Amount Due" with an input field set to "440,00 UAH."
+   - "Payment URL" with an input field labeled "Optional" and a help icon marked with a question mark.
+   - Three checkboxes and their status:
+      - "Amount Varies" (unchecked)
+      - "Paid Automatically" (unchecked)
+      - "Enable Reminder" (checked), with a numeric input and label stating "7 days before due."
+   - A "Tags" field with no data entered.
+   - A clickable link "> Show More Bill Details" for additional information.
+   - At the bottom, two buttons: "Cancel" and "Save."
+
+On the right side of the screen, there's another panel titled "Internet" with more bill details:
+
+- A highlighted section at the top displaying "Due today" with a date "Monday, 5 February 2024" and an amount "270,00 UAH."
+- Below that are two buttons: "Log Payment" and "Skip."
+- Further down, two navigational links: "View Payment History" and "View Statistics" (both indicating "Never Paid").
+- At the bottom, there's a placeholder area with "Click to add notes."
+- Two buttons at the very bottom: "Archive" and "Edit."
+
+This layout appears to be for a desktop application or web interface designed to help users manage and track their bills. The currency is indicated in UAH, which is the Ukrainian hryvnia. The UI elements provide navigational and data input functions to organize financial information, set reminders, and log payment activities.

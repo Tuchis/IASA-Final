@@ -1,0 +1,28 @@
+The image shows a User Interface (UI) window with various UI elements related to what appears to be an app or software for creating and managing AI characters. Let's break down the different UI components visible in the image:
+
+1. Window Header:
+   - The window header reads "AI Characters", suggesting that this UI is dedicated to the creation and management of AI entities or profiles within the application.
+
+2. Informational Text:
+   - Below the window header, there is a description that explains the purpose and functionality of AI characters. It reads: "AI characters are pre-built bots that you can chat with. All characters are customized with specific context, training data, and model settings. Click "Create Character" to explore more options."
+
+3. Tabs/Buttons with Counts:
+   - "Your Characters (0)": A tab indicating the section for the user's own AI characters with a count of '0', implying that there are currently no characters in this section.
+   - "Personal Coaches (22)": A tab with a count suggesting there are 22 AI characters in this category.
+   - "Specialized Assistants (4)": This tab indicates there are 4 AI characters available under this classification.
+   - "Language Friends": A tab without a visible count, presumably for characters that can help with language-related tasks.
+
+4. Search Functionality:
+   - A "Search characters" text field: This is meant for typing in search queries to find specific AI characters from the user's list.
+   - A dropdown menu next to the search field: It has the label "Title" visible, suggesting that it may be set to sort or filter the search results by title.
+
+5. Button:
+   - "+ Create Character": A button inviting the user to create a new AI character.
+
+6. Message Placeholder:
+   - This UI element states "No AI characters in your library yet." It's a placeholder message indicating that the user doesn't have any AI characters created or stored in the software yet.
+
+7. Close Button:
+   - A "Close" button situated at the bottom of the window, which likely closes the current UI window or dismisses the dialog.
+
+In the background, behind this window, there appears to be a blurred interface with several other UI elements that are part of the app. However, the details of these are not clearly discernible due to the focus being on the AI Characters window. Some elements in the background include left navigation items that hint at different functionalities or sections like "New Chat," "Settings," and what appears to be a user's workspace with different example task cards.

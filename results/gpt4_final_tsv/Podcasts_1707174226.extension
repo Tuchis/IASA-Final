@@ -1,0 +1,115 @@
+The image shows the user interface of the Apple Podcasts app with a search operation performed. Below is the detailed description of each visible UI element:
+
+1. Top Bar:
+   - A back navigation button (arrow pointing left) on the far left.
+   - A search bar with the text "ai house podcast" in it. The search bar has a magnifying glass icon on the left side and an 'x' on the right side, suggesting a field to enter search terms and the ability to clear the text, respectively.
+   - An icon that resembles a bell, suggesting notifications or alerts.
+   - An Apple logo, which could lead back to the main Apple Podcasts page.
+   - Four icons that may represent different functionalities or sections: two arrows indicating previous/next, a share icon, and a list icon with lines and dots.
+   - A user avatar or profile picture, which is likely a representation of the current user's account or settings.
+
+2. Sidebar (Left Panel):
+   - "Apple Podcasts" brand name at the top.
+   - Under it, a selected menu item "Browse" with a magnifying glass icon, indicating the current view is the browsing/search area.
+   - Other menu items include "Listen Now," "Charts," "Recently Updated," "Shows," "Channels," "Saved," "Downloaded," and "Latest Episodes," each accompanied by their respective icons.
+
+3. Main Content Area (Center and Right):
+   - A label "Showing results for 'ai house podcast'" followed by the search term "ai house podcast," indicating current search results.
+   - "Top Results" section shows seven podcast thumbnails, each with the title "AI HOUSE Podcast" and variants underneath. Additional icons on these thumbnails could represent options like playing or downloading. It's worth noting that both English and potentially Cyrillic text (indicating a language like Russian or Ukrainian) are seen below some thumbnails, which probably describe the podcast content or episode titles.
+   - Below the "Top Results," there's a heading "Shows" with a right-pointing arrow indicating more content or the continuation of the list.
+   - Under the "Shows" heading, thumbnails for various podcast shows are displayed, with artwork and titles such as "AI HOUSE Podcast," "Pivot," "Coffee House Shots," "The Daily Zeitgeist," "The Rest Is History," and others. Each thumbnail comes with a title below it representing the show's name and the creator or network name underneath in a smaller font.
+
+4. Bottom Control:
+   - On the lower right, there is a horizontal slider or scroll bar which suggests the user can scroll through more content horizontally.
+
+This UI is typical of content browsing platforms, where users can search for specific topics, in this case "ai house podcast", and quickly access top results and individual shows. The design uses a clean and organized layout to help users easily navigate through the search results and other podcast offerings.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+3	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+4	3	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+72	4	Group	[0, 0, 440, 1536]	[220.0, 768.0]		
+73	72	Group	[0, 0, 440, 1536]	[220.0, 768.0]		
+74	73	Group	[0, 0, 440, 1536]	[220.0, 768.0]		|Sidebar
+87	74	TextField	[20, 114, 400, 60]	[220.0, 144.0]	ai house podcast	
+86	74	Button	[376, 128, 30, 30]	[391.0, 143.0]		|Clear text
+85	74	StaticText	[20, 194, 400, 48]	[220.0, 218.0]		|Apple Podcasts
+84	74	StaticText	[20, 242, 400, 56]	[220.0, 270.0]		|Listen Now
+83	74	StaticText	[20, 298, 400, 56]	[220.0, 326.0]		|Browse
+82	74	StaticText	[20, 354, 400, 56]	[220.0, 382.0]		|Charts
+81	74	Button	[20, 430, 400, 48]	[220.0, 454.0]		|Library
+80	74	StaticText	[20, 478, 400, 56]	[220.0, 506.0]		|Recently Updated
+79	74	StaticText	[20, 534, 400, 56]	[220.0, 562.0]		|Shows
+78	74	StaticText	[20, 590, 400, 56]	[220.0, 618.0]		|Channels
+77	74	StaticText	[20, 646, 400, 56]	[220.0, 674.0]		|Saved
+76	74	StaticText	[20, 702, 400, 56]	[220.0, 730.0]		|Downloaded
+75	74	StaticText	[20, 758, 400, 56]	[220.0, 786.0]		|Latest Episodes
+71	4	Splitter	[440, 0, 2, 1536]	[441.0, 768.0]	21.484375	
+5	4	Group	[442, 0, 1606, 1536]	[1245.0, 768.0]		
+58	5	Group	[442, 0, 1606, 104]	[1245.0, 52.0]		|Control Bar
+67	58	Group	[562, 24, 200, 56]	[662.0, 52.0]		
+70	67	Button	[562, 24, 64, 56]	[594.0, 52.0]		
+69	67	Button	[630, 24, 64, 56]	[662.0, 52.0]		|Play
+68	67	Button	[698, 24, 64, 56]	[730.0, 52.0]		
+66	58	Image	[880, 10, 84, 84]	[922.0, 52.0]		|Podcast Artwork
+65	58	Button	[1576, 36, 22, 34]	[1587.0, 53.0]		|Mute
+64	58	Slider	[1594, 36, 148, 34]	[1668.0, 53.0]	1.0	|Volume
+63	58	Button	[1742, 36, 34, 34]	[1759.0, 53.0]		|Full Volume
+62	58	Button	[1830, 20, 64, 58]	[1862.0, 49.0]		|Audio Routing
+59	58	Group	[1898, 26, 120, 52]	[1958.0, 52.0]		
+61	59	Button	[1898, 26, 64, 52]	[1930.0, 52.0]		|Episode Notes
+60	59	Button	[1966, 26, 52, 52]	[1992.0, 52.0]		|List
+10	5	Group	[442, 0, 1606, 1536]	[1245.0, 768.0]		
+11	10	Group	[442, 0, 1606, 1536]	[1245.0, 768.0]		
+57	11	Heading	[522, 168, 1446, 96]	[1245.0, 216.0]		|Top Results
+53	11	Group	[522, 264, 454, 236]	[749.0, 382.0]		|Top Results
+56	53	Image	[550, 314, 136, 136]	[618.0, 382.0]		
+55	53	StaticText	[714, 334, 128, 64]	[778.0, 366.0]		|AI HOUSE Podcast
+54	53	StaticText	[714, 400, 62, 30]	[745.0, 415.0]		|Show
+48	11	Group	[522, 540, 454, 236]	[749.0, 658.0]		|Top Results
+52	48	Image	[550, 590, 136, 136]	[618.0, 658.0]		
+51	48	StaticText	[714, 594, 176, 62]	[802.0, 625.0]		|ML лабораторія УКУ, дослідження та конференції | Олесь Добосевич, УКУ | AI HOUSE Podcast #16
+50	48	StaticText	[920, 642, 24, 32]	[932.0, 658.0]		|🅴
+49	48	StaticText	[714, 660, 120, 60]	[774.0, 690.0]		|AI HOUSE Podcast
+44	11	Group	[1016, 264, 454, 236]	[1243.0, 382.0]		|Top Results
+47	44	Image	[1044, 314, 136, 136]	[1112.0, 382.0]		
+46	44	StaticText	[1208, 318, 192, 62]	[1304.0, 349.0]		|Про AI в аудіо та синтетичні голоси | Володимир Сидорський з Respeecher | AI HOUSE Podcast #02
+45	44	StaticText	[1208, 384, 120, 60]	[1268.0, 414.0]		|AI HOUSE Podcast
+39	11	Group	[1016, 540, 454, 236]	[1243.0, 658.0]		|Top Results
+43	39	Image	[1044, 590, 136, 136]	[1112.0, 658.0]		
+42	39	StaticText	[1208, 594, 168, 62]	[1292.0, 625.0]		|Про AI, майбутнє NLP та мультимодальність | Олексій Сивоконь, Microsoft | AI HOUSE Podcast #08
+41	39	StaticText	[1416, 642, 24, 32]	[1428.0, 658.0]		|🅴
+40	39	StaticText	[1208, 660, 120, 60]	[1268.0, 690.0]		|AI HOUSE Podcast
+34	11	Group	[1512, 264, 454, 236]	[1739.0, 382.0]		|Top Results
+38	34	Image	[1540, 314, 136, 136]	[1608.0, 382.0]		
+37	34	StaticText	[1704, 318, 176, 62]	[1792.0, 349.0]		|AI, Data та Product Management | Ніка Тамайо Флорес, AI Product Manager | AI HOUSE Podcast #06
+36	34	StaticText	[1910, 366, 24, 32]	[1922.0, 382.0]		|🅴
+35	34	StaticText	[1704, 384, 120, 60]	[1764.0, 414.0]		|AI HOUSE Podcast
+29	11	Group	[1512, 540, 454, 236]	[1739.0, 658.0]		|Top Results
+33	29	Image	[1540, 590, 136, 136]	[1608.0, 658.0]		
+32	29	StaticText	[1704, 594, 178, 62]	[1793.0, 625.0]		|Про Computer vision | Ярослав Терещенко, Senior CV/ML Developer | AI HOUSE Podcast #11
+31	29	StaticText	[1910, 642, 24, 32]	[1922.0, 658.0]		|🅴
+30	29	StaticText	[1704, 660, 120, 60]	[1764.0, 690.0]		|AI HOUSE Podcast
+27	11	Group	[2006, 264, 42, 236]	[2027.0, 382.0]		|Top Results
+28	27	Image	[2034, 314, 14, 136]	[2041.0, 382.0]		
+25	11	Group	[2006, 540, 42, 236]	[2027.0, 658.0]		|Top Results
+26	25	Image	[2034, 590, 14, 136]	[2041.0, 658.0]		
+24	11	Button	[522, 840, 1446, 96]	[1245.0, 888.0]		|Shows ￼
+23	11	Button	[442, 936, 80, 600]	[482.0, 1236.0]		|Previous page
+22	11	Button	[522, 936, 330, 430]	[687.0, 1151.0]		|AI HOUSE Podcast, AI HOUSE Podcast, AI HOUSE
+21	11	Button	[522, 1406, 330, 130]	[687.0, 1471.0]		|The Rest Is History, The Rest Is History, Goalhanger Podcasts
+20	11	Button	[892, 936, 330, 430]	[1057.0, 1151.0]		|Pivot, Pivot, New York Magazine
+19	11	Button	[892, 1406, 330, 130]	[1057.0, 1471.0]		|Decoder with Nilay Patel, Decoder with Nilay Patel, The Verge
+18	11	Button	[1264, 936, 330, 430]	[1429.0, 1151.0]		|Coffee House Shots, Coffee House Shots, The Spectator
+17	11	Button	[1264, 1406, 330, 130]	[1429.0, 1471.0]		|Shaun Attwood Podcast, Shaun Attwood Podcast, Shaun Attwood Podcast
+16	11	Button	[1634, 936, 330, 430]	[1799.0, 1151.0]		|The Daily Zeitgeist, The Daily Zeitgeist, iHeartPodcasts
+15	11	Button	[1634, 1406, 330, 130]	[1799.0, 1471.0]		|Your Mom's House with Christina P. and Tom Segura, Your Mom's House with Christina P. and Tom Segura, YMH Studios
+14	11	Button	[2006, 936, 42, 430]	[2027.0, 1151.0]		|Geopolitics Decanted by Silverado, Geopolitics Decanted by Silverado, Silverado Policy Accelerator
+13	11	Button	[2006, 1406, 42, 130]	[2027.0, 1471.0]		|The Ride Companion, The Ride Companion, TRC Media House
+12	11	Button	[1968, 936, 80, 600]	[2008.0, 1236.0]		|Next page
+9	5	StaticText	[522, 122, 1092, 34]	[1068.0, 139.0]		|Showing results for “ai house podcast”
+6	5	TabGroup	[1648, 116, 372, 48]	[1834.0, 140.0]		
+8	6	RadioButton	[1648, 116, 186, 48]	[1741.0, 140.0]	1	|All Podcasts
+7	6	RadioButton	[1834, 116, 186, 48]	[1927.0, 140.0]	0	|Your Library
+2	1	Button	[68, 36, 28, 32]	[82.0, 52.0]		

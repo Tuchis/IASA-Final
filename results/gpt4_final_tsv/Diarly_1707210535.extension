@@ -1,0 +1,20 @@
+The image you've provided shows a user interface (UI) screen from what appears to be a journaling app named "Diarly."
+
+At the top, there is a headline text that reads "You’ve successfully set up Diarly ✨", suggesting that the user has completed the setup process for the application, and the sparkle emoji adds a touch of celebration to the message.
+
+Below the headline, there is a paragraph that says "Jump straight in and start journaling, or keep exploring available options." This message offers guidance to the user, suggesting that they can now begin using the app to journal or they can continue to look through other features the app may offer.
+
+In the center of the screen, there is an illustration. The illustration depicts a figure seated in a relaxed posture on a chair, holding what seems to be a steaming mug in one hand, potentially indicating a comfortable atmosphere for journaling. To the right of the character, there is a plant in a pot, contributing to the cozy ambiance of the illustration.
+
+At the bottom of the screen, there is a button labeled "Done". The button has a rounded rectangular shape and is colored in a way that makes it stand out from the rest of the UI elements, likely indicating that it's meant to be the next action the user should take - typically, pressing this button would dismiss the current screen and take the user into the application to begin journaling or exploring the app further.
+
+The color palette consists of a light background with darker text and illustration outlines, creating contrast for easy readability. The use of white space and layout contributes to a minimalistic and user-friendly design. The UI elements are placed in such a way that the user's attention is drawn from the confirmation message at the top, down to the call-to-action button at the bottom.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1120, 1360]	[560.0, 680.0]		Welcome
+3	1	ScrollArea	[0, 180, 1120, 786]	[560.0, 573.0]		
+6	3	StaticText	[66, 180, 698, 60]	[415.0, 210.0]	You’ve successfully set up Diarly  ✨	
+5	3	StaticText	[66, 276, 952, 84]	[542.0, 318.0]	Jump straight in and start journaling, or keep exploring available options.	
+4	3	Image	[246, 466, 624, 500]	[558.0, 716.0]		|End Light
+2	1	Button	[866, 1214, 188, 80]	[960.0, 1254.0]		Done

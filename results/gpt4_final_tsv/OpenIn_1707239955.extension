@@ -1,0 +1,108 @@
+The image you have provided shows a user interface of the "OpenIn Settings" window presumably on a macOS system, with several sections for customizing how URLs are handled by different applications.
+
+At the top of the window, there are three colored buttons typical for a macOS application window: red, amber, and green, which close the window, minimize the app, and expand the app, respectively. To the right, there are seven icons serving as tabs for different categories within the settings: General, Browsers, Mail apps, Call apps, Files, Backups, and About. The "Browsers" tab is currently selected.
+
+Below the tabs, centered at the top of the Browsers section, there is a header that reads "https:// scheme handler" with a toggle switch next to it labeled with a question mark. The switch is in the "ON" position.
+
+Directly below this header, you have a notification with a warning icon stating:
+"OpenIn is not set as default application for https:// URLs" and a "Fix it" button to presumably address this issue.
+
+Next, we have an "Applications" section that lists web browsers which can be assigned to handle HTTP/HTTPS URLs:
+
+- Firefox (Private) with a lines icon on the left and the purple Firefox logo.
+- Firefox with the same lines icon and the red-orange-yellow Firefox logo.
+- Google Chrome with the lines icon and the multicolored Google Chrome icon.
+- Safari with the lines icon and the blue compass Safari icon.
+- Safari (Private) with the lines icon and the blue compass Safari icon with a mask.
+
+Below this list, there are two buttons: "Remove all applications" and "Add application...".
+
+The "Rules" section comes next, with a single entry listed:
+
+- An entry named "Default" with the lines icon to the left.
+
+Beneurth the Rules section, there is a button labeled "Add rule...".
+
+The final section at the bottom of the window is labeled "Shortened URLs" with a single setting:
+
+- "Resolve Shortened URLs" with a toggle switch currently in the "ON" position.
+
+The overall layout suggests that this UI is for setting default applications and rules for opening different types of links and handling shortened URLs. The toggle switches imply binary settings that can be turned on or off, while the buttons are actionable items that can change or update settings within the app. The lines icon may indicate drag-and-drop functionality to reorder or customize the list of applications and rules.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1360]	[800.0, 680.0]		OpenIn Settings
+14	1	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+15	14	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+16	15	ScrollArea	[0, 160, 1600, 1200]	[800.0, 760.0]		
+75	16	Heading	[60, 204, 336, 32]	[228.0, 220.0]		|https:// scheme handler
+74	16	Button	[1500, 200, 40, 40]	[1520.0, 220.0]		|Help
+69	16	Group	[34, 256, 1532, 166]	[800.0, 339.0]		
+73	69	StaticText	[60, 280, 98, 32]	[109.0, 296.0]	Enabled	
+72	69	CheckBox	[1488, 282, 52, 30]	[1514.0, 297.0]	1	
+71	69	StaticText	[62, 358, 770, 32]	[447.0, 374.0]	OpenIn is not set as default application for https:// URLs	
+70	69	Button	[1466, 356, 58, 32]	[1495.0, 372.0]		|Fix it
+68	16	Heading	[60, 474, 158, 32]	[139.0, 490.0]		|Applications
+37	16	Group	[34, 522, 1532, 332]	[800.0, 688.0]		
+38	37	ScrollArea	[60, 546, 1480, 280]	[800.0, 686.0]		
+39	38	Table	[60, 546, 1480, 280]	[800.0, 686.0]		
+62	39	Row	[60, 546, 1480, 56]	[800.0, 574.0]		
+63	62	Cell	[72, 546, 1456, 56]	[800.0, 574.0]		
+67	63	Image	[82, 568, 26, 12]	[95.0, 574.0]		|Drag
+66	63	Image	[128, 558, 32, 32]	[144.0, 574.0]		
+65	63	Image	[150, 576, 14, 20]	[157.0, 586.0]		|Lock
+64	63	StaticText	[176, 558, 192, 32]	[272.0, 574.0]	Firefox (Private)	
+57	39	Row	[60, 602, 1480, 56]	[800.0, 630.0]		
+58	57	Cell	[72, 602, 1456, 56]	[800.0, 630.0]		
+61	58	Image	[82, 624, 26, 12]	[95.0, 630.0]		|Drag
+60	58	Image	[128, 614, 32, 32]	[144.0, 630.0]		
+59	58	StaticText	[176, 614, 82, 32]	[217.0, 630.0]	Firefox	
+52	39	Row	[60, 658, 1480, 56]	[800.0, 686.0]		
+53	52	Cell	[72, 658, 1456, 56]	[800.0, 686.0]		
+56	53	Image	[82, 680, 26, 12]	[95.0, 686.0]		|Drag
+55	53	Image	[128, 670, 32, 32]	[144.0, 686.0]		
+54	53	StaticText	[176, 670, 190, 32]	[271.0, 686.0]	Google Chrome	
+47	39	Row	[60, 714, 1480, 56]	[800.0, 742.0]		
+48	47	Cell	[72, 714, 1456, 56]	[800.0, 742.0]		
+51	48	Image	[82, 736, 26, 12]	[95.0, 742.0]		|Drag
+50	48	Image	[128, 726, 32, 32]	[144.0, 742.0]		
+49	48	StaticText	[176, 726, 70, 32]	[211.0, 742.0]	Safari	
+41	39	Row	[60, 770, 1480, 56]	[800.0, 798.0]		
+42	41	Cell	[72, 770, 1456, 56]	[800.0, 798.0]		
+46	42	Image	[82, 792, 26, 12]	[95.0, 798.0]		|Drag
+45	42	Image	[128, 782, 32, 32]	[144.0, 798.0]		
+44	42	Image	[150, 800, 14, 20]	[157.0, 810.0]		|Lock
+43	42	StaticText	[176, 782, 180, 32]	[266.0, 798.0]	Safari (Private)	
+40	39	Column	[60, 546, 1480, 280]	[800.0, 686.0]		
+36	16	Button	[996, 868, 284, 32]	[1138.0, 884.0]		|Remove all applications
+35	16	Button	[1332, 868, 210, 32]	[1437.0, 884.0]		|Add application...
+34	16	Heading	[60, 966, 70, 32]	[95.0, 982.0]		|Rules
+26	16	Group	[34, 1014, 1532, 108]	[800.0, 1068.0]		
+27	26	ScrollArea	[60, 1038, 1480, 56]	[800.0, 1066.0]		
+28	27	Table	[60, 1038, 1480, 56]	[800.0, 1066.0]		
+30	28	Row	[60, 1038, 1480, 56]	[800.0, 1066.0]		
+31	30	Cell	[72, 1038, 1456, 56]	[800.0, 1066.0]		
+33	31	Image	[82, 1060, 26, 12]	[95.0, 1066.0]		|Drag
+32	31	StaticText	[128, 1050, 88, 32]	[172.0, 1066.0]	Default	
+29	28	Column	[60, 1038, 1480, 56]	[800.0, 1066.0]		
+25	16	Button	[1420, 1136, 124, 32]	[1482.0, 1152.0]		|Add rule...
+24	16	Heading	[60, 1234, 204, 32]	[162.0, 1250.0]		|Shortened URLs
+21	16	Group	[34, 1282, 1532, 78]	[800.0, 1321.0]		
+23	21	StaticText	[60, 1306, 298, 32]	[209.0, 1322.0]	Resolve Shortened URLs	
+22	21	CheckBox	[1488, 1308, 52, 30]	[1514.0, 1323.0]	1	
+17	16	ScrollBar	[1568, 160, 32, 1200]	[1584.0, 760.0]	0.0	
+20	17	ValueIndicator	[1576, 162, 24, 962]	[1588.0, 643.0]	0.0	
+19	17	Button	[1576, 1124, 24, 234]	[1588.0, 1241.0]		
+18	17	Button	[1576, 160, 24, 2]	[1588.0, 161.0]		
+6	1	Toolbar	[0, 56, 1600, 104]	[800.0, 108.0]		
+13	6	Button	[388, 56, 110, 104]	[443.0, 108.0]		General
+12	6	Button	[500, 56, 120, 104]	[560.0, 108.0]		Browsers
+11	6	Button	[624, 56, 124, 104]	[686.0, 108.0]		Mail apps
+10	6	Button	[750, 56, 120, 104]	[810.0, 108.0]		Call apps
+9	6	Button	[874, 56, 110, 104]	[929.0, 108.0]		Files
+8	6	Button	[986, 56, 114, 104]	[1043.0, 108.0]		Backups
+7	6	Button	[1102, 56, 110, 104]	[1157.0, 108.0]		About
+3	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+4	3	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+2	1	StaticText	[692, 10, 218, 32]	[801.0, 26.0]	OpenIn Settings	

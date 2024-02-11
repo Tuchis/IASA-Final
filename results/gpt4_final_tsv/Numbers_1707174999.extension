@@ -1,0 +1,98 @@
+The image displays a spreadsheet interface, which appears to be from a productivity software for managing schedules or assignments. Here's a detailed description of the UI elements visible in the image:
+
+1. Toolbar:
+   - View options (Current setting: 125% zoom level is highlighted) with an icon for zooming in and out.
+   - Add (with a plus icon) - presumably to add a new sheet or item.
+   - Category button (currently inactive or not selected).
+   - Pivot Table button.
+   - Insert menu with dropdown options.
+   - Table button.
+   - Chart button.
+   - Text button.
+   - Shape button.
+   - Media button.
+   - Comment button.
+   - Collaborate menu (indicating features for multiple users to work on the document).
+   - Format options.
+   - Organise menu.
+   - Sheet display with the current sheet named "Sheet1" shown in a drop-down style box, which includes options for duplicating and deleting the sheet, as well as a toggle for background.
+
+2. Sheet Content:
+   - The content is organized in a table format with rows and columns.
+   - The top left cell displays the text "HumanAlschedule2023_v3".
+   - 1st Column: "Week" - Identifying the week number for each schedule entry ("week 1" and "week 2").
+   - 2nd Column: "Room" with entries "HG-06A37" and "NU-4B43", which seem to be room codes where the listed activities are to be held.
+   - The third to eighth columns contain days of the week ("Monday Morning," "Monday Afternoon," "Tuesday Morning," "Tuesday Afternoon"). Below each day, various types of information are listed: "lecture times," "subject and slides," "texts," "exercising times," "subject."
+   - The rows contain details regarding lectures, reading materials, practical sessions, assignments, and group works, with corresponding times and subjects. For example, one can see subjects like "Introduction: Network-Oriented Modeling" and "Final Project Assignment" with associated times.
+
+3. Sidebar:
+   - On the right-hand side of the image, there is a floating sidebar with the header "Sheet Name" followed by "Sheet1," suggesting that the user can manage and organise sheets from here.
+   - There are additional options like "Background," "Duplicate Sheet," and "Delete Sheet."
+
+4. Color Coding:
+   - The spreadsheet uses color coding to differentiate between types of activities. Lectures, texts, and subjects are highlighted in pale yellow, aqua, and orange shades, respectively.
+
+5. Footer Area:
+   - The footer icons reflect multiple standard spreadsheet operations, such as cell styles, functions, etc. (although not completely visible in the image).
+
+This spreadsheet seems to be used for scheduling weekly activities, likely for an academic course or a series of workshops or lectures, given the references to lectures, textbooks, and assignments. The user interface elements suggest it's from a macOS application, possibly Numbers (Apple's spreadsheet application), given the style and icons are similar to those used in Apple's software suite.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2520, 1718]	[1260.0, 859.0]		HumanAIschedule2023_v3
+57	1	Group	[0, 196, 2520, 1522]	[1260.0, 957.0]		
+48	1	ScrollArea	[0, 196, 1978, 1522]	[989.0, 957.0]		
+53	48	ScrollBar	[0, 1686, 1978, 32]	[989.0, 1702.0]	0.0	
+56	53	ValueIndicator	[2, 1694, 714, 24]	[359.0, 1706.0]	0.0	
+55	53	Button	[716, 1694, 1260, 24]	[1346.0, 1706.0]		
+54	53	Button	[0, 1694, 2, 24]	[1.0, 1706.0]		
+49	48	ScrollBar	[1946, 196, 32, 1522]	[1962.0, 957.0]	0.0	
+52	49	ValueIndicator	[1954, 198, 24, 878]	[1966.0, 637.0]	0.0	
+51	49	Button	[1954, 1076, 24, 640]	[1966.0, 1396.0]		
+50	49	Button	[1954, 196, 24, 2]	[1966.0, 197.0]		
+47	1	Button	[0, 136, 94, 60]	[47.0, 166.0]		|add
+45	1	ScrollArea	[94, 140, 1884, 56]	[1036.0, 168.0]		
+46	45	StaticText	[152, 152, 102, 30]	[203.0, 167.0]	Sheet1	
+44	1	Button	[1978, 138, 46, 58]	[2001.0, 167.0]		|Back
+43	1	Button	[2024, 138, 46, 58]	[2047.0, 167.0]		|Forward
+41	1	RadioGroup	[1980, 140, 540, 56]	[2250.0, 168.0]	<AXUIElement 0x126ede350> {pid=2094}	
+42	41	RadioButton	[1980, 140, 540, 56]	[2250.0, 168.0]	1	|Sheet
+40	1	Button	[2006, 530, 488, 64]	[2250.0, 562.0]		Duplicate Sheet
+39	1	Button	[2006, 594, 488, 64]	[2250.0, 626.0]		Delete Sheet
+38	1	TextField	[2020, 284, 460, 42]	[2250.0, 305.0]	Sheet1	
+37	1	StaticText	[2016, 236, 468, 32]	[2250.0, 252.0]	Sheet Name	
+36	1	StaticText	[2016, 416, 152, 32]	[2092.0, 432.0]	Background	
+35	1	ColorWell	[2348, 410, 132, 46]	[2414.0, 433.0]		
+5	1	Toolbar	[0, 56, 2520, 84]	[1260.0, 98.0]		
+31	5	MenuButton	[4, 56, 104, 84]	[56.0, 98.0]		|View
+33	31	RadioGroup	[10, 54, 92, 50]	[56.0, 79.0]		
+34	33	MenuButton	[10, 54, 92, 50]	[56.0, 79.0]		|Toggle sidebar
+32	31	StaticText	[22, 106, 66, 28]	[55.0, 120.0]	View	
+28	5	MenuButton	[108, 56, 140, 84]	[178.0, 98.0]		Zoom
+30	28	MenuButton	[114, 54, 128, 50]	[178.0, 79.0]		125%
+29	28	StaticText	[140, 106, 76, 28]	[178.0, 120.0]	Zoom	
+24	5	MenuButton	[458, 56, 172, 84]	[544.0, 98.0]		|Add Category
+26	24	RadioGroup	[500, 54, 92, 50]	[546.0, 79.0]		
+27	26	MenuButton	[500, 54, 92, 50]	[546.0, 79.0]		
+25	24	StaticText	[464, 106, 160, 28]	[544.0, 120.0]	Add Category	
+23	5	Button	[632, 56, 142, 84]	[703.0, 98.0]		Pivot Table
+19	5	MenuButton	[986, 56, 104, 84]	[1038.0, 98.0]		|Insert
+21	19	RadioGroup	[992, 54, 92, 50]	[1038.0, 79.0]		
+22	21	MenuButton	[992, 54, 92, 50]	[1038.0, 79.0]		
+20	19	StaticText	[1000, 106, 76, 28]	[1038.0, 120.0]	Insert	
+18	5	CheckBox	[1090, 56, 96, 84]	[1138.0, 98.0]	0	Table|Table
+17	5	CheckBox	[1186, 56, 96, 84]	[1234.0, 98.0]	0	Chart|Chart
+16	5	Button	[1282, 56, 96, 84]	[1330.0, 98.0]		Text|Text
+15	5	CheckBox	[1378, 56, 96, 84]	[1426.0, 98.0]	0	Shape|Shape
+11	5	MenuButton	[1474, 56, 104, 84]	[1526.0, 98.0]		|Media
+13	11	RadioGroup	[1480, 54, 92, 50]	[1526.0, 79.0]		
+14	13	MenuButton	[1480, 54, 92, 50]	[1526.0, 79.0]		|photo
+12	11	StaticText	[1486, 106, 80, 28]	[1526.0, 120.0]	Media	
+10	5	Button	[1578, 56, 130, 84]	[1643.0, 98.0]		Comment|Comment
+9	5	CheckBox	[1918, 56, 148, 84]	[1992.0, 98.0]	0	Collaborate|Collaborate
+6	5	Group	[2278, 56, 238, 84]	[2397.0, 98.0]	<AXUIElement 0x126edcf50> {pid=2094}	
+8	6	RadioButton	[2284, 56, 114, 84]	[2341.0, 98.0]	1	|Format
+7	6	RadioButton	[2398, 56, 112, 84]	[2454.0, 98.0]	0	|Organise
+4	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+3	1	MenuButton	[1440, 10, 20, 32]	[1450.0, 26.0]		|document actions
+2	1	StaticText	[1080, 10, 360, 32]	[1260.0, 26.0]	HumanAIschedule2023_v3	

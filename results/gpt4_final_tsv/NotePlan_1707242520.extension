@@ -1,0 +1,35 @@
+This is a screenshot of a preferences or settings panel from a calendar or productivity application. The UI elements include the following:
+
+1. At the top left, there are traffic light buttons typically found on macOS applications, which are used to close, minimize, or expand the window.
+
+2. Below that, on the left-hand side, there is a vertical navigation bar with the following icons and labels (from top to bottom):
+
+   - A calendar icon labeled "Calendars"
+   - An icon that appears to be a notepad with a "M1" on it, labeled "Markdown"
+   - A checkmark icon, possibly denoting a task or to-do list, labeled "Todo"
+   - An icon resembling a pencil over a document, which might represent text editing, labeled "Editor"
+   - An icon with several squares and a paintbrush, possibly for themes or visual customization, labeled "Themes"
+   - A puzzle piece icon labeled "AI & Plugins", perhaps representing add-ons or extra functionality for the app
+   - Two arrows forming a circle, indicative of syncing functionality, labeled "Sync"
+   - An icon with several squares, which might represent widgets or dashboard items, labeled "Shortcuts"
+   - A folder icon, which would typically be associated with file management, labeled "Files"
+   - A license or certificate icon, presumably to manage or view licensing information, labeled "License"
+
+3. At the top right, there is a heading "Preferences".
+
+4. Just below the Preferences heading, there are two dropdown menus and a series of checkboxes to customize the application settings:
+
+   - "Start week on:" followed by a dropdown menu set to "Monday".
+   - To the right of this dropdown, there is text that reads "Show calendar notes:" followed by checkboxes marked "Weekly", "Monthly", "Quarterly", and "Yearly". Only the "Weekly" box is checked. This section allows the user to select which calendar notes should be visible in the sidebar.
+
+5. Below these options, there is a button labeled "Request Permissions", which is likely used to grant the application access to certain data or services.
+
+6. The main section below these settings is split into two categories, "iCloud" and "Other", followed by another category titled "REMINDERS" with "iCloud" below:
+
+   - Under "iCloud", there are checkboxes next to the "Home" and "Work" options, both of which are checked.
+   - Under "Other", there is a checkbox next to "Birthdays", which is also checked.
+   - Under the "REMINDERS" section, there is a single checked checkbox next to "Reminders".
+
+These selections indicate the user's preferences for what calendar and reminder data should be visible or synchronized within the application.
+
+This UI seems to be designed with a minimalistic and clean aesthetic, common in modern productivity applications, and based on the references to iCloud and the MacOS-like traffic light buttons, it is likely designed for use on Apple's macOS operating system.

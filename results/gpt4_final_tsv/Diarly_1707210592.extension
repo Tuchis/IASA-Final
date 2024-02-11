@@ -1,0 +1,258 @@
+This image shows the user interface of a digital journaling app. Here's the detailed breakdown of the UI elements:
+
+**Left sidebar:**
+- On the top, there appear to be three small circles (red, yellow, green) likely for window control (close, minimize, maximize/resize).
+- Below that is a magnifying glass icon, indicating a search functionality with a search bar.
+- Next, there is a section titled "Journals" where "My Journal" is highlighted with a smiley face icon next to it.
+- Under that is a section titled "View" with the following options:
+  - "List" with an icon that resembles a list.
+  - "Calendar" with a calendar icon.
+  - "Map" with an icon that suggests mapping functionality.
+  - "Gallery" with an icon that appears to be for viewing images.
+  - "Stats" with a bar chart icon, likely for statistics or analysis of journal entries.
+- The bottom of the sidebar has a "Settings" option indicated by a gear icon.
+
+**Central section (Calendar view):**
+- At the very top, there is a left-pointing arrow, a label saying "2024", and a right-pointing arrow. This suggests navigation between years in the calendar.
+- Below is a calendar with three months visible: January, February, and March 2024. Each month is labeled and followed by a grid showing the days of the week from Monday to Sunday. Dates are numbered, and the current date, February 6, is highlighted with a red circle.
+- The calendar days are shaded in different ways, with past dates in one color and future dates in a lighter shade. Today's date is differentiated by the red highlight.
+
+**Right Section (Journal entry view):**
+- On the top right, there are icons for sharing/exporting the entry, setting a reminder/alarm, and displaying battery status (24%).
+- There is a vertical ellipsis button indicating more options or a menu.
+- The date "Tue, 6 February" is displayed at the top, suggesting that the entry below corresponds to this date.
+- The entry contains headings and placeholder text prompts such as:
+  - "Three small things I'm grateful for:" followed by a bullet point for the user to fill in.
+  - "What is my positive intention for the day?" followed by a heading style prompt.
+  - "How did I feel today and what patterns or triggers" followed by another heading style prompt.
+- Below the prompts is metadata about the location "Kyiv, Antonovycha Street" with icons indicating weather conditions (a cloud with snow indicating 2°C) and a building symbol, possibly indicating urban location or indoor entry.
+- At the bottom of the entry, there are two hash-tagged items "#StartingOut" and "#Welcome to Diarly" which are likely tags associated with the entry.
+- Highlighted at the bottom is an emoji waving hand, probably indicating the tutorial or welcome note of the app.
+
+**Sidebar (Statistics & Metadata):**
+- A side section on the right displays stats about the current entry:
+  - "49 WORDS"
+  - "365 CHARACTERS"
+  - "13 PARAGRAPHS"
+- There is a progress bar underneath with "32%" visible, suggesting that the user has reached 32% of a word count target ("49 words from 150 you planned").
+- Below this is information regarding the entry's modification and creation:
+  - "LAST MODIFIED ON 6 Feb 2024, 11:08"
+  - "CREATED ON 6 Feb 2024, 11:07"
+
+The UI is clearly designed for digital journaling with prompts for reflective writing, tagging for organization, statistical tracking, and a calendar view for historical navigation of entries. The interface uses a clean design with neutral colors for minimal distractions.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 3024, 1748]	[1512.0, 874.0]		Diary
+201	1	StaticText	[90, 1680, 136, 36]	[158.0, 1698.0]	Settings	
+200	1	StaticText	[30, 1678, 48, 40]	[54.0, 1698.0]		
+199	1	StaticText	[92, 116, 270, 34]	[227.0, 133.0]		
+198	1	StaticText	[34, 118, 44, 28]	[56.0, 132.0]		
+161	1	ScrollArea	[0, 182, 440, 1466]	[220.0, 915.0]		
+162	161	Table	[0, 182, 440, 1466]	[220.0, 915.0]		
+195	162	Row	[0, 182, 440, 58]	[220.0, 211.0]		
+196	195	Cell	[0, 182, 440, 58]	[220.0, 211.0]		
+197	196	StaticText	[16, 194, 118, 32]	[75.0, 210.0]	Journals	
+191	162	Row	[0, 240, 440, 80]	[220.0, 280.0]		
+192	191	Cell	[0, 240, 440, 80]	[220.0, 280.0]		
+194	192	StaticText	[28, 260, 54, 38]	[55.0, 279.0]	😌	
+193	192	StaticText	[88, 264, 142, 32]	[159.0, 280.0]	My Journal	
+189	162	Row	[0, 320, 440, 2]	[220.0, 321.0]		
+190	189	Cell	[0, 320, 440, 2]	[220.0, 321.0]		
+186	162	Row	[0, 322, 440, 58]	[220.0, 351.0]		
+187	186	Cell	[0, 322, 440, 58]	[220.0, 351.0]		
+188	187	StaticText	[16, 334, 70, 32]	[51.0, 350.0]	View	
+182	162	Row	[0, 380, 440, 80]	[220.0, 420.0]		
+183	182	Cell	[0, 380, 440, 80]	[220.0, 420.0]		
+185	183	StaticText	[28, 400, 48, 40]	[52.0, 420.0]		
+184	183	StaticText	[88, 404, 52, 32]	[114.0, 420.0]	List	
+178	162	Row	[0, 460, 440, 80]	[220.0, 500.0]		
+179	178	Cell	[0, 460, 440, 80]	[220.0, 500.0]		
+181	179	StaticText	[28, 480, 48, 40]	[52.0, 500.0]		
+180	179	StaticText	[88, 484, 118, 32]	[147.0, 500.0]	Calendar	
+174	162	Row	[0, 540, 440, 80]	[220.0, 580.0]		
+175	174	Cell	[0, 540, 440, 80]	[220.0, 580.0]		
+177	175	StaticText	[28, 560, 48, 40]	[52.0, 580.0]		
+176	175	StaticText	[88, 564, 62, 32]	[119.0, 580.0]	Map	
+170	162	Row	[0, 620, 440, 80]	[220.0, 660.0]		
+171	170	Cell	[0, 620, 440, 80]	[220.0, 660.0]		
+173	171	StaticText	[28, 640, 48, 40]	[52.0, 660.0]		
+172	171	StaticText	[88, 644, 94, 32]	[135.0, 660.0]	Gallery	
+166	162	Row	[0, 700, 440, 80]	[220.0, 740.0]		
+167	166	Cell	[0, 700, 440, 80]	[220.0, 740.0]		
+169	167	StaticText	[28, 720, 48, 40]	[52.0, 740.0]		
+168	167	StaticText	[88, 724, 72, 32]	[124.0, 740.0]	Stats	
+164	162	Row	[0, 780, 440, 2]	[220.0, 781.0]		
+165	164	Cell	[0, 780, 440, 2]	[220.0, 781.0]		
+163	162	Column	[0, 182, 440, 1466]	[220.0, 915.0]		
+160	1	Button	[1094, 16, 64, 70]	[1126.0, 51.0]		|Create Note
+159	1	Button	[702, 104, 64, 80]	[734.0, 144.0]		|Previous Year
+158	1	Button	[862, 104, 64, 80]	[894.0, 144.0]		|Next Year
+157	1	StaticText	[766, 124, 96, 38]	[814.0, 143.0]	2024	
+156	1	StaticText	[478, 204, 58, 30]	[507.0, 219.0]	Mon	
+155	1	StaticText	[584, 204, 50, 30]	[609.0, 219.0]	Tue	
+154	1	StaticText	[682, 204, 60, 30]	[712.0, 219.0]	Wed	
+153	1	StaticText	[788, 204, 52, 30]	[814.0, 219.0]	Thu	
+152	1	StaticText	[898, 204, 38, 30]	[917.0, 219.0]	Fri	
+151	1	StaticText	[996, 204, 46, 30]	[1019.0, 219.0]	Sat	
+150	1	StaticText	[1096, 204, 52, 30]	[1122.0, 219.0]	Sun	
+149	1	StaticText	[490, 0, 34, 20]	[507.0, 10.0]	11	
+148	1	StaticText	[590, 0, 38, 20]	[609.0, 10.0]	12	
+147	1	StaticText	[692, 0, 38, 20]	[711.0, 10.0]	13	
+146	1	StaticText	[794, 0, 40, 20]	[814.0, 10.0]	14	
+145	1	StaticText	[898, 0, 38, 20]	[917.0, 10.0]	15	
+144	1	StaticText	[1000, 0, 40, 20]	[1020.0, 10.0]	16	
+143	1	StaticText	[1102, 0, 38, 20]	[1121.0, 10.0]	17	
+142	1	StaticText	[488, 66, 40, 34]	[508.0, 83.0]	18	
+141	1	StaticText	[590, 66, 40, 34]	[610.0, 83.0]	19	
+140	1	StaticText	[690, 66, 42, 34]	[711.0, 83.0]	20	
+139	1	StaticText	[794, 66, 38, 34]	[813.0, 83.0]	21	
+138	1	StaticText	[896, 66, 42, 34]	[917.0, 83.0]	22	
+137	1	StaticText	[998, 66, 42, 34]	[1019.0, 83.0]	23	
+136	1	StaticText	[1100, 66, 42, 34]	[1121.0, 83.0]	24	
+135	1	StaticText	[486, 146, 42, 34]	[507.0, 163.0]	25	
+134	1	StaticText	[588, 146, 44, 34]	[610.0, 163.0]	26	
+133	1	StaticText	[690, 146, 42, 34]	[711.0, 163.0]	27	
+132	1	StaticText	[792, 146, 44, 34]	[814.0, 163.0]	28	
+131	1	StaticText	[896, 146, 44, 34]	[918.0, 163.0]	29	
+130	1	StaticText	[998, 146, 44, 34]	[1020.0, 163.0]	30	
+129	1	StaticText	[1102, 146, 38, 34]	[1121.0, 163.0]	31	
+128	1	StaticText	[486, 256, 162, 38]	[567.0, 275.0]	JANUARY	
+127	1	StaticText	[486, 294, 68, 30]	[520.0, 309.0]	2024	
+126	1	StaticText	[488, 350, 40, 34]	[508.0, 367.0]	01	
+125	1	StaticText	[588, 350, 42, 34]	[609.0, 367.0]	02	
+124	1	StaticText	[690, 350, 44, 34]	[712.0, 367.0]	03	
+123	1	StaticText	[792, 350, 44, 34]	[814.0, 367.0]	04	
+122	1	StaticText	[896, 350, 44, 34]	[918.0, 367.0]	05	
+121	1	StaticText	[998, 350, 44, 34]	[1020.0, 367.0]	06	
+120	1	StaticText	[1100, 350, 42, 34]	[1121.0, 367.0]	07	
+119	1	StaticText	[486, 430, 44, 34]	[508.0, 447.0]	08	
+118	1	StaticText	[588, 430, 44, 34]	[610.0, 447.0]	09	
+117	1	StaticText	[692, 430, 40, 34]	[712.0, 447.0]	10	
+116	1	StaticText	[796, 430, 34, 34]	[813.0, 447.0]	11	
+115	1	StaticText	[898, 430, 38, 34]	[917.0, 447.0]	12	
+114	1	StaticText	[1000, 430, 38, 34]	[1019.0, 447.0]	13	
+113	1	StaticText	[1102, 430, 40, 34]	[1122.0, 447.0]	14	
+112	1	StaticText	[488, 510, 38, 34]	[507.0, 527.0]	15	
+111	1	StaticText	[590, 510, 40, 34]	[610.0, 527.0]	16	
+110	1	StaticText	[692, 510, 38, 34]	[711.0, 527.0]	17	
+109	1	StaticText	[794, 510, 40, 34]	[814.0, 527.0]	18	
+108	1	StaticText	[898, 510, 40, 34]	[918.0, 527.0]	19	
+107	1	StaticText	[998, 510, 42, 34]	[1019.0, 527.0]	20	
+106	1	StaticText	[1102, 510, 38, 34]	[1121.0, 527.0]	21	
+105	1	StaticText	[486, 590, 42, 34]	[507.0, 607.0]	22	
+104	1	StaticText	[588, 590, 42, 34]	[609.0, 607.0]	23	
+103	1	StaticText	[690, 590, 42, 34]	[711.0, 607.0]	24	
+102	1	StaticText	[792, 590, 42, 34]	[813.0, 607.0]	25	
+101	1	StaticText	[896, 590, 44, 34]	[918.0, 607.0]	26	
+100	1	StaticText	[998, 590, 42, 34]	[1019.0, 607.0]	27	
+99	1	StaticText	[1100, 590, 44, 34]	[1122.0, 607.0]	28	
+98	1	StaticText	[486, 670, 44, 34]	[508.0, 687.0]	29	
+97	1	StaticText	[588, 670, 44, 34]	[610.0, 687.0]	30	
+96	1	StaticText	[692, 670, 38, 34]	[711.0, 687.0]	31	
+95	1	StaticText	[486, 780, 178, 38]	[575.0, 799.0]	FEBRUARY	
+94	1	StaticText	[486, 818, 68, 30]	[520.0, 833.0]	2024	
+93	1	StaticText	[794, 874, 40, 34]	[814.0, 891.0]	01	
+92	1	StaticText	[896, 874, 42, 34]	[917.0, 891.0]	02	
+91	1	StaticText	[998, 874, 44, 34]	[1020.0, 891.0]	03	
+90	1	StaticText	[1100, 874, 44, 34]	[1122.0, 891.0]	04	
+89	1	StaticText	[486, 954, 44, 34]	[508.0, 971.0]	05	
+88	1	StaticText	[586, 954, 48, 36]	[610.0, 972.0]	06	
+87	1	StaticText	[690, 954, 42, 34]	[711.0, 971.0]	07	
+86	1	StaticText	[792, 954, 44, 34]	[814.0, 971.0]	08	
+85	1	StaticText	[896, 954, 44, 34]	[918.0, 971.0]	09	
+84	1	StaticText	[1000, 954, 40, 34]	[1020.0, 971.0]	10	
+83	1	StaticText	[1104, 954, 34, 34]	[1121.0, 971.0]	11	
+82	1	StaticText	[488, 1034, 38, 34]	[507.0, 1051.0]	12	
+81	1	StaticText	[590, 1034, 38, 34]	[609.0, 1051.0]	13	
+80	1	StaticText	[692, 1034, 40, 34]	[712.0, 1051.0]	14	
+79	1	StaticText	[794, 1034, 38, 34]	[813.0, 1051.0]	15	
+78	1	StaticText	[898, 1034, 40, 34]	[918.0, 1051.0]	16	
+77	1	StaticText	[1000, 1034, 38, 34]	[1019.0, 1051.0]	17	
+76	1	StaticText	[1102, 1034, 40, 34]	[1122.0, 1051.0]	18	
+75	1	StaticText	[488, 1114, 40, 34]	[508.0, 1131.0]	19	
+74	1	StaticText	[588, 1114, 42, 34]	[609.0, 1131.0]	20	
+73	1	StaticText	[692, 1114, 38, 34]	[711.0, 1131.0]	21	
+72	1	StaticText	[792, 1114, 42, 34]	[813.0, 1131.0]	22	
+71	1	StaticText	[896, 1114, 42, 34]	[917.0, 1131.0]	23	
+70	1	StaticText	[998, 1114, 42, 34]	[1019.0, 1131.0]	24	
+69	1	StaticText	[1100, 1114, 42, 34]	[1121.0, 1131.0]	25	
+68	1	StaticText	[486, 1194, 44, 34]	[508.0, 1211.0]	26	
+67	1	StaticText	[588, 1194, 42, 34]	[609.0, 1211.0]	27	
+66	1	StaticText	[690, 1194, 44, 34]	[712.0, 1211.0]	28	
+65	1	StaticText	[792, 1194, 44, 34]	[814.0, 1211.0]	29	
+64	1	StaticText	[486, 1304, 130, 38]	[551.0, 1323.0]	MARCH	
+63	1	StaticText	[486, 1342, 68, 30]	[520.0, 1357.0]	2024	
+62	1	StaticText	[898, 1398, 40, 34]	[918.0, 1415.0]	01	
+61	1	StaticText	[998, 1398, 42, 34]	[1019.0, 1415.0]	02	
+60	1	StaticText	[1100, 1398, 44, 34]	[1122.0, 1415.0]	03	
+59	1	StaticText	[486, 1478, 44, 34]	[508.0, 1495.0]	04	
+58	1	StaticText	[588, 1478, 44, 34]	[610.0, 1495.0]	05	
+57	1	StaticText	[690, 1478, 44, 34]	[712.0, 1495.0]	06	
+56	1	StaticText	[792, 1478, 42, 34]	[813.0, 1495.0]	07	
+55	1	StaticText	[896, 1478, 44, 34]	[918.0, 1495.0]	08	
+54	1	StaticText	[998, 1478, 44, 34]	[1020.0, 1495.0]	09	
+53	1	StaticText	[1102, 1478, 40, 34]	[1122.0, 1495.0]	10	
+52	1	StaticText	[490, 1558, 34, 34]	[507.0, 1575.0]	11	
+51	1	StaticText	[590, 1558, 38, 34]	[609.0, 1575.0]	12	
+50	1	StaticText	[692, 1558, 38, 34]	[711.0, 1575.0]	13	
+49	1	StaticText	[794, 1558, 40, 34]	[814.0, 1575.0]	14	
+48	1	StaticText	[898, 1558, 38, 34]	[917.0, 1575.0]	15	
+47	1	StaticText	[1000, 1558, 40, 34]	[1020.0, 1575.0]	16	
+46	1	StaticText	[1102, 1558, 38, 34]	[1121.0, 1575.0]	17	
+45	1	StaticText	[488, 1638, 40, 34]	[508.0, 1655.0]	18	
+44	1	StaticText	[590, 1638, 40, 34]	[610.0, 1655.0]	19	
+43	1	StaticText	[690, 1638, 42, 34]	[711.0, 1655.0]	20	
+42	1	StaticText	[794, 1638, 38, 34]	[813.0, 1655.0]	21	
+41	1	StaticText	[896, 1638, 42, 34]	[917.0, 1655.0]	22	
+40	1	StaticText	[998, 1638, 42, 34]	[1019.0, 1655.0]	23	
+39	1	StaticText	[1100, 1638, 42, 34]	[1121.0, 1655.0]	24	
+38	1	StaticText	[486, 1718, 42, 30]	[507.0, 1733.0]	25	
+37	1	StaticText	[588, 1718, 44, 30]	[610.0, 1733.0]	26	
+36	1	StaticText	[690, 1718, 42, 30]	[711.0, 1733.0]	27	
+35	1	StaticText	[792, 1718, 44, 30]	[814.0, 1733.0]	28	
+34	1	StaticText	[896, 1718, 44, 30]	[918.0, 1733.0]	29	
+33	1	StaticText	[998, 1718, 44, 30]	[1020.0, 1733.0]	30	
+32	1	StaticText	[1102, 1718, 38, 30]	[1121.0, 1733.0]	31	
+24	1	ScrollArea	[1190, 104, 1834, 1644]	[2107.0, 926.0]		
+29	24	TextArea	[1190, 104, 1834, 1644]	[2107.0, 926.0]	"# Three small things I'm grateful for:
+- 
+
+# What is my positive intention for the day?
+
+
+# How did I feel today and what patterns or triggers did I notice?
+
+
+[Kyiv, Antonovycha Street](diarly://map/50.42603751718915,30.51559530818982) 📲🛌 2˚C ☁️ 📲👟 
+
+
+#StartingOut  Welcome to Diarly 👋"	
+31	29	Link	[1308, 624, 340, 42]	[1478.0, 645.0]		Kyiv, Antonovycha Street
+30	29	Link	[1504, 754, 336, 42]	[1672.0, 775.0]		 Welcome to Diarly 👋
+25	24	ScrollBar	[3004, 104, 20, 1644]	[3014.0, 926.0]	0.0	
+28	25	ValueIndicator	[3004, 106, 20, 1014]	[3014.0, 613.0]	0.0	
+27	25	Button	[3004, 1122, 20, 626]	[3014.0, 1435.0]		
+26	25	Button	[3004, 104, 20, 2]	[3014.0, 105.0]		
+23	1	Button	[2752, 16, 64, 70]	[2784.0, 51.0]		|Insert
+22	1	Button	[2664, 16, 64, 70]	[2696.0, 51.0]		|Editor & Themes
+21	1	Button	[2928, 16, 64, 70]	[2960.0, 51.0]		|More
+20	1	Button	[1222, 16, 64, 70]	[1254.0, 51.0]		|Toggle Editor Only (⇧⌘K)
+19	1	Button	[1318, 16, 46, 70]	[1341.0, 51.0]		|Previous Note (⌃⌘←)
+18	1	Button	[1682, 16, 46, 70]	[1705.0, 51.0]		|Next Note (⌃⌘→)
+17	1	StaticText	[1426, 32, 248, 40]	[1550.0, 52.0]	Tue, 6 February	
+16	1	Button	[1360, 16, 62, 70]	[1391.0, 51.0]		|Add Badge
+15	1	Button	[184, 16, 64, 70]	[216.0, 51.0]		
+14	1	Toolbar	[0, 0, 3024, 104]	[1512.0, 52.0]		
+2	1	Popover	[2292, 98, 732, 578]	[2658.0, 387.0]		|
+13	2	StaticText	[2356, 156, 60, 50]	[2386.0, 181.0]	49	
+12	2	StaticText	[2454, 166, 92, 28]	[2500.0, 180.0]	WORDS	
+11	2	StaticText	[2352, 230, 68, 38]	[2386.0, 249.0]	365	
+10	2	StaticText	[2454, 234, 156, 28]	[2532.0, 248.0]	CHARACTERS	
+9	2	StaticText	[2364, 292, 42, 38]	[2385.0, 311.0]	13	
+8	2	StaticText	[2454, 296, 156, 28]	[2532.0, 310.0]	PARAGRAPHS	
+7	2	StaticText	[2454, 378, 340, 28]	[2624.0, 392.0]	49 words from 150 you planned	
+6	2	StaticText	[2354, 488, 198, 28]	[2453.0, 502.0]	6 Feb 2024, 11:08	
+5	2	StaticText	[2354, 458, 176, 22]	[2442.0, 469.0]	LAST MODIFIED ON	
+4	2	StaticText	[2354, 570, 196, 28]	[2452.0, 584.0]	6 Feb 2024, 11:07	
+3	2	StaticText	[2354, 540, 122, 22]	[2415.0, 551.0]	CREATED ON	

@@ -1,0 +1,96 @@
+This is a screenshot of the user interface for the "Bartender 5" application, which is used to customize and manage macOS menu bar items. Here's a detailed description of every UI element shown:
+
+1. Title Bar:
+   - At the very top, it shows three standard window control buttons in red, yellow, and green for closing, minimizing and maximizing the window, respectively.
+   - The title "Bartender 5" is displayed in the center of the title bar.
+
+2. Sidebar (on the left):
+   - "General" with a gear icon.
+   - "Menu Bar Items" with an icon resembling checkboxes.
+   - "Menu Bar Style" with a toggle-like icon.
+   - "Presets" with a download arrow icon, this is currently selected as indicated by the highlight and left-side border.
+   - "Triggers" with a lightning bolt icon.
+   - "Hotkeys" with a keyboard key icon.
+   - "Advanced" with a gear icon.
+   - "About" with an information ('i') icon.
+
+3. Main Content Area (in the center and right):
+   - Header "Presets" - with a subtitle "Create Presets that can be applied to change your menu bar item layout."
+   - A box with:
+     - Title: "Default macOS menu bar items"
+     - Description: "Shows only the default menu bar items on a clean install of macOS, all other menu bar items are hidden. Great for screen recording or screen shots."
+     - Icons: A computer monitor icon to the left of the title.
+     - Button: "Settings" (with a light grey background).
+     - Button: "Apply" (with no background; appears to be the default action button).
+   - Plus icon (+): This appears to be a button to create a new preset, as it's commonly used for "add" actions in UIs.
+   - Buttons at the bottom of the main content area: 
+     - "Delete Preset" (greyed out possibly indicating it's disabled or not selectable at the moment).
+     - "Add Preset" (with a darker grey background, likely indicating it's clickable).
+
+4. Divider Lines:
+   - There are visible horizontal divider lines that separate the different sections within the sidebar and the main content area, providing a visual organization to the elements.
+
+The application seems to be designed to configure and control the visual layout of the macOS menu bar for the user's convenience, potentially useful for adapting the menu bar based on specific activities like screen recording, presentations, or as per personal preference.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1802, 1120]	[901.0, 560.0]		Bartender 5
+5	1	SplitGroup	[0, 0, 1802, 1120]	[901.0, 560.0]		
+60	5	StaticText	[178, 16, 160, 40]	[258.0, 36.0]	Bartender	
+59	5	StaticText	[330, 10, 36, 54]	[348.0, 37.0]	5	
+24	5	ScrollArea	[0, 76, 480, 1044]	[240.0, 598.0]		
+25	24	Outline	[0, 76, 480, 1044]	[240.0, 598.0]		
+55	25	Row	[0, 96, 480, 100]	[240.0, 146.0]		
+56	55	Cell	[20, 96, 440, 100]	[240.0, 146.0]		
+58	56	Image	[32, 108, 70, 74]	[67.0, 145.0]		|General
+57	56	StaticText	[114, 130, 102, 32]	[165.0, 146.0]	General	
+51	25	Row	[0, 196, 480, 100]	[240.0, 246.0]		
+52	51	Cell	[20, 196, 440, 100]	[240.0, 246.0]		
+54	52	Image	[32, 212, 70, 68]	[67.0, 246.0]		|Menu Bar Layout
+53	52	StaticText	[114, 230, 198, 32]	[213.0, 246.0]	Menu Bar Items	
+47	25	Row	[0, 296, 480, 100]	[240.0, 346.0]		
+48	47	Cell	[20, 296, 440, 100]	[240.0, 346.0]		
+50	48	Image	[32, 308, 70, 72]	[67.0, 344.0]		|Menu Bar Style
+49	48	StaticText	[114, 330, 192, 32]	[210.0, 346.0]	Menu Bar Style	
+43	25	Row	[0, 396, 480, 100]	[240.0, 446.0]		
+44	43	Cell	[20, 396, 440, 100]	[240.0, 446.0]		
+46	44	Image	[32, 412, 70, 68]	[67.0, 446.0]		|Presets
+45	44	StaticText	[114, 430, 100, 32]	[164.0, 446.0]	Presets	
+39	25	Row	[0, 496, 480, 100]	[240.0, 546.0]		
+40	39	Cell	[20, 496, 440, 100]	[240.0, 546.0]		
+42	40	Image	[32, 506, 70, 76]	[67.0, 544.0]		|Triggers
+41	40	StaticText	[114, 530, 108, 32]	[168.0, 546.0]	Triggers	
+35	25	Row	[0, 596, 480, 100]	[240.0, 646.0]		
+36	35	Cell	[20, 596, 440, 100]	[240.0, 646.0]		
+38	36	Image	[32, 612, 70, 68]	[67.0, 646.0]		|Hot Keys
+37	36	StaticText	[114, 630, 106, 32]	[167.0, 646.0]	Hotkeys	
+31	25	Row	[0, 696, 480, 100]	[240.0, 746.0]		
+32	31	Cell	[20, 696, 440, 100]	[240.0, 746.0]		
+34	32	Image	[32, 708, 70, 74]	[67.0, 745.0]		|Advanced
+33	32	StaticText	[114, 730, 128, 32]	[178.0, 746.0]	Advanced	
+27	25	Row	[0, 796, 480, 100]	[240.0, 846.0]		
+28	27	Cell	[20, 796, 440, 100]	[240.0, 846.0]		
+30	28	Image	[32, 818, 70, 58]	[67.0, 847.0]		|
+29	28	StaticText	[114, 830, 80, 32]	[154.0, 846.0]	About	
+26	25	Column	[20, 76, 440, 1044]	[240.0, 598.0]		
+23	5	Splitter	[480, 56, 2, 1064]	[481.0, 588.0]	240.0	
+22	5	StaticText	[518, 40, 122, 40]	[579.0, 60.0]	Presets	
+21	5	StaticText	[518, 96, 1248, 32]	[1142.0, 112.0]	Create Presets that can be applied to change your menu bar item layout	
+8	5	ScrollArea	[522, 144, 1240, 846]	[1142.0, 567.0]		
+9	8	Outline	[522, 144, 1240, 846]	[1142.0, 567.0]		
+14	9	Row	[522, 164, 1240, 100]	[1142.0, 214.0]		
+15	14	Cell	[542, 164, 1200, 100]	[1142.0, 214.0]		
+20	15	Image	[554, 172, 70, 82]	[589.0, 213.0]		|
+19	15	StaticText	[652, 172, 384, 32]	[844.0, 188.0]	Default macOS menu bar items	
+18	15	StaticText	[652, 204, 766, 52]	[1035.0, 230.0]	Shows only the default menu bar items on a clean install of macOS, all other menu bar items are hidden. Great for screen recording or screen shots.	
+17	15	Button	[1432, 184, 170, 64]	[1517.0, 216.0]		Settings
+16	15	Button	[1606, 184, 138, 64]	[1675.0, 216.0]		Apply
+11	9	Row	[522, 264, 1240, 300]	[1142.0, 414.0]		
+12	11	Cell	[542, 264, 1200, 300]	[1142.0, 414.0]		
+13	12	Button	[1070, 314, 136, 126]	[1138.0, 377.0]		|add
+10	9	Column	[542, 144, 1200, 846]	[1142.0, 567.0]		
+7	5	Button	[1344, 1012, 228, 80]	[1458.0, 1052.0]		Delete Preset
+6	5	Button	[1576, 1012, 198, 80]	[1675.0, 1052.0]		Add Preset
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+3	2	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+4	3	Group	[94, 12, 28, 32]	[108.0, 28.0]		

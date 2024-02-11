@@ -1,0 +1,117 @@
+The image shows a user interface of an application named "Typing Mind," which is described as "A better UI for ChatGPT." The layout is presented with a menu bar on the left and the main content on the right. The interface elements are as follows:
+
+**Menu Bar (Left Side):**
+1. At the top, there are three horizontal lines indicating a menu button, followed by the application logo with the text "Typing Mind."
+2. Below that, there is a "New Chat" button with three dots and gear icon to its left, indicating possible additional options or settings.
+3. A search bar with a placeholder text "Search chats..." for finding previous chats or content within the app.
+4. A collection of icons representing what appears to be chat or file management options: a "+" sign, presumably for creating a new item; a pencil, possibly for editing; an arrow pointing downwards with a line underneath, likely for downloading or syncing; a trash can, for deleting; and an eye, possibly for viewing or privacy settings.
+5. A list of example conversations or features each with a flag or icon and title:
+   - **(Example) Learn English** (Flag of the United Kingdom) - With subtitle text: "Here's a breakdown of the word cactus..."
+   - **(Example) Writing Content** (AI logo) - With subtitle text: "Here is a draft tech article on how to ..."
+   - **(Example) Web Search** (Magnifying glass icon) - With subtitle text: "The top stories being discussed on Hacker News are..."
+   - **(Example) Coding Help** (Brackets icon) - With subtitle text: "To send a HTTP request in Python, you would typically..."
+6. At the bottom of the menu bar, there's a text field labeled "API Key" with placeholder text "Enter API Key." This suggests that users can enter their own API key for some functionality related to the application.
+7. The bottom of the menu includes a copyright statement "Typing Mind © 2024" and links titled "Privacy | Terms | FAQs | Contact." There's also a "Feedback" button with speech bubble icon, and beside it, multiple social or sharing icons: a flag (possibly indicating language settings), a smiley face, a camera, and a chat bubble with three dots.
+
+**Main Content (Right Side):**
+1. At the top right are a series of icons: a hamburger menu, an icon with two arrows forming a circle (possibly refresh or sync), a bell for notifications (with a badge showing "0"), and a drop-down menu currently set to "GPT-4."
+2. The large title "Typing Mind" with the tagline underneath "A better UI for ChatGPT."
+3. A welcome message that states "Thank you for using Typing Mind via Setapp 👋".
+4. Bullet points with the following information:
+   - Users have "Free Access to GPT-3.5/GPT-4 models provided by Setapp (See Limitations)."
+   - There is an option to use one's own API keys or custom models via a "Model Settings menu."
+   - A link to "Frequently Asked Questions" for users having issues.
+5. A large blue button labeled "Select Character" with a subtext "0 AI characters" which suggests the user can choose from different AI characters for interaction.
+6. At the very bottom, aligned to the center, there is a chat bubble icon with the text "Type '/' to open menu" indicating a command to activate a feature or help menu.
+
+The overall design seems to be for an application that enhances the experience of interacting with GPT models, affording users the ability to manage conversations, customize settings, and get assistance or support as needed. The interface is clear and divided into two main sections for ease of use.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2164, 1454]	[1082.0, 727.0]		Typing Mind
+87	1	BusyIndicator	[1066, 738, 32, 32]	[1082.0, 754.0]	True	
+3	1	Group	[0, 56, 2164, 1398]	[1082.0, 755.0]		
+4	3	Group	[0, 56, 2164, 1398]	[1082.0, 755.0]		
+5	4	ScrollArea	[0, 56, 2164, 1398]	[1082.0, 755.0]		|
+6	5	WebArea	[0, 56, 2164, 1398]	[1082.0, 755.0]		|Typing Mind – A better UI for ChatGPT
+49	6	Group	[0, 56, 640, 1398]	[320.0, 755.0]		|
+86	49	Button	[16, 72, 416, 80]	[224.0, 112.0]		New Chat|
+85	49	Button	[448, 72, 80, 80]	[488.0, 112.0]		|
+84	49	Button	[544, 72, 80, 80]	[584.0, 112.0]		|
+81	49	Group	[16, 168, 416, 68]	[224.0, 202.0]		|
+82	81	TextField	[16, 168, 416, 68]	[224.0, 202.0]		|
+83	82	Group	[34, 184, 380, 36]	[224.0, 202.0]		|
+80	49	Button	[448, 178, 48, 48]	[472.0, 202.0]		|
+79	49	Button	[512, 178, 48, 48]	[536.0, 202.0]		|
+78	49	Button	[576, 178, 48, 48]	[600.0, 202.0]		|
+77	49	Button	[0, 252, 640, 120]	[320.0, 312.0]		(Example) Learn English Here's a breakdown of the word cacophony: Defini|
+76	49	Button	[0, 372, 640, 120]	[320.0, 432.0]		(Example) Writing Content Here is a draft tech article on how to use Apple|
+75	49	Button	[0, 492, 640, 120]	[320.0, 552.0]		(Example) Web Search The top stories being discussed on Hacker News rig|
+74	49	Button	[0, 612, 640, 120]	[320.0, 672.0]		(Example) Coding Help To send a HTTP request in Python, you can use the|
+73	49	Button	[16, 1220, 64, 64]	[48.0, 1252.0]		|
+72	49	StaticText	[222, 1236, 90, 30]	[267.0, 1251.0]	API Key	|
+71	49	Button	[328, 1228, 188, 48]	[422.0, 1252.0]		Enter API Key|
+70	49	Group	[24, 1292, 592, 18]	[320.0, 1301.0]		|
+66	49	Group	[198, 1310, 244, 32]	[320.0, 1326.0]		|
+69	66	StaticText	[198, 1310, 148, 30]	[272.0, 1325.0]	Typing Mind	|
+68	66	StaticText	[350, 1310, 24, 30]	[362.0, 1325.0]	©	|
+67	66	StaticText	[378, 1310, 64, 30]	[410.0, 1325.0]	2024	|
+54	49	Group	[138, 1342, 362, 32]	[319.0, 1358.0]		|
+64	54	Link	[138, 1342, 86, 30]	[181.0, 1357.0]		Privacy|
+65	64	StaticText	[138, 1342, 86, 30]	[181.0, 1357.0]	Privacy	|
+63	54	StaticText	[222, 1342, 22, 30]	[233.0, 1357.0]	 | 	|
+61	54	Link	[240, 1342, 72, 30]	[276.0, 1357.0]		Terms|
+62	61	StaticText	[242, 1342, 70, 30]	[277.0, 1357.0]	Terms	|
+60	54	StaticText	[310, 1342, 22, 30]	[321.0, 1357.0]	 | 	|
+58	54	Link	[330, 1342, 62, 30]	[361.0, 1357.0]		FAQs|
+59	58	StaticText	[330, 1342, 62, 30]	[361.0, 1357.0]	FAQs	|
+57	54	StaticText	[390, 1342, 22, 30]	[401.0, 1357.0]	 | 	|
+55	54	Link	[408, 1342, 92, 30]	[454.0, 1357.0]		Contact|
+56	55	StaticText	[410, 1342, 92, 30]	[456.0, 1357.0]	Contact	|
+53	49	Button	[96, 1382, 192, 48]	[192.0, 1406.0]		Feedback|
+52	49	Button	[304, 1382, 80, 48]	[344.0, 1406.0]		🇺🇸|
+51	49	Button	[398, 1382, 66, 48]	[431.0, 1406.0]		|
+50	49	Button	[478, 1382, 66, 48]	[511.0, 1406.0]		|
+8	6	Group	[0, 56, 2164, 1398]	[1082.0, 755.0]		|
+48	8	Button	[648, 64, 96, 96]	[696.0, 112.0]		Open sidebar|
+46	8	Group	[752, 72, 242, 80]	[873.0, 112.0]		|
+47	46	PopUpButton	[752, 72, 242, 80]	[873.0, 112.0]		GPT-4|
+45	8	PopUpButton	[1010, 72, 130, 80]	[1075.0, 112.0]		0|
+44	8	Image	[1082, 248, 98, 96]	[1131.0, 296.0]		|Typing Mind
+43	8	StaticText	[1194, 240, 528, 112]	[1458.0, 296.0]	Typing Mind	|
+41	8	Group	[1082, 392, 640, 56]	[1402.0, 420.0]		|
+42	41	StaticText	[1198, 396, 408, 46]	[1402.0, 419.0]	A better UI for ChatGPT	|
+37	8	Group	[720, 544, 1364, 48]	[1402.0, 568.0]		|
+40	37	StaticText	[1088, 550, 264, 34]	[1220.0, 567.0]	Thank you for using 	|
+39	37	StaticText	[1350, 550, 318, 34]	[1509.0, 567.0]	Typing Mind via Setapp	|
+38	37	StaticText	[1666, 550, 50, 34]	[1691.0, 567.0]	 👋	|
+20	8	List	[720, 622, 1364, 162]	[1402.0, 703.0]		|
+29	20	Group	[764, 622, 1320, 50]	[1424.0, 647.0]		|
+36	29	ListMarker	[730, 628, 14, 36]	[737.0, 646.0]	•	|
+35	29	StaticText	[774, 628, 126, 36]	[837.0, 646.0]	You have 	|
+34	29	StaticText	[898, 628, 166, 36]	[981.0, 646.0]	Free Access	|
+33	29	StaticText	[1062, 628, 622, 36]	[1373.0, 646.0]	 to GPT-3.5/GPT-4 models provided by Setapp (	|
+31	29	Link	[1682, 628, 204, 36]	[1784.0, 646.0]		See Limitations|
+32	31	StaticText	[1682, 628, 204, 36]	[1784.0, 646.0]	See Limitations	|
+30	29	StaticText	[1884, 628, 20, 36]	[1894.0, 646.0]	).	|
+26	20	Group	[764, 678, 1320, 50]	[1424.0, 703.0]		|
+28	26	ListMarker	[730, 684, 14, 36]	[737.0, 702.0]	•	|
+27	26	StaticText	[774, 684, 1284, 36]	[1416.0, 702.0]	Optionally, you can use your own API keys or custom models (access via the Model Settings menu).	|
+21	20	Group	[764, 734, 1320, 50]	[1424.0, 759.0]		|
+25	21	ListMarker	[730, 740, 14, 36]	[737.0, 758.0]	•	|
+24	21	StaticText	[774, 740, 284, 36]	[916.0, 758.0]	Having an issue? See 	|
+22	21	Link	[1056, 740, 372, 36]	[1242.0, 758.0]		Frequently Asked Questions|
+23	22	StaticText	[1056, 740, 372, 36]	[1242.0, 758.0]	Frequently Asked Questions	|
+19	8	Button	[1236, 862, 332, 106]	[1402.0, 915.0]		Select Character 0 AI characters|
+18	8	Group	[640, 1078, 1524, 50]	[1402.0, 1103.0]		|
+9	8	Group	[672, 1302, 1460, 104]	[1402.0, 1354.0]		|
+17	9	Button	[672, 1338, 64, 64]	[704.0, 1370.0]		|
+16	9	Button	[736, 1338, 64, 64]	[768.0, 1370.0]		|
+13	9	TextArea	[808, 1334, 1188, 72]	[1402.0, 1370.0]		|
+14	13	Group	[928, 1346, 1044, 48]	[1450.0, 1370.0]		|
+15	14	StaticText	[928, 1352, 292, 34]	[1074.0, 1369.0]	"Type ""/"" to open menu"	|
+12	9	Button	[820, 1344, 82, 52]	[861.0, 1370.0]		⌘K|
+11	9	Button	[2004, 1338, 64, 64]	[2036.0, 1370.0]		|
+10	9	Button	[2068, 1338, 64, 64]	[2100.0, 1370.0]		|
+7	6	Group	[32, 88, 2100, 1334]	[1082.0, 755.0]		|
+2	1	StaticText	[998, 10, 168, 32]	[1082.0, 26.0]	Typing Mind	

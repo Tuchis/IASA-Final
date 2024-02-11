@@ -1,0 +1,122 @@
+The image you've provided shows a user interface of an application named "Almighty." Here's a detailed description of the elements visible in the UI:
+
+1. Window Title Bar:
+   - Three colored dots on the far left, typically representing close (red), minimize (yellow), and maximize (green) in macOS.
+   - Title of the app "Almighty" in the center.
+   - A search text field on the top right with a magnifying glass icon indicating search functionality. The text field is empty.
+
+2. Sidebar (left section):
+   - At the top of the sidebar, there's a menu icon (three horizontal lines), which may open additional menu options.
+   - Below that, there are several categories with icons next to each representing different groups or functions within the app:
+       - All (icon with four squares forming a larger square)
+       - New (icon with a star)
+       - Popular (icon with a thumbs up)
+       - Random (icon with shuffled lines)
+   - The word "Apps" separates the above categories from the following list, possibly indicating a different section or type of categories:
+       - Desktop (icon with a desktop computer)
+       - Display (icon with a monitor)
+       - Dock (icon with some sort of panel)
+       - Effect (icon with a water droplet, highlighted blue, indicating it's selected)
+       - Finder (icon with a face, resembling the macOS file management tool)
+       - Keyboard (icon with a keyboard)
+       - Mouse (icon with a mouse)
+       - Photos (icon with a flower, resembling macOS photos app)
+       - Screenshot (icon with a camera)
+
+3. Main Content Area (right section):
+   - Two panels, each featuring an "effect," as indicated by the highlighted "Effect" section in the sidebar.
+   - The first panel is titled "Confetti" with a subtitle "Show confetti effect" and has an icon representing confetti. There's also a toggle button with a lightning bolt symbol powered on, suggesting the effect is active or ready to be activated.
+   - The second panel is titled "Rain" with a subtitle "Rain effect" and has an icon representing rain. There's a toggle off to the right which is in the off position, suggesting this effect is inactive.
+
+Each panel seems to represent an option or feature that the application can perform. The toggles suggest that these features can be turned on or off. The icons next to each option provide a visual cue about the function of the effect. The water droplet icon next to each "Effect" label possibly suggests customization options for visual effects provided by this application.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1800, 900]	[900.0, 450.0]		Almighty
+9	1	Group	[0, 0, 1800, 900]	[900.0, 450.0]		
+10	9	SplitGroup	[0, 0, 1800, 900]	[900.0, 450.0]		
+29	10	Group	[0, 0, 400, 900]	[200.0, 450.0]		
+30	29	ScrollArea	[0, 104, 400, 796]	[200.0, 502.0]		
+35	30	Outline	[0, 104, 400, 796]	[200.0, 502.0]		|Sidebar
+86	35	Row	[0, 104, 400, 56]	[200.0, 132.0]		
+87	86	Cell	[20, 104, 360, 56]	[200.0, 132.0]		
+88	87	StaticText	[36, 116, 74, 32]	[73.0, 132.0]	All	
+83	35	Row	[0, 160, 400, 56]	[200.0, 188.0]		
+84	83	Cell	[20, 160, 360, 56]	[200.0, 188.0]		
+85	84	StaticText	[40, 172, 94, 32]	[87.0, 188.0]	New	
+80	35	Row	[0, 216, 400, 56]	[200.0, 244.0]		
+81	80	Cell	[20, 216, 360, 56]	[200.0, 244.0]		
+82	81	StaticText	[36, 228, 136, 32]	[104.0, 244.0]	Popular	
+77	35	Row	[0, 272, 400, 56]	[200.0, 300.0]		
+78	77	Cell	[20, 272, 360, 56]	[200.0, 300.0]		
+79	78	StaticText	[38, 284, 140, 32]	[108.0, 300.0]	Random	
+73	35	Row	[0, 354, 400, 38]	[200.0, 373.0]		
+74	73	Cell	[20, 354, 360, 38]	[200.0, 373.0]		
+75	74	Group	[28, 354, 368, 38]	[212.0, 373.0]		
+76	75	Heading	[28, 358, 56, 28]	[56.0, 372.0]		|Apps
+69	35	Row	[0, 392, 400, 60]	[200.0, 422.0]		
+70	69	Cell	[20, 392, 360, 60]	[200.0, 422.0]		
+72	70	Image	[32, 400, 44, 44]	[54.0, 422.0]		|Desktop
+71	70	StaticText	[92, 406, 100, 32]	[142.0, 422.0]	Desktop	
+65	35	Row	[0, 452, 400, 60]	[200.0, 482.0]		
+66	65	Cell	[20, 452, 360, 60]	[200.0, 482.0]		
+68	66	Image	[32, 460, 44, 44]	[54.0, 482.0]		|Display
+67	66	StaticText	[92, 466, 88, 32]	[136.0, 482.0]	Display	
+61	35	Row	[0, 512, 400, 60]	[200.0, 542.0]		
+62	61	Cell	[20, 512, 360, 60]	[200.0, 542.0]		
+64	62	Image	[32, 520, 44, 44]	[54.0, 542.0]		|Dock
+63	62	StaticText	[92, 526, 62, 32]	[123.0, 542.0]	Dock	
+57	35	Row	[0, 572, 400, 60]	[200.0, 602.0]		
+58	57	Cell	[20, 572, 360, 60]	[200.0, 602.0]		
+60	58	Image	[32, 580, 44, 44]	[54.0, 602.0]		|Effect
+59	58	StaticText	[92, 586, 72, 32]	[128.0, 602.0]	Effect	
+53	35	Row	[0, 632, 400, 60]	[200.0, 662.0]		
+54	53	Cell	[20, 632, 360, 60]	[200.0, 662.0]		
+56	54	Image	[32, 640, 44, 44]	[54.0, 662.0]		|Finder
+55	54	StaticText	[92, 646, 76, 32]	[130.0, 662.0]	Finder	
+49	35	Row	[0, 692, 400, 60]	[200.0, 722.0]		
+50	49	Cell	[20, 692, 360, 60]	[200.0, 722.0]		
+52	50	Image	[32, 700, 44, 44]	[54.0, 722.0]		|Keyboard
+51	50	StaticText	[92, 706, 114, 32]	[149.0, 722.0]	Keyboard	
+45	35	Row	[0, 752, 400, 60]	[200.0, 782.0]		
+46	45	Cell	[20, 752, 360, 60]	[200.0, 782.0]		
+48	46	Image	[32, 760, 44, 44]	[54.0, 782.0]		|Mouse
+47	46	StaticText	[92, 766, 80, 32]	[132.0, 782.0]	Mouse	
+41	35	Row	[0, 812, 400, 60]	[200.0, 842.0]		
+42	41	Cell	[20, 812, 360, 60]	[200.0, 842.0]		
+44	42	Image	[32, 820, 44, 44]	[54.0, 842.0]		|Photos
+43	42	StaticText	[92, 826, 84, 32]	[134.0, 842.0]	Photos	
+37	35	Row	[0, 872, 400, 28]	[200.0, 886.0]		
+38	37	Cell	[20, 872, 360, 28]	[200.0, 886.0]		
+40	38	Image	[32, 880, 44, 20]	[54.0, 890.0]		|Screenshot
+39	38	StaticText	[92, 886, 138, 14]	[161.0, 893.0]	Screenshot	
+36	35	Column	[20, 104, 360, 796]	[200.0, 502.0]		
+31	30	ScrollBar	[368, 104, 32, 796]	[384.0, 502.0]	0.0	
+34	31	ValueIndicator	[376, 106, 24, 392]	[388.0, 302.0]	0.0	
+33	31	Button	[376, 498, 24, 400]	[388.0, 698.0]		
+32	31	Button	[376, 104, 24, 2]	[388.0, 105.0]		
+28	10	Splitter	[400, 104, 2, 796]	[401.0, 502.0]	200.0	
+11	10	Group	[402, 0, 1398, 900]	[1101.0, 450.0]		
+12	11	ScrollArea	[402, 104, 1398, 796]	[1101.0, 502.0]		
+13	12	OpaqueProviderGroup	[770, 136, 660, 472]	[1100.0, 372.0]		
+21	13	Group	[770, 136, 660, 220]	[1100.0, 246.0]		
+27	21	StaticText	[788, 154, 60, 60]	[818.0, 184.0]	🎊	
+26	21	StaticText	[864, 154, 96, 32]	[912.0, 170.0]	Confetti	
+25	21	StaticText	[864, 188, 196, 26]	[962.0, 201.0]	Show confetti effect	
+24	21	Button	[1344, 166, 52, 28]	[1370.0, 180.0]		|Flash
+23	21	Image	[788, 294, 44, 44]	[810.0, 316.0]		|Effect
+22	21	StaticText	[840, 302, 58, 26]	[869.0, 315.0]	Effect	
+14	13	Group	[770, 388, 660, 220]	[1100.0, 498.0]		
+20	14	StaticText	[788, 406, 60, 60]	[818.0, 436.0]	☔️	
+19	14	StaticText	[864, 406, 52, 32]	[890.0, 422.0]	Rain	
+18	14	StaticText	[864, 440, 104, 26]	[916.0, 453.0]	Rain effect	
+17	14	CheckBox	[1336, 414, 76, 44]	[1374.0, 436.0]	0	
+16	14	Image	[788, 546, 44, 44]	[810.0, 568.0]		|Effect
+15	14	StaticText	[840, 554, 58, 26]	[869.0, 567.0]	Effect	
+3	1	Toolbar	[0, 0, 1800, 104]	[900.0, 52.0]		
+7	3	Button	[418, 0, 84, 104]	[460.0, 52.0]		|Split View Horizontally Left
+8	7	Button	[436, 28, 46, 36]	[459.0, 46.0]		|Split View Horizontally Left
+4	3	Group	[1118, 0, 666, 104]	[1451.0, 52.0]		
+5	4	TextField	[1124, 22, 654, 62]	[1451.0, 53.0]		
+6	5	Button	[1128, 30, 50, 44]	[1153.0, 52.0]		|Search
+2	1	StaticText	[502, 0, 616, 104]	[810.0, 52.0]	Almighty	

@@ -1,0 +1,102 @@
+The image displays the user interface (UI) for the "Apple Books" app. The interface is divided into several distinguishable sections with multiple elements:
+
+1. **Top Menu Bar:**
+   - Three colored circles (red, yellow, green) positioned on the top left corner, standard on macOS windows for closing, minimizing, and expanding the window, respectively.
+   - A search field is located on the upper left side, indicated by a magnifying glass icon and labeled "Search".
+   - On the top right, there is a dropdown menu labeled "Browse Sections" with a downward pointing arrow, suggesting it can be clicked to reveal more options.
+
+2. **Side Menu (Sidebar):**
+   - The sidebar is on the left part of the interface, starting with the label "Apple Books" at the top.
+   - Below the label are the following menu items:
+     - "Read Now" icon (a bookmark ribbon).
+     - "Book Store" icon (currently selected, highlighted with blue color), indicating the main view being displayed is the Book Store.
+     - "Audiobook Store" icon.
+   - A "Library" section header followed by library categories:
+     - "All" icon (a stack of books).
+     - "Want to Read" icon (a heart symbol).
+     - "Finished" icon (a check mark).
+     - "Books" icon.
+     - "Audiobooks" icon.
+     - "PDFs" icon.
+     - "My Samples" icon.
+   - A "My Collections" section includes a "New Collection" option with a plus (+) sign to its left, likely used to create new collections.
+
+3. **Main Content Area:**
+   - The header "Book Store" indicates the current section of the app being viewed.
+   - Below the header are two promotional panels:
+     
+     - **Left Panel (Limited-Time Offers):**
+       - Two featured books with cover images, titles "The Searcher" by Tana French and "The No-Show" by Beth O'Leary.
+     
+     - **Right Panel (Books We Love):**
+       - Titled "Discover the excellent new reads February has in store" followed by an illustration and the text "FEBRUARY PICKS" next to a symbol that represents the Apple Books brand.
+
+4. **Section Below Promotional Panels:**
+   - Titled "New & Trending" with a subtitle "Recently released and notable books."
+   - A selection of book covers displayed in a horizontal scroll layout, including titles such as "Fury" by Alex Michaelides, "House of Sky and Breath" by Sarah J. Maas, "First Lie" by Wynne Channing, etc.
+   - A "See All" link at the top right of this section, likely allowing the user to view more in this category.
+   - A right arrow on the edge of the horizontal scroll bar to navigate through more books in the selection.
+
+5. **Footer:**
+   - The footer of the side menu has the icon of a person and "Mariya Hirna," suggesting the name of the current user or account holder logged into the app.
+
+The UI uses a clean design with a focus on usability and content discovery. The selected area ("Book Store") is highlighted, and there's a balance between graphics and textual information. The color scheme and layout are consistent with Apple's design language.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Book Store
+3	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+4	3	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+37	4	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+38	37	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+40	38	Group	[0, 104, 400, 1264]	[200.0, 736.0]		|Sidebar
+55	40	Group	[20, 104, 360, 78]	[200.0, 143.0]		
+56	55	TextField	[18, 108, 364, 60]	[200.0, 138.0]		|Search
+54	40	Heading	[20, 202, 360, 52]	[200.0, 228.0]		|Apple Books
+53	40	StaticText	[20, 254, 360, 56]	[200.0, 282.0]		|Read Now
+52	40	StaticText	[20, 310, 360, 56]	[200.0, 338.0]		|Book Store
+51	40	StaticText	[20, 366, 360, 56]	[200.0, 394.0]		|Audiobook Store
+50	40	Heading	[20, 442, 360, 52]	[200.0, 468.0]	Expanded	|Library
+49	40	StaticText	[20, 494, 360, 56]	[200.0, 522.0]		|All
+48	40	StaticText	[20, 550, 360, 56]	[200.0, 578.0]		|Want to Read
+47	40	StaticText	[20, 606, 360, 56]	[200.0, 634.0]		|Finished
+46	40	StaticText	[20, 662, 360, 56]	[200.0, 690.0]		|Books
+45	40	StaticText	[20, 718, 360, 56]	[200.0, 746.0]		|Audiobooks
+44	40	StaticText	[20, 774, 360, 56]	[200.0, 802.0]		|PDFs
+43	40	StaticText	[20, 830, 360, 56]	[200.0, 858.0]		|My Samples
+42	40	Heading	[20, 906, 360, 52]	[200.0, 932.0]	Expanded	|My Collections
+41	40	Button	[20, 958, 360, 56]	[200.0, 986.0]		|New Collection
+39	38	Button	[40, 1424, 248, 72]	[164.0, 1460.0]	Mariya Hirna	|Account
+5	4	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+6	5	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+36	6	Group	[426, 0, 1598, 104]	[1225.0, 52.0]		
+7	6	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+8	7	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+35	8	Heading	[482, 104, 1198, 108]	[1081.0, 158.0]		|Book Store
+34	8	Button	[1684, 130, 282, 56]	[1825.0, 158.0]		|Browse Sections ￼
+33	8	Button	[482, 294, 718, 636]	[841.0, 612.0]		|GREAT PRICES, Get must-read books by best-selling writers for under £2.
+32	8	Button	[1248, 294, 718, 636]	[1607.0, 612.0]		|BOOKS WE LOVE, Discover the excellent new reads February has in store.
+31	8	Button	[2016, 294, 32, 636]	[2032.0, 612.0]		|PAGETURNER, Don't miss this inventive and intriguing new thriller.
+9	8	Group	[402, 1010, 1646, 526]	[1225.0, 1273.0]		|New & Trending
+30	9	Heading	[482, 1090, 296, 26]	[630.0, 1103.0]		|New & Trending
+29	9	Button	[1882, 1098, 84, 18]	[1924.0, 1107.0]		|See All
+28	9	Heading	[482, 1116, 1486, 42]	[1225.0, 1137.0]		|Recently released and notable books.
+27	9	Button	[482, 1210, 142, 220]	[553.0, 1320.0]		|The Fury by Alex Michaelides
+26	9	Button	[482, 1478, 142, 58]	[553.0, 1507.0]		|Anna O by Matthew Blake
+25	9	Button	[672, 1210, 142, 218]	[743.0, 1319.0]		|House of Flame and Shadow by Sarah J. Maas
+24	9	Button	[672, 1478, 142, 58]	[743.0, 1507.0]		|Green Dot by Madeleine Gray
+23	9	Button	[864, 1216, 142, 218]	[935.0, 1325.0]		|First Lie Wins by Ashley Elston
+22	9	Button	[864, 1482, 142, 54]	[935.0, 1509.0]		|The Murder After the Night Before by Katy Brent
+21	9	Button	[1056, 1208, 142, 222]	[1127.0, 1319.0]		|The Lucky Penny by Dilly Court
+20	9	Button	[1056, 1478, 142, 58]	[1127.0, 1507.0]		|Come and Get It by Kiley Reid
+19	9	Button	[1248, 1220, 142, 220]	[1319.0, 1330.0]		|The Last Word by Elly Griffiths
+18	9	Button	[1248, 1490, 142, 46]	[1319.0, 1513.0]		|Crosshairs by James Patterson
+17	9	Button	[1440, 1214, 142, 218]	[1511.0, 1323.0]		|Face Her Fear by Lisa Regan
+16	9	Button	[1440, 1482, 142, 54]	[1511.0, 1509.0]		|The Favourite by Rosemary Hennigan
+15	9	Button	[1632, 1208, 142, 222]	[1703.0, 1319.0]		|Piglet by Lottie Hazell
+14	9	Button	[1632, 1478, 142, 58]	[1703.0, 1507.0]		|Godkiller by Hannah Kaner
+13	9	Button	[1824, 1214, 142, 218]	[1895.0, 1323.0]		|The Spy Coast by Tess Gerritsen
+12	9	Button	[1824, 1482, 142, 54]	[1895.0, 1509.0]		|Empireworld by Sathnam Sanghera
+11	9	Button	[2016, 1216, 32, 218]	[2032.0, 1325.0]		|Only Say Good Things by Crystal Hefner
+10	9	Button	[2016, 1482, 32, 54]	[2032.0, 1509.0]		|The Wedding of the Year by Jill Mansell
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

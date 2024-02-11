@@ -1,0 +1,32 @@
+The image displays a promotional or instructional UI interface for an application called IconJar. The UI is divided into a main panel on the left and three feature descriptions on the right, each with an accompanying icon. Below is a detailed breakdown of each UI element:
+
+Left Panel:
+1. At the top-left corner, there are three dots representing a pagination or image carousel indicator. There are three dots in total, implying there may be three slides or pages to view.
+2. Below the dots, there is an application icon that is a combination of a jar with a magnifying glass encompassing it, suggesting the function of the app is related to icon management and search.
+3. Next to the application icon, there is a text heading in bold: "Welcome to IconJar."
+4. Under the heading, there is a tagline in a smaller font size: "Store all your icons in one place, just a click away."
+5. At the bottom-left corner, there are two social media icons for Facebook and Twitter, which are likely clickable and would direct the user to the respective social media pages of the application.
+
+Right Panel (Feature Descriptions):
+Each feature has an icon followed by a title and description.
+
+6. Browse, search & preview (represented by a magnifying glass icon):
+   - Title: "Browse, search & preview"
+   - Description: "Just hit the spacebar and preview any icon at any size using our custom Quicklook."
+
+7. Export icons with ease (represented by an export or share icon):
+   - Title: "Export icons with ease"
+   - Description: "Just select the icons you want, pick any sizes, click export and we'll handle the rest."
+
+8. Drag & Drop (represented by a cursor icon):
+   - Title: "Drag & Drop"
+   - Description: "It even works in with apps that don’t support SVGs when you use our QuickDrag feature."
+
+9. Optimised for the Mac (represented by a smiling Mac computer icon):
+   - Title: "Optimised for the Mac"
+   - Description: "Unrivalled native performance, nothing even comes close to our responsiveness."
+
+At the bottom of the Right Panel:
+10. There is a primary action button labeled "Get Started," which is presumably intended for new users to begin using the application or to download it.
+
+The overall design uses a clean and minimalistic approach with predominantly white space, light shadows behind the buttons and icons, green color accents, and clear typography to explain the application's features.

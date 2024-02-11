@@ -1,0 +1,118 @@
+The user interface (UI) of the app in the image appears to be from a productivity or time tracking application. Here is a detailed description of each element:
+
+1. Top Bar Elements:
+   - Left side: Three horizontal lines (menu or "hamburger" icon), indicating an option to open a menu or sidebar.
+   - Center top: A back navigation arrow ("<"), the word "Today" indicating the current view, and a question mark inside a circle, possibly representing a help or info button.
+   - Right top: A printer icon, which could be for printing the displayed information or exporting data.
+   - Below that: A day selector with individual dates from Monday (MON) to Sunday (SUN), with the current day (assumed from context) highlighted and indicated with a red dot above the date.
+
+2. Main Content Area:
+   - Statistics section with metrics:
+     - "0m TOTAL FOCUS"
+     - "0m AVG FOCUS/DAY" (Average Focus Per Day)
+     - "– MOST FOCUSED" (currently no data)
+     - "0m TOTAL BREAK"
+     - "0.0/1 FOCUS/BREAK" (ratio of focus to break time, possibly)
+     - "– MOST DISTRACTED" (currently no data)
+   - Mood indicators with emojis and count next to them:
+     - Focused face emoji with "0 Focused ↑"
+     - Neutral face emoji with "0 Neutral →"
+     - Distracted face emoji with "0 Distracted ↓"
+
+3. Secondary Content Area (below main stats):
+   - Two sub-sections with headers "Category Distribution" and "By Intention":
+     - Under "Category Distribution":
+       - "CATEGORY" with a sub-category "Break" and corresponding metrics "–" for ratio, "0m" for time spent, and "–" for change.
+     - "By Intention":
+       - Columns labeled "INTENTION," "RATIO," "TIME SPENT," and what seems like a truncated header "SESSI..." which possibly stands for "SESSIONS" or "SESSION TIME."
+
+4. Right Sidebar:
+   - A vertical slider with a circle indicating a value set at "1" (could be a zoom level or similar setting for viewing the data).
+   - Two buttons above the slider "Show notes only" (checkbox) and "Filter" (dropdown menu).
+
+5. Bottom Left and Right Elements:
+   - On the very left, two icons that are slightly cut off; one seems to be a play or pause button indicating some action related to starting or stopping time tracking or focus sessions.
+   - On the very right, a large red plus ("+") button, probably for adding a new task, time entry, or similar function.
+
+6. General UI Observations:
+   - The interface uses a monochrome color scheme with red accents used to highlight elements like the current day or important controls, ensuring a minimalist and distraction-free environment.
+   - Almost all metric fields show "0m" or "–", suggesting either the tracking has just started and there's no data collected yet or it's a view for a day where no activity was recorded.
+
+Please note that without the actual text being clearly readable due to resolution and some parts cut off, there may be some conjecture involved in interpreting certain UI elements.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1400]	[800.0, 700.0]		Session Pomodoro Focus Timer
+2	1	Group	[0, 0, 1600, 1400]	[800.0, 700.0]		
+74	2	Button	[584, 72, 56, 56]	[612.0, 100.0]		|Back
+73	2	StaticText	[1032, 72, 14, 30]	[1039.0, 87.0]	?	
+72	2	Button	[648, 72, 400, 56]	[848.0, 100.0]		|Today
+71	2	Button	[1056, 72, 56, 56]	[1084.0, 100.0]		|Forward
+70	2	Button	[1496, 72, 56, 56]	[1524.0, 100.0]		|Share
+69	2	Button	[556, 148, 80, 80]	[596.0, 188.0]		|MON, 05
+68	2	Button	[640, 148, 80, 80]	[680.0, 188.0]		|TUE, 06
+67	2	Button	[724, 148, 80, 80]	[764.0, 188.0]		|WED, 07
+66	2	Button	[808, 148, 80, 80]	[848.0, 188.0]		|THU, 08
+65	2	Button	[892, 148, 80, 80]	[932.0, 188.0]		|FRI, 09
+64	2	Button	[976, 148, 80, 80]	[1016.0, 188.0]		|SAT, 10
+63	2	Button	[1060, 148, 80, 80]	[1100.0, 188.0]		|SUN, 11
+62	2	Button	[0, 200, 94, 96]	[47.0, 248.0]		|00:23
+61	2	Button	[0, 296, 94, 96]	[47.0, 344.0]		|bar-chart-2
+60	2	Image	[1156, 292, 18, 18]	[1165.0, 301.0]		|check
+59	2	StaticText	[1192, 286, 186, 30]	[1285.0, 301.0]	Show notes only	
+58	2	StaticText	[1442, 286, 58, 30]	[1471.0, 301.0]	Filter	
+57	2	Image	[1510, 296, 16, 8]	[1518.0, 300.0]		|Go Down
+56	2	Button	[0, 392, 94, 96]	[47.0, 440.0]		|user
+55	2	Button	[0, 488, 94, 96]	[47.0, 536.0]		|book-open
+54	2	Button	[0, 1224, 94, 96]	[47.0, 1272.0]		|settings
+7	2	ScrollArea	[96, 350, 750, 1034]	[471.0, 867.0]		
+53	7	StaticText	[244, 390, 14, 30]	[251.0, 405.0]	–	
+52	7	StaticText	[464, 390, 14, 30]	[471.0, 405.0]	–	
+51	7	StaticText	[224, 424, 54, 46]	[251.0, 447.0]	0m	
+50	7	StaticText	[444, 424, 54, 46]	[471.0, 447.0]	0m	
+49	7	StaticText	[680, 424, 16, 46]	[688.0, 447.0]	-	
+48	7	StaticText	[186, 470, 132, 22]	[252.0, 481.0]	TOTAL FOCUS	
+47	7	StaticText	[394, 470, 154, 22]	[471.0, 481.0]	AVG FOCUS/DAY	
+46	7	StaticText	[612, 470, 152, 22]	[688.0, 481.0]	MOST FOCUSED	
+45	7	StaticText	[244, 532, 14, 30]	[251.0, 547.0]	–	
+44	7	StaticText	[224, 566, 54, 46]	[251.0, 589.0]	0m	
+43	7	StaticText	[430, 566, 80, 46]	[470.0, 589.0]	0.0/1	
+42	7	StaticText	[680, 566, 16, 46]	[688.0, 589.0]	-	
+41	7	StaticText	[186, 612, 130, 22]	[251.0, 623.0]	TOTAL BREAK	
+40	7	StaticText	[402, 612, 136, 22]	[470.0, 623.0]	FOCUS/BREAK	
+39	7	StaticText	[598, 612, 182, 22]	[689.0, 623.0]	MOST DISTRACTED	
+38	7	Image	[196, 754, 18, 18]	[205.0, 763.0]		|check
+37	7	StaticText	[230, 744, 20, 38]	[240.0, 763.0]	0	
+36	7	StaticText	[262, 738, 52, 50]	[288.0, 763.0]	🤩	
+35	7	Image	[414, 754, 18, 18]	[423.0, 763.0]		|check
+34	7	StaticText	[448, 744, 20, 38]	[458.0, 763.0]	0	
+33	7	StaticText	[482, 738, 52, 50]	[508.0, 763.0]	🙂	
+32	7	Image	[632, 754, 18, 18]	[641.0, 763.0]		|check
+31	7	StaticText	[666, 744, 20, 38]	[676.0, 763.0]	0	
+30	7	StaticText	[700, 738, 52, 50]	[726.0, 763.0]	😔	
+29	7	StaticText	[192, 800, 118, 28]	[251.0, 814.0]	Focused ↑	
+28	7	StaticText	[416, 800, 110, 28]	[471.0, 814.0]	Neutral →	
+27	7	StaticText	[618, 800, 142, 28]	[689.0, 814.0]	Distracted ↓	
+26	7	StaticText	[524, 924, 242, 28]	[645.0, 938.0]	Category Distribution	
+25	7	StaticText	[144, 1000, 104, 22]	[196.0, 1011.0]	CATEGORY	
+24	7	StaticText	[484, 1000, 58, 22]	[513.0, 1011.0]	RATIO	
+23	7	StaticText	[556, 1000, 114, 22]	[613.0, 1011.0]	TIME SPENT	
+22	7	StaticText	[716, 1000, 82, 22]	[757.0, 1011.0]	CHANGE	
+21	7	Image	[148, 1088, 18, 18]	[157.0, 1097.0]		|check
+20	7	StaticText	[184, 1082, 70, 30]	[219.0, 1097.0]	Break	
+19	7	StaticText	[530, 1084, 12, 26]	[536.0, 1097.0]	–	
+18	7	StaticText	[646, 1084, 24, 26]	[658.0, 1097.0]	0m	
+17	7	StaticText	[786, 1084, 12, 26]	[792.0, 1097.0]	–	
+16	7	StaticText	[630, 1284, 136, 28]	[698.0, 1298.0]	By Intention	
+15	7	StaticText	[144, 1360, 106, 22]	[197.0, 1371.0]	INTENTION	
+14	7	StaticText	[508, 1360, 58, 22]	[537.0, 1371.0]	RATIO	
+13	7	StaticText	[588, 1360, 114, 22]	[645.0, 1371.0]	TIME SPENT	
+12	7	StaticText	[726, 1360, 72, 22]	[762.0, 1371.0]	SESSION	
+8	7	ScrollBar	[814, 350, 32, 1034]	[830.0, 867.0]	0.0	
+11	8	ValueIndicator	[822, 352, 24, 922]	[834.0, 813.0]	0.0	
+10	8	Button	[822, 1276, 24, 108]	[834.0, 1330.0]		
+9	8	Button	[822, 350, 24, 2]	[834.0, 351.0]		
+4	2	ScrollArea	[848, 334, 750, 1066]	[1223.0, 867.0]		
+5	4	OpaqueProviderGroup	[1276, 470, 14, 32]	[1283.0, 486.0]		
+6	5	StaticText	[1276, 470, 14, 32]	[1283.0, 486.0]	1	
+3	2	Button	[1456, 1256, 96, 96]	[1504.0, 1304.0]		|plus

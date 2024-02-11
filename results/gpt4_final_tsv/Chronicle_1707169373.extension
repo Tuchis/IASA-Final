@@ -1,0 +1,41 @@
+This UI appears to be from a financial tracking or bill management app on a computer, possibly a screenshot taken from a macOS based on the visual design. The UI is divided into three main columns, each with its own elements.
+
+**Left Column:**
+- At the top are three dots that probably represent different viewing options or a menu.
+- Below that are sections labeled "Bills" and "Reports," each containing sub-items with icons next to them:
+  - Bills:
+    - "Overview" with "2 bills" written beneath it.
+    - "Due Soon" with "1 bill - 270,00 UAH" written beneath it.
+    - "Due This Month" with "1 bill - 270,00 UAH" written beneath it.
+    - "Paid Recently" with "No Bills" written beneath it.
+  - Reports:
+    - "Income" is highlighted, indicating current selection.
+    - "Forecast"
+    - "Monthly History"
+    - "Annual Spending"
+    - "Archive"
+
+**Middle Column:**
+- At the top, there are icons indicating additional options, such as list/grid view toggle, a plus symbol for adding items, and a settings or more options gear icon.
+- Directly below the icons is a dropdown box with "All Items" showing, implying you can filter what's displayed.
+- Next to the dropdown is the search field with a magnifying glass icon, indicating that you can search through items.
+- The main area contains a table with three columns labeled "Name," "Amount," and "Due Date" respectively.
+- A single entry is shown in the table:
+  - Name: "Salary"
+  - Amount: "20 000,00 UAH"
+  - Due Date: "Paid in 20 days Sun, 25 Feb"
+  - Next to the entry name "Salary," there is an icon indicating it's a recurring payment (circular arrow) and a label that reads "INCOME" marked in a blue color to indicate the type of transaction.
+  - A circular icon with what appears to be a coin or currency symbol is to the left of the entry.
+
+**Right Column:**
+- A detailed view for the selected item "Salary" is displayed:
+  - At the top is the title "Salary" with an arrow next to it, likely indicating that you can return to the previous view.
+  - Just below, it's stated "Due in 20 days" followed by the date "Sunday, 25 February 2024" and the amount "20 000,00 UAH." The blue "INCOME" label appears again next to this.
+  - Below this are two buttons: "Log Payment" and "Skip," which are likely actions you can take regarding the salary entry.
+  - Two more options follow, providing additional information and presumably leading to new views or actions:
+    - "View Payment History" with "Never Paid" written below it.
+    - "View Statistics" with "Never Paid" written below it.
+  - Below this is an area with text stating "Click to add notes," which is presumably an interactive area where you can add additional information or annotations regarding the salary entry.
+- Finally, at the bottom, there are two buttons: "Archive" and "Edit," which likely pertain to archiving the entry or editing its details.
+
+The overall design is clean and minimalist, with a focus on usability and clarity. The color palette includes grays, whites, and a touch of blue to denote income-related entries, which aligns with common design language for financial applications.

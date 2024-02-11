@@ -2,10 +2,10 @@ import os
 from gpt4v import gpt4v_response
 
 file_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/IASA_Champ_Final/app_data_splitted/test"
-result_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gpt4_test"
+result_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gpt4_final"
 
-prompt = "You have a photo of UI interface of an app. Describe every element of UI. Include all buttons and text fields. Do not talk about color, style etc"
-max_tokens = 800
+prompt = "You have a photo of UI interface of an app. Describe every element of UI in detail and its context. Include all buttons and text fields. If there is a text field, include the text that is written in it. If possible, recognise text of all elements as well. Generated answer has to be sufficient for Q&A about that UI."
+max_tokens = 1200
 
 FINAL_RUN = True
 
@@ -32,7 +32,7 @@ if FINAL_RUN:
                 for file in os.listdir(os.path.join(file_folder, folder, screenshot)):
                     if file.endswith('DS_Store'):
                         continue
-                    if file.endswith('.json') or file.endswith('box.png'):
+                    if file.endswith('.json') or file.endswith('box.png') or file.endswith('.tsv'):
                         continue
                     else:
                         print(folder, screenshot, file)

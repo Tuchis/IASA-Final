@@ -3,10 +3,10 @@ import random
 from gpt4v import gpt4v_response
 
 file_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/IASA_Champ_Final/app_data_splitted/train"
-result_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gpt4_train"
+result_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gpt4_train_small_test"
 
-prompt = "You have a photo of UI interface of an app. Describe every element of UI. Include all buttons and text fields. Do not talk about color, style etc"
-max_tokens = 800
+prompt = "You have a photo of UI interface of an app. Describe every element of UI in detail and its context. Include all buttons and text fields. If there is a text field, include the text that is written in it. If possible, recognise text of all elements as well. Generated answer has to be sufficient for Q&A about that UI."
+max_tokens = 1200
 
 FINAL_RUN = True
 RANDOM_FILES = 40

@@ -1,0 +1,136 @@
+In the UI interface of the app in the image provided, there are several elements:
+
+1. At the top left corner of the interface, there are three dots arranged horizontally, which typically indicate a menu or more options.
+2. At the top right corner, there is a star icon, which often denotes a favorite or bookmarking feature.
+3. In the center of the screen, there is a large circle with a plus sign inside it, which is generally used to signify an action to add new content or create a new entry. Surrounding the circle are concentric circles, giving the impression of a target or radar.
+4. Below the large circle with the plus sign, there is text that reads "Add or Drop Folders," which describes the function of the plus sign button, implying you can add folders by clicking or dragging them into this area.
+5. At the bottom of the interface, around the center, is the word "Gemini," which is likely the name of the app or the branding within the app.
+
+Keep in mind that because you've requested to exclude details like color and style, this description focuses solely on the functional components and their potential meaning within the interface.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2200, 1280]	[1100.0, 640.0]		
+79	1	Table	[20, 170, 350, 760]	[195.0, 550.0]		|Application categories
+121	79	Row	[20, 170, 350, 80]	[195.0, 210.0]		
+122	121	Cell	[32, 170, 326, 80]	[195.0, 210.0]		
+124	122	Image	[38, 182, 32, 32]	[54.0, 198.0]		|Discover
+123	122	StaticText	[88, 182, 152, 32]	[164.0, 198.0]	My Explorer	
+117	79	Row	[20, 250, 350, 80]	[195.0, 290.0]		
+118	117	Cell	[32, 250, 326, 80]	[195.0, 290.0]		
+120	118	Image	[38, 262, 32, 32]	[54.0, 278.0]		|Favorites
+119	118	StaticText	[88, 262, 118, 32]	[147.0, 278.0]	Favorites	
+113	79	Row	[20, 330, 350, 80]	[195.0, 370.0]		
+114	113	Cell	[32, 330, 326, 80]	[195.0, 370.0]		
+116	114	Image	[38, 342, 32, 32]	[54.0, 358.0]		|OnThisMac
+115	114	StaticText	[88, 342, 160, 32]	[168.0, 358.0]	On This Mac	
+109	79	Row	[20, 410, 350, 80]	[195.0, 450.0]		
+110	109	Cell	[32, 410, 326, 80]	[195.0, 450.0]		
+112	110	Image	[38, 422, 32, 32]	[54.0, 438.0]		|Collections
+111	110	StaticText	[88, 422, 144, 32]	[160.0, 438.0]	Collections	
+105	79	Row	[20, 490, 350, 80]	[195.0, 530.0]		
+106	105	Cell	[32, 490, 326, 80]	[195.0, 530.0]		
+108	106	Image	[38, 502, 32, 32]	[54.0, 518.0]		|How Tos
+107	106	StaticText	[88, 502, 110, 32]	[143.0, 518.0]	How-tos	
+101	79	Row	[20, 570, 350, 80]	[195.0, 610.0]		
+102	101	Cell	[32, 570, 326, 80]	[195.0, 610.0]		
+104	102	Image	[38, 582, 32, 32]	[54.0, 598.0]		|Tutorials
+103	102	StaticText	[88, 582, 148, 32]	[162.0, 598.0]	App Guides	
+97	79	Row	[20, 650, 350, 56]	[195.0, 678.0]		
+98	97	Cell	[32, 650, 326, 56]	[195.0, 678.0]		
+100	98	Image	[38, 662, 32, 32]	[54.0, 678.0]		|AllApps
+99	98	StaticText	[88, 662, 108, 32]	[142.0, 678.0]	All Apps	
+93	79	Row	[20, 706, 350, 56]	[195.0, 734.0]		
+94	93	Cell	[32, 706, 326, 56]	[195.0, 734.0]		
+96	94	Image	[38, 718, 32, 32]	[54.0, 734.0]		|
+95	94	StaticText	[88, 718, 116, 32]	[146.0, 734.0]	Optimize	
+89	79	Row	[20, 762, 350, 56]	[195.0, 790.0]		
+90	89	Cell	[32, 762, 326, 56]	[195.0, 790.0]		
+92	90	Image	[38, 774, 32, 32]	[54.0, 790.0]		|
+91	90	StaticText	[88, 774, 70, 32]	[123.0, 790.0]	Work	
+85	79	Row	[20, 818, 350, 56]	[195.0, 846.0]		
+86	85	Cell	[32, 818, 326, 56]	[195.0, 846.0]		
+88	86	Image	[38, 830, 32, 32]	[54.0, 846.0]		|
+87	86	StaticText	[88, 830, 88, 32]	[132.0, 846.0]	Create	
+81	79	Row	[20, 874, 350, 56]	[195.0, 902.0]		
+82	81	Cell	[32, 874, 326, 56]	[195.0, 902.0]		
+84	82	Image	[38, 886, 32, 32]	[54.0, 902.0]		|
+83	82	StaticText	[88, 886, 106, 32]	[141.0, 902.0]	Develop	
+80	79	Column	[20, 170, 350, 760]	[195.0, 550.0]		
+77	1	Unknown	[332, 38, 28, 32]	[346.0, 54.0]		|Forward
+78	77	Image	[336, 38, 20, 32]	[346.0, 54.0]		|
+75	1	Unknown	[276, 38, 28, 32]	[290.0, 54.0]		|Back
+76	75	Image	[280, 38, 20, 32]	[290.0, 54.0]		|NavigationArrow
+13	1	Group	[390, 10, 1800, 1260]	[1290.0, 640.0]		
+14	13	ScrollArea	[390, 10, 1800, 1260]	[1290.0, 640.0]		|Your main dashboard, also called my explorer
+19	14	Group	[390, 10, 1800, 1270]	[1290.0, 645.0]		
+67	19	ScrollArea	[390, 158, 1800, 444]	[1290.0, 380.0]		
+73	67	Group	[0, 170, 450, 400]	[225.0, 370.0]		
+74	73	Image	[0, 130, 450, 480]	[225.0, 370.0]		
+69	67	Group	[490, 170, 1600, 400]	[1290.0, 370.0]		
+72	69	StaticText	[560, 314, 242, 28]	[681.0, 328.0]	AUTOMATE THE DOCK	
+71	69	StaticText	[560, 356, 800, 70]	[960.0, 391.0]	Get the most out of your Dock	
+70	69	Image	[1490, 130, 600, 480]	[1790.0, 370.0]		
+68	67	Group	[2130, 170, 70, 400]	[2165.0, 370.0]		
+20	19	Group	[470, 638, 1640, 642]	[1290.0, 959.0]		|Rising stars of Setapp
+66	20	StaticText	[490, 638, 494, 60]	[737.0, 668.0]	Rising stars of Setapp	
+65	20	StaticText	[490, 708, 550, 32]	[765.0, 724.0]	Enjoy our less popular but highly-rated apps.	
+57	20	Link	[490, 808, 872, 306]	[926.0, 961.0]		
+64	57	Image	[526, 808, 120, 120]	[586.0, 868.0]		|Application icon
+63	57	StaticText	[490, 828, 20, 34]	[500.0, 845.0]	1	
+62	57	StaticText	[526, 964, 440, 34]	[746.0, 981.0]	Make sure your text has no errors	
+61	57	Image	[530, 1022, 32, 32]	[546.0, 1038.0]		|RateAppIcon
+60	57	StaticText	[564, 1022, 60, 30]	[594.0, 1037.0]	99%	
+59	57	StaticText	[626, 1022, 20, 30]	[636.0, 1037.0]	•	
+58	57	StaticText	[648, 1022, 56, 30]	[676.0, 1037.0]	Mac	
+55	20	Unknown	[2004, 652, 28, 32]	[2018.0, 668.0]		|Back
+56	55	Image	[2008, 652, 20, 32]	[2018.0, 668.0]		|NavigationArrow
+53	20	Unknown	[2062, 652, 28, 32]	[2076.0, 668.0]		|Forward
+54	53	Image	[2066, 652, 20, 32]	[2076.0, 668.0]		|
+51	20	Image	[1442, 714, 648, 400]	[1766.0, 914.0]		|Screenshot
+52	51	Image	[1442, 714, 648, 400]	[1766.0, 914.0]		
+21	20	ScrollArea	[470, 1154, 1640, 126]	[1290.0, 1217.0]		
+22	21	List	[470, 1154, 1640, 126]	[1290.0, 1217.0]		|Application collection view
+23	22	List	[470, 1154, 1640, 126]	[1290.0, 1217.0]		
+42	23	Group	[470, 1154, 520, 126]	[730.0, 1217.0]		
+43	42	Link	[470, 1154, 520, 126]	[730.0, 1217.0]		
+50	43	Image	[526, 1174, 92, 92]	[572.0, 1220.0]		|Application icon
+49	43	StaticText	[638, 1174, 322, 72]	[799.0, 1210.0]	Capture GIFs from your screen	
+48	43	Image	[642, 1272, 32, 8]	[658.0, 1276.0]		|RateAppIcon
+47	43	StaticText	[676, 1272, 60, 8]	[706.0, 1276.0]	99%	
+46	43	StaticText	[738, 1272, 20, 8]	[748.0, 1276.0]	•	
+45	43	StaticText	[760, 1272, 56, 8]	[788.0, 1276.0]	Mac	
+44	43	StaticText	[486, 1190, 24, 34]	[498.0, 1207.0]	2	
+33	23	Group	[1030, 1154, 520, 126]	[1290.0, 1217.0]		
+34	33	Link	[1030, 1154, 520, 126]	[1290.0, 1217.0]		
+41	34	Image	[1086, 1174, 92, 92]	[1132.0, 1220.0]		|Application icon
+40	34	StaticText	[1198, 1174, 298, 36]	[1347.0, 1192.0]	Turn images into icons	
+39	34	Image	[1202, 1272, 32, 8]	[1218.0, 1276.0]		|RateAppIcon
+38	34	StaticText	[1236, 1272, 60, 8]	[1266.0, 1276.0]	99%	
+37	34	StaticText	[1298, 1272, 20, 8]	[1308.0, 1276.0]	•	
+36	34	StaticText	[1320, 1272, 56, 8]	[1348.0, 1276.0]	Mac	
+35	34	StaticText	[1046, 1190, 26, 34]	[1059.0, 1207.0]	3	
+24	23	Group	[1590, 1154, 520, 126]	[1850.0, 1217.0]		
+25	24	Link	[1590, 1154, 520, 126]	[1850.0, 1217.0]		
+32	25	Image	[1646, 1174, 92, 92]	[1692.0, 1220.0]		|Application icon
+31	25	StaticText	[1758, 1174, 322, 72]	[1919.0, 1210.0]	Get full-screen meeting alerts	
+30	25	Image	[1762, 1272, 32, 8]	[1778.0, 1276.0]		|RateAppIcon
+29	25	StaticText	[1796, 1272, 60, 8]	[1826.0, 1276.0]	99%	
+28	25	StaticText	[1858, 1272, 20, 8]	[1868.0, 1276.0]	•	
+27	25	StaticText	[1880, 1272, 56, 8]	[1908.0, 1276.0]	Mac	
+26	25	StaticText	[1606, 1190, 26, 34]	[1619.0, 1207.0]	4	
+15	14	ScrollBar	[2158, 150, 32, 1116]	[2174.0, 708.0]	0.0	
+18	15	ValueIndicator	[2166, 152, 24, 250]	[2178.0, 277.0]	0.0	
+17	15	Button	[2166, 402, 24, 862]	[2178.0, 833.0]		
+16	15	Button	[2166, 150, 24, 2]	[2178.0, 151.0]		
+11	1	Button	[2090, 14, 96, 96]	[2138.0, 62.0]		|Your account picture
+12	11	Image	[2090, 50, 60, 60]	[2120.0, 80.0]		
+9	1	Link	[1704, 64, 220, 32]	[1814.0, 80.0]		|Team member
+10	9	StaticText	[1744, 64, 180, 32]	[1834.0, 80.0]	Team member	
+6	1	Button	[1964, 58, 46, 46]	[1987.0, 81.0]		
+8	6	Image	[1964, 58, 46, 46]	[1987.0, 81.0]		|NotificationsIcon
+7	6	StaticText	[1982, 48, 44, 28]	[2004.0, 62.0]	24	
+4	1	Group	[742, 0, 186, 108]	[835.0, 54.0]		
+5	4	Button	[740, 50, 192, 60]	[836.0, 80.0]		|AI Assistant
+2	1	Group	[490, 36, 190, 88]	[585.0, 80.0]		
+3	2	TextField	[546, 62, 130, 38]	[611.0, 81.0]		|Setapp application search

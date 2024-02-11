@@ -1,0 +1,41 @@
+The user interface (UI) of the app presents the following elements:
+
+- A header with the title "Account".
+- A close button, represented by an "x", located at the top right corner of the interface.
+- A navigation panel on the left side with several items, which appear to be:
+  - "Account" (currently selected)
+  - "Your devices"
+  - "System settings"
+  - "Shortcuts"
+  - "Stand with Ukraine" accompanied by the flag of Ukraine.
+  - "Need help?"
+
+- In the main content area, there are two sections with options/settings:
+  - "App language" followed by "English" and a link that says "How to change app language on Mac".
+  - "ClearVPN's newsletter" with descriptive text "Don't miss updates, tips & special offers" and a toggle switch to the right.
+
+- On the bottom left, there is an image accompanied by a text bubble with the message "Are you sure all your devices are protected?" and below that, a statement "7 of 8 slots remaining".
+
+Please note that I am describing the elements without referring to colors or styles, as per your request.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+18	1	Button	[1488, 76, 64, 64]	[1520.0, 108.0]		|settings-close-button
+17	1	StaticText	[448, 132, 188, 48]	[542.0, 156.0]	Account	
+16	1	StaticText	[48, 224, 320, 68]	[208.0, 258.0]	Account	
+15	1	StaticText	[48, 292, 320, 68]	[208.0, 326.0]	Your devices	
+14	1	StaticText	[448, 310, 188, 28]	[542.0, 324.0]	App language	
+13	1	StaticText	[48, 360, 320, 68]	[208.0, 394.0]	System settings	
+12	1	StaticText	[448, 358, 96, 28]	[496.0, 372.0]	English	
+11	1	StaticText	[48, 428, 320, 68]	[208.0, 462.0]	Shortcuts	
+10	1	Button	[448, 412, 470, 48]	[683.0, 436.0]		|How to change app language on Mac
+9	1	StaticText	[48, 496, 320, 104]	[208.0, 548.0]	Stand with Ukraine 🇺🇦	
+8	1	StaticText	[448, 536, 298, 28]	[597.0, 550.0]	ClearVPN’s newsletter	
+7	1	StaticText	[448, 578, 458, 24]	[677.0, 590.0]	Don’t miss updates, tips & special offers	
+6	1	CheckBox	[1476, 552, 76, 44]	[1514.0, 574.0]	0	|
+5	1	StaticText	[48, 600, 320, 68]	[208.0, 634.0]	Need help?	
+4	1	Image	[82, 870, 252, 148]	[208.0, 944.0]		|banner-devices
+3	1	StaticText	[114, 1044, 188, 80]	[208.0, 1084.0]	"Are you sure 
+all your devices are protected?"	
+2	1	Button	[80, 1150, 256, 44]	[208.0, 1172.0]		|7 of 8 slots remaining

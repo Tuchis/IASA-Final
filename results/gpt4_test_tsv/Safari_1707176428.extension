@@ -1,0 +1,101 @@
+The image appears to be a screenshot of a web browser displaying a Google search page. On this page, a cookie consent pop-up is visible, interrupting the search experience. Here are the elements described from top to bottom:
+
+- A search bar at the top with some browser tabs visible.
+- Browser navigation buttons including the back, forward, and refresh buttons.
+- A Google search bar partially visible with the search query "iasa champ" visible.
+- Browser extension icons and the profile icon can be seen on the top right corner.
+- A language selection button labeled "EN".
+- A "Sign in" button.
+- The main content being obscured by the cookie consent pop-up titled "Before you continue to Google".
+- Within the cookie popup:
+  - A message that starts with "We use cookies and data to".
+  - A list of purposes for using cookies such as delivering and maintaining services, tracking outages, measuring engagement, and several others.
+  - An option to accept these explanations with a button labeled "Accept all".
+  - An option to reject with a button labeled "Reject all".
+  - A highlighted slider button as part of the "Accept all" option.
+  - A link labeled "More options" for additional settings.
+- Below the popup, there are hyperlinks that are partially visible, which appear to be Google search results.
+- At the very bottom, there are three additional buttons labeled "Reject all," "Accept all," and "More options," which correspond to user consent interaction choices. These appear to be a duplicate set of options to the ones inside the cookie popup message.
+- In the lower left corner of the page, links to "Privacy" and "Terms" are visible.
+
+Because the cookie consent pop-up is prominent, certain elements of the underlying Google search page are not fully visible in the screenshot.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2648, 1718]	[1324.0, 859.0]		iasa champ - Google Search
+24	1	SplitGroup	[0, 0, 2648, 1718]	[1324.0, 859.0]		
+25	24	TabGroup	[0, 0, 2648, 1718]	[1324.0, 859.0]		
+26	25	Group	[0, 0, 2648, 1718]	[1324.0, 859.0]		
+27	26	Group	[0, 0, 2648, 1718]	[1324.0, 859.0]		
+28	27	ScrollArea	[0, 104, 2648, 1614]	[1324.0, 911.0]		|
+29	28	WebArea	[0, 104, 2648, 1614]	[1324.0, 911.0]		|iasa champ - Google Search
+30	29	Group	[0, 104, 2648, 1614]	[1324.0, 911.0]		|Before you continue to Google Search
+77	30	Group	[0, 104, 2648, 1614]	[1324.0, 911.0]		|
+31	30	Group	[0, 104, 2648, 1614]	[1324.0, 911.0]		|
+76	31	Image	[588, 160, 80, 80]	[628.0, 200.0]		|Google
+74	31	Group	[1668, 152, 204, 96]	[1770.0, 200.0]		|
+75	74	PopUpButton	[1668, 152, 204, 96]	[1770.0, 200.0]		|Choose language, en
+72	31	Link	[1870, 152, 192, 96]	[1966.0, 200.0]		Sign in|
+73	72	StaticText	[1932, 182, 86, 36]	[1975.0, 200.0]	Sign in	|
+70	31	Heading	[588, 284, 1472, 72]	[1324.0, 320.0]	1	Before you continue to Google|
+71	70	StaticText	[944, 284, 760, 72]	[1324.0, 320.0]	Before you continue to Google	|
+69	31	StaticText	[588, 398, 106, 36]	[641.0, 416.0]	We use 	|
+67	31	Link	[692, 398, 100, 36]	[742.0, 416.0]		cookies|
+68	67	StaticText	[692, 398, 100, 36]	[742.0, 416.0]	cookies	|
+66	31	StaticText	[790, 398, 154, 36]	[867.0, 416.0]	 and data to	|
+59	31	Group	[588, 460, 1472, 208]	[1324.0, 564.0]		|
+64	59	Group	[588, 460, 1472, 40]	[1324.0, 480.0]		|
+65	64	StaticText	[656, 464, 480, 32]	[896.0, 480.0]	Deliver and maintain Google services	|
+62	59	Group	[588, 524, 1472, 40]	[1324.0, 544.0]		|
+63	62	StaticText	[656, 528, 740, 32]	[1026.0, 544.0]	Track outages and protect against spam, fraud and abuse	|
+60	59	Group	[588, 588, 1472, 80]	[1324.0, 628.0]		|
+61	60	StaticText	[656, 592, 1388, 72]	[1350.0, 628.0]	Measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services	|
+58	31	StaticText	[588, 718, 826, 36]	[1001.0, 736.0]	If you choose to 'Accept all', we will also use cookies and data to	|
+49	31	Group	[588, 780, 1472, 232]	[1324.0, 896.0]		|
+56	49	Group	[588, 780, 1472, 40]	[1324.0, 800.0]		|
+57	56	StaticText	[656, 784, 448, 32]	[880.0, 800.0]	Develop and improve new services	|
+54	49	Group	[588, 844, 1472, 40]	[1324.0, 864.0]		|
+55	54	StaticText	[656, 848, 578, 32]	[945.0, 864.0]	Deliver and measure the effectiveness of ads	|
+52	49	Group	[588, 908, 1472, 40]	[1324.0, 928.0]		|
+53	52	StaticText	[656, 912, 710, 32]	[1011.0, 928.0]	Show personalised content, depending on your settings	|
+50	49	Group	[588, 972, 1472, 40]	[1324.0, 992.0]		|
+51	50	StaticText	[656, 976, 662, 32]	[987.0, 992.0]	Show personalised ads, depending on your settings	|
+47	31	Group	[588, 1036, 1472, 40]	[1324.0, 1056.0]		|
+48	47	StaticText	[588, 1040, 1042, 32]	[1109.0, 1056.0]	If you choose to 'Reject all', we will not use cookies for these additional purposes.	|
+45	31	Group	[588, 1124, 1472, 200]	[1324.0, 1224.0]		|
+46	45	StaticText	[588, 1128, 1456, 192]	[1316.0, 1224.0]	Non-personalised content is influenced by things like the content that you’re currently viewing, activity in your active Search session, and your location. Non-personalised ads are influenced by the content that you’re currently viewing and your general location. Personalised content and ads can also include more relevant results, recommendations and tailored ads based on past activity from this browser, like previous Google searches. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.	|
+41	31	Group	[588, 1352, 1472, 80]	[1324.0, 1392.0]		|
+44	41	StaticText	[588, 1356, 1466, 72]	[1321.0, 1392.0]	Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit 	|
+43	41	StaticText	[706, 1396, 218, 32]	[815.0, 1412.0]	g.co/privacytools	|
+42	41	StaticText	[922, 1396, 160, 32]	[1002.0, 1412.0]	 at any time.	|
+40	31	Button	[912, 1472, 410, 96]	[1117.0, 1520.0]		Reject all|
+39	31	Button	[1320, 1472, 414, 96]	[1527.0, 1520.0]		Accept all|
+36	31	Link	[1226, 1568, 196, 96]	[1324.0, 1616.0]		|
+37	36	Group	[1226, 1568, 196, 96]	[1324.0, 1616.0]		|
+38	37	StaticText	[1242, 1598, 164, 36]	[1324.0, 1616.0]	More options	|
+34	31	Link	[1210, 1664, 114, 54]	[1267.0, 1691.0]		Privacy|
+35	34	StaticText	[1226, 1698, 82, 20]	[1267.0, 1708.0]	Privacy	|
+32	31	Link	[1338, 1664, 98, 54]	[1387.0, 1691.0]		Terms|
+33	32	StaticText	[1354, 1698, 66, 20]	[1387.0, 1708.0]	Terms	|
+3	1	Toolbar	[0, 0, 2648, 104]	[1324.0, 52.0]		
+21	3	Group	[174, 0, 124, 104]	[236.0, 52.0]		
+23	21	Button	[170, 12, 90, 80]	[215.0, 52.0]		|show sidebar
+22	21	MenuButton	[236, 12, 64, 80]	[268.0, 52.0]		|Tab Group picker
+17	3	Group	[298, 0, 150, 104]	[373.0, 52.0]		
+18	17	Group	[294, 12, 158, 80]	[373.0, 52.0]		
+20	18	Button	[294, 12, 80, 80]	[334.0, 52.0]		|Go back
+19	18	Button	[374, 12, 78, 80]	[413.0, 52.0]		|Go forward
+9	3	Group	[780, 0, 1086, 104]	[1323.0, 52.0]		
+16	9	Button	[788, 24, 58, 56]	[817.0, 52.0]		Show Reader|Show Reader
+15	9	Button	[848, 24, 44, 56]	[870.0, 52.0]		Add page to Reading List|Add page to Reading List
+14	9	Button	[1216, 24, 44, 56]	[1238.0, 52.0]		Show Search Menu|Show Search Menu
+13	9	Button	[1262, 38, 28, 30]	[1276.0, 53.0]		secure site certificate|secure site certificate
+12	9	TextField	[832, 36, 922, 56]	[1293.0, 64.0]	iasa champ	|smart search field showing a secure address
+11	9	Button	[1768, 24, 44, 56]	[1790.0, 52.0]		Translation Available|Translation Available
+10	9	Button	[1812, 24, 44, 56]	[1834.0, 52.0]		Reload this page|Reload this page
+8	3	Button	[2406, 0, 74, 104]	[2443.0, 52.0]		|Share
+5	3	Button	[2480, 0, 72, 104]	[2516.0, 52.0]		|New Tab
+6	5	Button	[2476, 12, 80, 80]	[2516.0, 52.0]		|new tab
+7	6	Button	[2476, 12, 80, 80]	[2516.0, 52.0]		|add
+4	3	Button	[2552, 0, 80, 104]	[2592.0, 52.0]		|Tab Overview
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

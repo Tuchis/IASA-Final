@@ -1,0 +1,60 @@
+The UI interface of the app in the image shows a pop-up overlay with various settings for a typing/chat assistant. Here's a breakdown of the individual elements visible in this interface:
+
+1. At the top of the pop-up, there's a heading labeled "Typing Mind."
+
+2. Below the heading is a section with a smaller title "Welcome message:" followed by a text field containing a message that reads: "Hello, I'm a life coach. How can I help you today?"
+
+3. The next section is labeled "Conversation Starters:" with a subtext that reads, "Suggest some first messages for the user to select from in the beginning of the conversation." There is a button beneath labeled "+ Add Conversation Starters."
+
+4. Followed by that is the section "Training Examples:" with a description saying "Training examples help the AI assistant learn how to respond to users." Below this description is another button labeled "+ Add Training Examples."
+
+5. The subsequent section is named "Assigned Model:" with accompanying text to describe the setting, "The model to use for this AI character (GPT-3.5, GPT-4, Claude, etc.)." It has a dropdown menu set to "None" and a checkbox option underneath labeled "Enforce assigned model (Users won't be able to change the model when using this character)."
+
+6. Proceeding downward, there's another section titled "Assigned Plugins:" with a checkbox that reads "Assign plugins for this character."
+
+7. The last section in the interface is labeled "Assigned Text-to-Speech Settings:" with a checkbox that says "Assign text-to-speech settings for this character."
+
+8. At the bottom of the pop-up, there are two buttons side by side: one is labeled with a checkmark followed by "Save," the other is labeled "Cancel."
+
+9. Finally, at the very bottom of the pop-up there is a "Close" text link.
+
+On the left side of the image, underlying the overlay, you can see a partial view of the rest of the app interface with conversation snippets from various chat examples labeled "(Example)" before the rest of their respective titles. On the bottom left corner, there are icons and tabs with text that seem to represent different sections or functionalities of the app, such as "API Key," "Typing Mind," and icons indicating settings or feedback.
+
+This delineation addresses only the UI elements described in text or shown as controls in the screenshot.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1800, 900]	[900.0, 450.0]		Almighty
+6	1	Group	[0, 0, 1800, 900]	[900.0, 450.0]		
+7	6	SplitGroup	[0, 0, 1800, 900]	[900.0, 450.0]		
+8	7	Group	[0, 0, 1800, 900]	[900.0, 450.0]		
+16	8	ScrollArea	[32, 136, 300, 732]	[182.0, 502.0]		
+17	16	Table	[32, 136, 300, 732]	[182.0, 502.0]		
+31	17	Row	[32, 156, 300, 64]	[182.0, 188.0]		
+32	31	Cell	[64, 156, 236, 64]	[182.0, 188.0]		
+34	32	Image	[72, 176, 24, 24]	[84.0, 188.0]		|gearshape.fill
+33	32	StaticText	[120, 172, 94, 32]	[167.0, 188.0]	General	
+27	17	Row	[32, 220, 300, 64]	[182.0, 252.0]		
+28	27	Cell	[64, 220, 236, 64]	[182.0, 252.0]		
+30	28	Image	[76, 240, 14, 24]	[83.0, 252.0]		|Flash
+29	28	StaticText	[120, 236, 126, 32]	[183.0, 252.0]	Workflows	
+23	17	Row	[32, 284, 300, 64]	[182.0, 316.0]		
+24	23	Cell	[64, 284, 236, 64]	[182.0, 316.0]		
+26	24	Image	[72, 308, 24, 16]	[84.0, 316.0]		|keyboard.fill
+25	24	StaticText	[120, 300, 118, 32]	[179.0, 316.0]	Shortcuts	
+19	17	Row	[32, 348, 300, 64]	[182.0, 380.0]		
+20	19	Cell	[64, 348, 236, 64]	[182.0, 380.0]		
+22	20	Image	[72, 368, 24, 24]	[84.0, 380.0]		|Verified
+21	20	StaticText	[120, 364, 94, 32]	[167.0, 380.0]	License	
+18	17	Column	[52, 136, 260, 732]	[182.0, 502.0]		
+9	8	ScrollArea	[332, 136, 1436, 732]	[1050.0, 502.0]		
+15	9	Heading	[392, 180, 132, 32]	[458.0, 196.0]		|Workflows
+14	9	Button	[1664, 178, 28, 26]	[1678.0, 191.0]		|Add
+11	9	Group	[366, 232, 1368, 94]	[1050.0, 279.0]		
+13	11	StaticText	[392, 256, 44, 42]	[414.0, 277.0]	star	
+12	11	StaticText	[452, 260, 96, 32]	[500.0, 276.0]	Favorite	
+10	9	StaticText	[1340, 338, 388, 32]	[1534.0, 354.0]	Organize tweaks with workflows	
+3	1	Toolbar	[0, 0, 1800, 104]	[900.0, 52.0]		
+4	3	Button	[174, 0, 84, 104]	[216.0, 52.0]		|Split View Horizontally Left
+5	4	Button	[192, 28, 46, 36]	[215.0, 46.0]		|Split View Horizontally Left
+2	1	StaticText	[258, 0, 1526, 104]	[1021.0, 52.0]	Almighty	

@@ -1,0 +1,16 @@
+The UI interface image of the app contains the following elements:
+
+1. A heading at the top with the text "You’ve successfully set up Diarly ✨" indicating a successful setup process of the app.
+2. Below the heading, there is a subtext that says, "Jump straight in and start journaling, or keep exploring available options." This text provides the user with guidance on what to do next after setting up the app.
+3. A central illustration of a person sitting on a chair, holding a cup, with a relaxed posture, which likely represents the user themselves, reflecting the personal nature of the journaling app.
+4. To the right of the sitting person, there is a plant in a pot, adding to the aesthetic of the scene.
+5. At the bottom of the UI, there is a button with the text "Done" which presumably the user would press after reading the confirmation message and viewing the options to proceed with using the app.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1120, 1360]	[560.0, 680.0]		Welcome
+3	1	ScrollArea	[0, 180, 1120, 786]	[560.0, 573.0]		
+6	3	StaticText	[66, 180, 698, 60]	[415.0, 210.0]	You’ve successfully set up Diarly  ✨	
+5	3	StaticText	[66, 276, 952, 84]	[542.0, 318.0]	Jump straight in and start journaling, or keep exploring available options.	
+4	3	Image	[246, 466, 624, 500]	[558.0, 716.0]		|End Light
+2	1	Button	[866, 1214, 188, 80]	[960.0, 1254.0]		Done

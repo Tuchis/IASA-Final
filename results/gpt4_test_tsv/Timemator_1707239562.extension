@@ -1,0 +1,40 @@
+This is an interface guide detailing how to grant Accessibility API access to an application named Timemator. The UI is divided into different sections, and here are the elements in each section:
+
+1. Header: A large header reads "Accessibility API Access."
+
+2. Instructions: Below the header, there is a paragraph explaining that the application named Timemator requires permission to use the Mac's Accessibility system for auto-tracking or activity tracking. It prompts the user to follow the steps below to activate this access.
+
+3. Step-by-Step Instructions: A list of three numbered steps detailing the process of granting Accessibility access:
+  - Step 1: Instructions to open System Preferences and go to Security & Privacy.
+  - Step 2: Directions to click the Privacy tab and select Accessibility from the list.
+  - Step 3: A prompt to click the lock icon to make changes and check the box next to Timemator.
+
+4. Supportive Images: On the right side, there are two images representing the Mac's System Preferences:
+  - The first image shows the System Preferences window with various settings like Wi-Fi, Bluetooth, and Network, including a search bar at the top.
+  - The second image shows the Accessibility section within System Preferences, indicating where to find and enable Timemator.
+
+5. Navigation Buttons:
+  - At the bottom left, there is a "Back" button that presumably takes the user to the previous screen.
+  - At the bottom right, there is a more prominent button labeled "Open System Preferences," which seems to be an actionable button that could be used to directly open the System Preferences.
+
+6. Page Navigation Dots: At the bottom center, there are dots that suggest this is a slide within a series of slides or pages; the active dot indicates the current page.
+
+This is a high-level description of the UI elements and their intended use within the app's interface guide.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1540, 1332]	[770.0, 666.0]		Welcome
+13	1	StaticText	[450, 86, 638, 66]	[769.0, 119.0]	Accessibility API Access	
+12	1	StaticText	[166, 192, 1208, 130]	[770.0, 257.0]	In order to run Auto-tracking or activity tracking, Timemator needs your permission to use your Mac’s Accessibility system. Please follow these steps to activate it.	
+11	1	StaticText	[86, 1032, 590, 130]	[381.0, 1097.0]	Click the lock icon to make changes and check the box next to Timemator	
+10	1	Image	[672, 376, 868, 836]	[1106.0, 794.0]		|welcome screen activation
+9	1	StaticText	[100, 952, 38, 42]	[119.0, 973.0]	3	
+8	1	StaticText	[86, 754, 590, 130]	[381.0, 819.0]	"Click the Privacy tab and
+select Accessibility from the list"	
+7	1	StaticText	[100, 674, 38, 42]	[119.0, 695.0]	2	
+6	1	StaticText	[86, 480, 590, 130]	[381.0, 545.0]	"Open System Preferences and
+go to Security & Privacy"	
+5	1	StaticText	[104, 400, 32, 42]	[120.0, 421.0]	1	
+4	1	Button	[1130, 1242, 384, 64]	[1322.0, 1274.0]		Open System Preferences
+3	1	Button	[26, 1242, 128, 64]	[90.0, 1274.0]		Back
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		

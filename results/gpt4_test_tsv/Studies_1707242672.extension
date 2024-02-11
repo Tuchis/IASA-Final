@@ -1,0 +1,193 @@
+The image is of a user interface for what appears to be a study or notes management application. The following elements are present in the UI:
+
+1. At the top left corner, there is a navigation pane titled "LIBRARY" with the following items:
+   - All Notes
+   - Due for Study
+   - Flagged
+   - Loose Notes
+   - Trash
+
+   Below this, another section titled "RECENT" lists:
+   - Recently Studied
+   - Recently Corrected
+   - Recently Imported
+   - Recently Added
+
+   At the bottom of the navigation pane, there is a heading "STACKS."
+
+2. A search field is located near the top middle of the interface with the placeholder text "Filter Notes."
+
+3. On the top right, there are several buttons for different functions:
+   - New Stack
+   - New Note
+   - Study All Due
+   - Study Session
+   - Continue Session
+   - Info
+   - Sync
+
+4. There is also a view toggle that appears to switch between a list and a grid view, and a control to adjust the sorting or ordering of items.
+
+5. In the main content area of the interface, there is a section with the following fields and information:
+   - Title of Stack: A text box containing "UI Representation."
+   - New Note Template: A dropdown menu currently selected to "Question and Answer."
+   - Limit on Due Notes: A dropdown menu currently selected to "100 Notes."
+   - Facet Display Time: A dropdown menu currently selected to "5 seconds."
+
+6. It shows details about the creation and modification of the content:
+   - Created: "6 February 2024 at 19:04"
+   - Modified: "6 February 2024 at 19:04"
+   - There is a checkbox next to "Include in sync," which is currently checked.
+
+7. Below this information, there is a section entitled "Study Schedule" with a help icon (?) next to it and several options accompanied by checkboxes and related icons:
+   - Do not schedule notes for study
+   - Long-term learning (Spaced Repetition)
+   - Target a deadline (e.g., Exam)
+   - Short-term cramming (Leitner System)
+   - Regular time intervals
+
+8. At the very bottom of the interface, there are two buttons aligned to the right:
+   - Cancel
+   - Save
+
+That covers all the visible elements in the UI interface shown in the image.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1752, 1540]	[876.0, 770.0]		Studies
+46	1	SplitGroup	[0, 104, 1752, 1436]	[876.0, 822.0]		
+54	46	ScrollArea	[2, 104, 298, 1436]	[151.0, 822.0]		
+55	54	Outline	[2, 104, 298, 1436]	[151.0, 822.0]		
+135	55	Row	[2, 124, 298, 50]	[151.0, 149.0]		
+136	135	Cell	[22, 124, 258, 50]	[151.0, 149.0]		
+137	136	StaticText	[30, 130, 266, 34]	[163.0, 147.0]	LIBRARY	
+127	55	Row	[2, 174, 298, 50]	[151.0, 199.0]		
+128	127	Cell	[22, 174, 258, 50]	[151.0, 199.0]		
+134	128	Image	[38, 176, 40, 40]	[58.0, 196.0]		|
+133	128	StaticText	[84, 178, 174, 32]	[171.0, 194.0]	All Notes	
+132	128	StaticText	[258, 184, 8, 28]	[262.0, 198.0]		
+130	128	Group	[184, 178, 84, 32]	[226.0, 194.0]		
+131	130	Button	[184, 178, 84, 32]	[226.0, 194.0]		|STUDY
+129	128	Button	[38, 178, 40, 38]	[58.0, 197.0]		
+119	55	Row	[2, 224, 298, 50]	[151.0, 249.0]		
+120	119	Cell	[22, 224, 258, 50]	[151.0, 249.0]		
+126	120	Image	[38, 226, 40, 40]	[58.0, 246.0]		|
+125	120	StaticText	[84, 228, 174, 32]	[171.0, 244.0]	Due for Study	
+124	120	StaticText	[258, 234, 8, 28]	[262.0, 248.0]		
+122	120	Group	[184, 228, 84, 32]	[226.0, 244.0]		
+123	122	Button	[184, 228, 84, 32]	[226.0, 244.0]		|STUDY
+121	120	Button	[38, 228, 40, 38]	[58.0, 247.0]		
+111	55	Row	[2, 274, 298, 50]	[151.0, 299.0]		
+112	111	Cell	[22, 274, 258, 50]	[151.0, 299.0]		
+118	112	Image	[38, 276, 40, 40]	[58.0, 296.0]		|
+117	112	StaticText	[84, 278, 174, 32]	[171.0, 294.0]	Flagged	
+116	112	StaticText	[258, 284, 8, 28]	[262.0, 298.0]		
+114	112	Group	[184, 278, 84, 32]	[226.0, 294.0]		
+115	114	Button	[184, 278, 84, 32]	[226.0, 294.0]		|STUDY
+113	112	Button	[38, 278, 40, 38]	[58.0, 297.0]		
+103	55	Row	[2, 324, 298, 50]	[151.0, 349.0]		
+104	103	Cell	[22, 324, 258, 50]	[151.0, 349.0]		
+110	104	Image	[38, 326, 40, 40]	[58.0, 346.0]		|
+109	104	StaticText	[84, 328, 174, 32]	[171.0, 344.0]	Loose Notes	
+108	104	StaticText	[258, 334, 8, 28]	[262.0, 348.0]		
+106	104	Group	[184, 328, 84, 32]	[226.0, 344.0]		
+107	106	Button	[184, 328, 84, 32]	[226.0, 344.0]		|STUDY
+105	104	Button	[38, 328, 40, 38]	[58.0, 347.0]		
+95	55	Row	[2, 374, 298, 50]	[151.0, 399.0]		
+96	95	Cell	[22, 374, 258, 50]	[151.0, 399.0]		
+102	96	Image	[38, 376, 40, 40]	[58.0, 396.0]		|
+101	96	StaticText	[84, 378, 174, 32]	[171.0, 394.0]	Trash	
+100	96	StaticText	[258, 384, 8, 28]	[262.0, 398.0]		
+98	96	Group	[184, 378, 84, 32]	[226.0, 394.0]		
+99	98	Button	[184, 378, 84, 32]	[226.0, 394.0]		|STUDY
+97	96	Button	[38, 378, 40, 38]	[58.0, 397.0]		
+92	55	Row	[2, 450, 298, 50]	[151.0, 475.0]		
+93	92	Cell	[22, 450, 258, 50]	[151.0, 475.0]		
+94	93	StaticText	[30, 456, 266, 34]	[163.0, 473.0]	RECENT	
+84	55	Row	[2, 500, 298, 50]	[151.0, 525.0]		
+85	84	Cell	[22, 500, 258, 50]	[151.0, 525.0]		
+91	85	Image	[38, 502, 40, 40]	[58.0, 522.0]		|
+90	85	StaticText	[84, 504, 174, 32]	[171.0, 520.0]	Recently Studied	
+89	85	StaticText	[258, 510, 8, 28]	[262.0, 524.0]		
+87	85	Group	[184, 504, 84, 32]	[226.0, 520.0]		
+88	87	Button	[184, 504, 84, 32]	[226.0, 520.0]		|STUDY
+86	85	Button	[38, 504, 40, 38]	[58.0, 523.0]		
+76	55	Row	[2, 550, 298, 50]	[151.0, 575.0]		
+77	76	Cell	[22, 550, 258, 50]	[151.0, 575.0]		
+83	77	Image	[38, 552, 40, 40]	[58.0, 572.0]		|
+82	77	StaticText	[84, 554, 174, 32]	[171.0, 570.0]	Recently Incorrect	
+81	77	StaticText	[258, 560, 8, 28]	[262.0, 574.0]		
+79	77	Group	[184, 554, 84, 32]	[226.0, 570.0]		
+80	79	Button	[184, 554, 84, 32]	[226.0, 570.0]		|STUDY
+78	77	Button	[38, 554, 40, 38]	[58.0, 573.0]		
+68	55	Row	[2, 600, 298, 50]	[151.0, 625.0]		
+69	68	Cell	[22, 600, 258, 50]	[151.0, 625.0]		
+75	69	Image	[38, 602, 40, 40]	[58.0, 622.0]		|
+74	69	StaticText	[84, 604, 174, 32]	[171.0, 620.0]	Last Import	
+73	69	StaticText	[258, 610, 8, 28]	[262.0, 624.0]		
+71	69	Group	[184, 604, 84, 32]	[226.0, 620.0]		
+72	71	Button	[184, 604, 84, 32]	[226.0, 620.0]		|STUDY
+70	69	Button	[38, 604, 40, 38]	[58.0, 623.0]		
+60	55	Row	[2, 650, 298, 50]	[151.0, 675.0]		
+61	60	Cell	[22, 650, 258, 50]	[151.0, 675.0]		
+67	61	Image	[38, 652, 40, 40]	[58.0, 672.0]		|
+66	61	StaticText	[84, 654, 174, 32]	[171.0, 670.0]	Recently Added	
+65	61	StaticText	[258, 660, 8, 28]	[262.0, 674.0]		
+63	61	Group	[184, 654, 84, 32]	[226.0, 670.0]		
+64	63	Button	[184, 654, 84, 32]	[226.0, 670.0]		|STUDY
+62	61	Button	[38, 654, 40, 38]	[58.0, 673.0]		
+57	55	Row	[2, 726, 298, 50]	[151.0, 751.0]		
+58	57	Cell	[22, 726, 258, 50]	[151.0, 751.0]		
+59	58	StaticText	[30, 732, 266, 34]	[163.0, 749.0]	STACKS	
+56	55	Column	[22, 104, 258, 1436]	[151.0, 822.0]		
+53	46	Splitter	[300, 104, 2, 1436]	[301.0, 822.0]	150.0	
+52	46	ScrollArea	[300, 164, 1452, 1314]	[1026.0, 821.0]		
+51	46	StaticText	[756, 122, 542, 36]	[1027.0, 140.0]	All Notes (No Notes)	
+49	46	TextField	[350, 118, 348, 44]	[524.0, 140.0]		
+50	49	Button	[354, 118, 50, 44]	[379.0, 140.0]		|search
+48	46	PopUpButton	[1614, 116, 98, 50]	[1663.0, 141.0]		
+47	46	Button	[1538, 116, 60, 50]	[1568.0, 141.0]		
+35	1	Toolbar	[0, 0, 1752, 104]	[876.0, 52.0]		
+45	35	Button	[578, 0, 140, 104]	[648.0, 52.0]		New Stack
+44	35	Button	[718, 0, 130, 104]	[783.0, 52.0]		New Note
+43	35	Button	[868, 0, 76, 104]	[906.0, 52.0]		
+42	35	Button	[962, 0, 170, 104]	[1047.0, 52.0]		Study All Due
+39	35	MenuButton	[1132, 0, 176, 104]	[1220.0, 52.0]		Study Session
+41	39	MenuButton	[1162, 20, 108, 44]	[1216.0, 42.0]		
+40	39	StaticText	[1138, 70, 164, 28]	[1220.0, 84.0]	Study Session	
+38	35	Button	[1308, 0, 210, 104]	[1413.0, 52.0]		Continue Session
+37	35	Button	[1538, 0, 76, 104]	[1576.0, 52.0]		Info
+36	35	Button	[1632, 0, 104, 104]	[1684.0, 52.0]		Sync
+32	1	Button	[118, 36, 28, 32]	[132.0, 52.0]		
+33	32	Group	[118, 36, 28, 32]	[132.0, 52.0]		
+34	33	Group	[118, 36, 28, 32]	[132.0, 52.0]		
+31	1	StaticText	[174, 0, 404, 104]	[376.0, 52.0]	Studies	
+2	1	Sheet	[434, 232, 886, 1076]	[877.0, 770.0]		
+30	2	Button	[1080, 1234, 200, 50]	[1180.0, 1259.0]		Save
+29	2	Button	[854, 1234, 200, 50]	[954.0, 1259.0]		Cancel
+28	2	StaticText	[776, 566, 508, 34]	[1030.0, 583.0]	6 February 2024 at 19:04	
+27	2	StaticText	[478, 566, 286, 34]	[621.0, 583.0]	Created:	
+26	2	StaticText	[776, 606, 500, 34]	[1026.0, 623.0]	6 February 2024 at 19:04	
+25	2	StaticText	[478, 608, 286, 34]	[621.0, 625.0]	Modified:	
+24	2	StaticText	[404, 476, 360, 34]	[584.0, 493.0]	Facet Display Time:	
+23	2	StaticText	[404, 428, 360, 34]	[584.0, 445.0]	Limit on Due Notes:	
+22	2	StaticText	[404, 382, 360, 34]	[584.0, 399.0]	New Note Template:	
+21	2	StaticText	[420, 298, 344, 34]	[592.0, 315.0]	Title of Stack:	
+20	2	StaticText	[770, 806, 218, 36]	[879.0, 824.0]	Study Schedule	
+19	2	TextField	[780, 294, 454, 44]	[1007.0, 316.0]	UI Representation	
+13	2	RadioGroup	[648, 872, 754, 306]	[1025.0, 1025.0]	<AXUIElement 0x10de0e760> {pid=26026}	
+18	13	RadioButton	[648, 872, 754, 58]	[1025.0, 901.0]	1	Do not schedule notes for study
+17	13	RadioButton	[648, 934, 754, 58]	[1025.0, 963.0]	0	Long-term learning (Spaced Repetition)
+16	13	RadioButton	[648, 996, 754, 58]	[1025.0, 1025.0]	0	Target a deadline (e.g. Exam)
+15	13	RadioButton	[648, 1058, 754, 58]	[1025.0, 1087.0]	0	Short-term cramming (Leitner System)
+14	13	RadioButton	[648, 1120, 754, 58]	[1025.0, 1149.0]	0	Regular time intervals
+12	2	PopUpButton	[780, 478, 360, 38]	[960.0, 497.0]	5 seconds	
+11	2	PopUpButton	[780, 430, 360, 38]	[960.0, 449.0]	100 Notes	
+10	2	PopUpButton	[780, 384, 360, 38]	[960.0, 403.0]	Question and Answer	
+9	2	CheckBox	[776, 676, 230, 36]	[891.0, 694.0]	1	Include in sync
+8	2	Image	[572, 870, 60, 60]	[602.0, 900.0]		|BSSNoSchedule
+7	2	Image	[572, 932, 60, 60]	[602.0, 962.0]		|BSSLongTerm
+6	2	Image	[572, 994, 60, 60]	[602.0, 1024.0]		|BSSTarget
+5	2	Image	[572, 1054, 60, 60]	[602.0, 1084.0]		|BSSCram
+4	2	Image	[572, 1116, 60, 60]	[602.0, 1146.0]		|BSSIntervals
+3	2	Button	[1234, 800, 50, 50]	[1259.0, 825.0]		|Help

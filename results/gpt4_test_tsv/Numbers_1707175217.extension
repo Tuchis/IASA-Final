@@ -1,0 +1,144 @@
+This appears to be a screenshot of a spreadsheet application. The spreadsheet is displaying a table with two columns labeled "query" (Column A) and "cluster" (Column B). Each row in the table contains text related to what seems to be search queries and cluster categorizations tied to malware detection software.
+
+Various user interface elements are visible in the screenshot:
+
+1. Top menu bar with various options:
+   - File menu
+   - Edit menu
+   - View menu
+   - Insert menu
+   - Table menu
+   - Chart menu
+   - Text menu
+   - Shape menu
+   - Media menu
+   - Comment menu
+
+2. Right beneath the menu bar is a secondary toolbar that contains:
+   - "125%" - presumably a zoom indicator with a "-" button on the left and a "+" button on the right for zooming out and in, respectively.
+   - Three view mode icons that seem to indicate different ways to view the document.
+   - A button for "Add Category"
+   - A button for "Pivot Table"
+
+3. A sidebar at the right side of the screen with several tabs at the top:
+   - Collaborate
+   - Format
+   - Organize
+   - Text
+   - Arrange
+
+   The "Text" tab is currently active, and within it, there are multiple sections visible:
+   - A dropdown titled "Table Style 1"
+   - Style and Layout options
+   - Font settings that include a dropdown to select fonts (current font is Helvetica Neue), and another dropdown next to it likely for font size.
+   - Bold, italic, underline, and strikethrough options for text formatting, followed by a text alignment section.
+   - A color picker for text color.
+   - Character spacing controls.
+   - An option to "Wrap text in cell".
+   - A spacing dropdown, currently set to "1.0 - Single".
+
+4. A primary toolbar located at the very top of the window with some recognizable icons:
+   - Buttons to minimize, expand, or close the application window.
+
+5. The document name ("clustered_queries_06.numbers") which appears in the middle of the top bar of the window.
+
+The data shown in the table seems to list various phrases related to anti-virus and anti-spyware topics paired with a repeated description in the second column. The rows with data are numbered from 2 to 29.
+
+Please note that personal details and certain UI elements have been obscured for privacy.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2520, 1718]	[1260.0, 859.0]		clustered_queries_06.numbers
+94	1	Group	[0, 196, 2520, 1522]	[1260.0, 957.0]		
+85	1	ScrollArea	[0, 196, 1978, 1522]	[989.0, 957.0]		
+90	85	ScrollBar	[0, 1686, 1978, 32]	[989.0, 1702.0]	0.0	
+93	90	ValueIndicator	[2, 1694, 1760, 24]	[882.0, 1706.0]	0.0	
+92	90	Button	[1762, 1694, 214, 24]	[1869.0, 1706.0]		
+91	90	Button	[0, 1694, 2, 24]	[1.0, 1706.0]		
+86	85	ScrollBar	[1946, 196, 32, 1522]	[1962.0, 957.0]	7.00726565857974e-05	
+89	86	ValueIndicator	[1954, 198, 24, 52]	[1966.0, 224.0]	7.00726565857974e-05	
+88	86	Button	[1954, 250, 24, 1466]	[1966.0, 983.0]		
+87	86	Button	[1954, 196, 24, 2]	[1966.0, 197.0]		
+84	1	Button	[0, 136, 94, 60]	[47.0, 166.0]		|add
+82	1	ScrollArea	[94, 140, 1884, 56]	[1036.0, 168.0]		
+83	82	StaticText	[152, 152, 108, 30]	[206.0, 167.0]	Sheet 1	
+81	1	Button	[1978, 138, 46, 58]	[2001.0, 167.0]		|Back
+80	1	Button	[2024, 138, 46, 58]	[2047.0, 167.0]		|Forward
+75	1	RadioGroup	[1980, 140, 540, 56]	[2250.0, 168.0]	<AXUIElement 0x11f6e0f80> {pid=2094}	
+79	75	RadioButton	[1980, 140, 140, 56]	[2050.0, 168.0]	0	|Table
+78	75	RadioButton	[2120, 140, 134, 56]	[2187.0, 168.0]	0	|Cell
+77	75	RadioButton	[2254, 140, 134, 56]	[2321.0, 168.0]	1	|Text
+76	75	RadioButton	[2388, 140, 132, 56]	[2454.0, 168.0]	0	|Arrange
+74	1	Button	[2012, 228, 466, 70]	[2245.0, 263.0]		Table Style 1
+71	1	RadioGroup	[2028, 360, 444, 48]	[2250.0, 384.0]	<AXUIElement 0x10f62f190> {pid=2094}	
+73	71	RadioButton	[2028, 360, 202, 48]	[2129.0, 384.0]	1	|Style
+72	71	RadioButton	[2230, 360, 242, 48]	[2351.0, 384.0]	0	|Layout
+36	1	ScrollArea	[1980, 426, 540, 1292]	[2250.0, 1072.0]		
+70	36	StaticText	[2008, 472, 60, 32]	[2038.0, 488.0]	Font	
+69	36	StaticText	[2008, 714, 196, 30]	[2106.0, 729.0]	Character Styles	
+68	36	PopUpButton	[2006, 526, 490, 50]	[2251.0, 551.0]	Helvetica Neue	
+67	36	PopUpButton	[2006, 584, 342, 50]	[2177.0, 609.0]	Bold	
+62	36	Group	[2006, 644, 340, 48]	[2176.0, 668.0]		
+66	62	CheckBox	[2006, 644, 86, 48]	[2049.0, 668.0]	1	|bold
+65	62	CheckBox	[2092, 644, 80, 48]	[2132.0, 668.0]	0	|italic
+64	62	CheckBox	[2172, 644, 80, 48]	[2212.0, 668.0]	0	|underline
+63	62	CheckBox	[2252, 644, 84, 48]	[2294.0, 668.0]	0	|strikethrough
+61	36	Button	[2210, 700, 290, 64]	[2355.0, 732.0]		Character Style|go down
+60	36	TextField	[2368, 586, 88, 40]	[2412.0, 606.0]	10 pt	
+57	36	Incrementor	[2456, 578, 38, 56]	[2475.0, 606.0]	10.0	
+59	57	Button	[2456, 578, 38, 28]	[2475.0, 592.0]		
+58	57	Button	[2456, 606, 38, 28]	[2475.0, 620.0]		
+56	36	Button	[2354, 638, 148, 64]	[2428.0, 670.0]		
+55	36	PopUpButton	[1992, 810, 180, 30]	[2082.0, 825.0]	Text Colour	
+54	36	ColorWell	[2356, 802, 132, 46]	[2422.0, 825.0]		
+48	36	Group	[2006, 898, 484, 48]	[2248.0, 922.0]		|paragraph alignment
+53	48	CheckBox	[2006, 898, 102, 48]	[2057.0, 922.0]	0	|left
+52	48	CheckBox	[2108, 898, 96, 48]	[2156.0, 922.0]	0	|centred
+51	48	CheckBox	[2204, 898, 94, 48]	[2251.0, 922.0]	0	|right
+50	48	CheckBox	[2298, 898, 94, 48]	[2345.0, 922.0]	0	|justified
+49	48	CheckBox	[2392, 898, 98, 48]	[2441.0, 922.0]	1	|natural
+44	36	Group	[2006, 1014, 484, 50]	[2248.0, 1039.0]		|vertical alignment
+47	44	CheckBox	[2006, 1014, 164, 48]	[2088.0, 1038.0]	1	|top
+46	44	CheckBox	[2170, 1014, 158, 48]	[2249.0, 1038.0]	0	|middle
+45	44	CheckBox	[2328, 1014, 162, 48]	[2409.0, 1038.0]	0	|bottom
+41	36	Group	[2006, 956, 484, 48]	[2248.0, 980.0]		|paragraph level
+43	41	CheckBox	[2006, 956, 244, 48]	[2128.0, 980.0]	0	|Decrease Indent
+42	41	CheckBox	[2250, 956, 240, 48]	[2370.0, 980.0]	0	|Increase Indent
+40	36	CheckBox	[2008, 1078, 236, 80]	[2126.0, 1118.0]	0	Wrap text in cell
+39	36	DisclosureTriangle	[2004, 1186, 30, 54]	[2019.0, 1213.0]	0	
+38	36	StaticText	[2038, 1198, 102, 30]	[2089.0, 1213.0]	Spacing	
+37	36	PopUpButton	[2232, 1192, 264, 50]	[2364.0, 1217.0]	1.0 - Single	
+6	1	Toolbar	[0, 56, 2520, 84]	[1260.0, 98.0]		
+32	6	MenuButton	[4, 56, 104, 84]	[56.0, 98.0]		|View
+34	32	RadioGroup	[10, 54, 92, 50]	[56.0, 79.0]		
+35	34	MenuButton	[10, 54, 92, 50]	[56.0, 79.0]		|Toggle sidebar
+33	32	StaticText	[22, 106, 66, 28]	[55.0, 120.0]	View	
+29	6	MenuButton	[108, 56, 140, 84]	[178.0, 98.0]		Zoom
+31	29	MenuButton	[114, 54, 128, 50]	[178.0, 79.0]		125%
+30	29	StaticText	[140, 106, 76, 28]	[178.0, 120.0]	Zoom	
+25	6	MenuButton	[458, 56, 172, 84]	[544.0, 98.0]		|Add Category
+27	25	RadioGroup	[500, 54, 92, 50]	[546.0, 79.0]		
+28	27	MenuButton	[500, 54, 92, 50]	[546.0, 79.0]		
+26	25	StaticText	[464, 106, 160, 28]	[544.0, 120.0]	Add Category	
+24	6	Button	[632, 56, 142, 84]	[703.0, 98.0]		Pivot Table
+20	6	MenuButton	[986, 56, 104, 84]	[1038.0, 98.0]		|Insert
+22	20	RadioGroup	[992, 54, 92, 50]	[1038.0, 79.0]		
+23	22	MenuButton	[992, 54, 92, 50]	[1038.0, 79.0]		
+21	20	StaticText	[1000, 106, 76, 28]	[1038.0, 120.0]	Insert	
+19	6	CheckBox	[1090, 56, 96, 84]	[1138.0, 98.0]	0	Table|Table
+18	6	CheckBox	[1186, 56, 96, 84]	[1234.0, 98.0]	0	Chart|Chart
+17	6	Button	[1282, 56, 96, 84]	[1330.0, 98.0]		Text|Text
+16	6	CheckBox	[1378, 56, 96, 84]	[1426.0, 98.0]	0	Shape|Shape
+12	6	MenuButton	[1474, 56, 104, 84]	[1526.0, 98.0]		|Media
+14	12	RadioGroup	[1480, 54, 92, 50]	[1526.0, 79.0]		
+15	14	MenuButton	[1480, 54, 92, 50]	[1526.0, 79.0]		|photo
+13	12	StaticText	[1486, 106, 80, 28]	[1526.0, 120.0]	Media	
+11	6	Button	[1578, 56, 130, 84]	[1643.0, 98.0]		Comment|Comment
+10	6	CheckBox	[1918, 56, 148, 84]	[1992.0, 98.0]	0	Collaborate|Collaborate
+7	6	Group	[2278, 56, 238, 84]	[2397.0, 98.0]	<AXUIElement 0x11f6e3740> {pid=2094}	
+9	7	RadioButton	[2284, 56, 114, 84]	[2341.0, 98.0]	1	|Format
+8	7	RadioButton	[2398, 56, 112, 84]	[2454.0, 98.0]	0	|Organise
+5	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+4	1	MenuButton	[1486, 10, 20, 32]	[1496.0, 26.0]		|document actions
+3	1	Image	[1034, 10, 32, 32]	[1050.0, 26.0]		clustered_queries_06.numbers
+2	1	StaticText	[1070, 10, 416, 32]	[1278.0, 26.0]	clustered_queries_06.numbers	

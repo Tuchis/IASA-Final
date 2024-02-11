@@ -1,0 +1,59 @@
+In the UI interface, there are several elements as described below:
+
+1. At the top of the window, there is a title which reads "Merlin Project Express".
+
+2. Just below the window control buttons (three dots), there's a side panel on the left with four items:
+   - A symbol that looks like a piece of paper with a corner folded, labeled "New Document"
+   - A clock-like symbol indicating "Recent Documents"
+   - A question mark inside a circle indicating "Help & Instructions"
+   - A symbol that appears to represent a folder or file system, labeled "Own Templates"
+
+3. In the main panel, there are two sections:
+   - The first section at the top has two options:
+     - A square named "Empty Document" with a document icon.
+     - Another square named "Demo Document" with a presentation or projection screen icon.
+   - The second section is labeled "Templates", containing six options, each with an icon and text:
+     - "Big birthday"
+     - "Online advertising campaign"
+     - "Road trip"
+     - "Simple activity plan"
+     - "Start of self employment"
+     - "Wedding"
+
+4. Below the template section, there's a button labeled "Open existing document…".
+
+5. At the bottom, there are two buttons aligned to the right:
+   - A button labeled "Cancel"
+   - Another button labeled "Create"
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1766, 1492]	[883.0, 746.0]		Merlin Project Express
+8	1	ScrollArea	[328, 56, 1438, 1346]	[1047.0, 729.0]		
+10	8	List	[328, 56, 1438, 1346]	[1047.0, 729.0]		
+25	10	List	[328, 96, 706, 290]	[681.0, 241.0]		
+28	25	Group	[328, 96, 340, 290]	[498.0, 241.0]		
+29	28	Image	[416, 112, 162, 162]	[497.0, 193.0]		|
+26	25	Group	[694, 96, 340, 290]	[864.0, 241.0]		
+27	26	Image	[782, 112, 162, 162]	[863.0, 193.0]		|
+11	10	List	[328, 386, 1438, 690]	[1047.0, 731.0]		
+24	11	Group	[328, 386, 1438, 60]	[1047.0, 416.0]		
+22	11	Group	[328, 486, 340, 290]	[498.0, 631.0]		
+23	22	Image	[416, 502, 162, 162]	[497.0, 583.0]		|
+20	11	Group	[694, 486, 340, 290]	[864.0, 631.0]		
+21	20	Image	[782, 502, 162, 162]	[863.0, 583.0]		|
+18	11	Group	[1060, 486, 340, 290]	[1230.0, 631.0]		
+19	18	Image	[1148, 502, 162, 162]	[1229.0, 583.0]		|
+16	11	Group	[1426, 486, 340, 290]	[1596.0, 631.0]		
+17	16	Image	[1514, 502, 162, 162]	[1595.0, 583.0]		|
+14	11	Group	[328, 786, 340, 290]	[498.0, 931.0]		
+15	14	Image	[416, 802, 162, 162]	[497.0, 883.0]		|
+12	11	Group	[694, 786, 340, 290]	[864.0, 931.0]		
+13	12	Image	[782, 802, 162, 162]	[863.0, 883.0]		|
+9	8	ScrollBar	[1734, 56, 32, 1346]	[1750.0, 729.0]	0.0	
+7	1	Button	[10, 1418, 384, 64]	[202.0, 1450.0]		Open existing document…
+6	1	Button	[1224, 1418, 268, 64]	[1358.0, 1450.0]		Cancel
+5	1	Button	[1488, 1418, 268, 64]	[1622.0, 1450.0]		Create
+3	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+4	3	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+2	1	StaticText	[734, 10, 298, 32]	[883.0, 26.0]	Merlin Project Express	

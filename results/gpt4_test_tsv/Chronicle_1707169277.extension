@@ -1,0 +1,207 @@
+This application interface appears to be for tracking and managing bills. The UI is divided into three main columns or sections.
+
+Left Column:
+- There are multiple tabs which represent different views or sections of the application:
+   - Bills:
+       - Overview (selected) with an indication of "2 bills"
+       - Due Soon with an indication of "1 bill - 270,00 UAH"
+       - Due This Month with an indication of "1 bill - 270,00 UAH"
+       - Paid Recently with an indication of "No Bills"
+   - Reports:
+       - Income
+       - Forecast
+       - Monthly History
+       - Annual Spending
+       - Archive
+
+Middle Column:
+- At the top, there are three buttons or icons for different functions (the icons are not described), as well as a dropdown menu labeled "All Items" and a search bar with the placeholder text "Search."
+- Below this, there is a table with three columns titled "Name", "Amount", and "Due Date". It lists two items:
+   1. Internet (with a note "Every month") for "270,00 UAH", and a due date labeled "Due today Mon, 5 Feb" accompanied by a colored indicator (not described).
+   2. Netflix (with a note "Every month") for "440,00 UAH", and a due date labeled "Due in over 1 month Wed, 20 Mar" also accompanied by a colored indicator.
+
+Right Column:
+- The right section shows details for one of the items, which is Netflix in this case:
+   - At the top, the word "Netflix" is displayed next to a check mark, implying this item is selected.
+   - Below that, there is a back arrow and the word "Statistics" indicating the current view.
+   - The statistics section is divided into two parts:
+       - The first part provides two figures under "TOTAL PAID" and "AVERAGE" which both show "440,00 UAH".
+       - The next part is titled "TOTALS BY YEAR" with entries for the years 2024, 2023, and 2022, with only 2023 having a value of "440,00 UAH in 1 payments".
+       - Below that is a "PAYMENTS BY MONTH" section listing dates and associated amounts for several months, with all amounts showing "0,00 UAH" aside from the most recent month.
+- At the very bottom of this section, there are two buttons: "Archive" and "Edit".
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2200, 1240]	[1100.0, 620.0]		
+173	1	Image	[578, 152, 108, 108]	[632.0, 206.0]		|speed
+172	1	StaticText	[702, 230, 210, 26]	[807.0, 243.0]	char/min	
+171	1	StaticText	[702, 144, 52, 86]	[728.0, 187.0]	0	
+170	1	StaticText	[756, 174, 44, 32]	[778.0, 190.0]	+4	
+169	1	StaticText	[1236, 174, 44, 32]	[1258.0, 190.0]	+4	
+168	1	StaticText	[1200, 188, 34, 32]	[1217.0, 204.0]	%	
+167	1	StaticText	[1072, 144, 130, 86]	[1137.0, 187.0]	100	
+166	1	Image	[948, 152, 108, 108]	[1002.0, 206.0]		|accuracy
+165	1	StaticText	[1072, 230, 210, 26]	[1177.0, 243.0]	accuracy	
+164	1	StaticText	[1496, 174, 44, 32]	[1518.0, 190.0]	+4	
+163	1	Image	[1318, 152, 108, 108]	[1372.0, 206.0]		|typos
+162	1	StaticText	[1442, 230, 210, 26]	[1547.0, 243.0]	typos	
+161	1	StaticText	[1442, 144, 52, 86]	[1468.0, 187.0]	0	
+160	1	StaticText	[98, 412, 2000, 88]	[1098.0, 456.0]	at tee e eat e tea tata tee at ate o tee tate too to ate tata too t toe to ate at tee tattoo e too t	
+159	1	Button	[0, 1156, 84, 84]	[42.0, 1198.0]		
+158	1	Button	[2116, 1156, 84, 84]	[2158.0, 1198.0]		
+157	1	Button	[2116, 0, 84, 84]	[2158.0, 42.0]		
+156	1	Button	[330, 558, 88, 88]	[374.0, 602.0]		`
+155	1	Button	[438, 558, 88, 88]	[482.0, 602.0]		1
+154	1	Button	[546, 558, 88, 88]	[590.0, 602.0]		2
+153	1	Button	[654, 558, 88, 88]	[698.0, 602.0]		3
+152	1	Button	[762, 558, 88, 88]	[806.0, 602.0]		4
+151	1	Button	[870, 558, 88, 88]	[914.0, 602.0]		5
+150	1	Button	[978, 558, 88, 88]	[1022.0, 602.0]		6
+149	1	Button	[1086, 558, 88, 88]	[1130.0, 602.0]		7
+148	1	Button	[1194, 558, 88, 88]	[1238.0, 602.0]		8
+147	1	Button	[1304, 558, 88, 88]	[1348.0, 602.0]		9
+146	1	Button	[1410, 558, 88, 88]	[1454.0, 602.0]		0
+145	1	Button	[1626, 558, 88, 88]	[1670.0, 602.0]		=
+144	1	Button	[1518, 558, 88, 88]	[1562.0, 602.0]		-
+143	1	Button	[490, 666, 88, 88]	[534.0, 710.0]		q
+142	1	Button	[598, 666, 88, 88]	[642.0, 710.0]		w
+141	1	Button	[706, 666, 88, 88]	[750.0, 710.0]		e
+140	1	Button	[814, 666, 88, 88]	[858.0, 710.0]		r
+139	1	Button	[922, 666, 88, 88]	[966.0, 710.0]		t
+138	1	Button	[1030, 666, 88, 88]	[1074.0, 710.0]		y
+137	1	Button	[1138, 666, 88, 88]	[1182.0, 710.0]		u
+136	1	Button	[1248, 666, 88, 88]	[1292.0, 710.0]		i
+135	1	Button	[1354, 666, 88, 88]	[1398.0, 710.0]		o
+134	1	Button	[1462, 666, 88, 88]	[1506.0, 710.0]		p
+133	1	Button	[1570, 666, 88, 88]	[1614.0, 710.0]		[
+132	1	Button	[1678, 666, 88, 88]	[1722.0, 710.0]		]
+131	1	Button	[1786, 666, 88, 88]	[1830.0, 710.0]		\
+130	1	Button	[1790, 990, 88, 88]	[1834.0, 1034.0]		
+129	1	Button	[330, 990, 88, 88]	[374.0, 1034.0]		fn
+128	1	Button	[1574, 990, 88, 88]	[1618.0, 1034.0]		
+127	1	Button	[438, 990, 88, 88]	[482.0, 1034.0]		control
+126	1	Button	[1466, 990, 88, 88]	[1510.0, 1034.0]		option
+125	1	Button	[570, 882, 88, 88]	[614.0, 926.0]		z
+124	1	Button	[678, 882, 88, 88]	[722.0, 926.0]		x
+123	1	Button	[786, 882, 88, 88]	[830.0, 926.0]		c
+122	1	Button	[894, 882, 88, 88]	[938.0, 926.0]		v
+121	1	Button	[1002, 882, 88, 88]	[1046.0, 926.0]		b
+120	1	Button	[1112, 882, 88, 88]	[1156.0, 926.0]		n
+119	1	Button	[1218, 882, 88, 88]	[1262.0, 926.0]		m
+118	1	Button	[1328, 882, 88, 88]	[1372.0, 926.0]		,
+117	1	Button	[1434, 882, 88, 88]	[1478.0, 926.0]		.
+116	1	Button	[546, 990, 88, 88]	[590.0, 1034.0]		option
+115	1	Button	[1542, 882, 88, 88]	[1586.0, 926.0]		/
+114	1	Button	[330, 666, 140, 88]	[400.0, 710.0]		tab
+113	1	Button	[330, 882, 220, 88]	[440.0, 926.0]		shift
+112	1	Button	[654, 990, 116, 88]	[712.0, 1034.0]		command
+111	1	Button	[1706, 774, 168, 88]	[1790.0, 818.0]		return
+110	1	Button	[1650, 882, 228, 88]	[1764.0, 926.0]		shift
+109	1	Button	[1330, 990, 116, 88]	[1388.0, 1034.0]		command
+108	1	Button	[790, 990, 522, 88]	[1051.0, 1034.0]		 
+107	1	Button	[1682, 1036, 88, 42]	[1726.0, 1057.0]		
+106	1	Button	[330, 774, 168, 88]	[414.0, 818.0]		caps lock
+105	1	Button	[518, 774, 88, 88]	[562.0, 818.0]		a
+104	1	Button	[626, 774, 88, 88]	[670.0, 818.0]		s
+103	1	Button	[734, 774, 88, 88]	[778.0, 818.0]		d
+102	1	Button	[842, 774, 88, 88]	[886.0, 818.0]		f
+101	1	Button	[950, 774, 88, 88]	[994.0, 818.0]		g
+100	1	Button	[1058, 774, 88, 88]	[1102.0, 818.0]		h
+99	1	Button	[1168, 774, 88, 88]	[1212.0, 818.0]		j
+98	1	Button	[1274, 774, 88, 88]	[1318.0, 818.0]		k
+97	1	Button	[1384, 774, 88, 88]	[1428.0, 818.0]		l
+96	1	Button	[1490, 774, 88, 88]	[1534.0, 818.0]		;
+95	1	Button	[1598, 774, 88, 88]	[1642.0, 818.0]		'
+94	1	Button	[1734, 558, 140, 88]	[1804.0, 602.0]		delete
+93	1	Button	[1682, 990, 88, 44]	[1726.0, 1012.0]		
+92	1	Image	[444, 798, 166, 336]	[527.0, 966.0]		|leftFinger1Inactive
+91	1	Image	[528, 782, 196, 352]	[626.0, 958.0]		|leftFinger2Inactive
+90	1	Image	[616, 772, 214, 350]	[723.0, 947.0]		|leftFinger3Inactive
+89	1	Image	[736, 792, 200, 320]	[836.0, 952.0]		|leftFinger4Active
+88	1	Image	[1106, 1002, 120, 138]	[1166.0, 1071.0]		|rightFinger5Inactive
+87	1	Image	[1176, 792, 202, 320]	[1277.0, 952.0]		|rightFinger4Inactive
+86	1	Image	[1276, 772, 214, 350]	[1383.0, 947.0]		|rightFinger3Inactive
+85	1	Image	[1386, 782, 196, 352]	[1484.0, 958.0]		|rightFinger2Inactive
+84	1	Image	[1502, 796, 166, 336]	[1585.0, 964.0]		|rightFinger1Inactive
+83	1	Image	[882, 1002, 120, 138]	[942.0, 1071.0]		|leftFinger5Inactive
+82	1	Image	[0, 0, 2200, 1240]	[1100.0, 620.0]		|bg
+81	1	Button	[2122, 0, 76, 76]	[2160.0, 38.0]		
+80	1	StaticText	[156, 100, 698, 68]	[505.0, 134.0]	Progress and speed records	
+79	1	StaticText	[158, 218, 44, 36]	[180.0, 236.0]	for	
+77	1	RadioGroup	[210, 212, 120, 48]	[270.0, 236.0]	<AXUIElement 0x118f8f3b0> {pid=23731}	
+78	77	RadioButton	[210, 212, 120, 48]	[270.0, 236.0]	1	|English
+76	1	StaticText	[370, 218, 86, 36]	[413.0, 236.0]	layout	
+75	1	Image	[162, 432, 170, 40]	[247.0, 452.0]		|line1
+74	1	StaticText	[162, 434, 166, 34]	[245.0, 451.0]	learning	
+73	1	Image	[202, 488, 28, 28]	[216.0, 502.0]		|starEmpty
+72	1	Image	[232, 488, 28, 28]	[246.0, 502.0]		|starEmpty
+71	1	Image	[262, 488, 28, 28]	[276.0, 502.0]		|starEmpty
+70	1	StaticText	[156, 382, 178, 36]	[245.0, 400.0]	Lesson 1	
+69	1	Image	[324, 432, 170, 40]	[409.0, 452.0]		|line2
+68	1	StaticText	[324, 434, 166, 34]	[407.0, 451.0]	0	
+67	1	Image	[364, 488, 28, 28]	[378.0, 502.0]		|starEmpty
+66	1	Image	[394, 488, 28, 28]	[408.0, 502.0]		|starEmpty
+65	1	Image	[424, 488, 28, 28]	[438.0, 502.0]		|starEmpty
+64	1	StaticText	[318, 382, 178, 36]	[407.0, 400.0]	Lesson 2	
+63	1	Image	[486, 432, 170, 40]	[571.0, 452.0]		|line3
+62	1	StaticText	[486, 434, 166, 34]	[569.0, 451.0]	0	
+61	1	Image	[526, 488, 28, 28]	[540.0, 502.0]		|starEmpty
+60	1	Image	[556, 488, 28, 28]	[570.0, 502.0]		|starEmpty
+59	1	Image	[586, 488, 28, 28]	[600.0, 502.0]		|starEmpty
+58	1	StaticText	[480, 382, 178, 36]	[569.0, 400.0]	Lesson 3	
+57	1	Image	[648, 432, 170, 40]	[733.0, 452.0]		|line4
+56	1	StaticText	[648, 434, 166, 34]	[731.0, 451.0]	0	
+55	1	Image	[688, 488, 28, 28]	[702.0, 502.0]		|starEmpty
+54	1	Image	[718, 488, 28, 28]	[732.0, 502.0]		|starEmpty
+53	1	Image	[748, 488, 28, 28]	[762.0, 502.0]		|starEmpty
+52	1	StaticText	[642, 382, 178, 36]	[731.0, 400.0]	Lesson 4	
+51	1	Image	[810, 432, 170, 40]	[895.0, 452.0]		|line5
+50	1	StaticText	[810, 434, 166, 34]	[893.0, 451.0]	0	
+49	1	Image	[850, 488, 28, 28]	[864.0, 502.0]		|starEmpty
+48	1	Image	[880, 488, 28, 28]	[894.0, 502.0]		|starEmpty
+47	1	Image	[910, 488, 28, 28]	[924.0, 502.0]		|starEmpty
+46	1	StaticText	[804, 382, 178, 36]	[893.0, 400.0]	Lesson 5	
+45	1	Image	[972, 432, 170, 40]	[1057.0, 452.0]		|line5
+44	1	StaticText	[972, 434, 166, 34]	[1055.0, 451.0]	0	
+43	1	Image	[1012, 488, 28, 28]	[1026.0, 502.0]		|starEmpty
+42	1	Image	[1042, 488, 28, 28]	[1056.0, 502.0]		|starEmpty
+41	1	Image	[1072, 488, 28, 28]	[1086.0, 502.0]		|starEmpty
+40	1	StaticText	[966, 382, 178, 36]	[1055.0, 400.0]	Lesson 6	
+39	1	Image	[1134, 432, 170, 40]	[1219.0, 452.0]		|line6
+38	1	StaticText	[1134, 434, 166, 34]	[1217.0, 451.0]	0	
+37	1	Image	[1174, 488, 28, 28]	[1188.0, 502.0]		|starEmpty
+36	1	Image	[1204, 488, 28, 28]	[1218.0, 502.0]		|starEmpty
+35	1	Image	[1234, 488, 28, 28]	[1248.0, 502.0]		|starEmpty
+34	1	StaticText	[1128, 382, 178, 36]	[1217.0, 400.0]	Expert	
+33	1	Image	[1366, 432, 170, 40]	[1451.0, 452.0]		|lineSymbols
+32	1	StaticText	[1366, 434, 166, 34]	[1449.0, 451.0]	0	
+31	1	Image	[1406, 488, 28, 28]	[1420.0, 502.0]		|starEmpty
+30	1	Image	[1436, 488, 28, 28]	[1450.0, 502.0]		|starEmpty
+29	1	Image	[1466, 488, 28, 28]	[1480.0, 502.0]		|starEmpty
+28	1	Image	[1514, 426, 28, 28]	[1528.0, 440.0]		|dot
+27	1	StaticText	[1360, 382, 178, 36]	[1449.0, 400.0]	Numbers	
+26	1	Image	[1540, 432, 170, 40]	[1625.0, 452.0]		|lineSymbols
+25	1	StaticText	[1540, 434, 166, 34]	[1623.0, 451.0]	0	
+24	1	Image	[1580, 488, 28, 28]	[1594.0, 502.0]		|starEmpty
+23	1	Image	[1610, 488, 28, 28]	[1624.0, 502.0]		|starEmpty
+22	1	Image	[1640, 488, 28, 28]	[1654.0, 502.0]		|starEmpty
+21	1	Image	[1688, 426, 28, 28]	[1702.0, 440.0]		|dot
+20	1	StaticText	[1534, 382, 178, 36]	[1623.0, 400.0]	Capitals	
+19	1	Image	[1714, 432, 170, 40]	[1799.0, 452.0]		|lineSymbols
+18	1	StaticText	[1714, 434, 166, 34]	[1797.0, 451.0]	0	
+17	1	Image	[1754, 488, 28, 28]	[1768.0, 502.0]		|starEmpty
+16	1	Image	[1784, 488, 28, 28]	[1798.0, 502.0]		|starEmpty
+15	1	Image	[1814, 488, 28, 28]	[1828.0, 502.0]		|starEmpty
+14	1	Image	[1862, 426, 28, 28]	[1876.0, 440.0]		|dot
+13	1	StaticText	[1708, 382, 178, 36]	[1797.0, 400.0]	Punctuation	
+12	1	StaticText	[1946, 948, 98, 28]	[1995.0, 962.0]	Speed	
+11	1	StaticText	[1946, 1006, 98, 28]	[1995.0, 1020.0]	Typos	
+6	1	ScrollArea	[160, 624, 1730, 430]	[1025.0, 839.0]		
+7	6	ScrollBar	[160, 1022, 1730, 32]	[1025.0, 1038.0]	0.9791666666666666	
+10	7	ValueIndicator	[250, 1030, 1634, 24]	[1067.0, 1042.0]	0.9791666666666666	
+9	7	Button	[1886, 1030, 2, 24]	[1887.0, 1042.0]		
+8	7	Button	[160, 1030, 90, 24]	[205.0, 1042.0]		
+5	1	StaticText	[156, 1078, 1888, 28]	[1100.0, 1092.0]	Results for recent activities	
+3	1	RadioGroup	[464, 212, 142, 48]	[535.0, 236.0]	<AXUIElement 0x118e57380> {pid=23731}	
+4	3	RadioButton	[464, 212, 142, 48]	[535.0, 236.0]	1	|QWERTY
+2	1	StaticText	[1090, 10, 20, 32]	[1100.0, 26.0]		

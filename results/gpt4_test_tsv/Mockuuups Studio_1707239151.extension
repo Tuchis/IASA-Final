@@ -1,0 +1,105 @@
+In the provided image, you are looking at a user interface of an application designed for creating mockups, specifically "Mockuuups Studio". Below are the UI elements presented:
+
+1. Top Menu Bar:
+   - "M" logo on the far left 
+   - Navigation tabs which include, from left to right: rounded rectangles with icons depicting: a desktop computer, hands, a square (possibly indicating orientation), and a checkered box (indicating transparency)
+   - A magnifying glass icon indicating a search function, accompanied by a search input field that reads "Search 4032 mockups"
+   - "Sign In" button on the far right
+
+2. A set of filter tabs below the top menu bar:
+   - Four rectangular tabs labeled "All," "Customizable," "Favorites," and "Personal"
+
+3. Main Content Area:
+   - A large area displaying various previews of mockup images, each with a placeholder representing a phone screen. Three of these images are partially visible in the current view.
+   - A highlighted rectangular area on the left side with a "+" icon and text "Open Editor" and "Create new mockup" beneath the icon.
+
+4. The right side of the main content area has a section labeled "Drag & Drop or select an option below" with supplementary text "We support PNG or JPEG files." Below this are three icons indicating different ways to import images:
+   - An icon representing file import ("From this device")
+   - An icon representing screenshot import ("Screenshot")
+   - An icon representing import from a mobile device ("From mobile")
+
+5. Below the import options, there are logos for what looks like file format options or software compatibilities, including Adobe Photoshop (Ps) and Sketch.
+
+6. Bottom-right corner:
+   - A large blue forward arrow in a circle, which possibly indicates a way to proceed to the next step in the app's workflow.
+
+7. Bottom-left corner:
+   - Partially visible icons that seem to represent more navigation or functionality, but their specific purposes are not evident from the cropped view.
+
+The UI is structured in a way that guides the user from mockup selection or creation on the left towards the import options on the right, finishing with the advancement option in the bottom-right corner.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2360, 1448]	[1180.0, 724.0]		App Store
+3	1	SplitGroup	[0, 0, 2360, 1448]	[1180.0, 724.0]		
+72	3	Group	[20, 104, 400, 56]	[220.0, 132.0]		
+73	72	TextField	[80, 104, 288, 56]	[224.0, 132.0]		|search field
+46	3	Outline	[0, 176, 440, 1160]	[220.0, 756.0]		
+69	46	Row	[0, 196, 440, 72]	[220.0, 232.0]		
+70	69	Cell	[20, 196, 400, 72]	[220.0, 232.0]		|Discover
+71	70	Button	[0, 196, 440, 72]	[220.0, 232.0]		|Discover
+66	46	Row	[0, 268, 440, 72]	[220.0, 304.0]		
+67	66	Cell	[20, 268, 400, 72]	[220.0, 304.0]		|Arcade
+68	67	Button	[0, 268, 440, 72]	[220.0, 304.0]		|Arcade
+63	46	Row	[0, 340, 440, 72]	[220.0, 376.0]		
+64	63	Cell	[20, 340, 400, 72]	[220.0, 376.0]		|Create
+65	64	Button	[0, 340, 440, 72]	[220.0, 376.0]		|Create
+60	46	Row	[0, 412, 440, 72]	[220.0, 448.0]		
+61	60	Cell	[20, 412, 400, 72]	[220.0, 448.0]		|Work
+62	61	Button	[0, 412, 440, 72]	[220.0, 448.0]		|Work
+57	46	Row	[0, 484, 440, 72]	[220.0, 520.0]		
+58	57	Cell	[20, 484, 400, 72]	[220.0, 520.0]		|Play
+59	58	Button	[0, 484, 440, 72]	[220.0, 520.0]		|Play
+54	46	Row	[0, 556, 440, 72]	[220.0, 592.0]		
+55	54	Cell	[20, 556, 400, 72]	[220.0, 592.0]		|Develop
+56	55	Button	[0, 556, 440, 72]	[220.0, 592.0]		|Develop
+51	46	Row	[0, 628, 440, 72]	[220.0, 664.0]		
+52	51	Cell	[20, 628, 400, 72]	[220.0, 664.0]		|Categories
+53	52	Button	[0, 628, 440, 72]	[220.0, 664.0]		|Categories
+48	46	Row	[0, 700, 440, 72]	[220.0, 736.0]		
+49	48	Cell	[20, 700, 400, 72]	[220.0, 736.0]		|Updates, 5
+50	49	Button	[0, 700, 440, 72]	[220.0, 736.0]		|Updates, 5
+47	46	Column	[20, 176, 400, 1160]	[220.0, 756.0]		
+43	3	Button	[0, 1336, 440, 112]	[220.0, 1392.0]		Mariya Hirna|Mariya Hirna
+45	43	Image	[20, 1356, 72, 72]	[56.0, 1392.0]		|
+44	43	StaticText	[104, 1376, 168, 32]	[188.0, 1392.0]	Mariya Hirna	
+6	3	ScrollArea	[442, 218, 1918, 1230]	[1401.0, 833.0]		
+11	6	List	[442, 218, 1918, 1230]	[1401.0, 833.0]		|Work
+35	11	List	[442, 254, 1918, 728]	[1401.0, 618.0]		
+36	35	Group	[442, 254, 1918, 728]	[1401.0, 618.0]		
+37	36	Group	[442, 254, 1918, 728]	[1401.0, 618.0]		|Collection
+38	37	ScrollArea	[442, 254, 1918, 728]	[1401.0, 618.0]		
+39	38	List	[442, 254, 1918, 728]	[1401.0, 618.0]		|Collection
+42	39	Button	[522, 254, 858, 728]	[951.0, 618.0]		Apps We Love, Get more done with Things, The app makes it simple to organise and prioritise|Apps We Love, Get more done with Things, The app makes it simple to organise and prioritise
+41	39	Button	[1420, 254, 858, 728]	[1849.0, 618.0]		Get It Done, Tidy up your Mac, Clear out the cruft with these handy apps|Get It Done, Tidy up your Mac, Clear out the cruft with these handy apps
+40	39	Button	[2318, 254, 42, 728]	[2339.0, 618.0]		Great On Sonoma, Get more done with shortcuts, Master this powerful macOS feature|Great On Sonoma, Get more done with shortcuts, Master this powerful macOS feature
+12	11	List	[442, 1054, 1918, 394]	[1401.0, 1251.0]		|Great New Productivity Apps and Updates
+32	12	Group	[442, 1054, 1918, 106]	[1401.0, 1107.0]		
+34	32	StaticText	[522, 1080, 766, 48]	[905.0, 1104.0]	Great New Productivity Apps and Updates	
+33	32	Button	[2170, 1088, 110, 38]	[2225.0, 1107.0]		See All
+13	12	Group	[442, 1160, 1918, 288]	[1401.0, 1304.0]		
+14	13	Group	[442, 1160, 1918, 288]	[1401.0, 1304.0]		|Great New Productivity Apps and Updates
+15	14	ScrollArea	[442, 1160, 1918, 288]	[1401.0, 1304.0]		
+16	15	List	[442, 1160, 1918, 288]	[1401.0, 1304.0]		|Great New Productivity Apps and Updates
+30	16	Button	[522, 1160, 858, 138]	[951.0, 1229.0]		BBEdit, Legendary text and code editor, Get, In-App Purchases|BBEdit, Legendary text and code editor, Get, In-App Purchases
+31	30	Button	[1244, 1160, 136, 104]	[1312.0, 1212.0]		Get, In-App Purchases|Get, In-App Purchases
+28	16	Button	[522, 1298, 858, 138]	[951.0, 1367.0]		ScreenFloat - Screenshot Tools, Power up your Screenshots, £14.99, In-App Purchases|ScreenFloat - Screenshot Tools, Power up your Screenshots, £14.99, In-App Purchases
+29	28	Button	[1244, 1298, 136, 104]	[1312.0, 1350.0]		£14.99, In-App Purchases|£14.99, In-App Purchases
+26	16	Button	[522, 1436, 858, 12]	[951.0, 1442.0]		Prompt 3, The SSH app with speed & style, Get, In-App Purchases|Prompt 3, The SSH app with speed & style, Get, In-App Purchases
+27	26	Button	[1244, 1436, 136, 12]	[1312.0, 1442.0]		Get, In-App Purchases|Get, In-App Purchases
+24	16	Button	[1420, 1160, 858, 138]	[1849.0, 1229.0]		Essayist - APA, MLA & More, The Academic Writing App, Get, In-App Purchases|Essayist - APA, MLA & More, The Academic Writing App, Get, In-App Purchases
+25	24	Button	[2142, 1160, 136, 104]	[2210.0, 1212.0]		Get, In-App Purchases|Get, In-App Purchases
+22	16	Button	[1420, 1298, 858, 138]	[1849.0, 1367.0]		Planny • Daily Planner, To do list, Focus, Teamwork, Get, In-App Purchases|Planny • Daily Planner, To do list, Focus, Teamwork, Get, In-App Purchases
+23	22	Button	[2142, 1298, 136, 104]	[2210.0, 1350.0]		Get, In-App Purchases|Get, In-App Purchases
+20	16	Button	[1420, 1436, 858, 12]	[1849.0, 1442.0]		Bear Markdown Notes, Create, Tag, Export, Encrypt, Get, In-App Purchases|Bear Markdown Notes, Create, Tag, Export, Encrypt, Get, In-App Purchases
+21	20	Button	[2142, 1436, 136, 12]	[2210.0, 1442.0]		Get, In-App Purchases|Get, In-App Purchases
+19	16	Button	[2318, 1160, 42, 138]	[2339.0, 1229.0]		OmniFocus 4, Accomplish More Every Day, Get, In-App Purchases|OmniFocus 4, Accomplish More Every Day, Get, In-App Purchases
+18	16	Button	[2318, 1298, 42, 138]	[2339.0, 1367.0]		iFinance 5, Personal Finance Management, £19.99, In-App Purchases|iFinance 5, Personal Finance Management, £19.99, In-App Purchases
+17	16	Button	[2318, 1436, 42, 12]	[2339.0, 1442.0]		Sketch, Design, prototype & handoff, Get, In-App Purchases|Sketch, Design, prototype & handoff, Get, In-App Purchases
+7	6	ScrollBar	[2328, 0, 32, 1448]	[2344.0, 724.0]	0.0	
+10	7	ValueIndicator	[2336, 2, 24, 272]	[2348.0, 138.0]	0.0	
+9	7	Button	[2336, 274, 24, 1172]	[2348.0, 860.0]		
+8	7	Button	[2336, 0, 24, 2]	[2348.0, 1.0]		
+4	3	Toolbar	[442, 0, 1918, 218]	[1401.0, 109.0]		
+5	4	StaticText	[522, 118, 170, 80]	[607.0, 158.0]	Work	
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

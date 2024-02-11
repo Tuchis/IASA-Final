@@ -1,0 +1,88 @@
+The UI interface of the app displays two main sections divided down the middle.
+
+On the left side:
+
+1. At the top left, there's a navigation menu icon with three horizontal lines. 
+2. Just below the navigation menu icon, there is a question, "What's your focus?" with a dropdown menu labeled "General" underneath it, signifying a category or label for the focus session one might be setting.
+3. A text field labeled "Intention" is located directly under the dropdown menu for users to input their intention for the focus session.
+4. A small circular icon with a question mark inside it appears at the top right, likely indicating a help or info button.
+5. In the middle, there is a circular timer with a knob and what appears to be the ability to set a duration for the focus session. The current time is indicated at the bottom of the timer.
+6. Below the timer, there is a rectangular button labeled "START SESSION," which is presumably used to commence the focus or timer session.
+7. In the bottom left-hand corner, there is a settings cogwheel icon.
+
+On the right side:
+
+1. At the top, there is a calendar-like interface with the word "Today" at the top center, flanked by left and right arrow buttons. Below this are the days of the week, from Monday to Sunday (MON, TUE, WED, THU, FRI, SAT, SUN), with dates from 05 to 11 under each day. One of the days appears to be highlighted, suggesting it's the current day.
+2. Below the days, there is a horizontal timeline divided into hours, starting from 19:00 up to 24:00.
+3. On the right side of the horizontal timeline, there is a vertical slider with a plus sign at the bottom, seemingly used to adjust or add sessions on the timeline.
+4. Finally, just above the timeline and the vertical slider, there is a long horizontal bar, indicating the duration within the timeline which is labeled "0H 0M FOCUS," likely reflecting the amount of focused time scheduled or spent on the selected day.
+
+Note that elements may be interactive and serve specific functions within the app, for setting up and tracking focused work sessions or activities.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2500, 1560]	[1250.0, 780.0]		Big birthday
+65	1	StaticText	[1938, 276, 174, 32]	[2025.0, 292.0]	Date Presets	
+64	1	Button	[1904, 278, 26, 26]	[1917.0, 291.0]		
+63	1	StaticText	[1938, 340, 118, 32]	[1997.0, 356.0]	Direction	
+62	1	PopUpButton	[2160, 336, 322, 50]	[2321.0, 361.0]	Forward	
+61	1	StaticText	[1938, 404, 68, 32]	[1972.0, 420.0]	Start	
+60	1	TextField	[2160, 398, 322, 52]	[2321.0, 424.0]		
+59	1	StaticText	[1938, 468, 214, 32]	[2045.0, 484.0]	First day of week	
+58	1	PopUpButton	[2160, 464, 322, 50]	[2321.0, 489.0]	Monday	
+57	1	StaticText	[1938, 552, 218, 32]	[2047.0, 568.0]	Work & Duration	
+56	1	Button	[1904, 554, 26, 26]	[1917.0, 567.0]		
+55	1	StaticText	[1938, 616, 178, 32]	[2027.0, 632.0]	Hours per day	
+54	1	TextField	[2166, 612, 310, 42]	[2321.0, 633.0]	8	
+53	1	StaticText	[1938, 680, 198, 32]	[2037.0, 696.0]	Hours per week	
+52	1	TextField	[2166, 676, 310, 42]	[2321.0, 697.0]	40	
+51	1	StaticText	[1938, 744, 200, 32]	[2038.0, 760.0]	Days per month	
+50	1	TextField	[2166, 740, 310, 42]	[2321.0, 761.0]	20	
+49	1	StaticText	[1938, 808, 200, 32]	[2038.0, 824.0]	Calculation Unit	
+48	1	PopUpButton	[2160, 804, 322, 50]	[2321.0, 829.0]	Dynamically	
+47	1	StaticText	[1938, 892, 194, 32]	[2035.0, 908.0]	Default Values	
+46	1	Button	[1904, 894, 26, 26]	[1917.0, 907.0]		
+45	1	StaticText	[1938, 956, 70, 32]	[1973.0, 972.0]	Work	
+44	1	TextField	[2166, 952, 310, 42]	[2321.0, 973.0]	1 day ?	
+43	1	StaticText	[1938, 1020, 112, 32]	[1994.0, 1036.0]	Duration	
+42	1	TextField	[2166, 1016, 310, 42]	[2321.0, 1037.0]		
+41	1	StaticText	[1938, 1104, 160, 32]	[2018.0, 1120.0]	Status Date	
+40	1	Button	[1904, 1106, 26, 26]	[1917.0, 1119.0]		
+39	1	TextField	[2160, 1098, 322, 52]	[2321.0, 1124.0]		
+38	1	StaticText	[1938, 1104, 224, 32]	[2050.0, 1120.0]	Dynamic Planning	
+37	1	PopUpButton	[2168, 1100, 314, 50]	[2325.0, 1125.0]	Off	
+36	1	StaticText	[1938, 1168, 204, 32]	[2040.0, 1184.0]	Actual Start/End	
+35	1	PopUpButton	[2160, 1164, 322, 50]	[2321.0, 1189.0]	Automatic	
+34	1	StaticText	[1938, 1252, 144, 32]	[2010.0, 1268.0]	Resources	
+33	1	Button	[1904, 1254, 26, 26]	[1917.0, 1267.0]		
+32	1	StaticText	[1938, 1188, 154, 32]	[2015.0, 1204.0]	Initials Style	
+31	1	PopUpButton	[2098, 1184, 386, 50]	[2291.0, 1209.0]	F.B.	
+30	1	StaticText	[1938, 1252, 210, 32]	[2043.0, 1268.0]	Share their Work	
+29	1	CheckBox	[2156, 1250, 324, 36]	[2318.0, 1268.0]	1	
+28	1	StaticText	[1938, 1336, 216, 32]	[2046.0, 1352.0]	Currency Symbol	
+27	1	TextField	[2166, 1332, 198, 42]	[2265.0, 1353.0]	£	
+26	1	PopUpButton	[2370, 1332, 114, 50]	[2427.0, 1357.0]	£1	
+3	1	Toolbar	[0, 0, 2500, 104]	[1250.0, 52.0]		
+22	3	Group	[1420, 0, 122, 104]	[1481.0, 52.0]		
+23	22	Group	[1416, 12, 130, 80]	[1481.0, 52.0]		|New
+25	23	Button	[1416, 12, 74, 80]	[1453.0, 52.0]		
+24	23	Button	[1490, 12, 56, 80]	[1518.0, 52.0]		
+18	3	Group	[1542, 0, 194, 104]	[1639.0, 52.0]		
+19	18	Group	[1538, 12, 202, 80]	[1639.0, 52.0]		|Indentation
+21	19	Button	[1538, 12, 102, 80]	[1589.0, 52.0]		
+20	19	Button	[1640, 12, 100, 80]	[1690.0, 52.0]		
+14	3	Group	[1736, 0, 122, 104]	[1797.0, 52.0]		
+15	14	Group	[1732, 12, 130, 80]	[1797.0, 52.0]		|Link
+17	15	Button	[1732, 12, 74, 80]	[1769.0, 52.0]		
+16	15	Button	[1806, 12, 56, 80]	[1834.0, 52.0]		
+12	3	MenuButton	[1858, 0, 112, 104]	[1914.0, 52.0]		|Action
+13	12	MenuButton	[1856, 12, 116, 80]	[1914.0, 52.0]		
+11	3	Button	[2018, 0, 72, 104]	[2054.0, 52.0]		|Dynamic Help
+10	3	Button	[2090, 0, 72, 104]	[2126.0, 52.0]		|Critical Path
+9	3	Button	[2162, 0, 72, 104]	[2198.0, 52.0]		|Resources
+8	3	Button	[2234, 0, 72, 104]	[2270.0, 52.0]		|Settings
+4	3	Group	[2306, 0, 178, 104]	[2395.0, 52.0]		
+5	4	Group	[2302, 12, 186, 80]	[2395.0, 52.0]		|Layout
+7	5	Button	[2302, 12, 94, 80]	[2349.0, 52.0]		
+6	5	Button	[2396, 12, 92, 80]	[2442.0, 52.0]		
+2	1	StaticText	[174, 0, 1246, 104]	[797.0, 52.0]	Big birthday	

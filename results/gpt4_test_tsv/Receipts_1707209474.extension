@@ -1,0 +1,48 @@
+The user interface of the app depicted in the image consists of several sections and elements:
+
+1. Top Menu Bar:
+   - Window control buttons (likely for minimizing, maximizing, and closing the application window)
+   - App file path or name indicated as "Receipts.receipts"
+   - Icons for different views or functionalities
+   - A search bar with a magnifying glass icon
+   - A button that might represent a way to add a new item or perform a similar action
+
+2. Left Sidebar:
+   - A section for filtering receipts:
+     - "All"
+     - "Unconfirmed" with a number indicator (6)
+     - "Not Paid" with a number indicator (6)
+     - "Starred"
+     - "Without Attachment"
+     - "Recent Imports" with a number indicator (6)
+     - "Trash"
+   - A "Journal" section with sub-items for different years (2023, 2022)
+   - A "Contacts" section with an entry labeled "Unassigned"
+   - A "Categories" section with items such as "Car," "Communication," "Food," "Gifts," "Goods," and more indicated by scrolling.
+   - Plus button at the bottom, likely for adding new items or categories
+   - Three dots which may indicate more options or settings
+
+3. Main Content Area:
+   - A filter area with dropdown menus labeled "Period," "Category," "Contact," "Tag," "Features"
+   - A list of dates with corresponding financial amounts and red down arrow indicators which might represent a dropdown function or a decrease in value
+
+4. Summary Section (Top-Right):
+   - A date range: "19.10.2022 - 29.12.2023"
+   - A breakdown of values labeled "Subtotal," "Tax," and "Total", followed by numerical figures
+   - The word "Years" above a graphical representation that resembles a bar chart with monetary values on the y-axis
+
+5. Bottom-Right Options:
+   - Checkboxes or buttons for "Net amounts"
+   - Three buttons labeled "Print," "Report," and "Export"
+
+The interface likely serves as a financial management or accounting application, as it involves dates, monetary amounts, filtering options for different categories, contacts, and periods, and options for reporting and exporting data.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1120, 1360]	[560.0, 680.0]		Welcome
+4	1	ScrollArea	[0, 156, 1120, 836]	[560.0, 574.0]		
+7	4	StaticText	[310, 156, 498, 82]	[559.0, 197.0]	Welcome to Diarly	
+6	4	StaticText	[180, 254, 760, 58]	[560.0, 283.0]	Secure, simple & beautiful diary app.	
+5	4	Image	[238, 488, 640, 400]	[558.0, 688.0]		|Start Light
+3	1	Button	[770, 1214, 284, 80]	[912.0, 1254.0]		Get Started
+2	1	Button	[66, 1214, 116, 80]	[124.0, 1254.0]		Skip

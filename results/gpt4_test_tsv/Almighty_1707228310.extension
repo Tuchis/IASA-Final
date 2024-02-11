@@ -1,0 +1,58 @@
+The UI interface in the image presents a window with a split layout. The left side of the window features a vertical navigation menu with the following elements:
+
+1. A button labeled "General" with an associated gear icon.
+2. A button labeled "Workflows" with an associated lightning bolt icon which appears to be selected or active, highlighted by a surrounding shape.
+3. A button labeled "Shortcuts" with an associated keyboard icon.
+4. A button labeled "License" with an associated checkmark icon.
+
+At the top of the window, there's a window control header with:
+
+1. Standard window control buttons (three circles typical on a macOS interface, suggesting this is an application window on a Mac).
+2. The title of the app or window appears to be "Almighty".
+
+On the right side of the window, it looks like a content area with the following elements:
+
+1. A header labeled "Workflows".
+2. Below the header, there is an item labeled "Favorite" with an associated star icon.
+3. Adjacent to the "Workflows" header, there is a plus button, likely for adding a new workflow.
+4. At the bottom, there is a text field with placeholder text that reads "Organize tweaks with workflows".
+
+This sums up all the identifiable UI elements presented in the image.
+
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1800, 900]	[900.0, 450.0]		Almighty
+6	1	Group	[0, 0, 1800, 900]	[900.0, 450.0]		
+7	6	SplitGroup	[0, 0, 1800, 900]	[900.0, 450.0]		
+8	7	Group	[0, 0, 1800, 900]	[900.0, 450.0]		
+16	8	ScrollArea	[32, 136, 300, 732]	[182.0, 502.0]		
+17	16	Table	[32, 136, 300, 732]	[182.0, 502.0]		
+31	17	Row	[32, 156, 300, 64]	[182.0, 188.0]		
+32	31	Cell	[64, 156, 236, 64]	[182.0, 188.0]		
+34	32	Image	[72, 176, 24, 24]	[84.0, 188.0]		|gearshape.fill
+33	32	StaticText	[120, 172, 94, 32]	[167.0, 188.0]	General	
+27	17	Row	[32, 220, 300, 64]	[182.0, 252.0]		
+28	27	Cell	[64, 220, 236, 64]	[182.0, 252.0]		
+30	28	Image	[76, 240, 14, 24]	[83.0, 252.0]		|Flash
+29	28	StaticText	[120, 236, 126, 32]	[183.0, 252.0]	Workflows	
+23	17	Row	[32, 284, 300, 64]	[182.0, 316.0]		
+24	23	Cell	[64, 284, 236, 64]	[182.0, 316.0]		
+26	24	Image	[72, 308, 24, 16]	[84.0, 316.0]		|keyboard.fill
+25	24	StaticText	[120, 300, 118, 32]	[179.0, 316.0]	Shortcuts	
+19	17	Row	[32, 348, 300, 64]	[182.0, 380.0]		
+20	19	Cell	[64, 348, 236, 64]	[182.0, 380.0]		
+22	20	Image	[72, 368, 24, 24]	[84.0, 380.0]		|Verified
+21	20	StaticText	[120, 364, 94, 32]	[167.0, 380.0]	License	
+18	17	Column	[52, 136, 260, 732]	[182.0, 502.0]		
+9	8	ScrollArea	[332, 136, 1436, 732]	[1050.0, 502.0]		
+15	9	Heading	[392, 180, 132, 32]	[458.0, 196.0]		|Workflows
+14	9	Button	[1664, 178, 28, 26]	[1678.0, 191.0]		|Add
+11	9	Group	[366, 232, 1368, 94]	[1050.0, 279.0]		
+13	11	StaticText	[392, 256, 44, 42]	[414.0, 277.0]	star	
+12	11	StaticText	[452, 260, 96, 32]	[500.0, 276.0]	Favorite	
+10	9	StaticText	[1340, 338, 388, 32]	[1534.0, 354.0]	Organize tweaks with workflows	
+3	1	Toolbar	[0, 0, 1800, 104]	[900.0, 52.0]		
+4	3	Button	[174, 0, 84, 104]	[216.0, 52.0]		|Split View Horizontally Left
+5	4	Button	[192, 28, 46, 36]	[215.0, 46.0]		|Split View Horizontally Left
+2	1	StaticText	[258, 0, 1526, 104]	[1021.0, 52.0]	Almighty	

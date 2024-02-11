@@ -1,0 +1,84 @@
+The UI interface of the app presented in the image has the following elements:
+
+Left Panel:
+1. A vertical navigation menu with icons including:
+   - New Project
+   - Recent
+   - Learn to Play
+   - Lesson Store
+   - Project Templates
+
+2. An option labeled "Details" with an arrow pointing to the right, indicating it may be expandable or collapsible.
+
+Main Panel:
+1. A header titled "Choose a Project" at the top of the main panel.
+
+2. A square with rounded corners containing a grid icon and a plus sign, representing an option to create something, labeled "Empty Project" below the graphic.
+
+3. A line of text beneath the square that reads "Create an empty project."
+
+4. A text link or button at the bottom, stating "Open an existing project..."
+
+Bottom Right:
+1. A button labeled "Choose" situated at the lower right corner of the interface.
+
+The interface appears to allow the user to start new projects, access recent projects, lessons, or templates, and provides a way to create a new empty project or open an existing one.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2084, 1068]	[1042.0, 534.0]		Choose a Project
+6	1	SplitGroup	[0, 0, 2084, 1068]	[1042.0, 534.0]		
+26	6	ScrollArea	[0, 56, 440, 1012]	[220.0, 562.0]		
+27	26	Outline	[2, 56, 436, 1010]	[220.0, 561.0]		
+49	27	Row	[2, 56, 436, 8]	[220.0, 60.0]		
+50	49	Cell	[22, 56, 396, 8]	[220.0, 60.0]		
+45	27	Row	[2, 64, 436, 56]	[220.0, 92.0]		
+46	45	Cell	[22, 64, 396, 56]	[220.0, 92.0]		
+48	46	Image	[40, 76, 28, 32]	[54.0, 92.0]	<NSImage 0x60000329e620 Size={14, 16} RepProvider=<NSImageSymbolRepProvider: 0x600000e96400> symbol = doc>	|document
+47	46	StaticText	[78, 76, 328, 32]	[242.0, 92.0]	New Project	
+41	27	Row	[2, 120, 436, 56]	[220.0, 148.0]		
+42	41	Cell	[22, 120, 396, 56]	[220.0, 148.0]		
+44	42	Image	[38, 134, 30, 30]	[53.0, 149.0]	<NSImage 0x60000329c5a0 Size={15, 15} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8960> symbol = clock>	|clock
+43	42	StaticText	[78, 132, 328, 32]	[242.0, 148.0]	Recent	
+37	27	Row	[2, 176, 436, 56]	[220.0, 204.0]		
+38	37	Cell	[22, 176, 396, 56]	[220.0, 204.0]		
+40	38	Image	[38, 190, 30, 28]	[53.0, 204.0]	<NSImage 0x60000329e940 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea9650> symbol = Glyphs/music.note.square>	|
+39	38	StaticText	[78, 188, 328, 32]	[242.0, 204.0]	Learn to Play	
+33	27	Row	[2, 232, 436, 56]	[220.0, 260.0]		
+34	33	Cell	[22, 232, 396, 56]	[220.0, 260.0]		
+36	34	Image	[38, 246, 30, 28]	[53.0, 260.0]	<NSImage 0x60000329f160 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8c00> symbol = star.square>	|favourite
+35	34	StaticText	[78, 244, 328, 32]	[242.0, 260.0]	Lesson Store	
+29	27	Row	[2, 288, 436, 56]	[220.0, 316.0]		
+30	29	Cell	[22, 288, 396, 56]	[220.0, 316.0]		
+32	30	Image	[36, 302, 36, 28]	[54.0, 316.0]	<NSImage 0x60000323a8a0 Size={18, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000eb4270> symbol = folder>	|move
+31	30	StaticText	[78, 300, 328, 32]	[242.0, 316.0]	Project Templates	
+28	27	Column	[22, 56, 396, 1010]	[220.0, 561.0]		
+25	6	Splitter	[440, 56, 2, 1012]	[441.0, 562.0]	220.0	
+7	6	Group	[442, 0, 1642, 1068]	[1263.0, 534.0]		
+14	7	ScrollArea	[442, 56, 1642, 810]	[1263.0, 461.0]		
+15	14	List	[442, 56, 1642, 810]	[1263.0, 461.0]		
+16	15	List	[506, 90, 376, 268]	[694.0, 224.0]		
+17	16	Group	[506, 90, 376, 268]	[694.0, 224.0]		
+24	17	Group	[544, 90, 300, 196]	[694.0, 188.0]		
+21	17	Group	[544, 90, 300, 196]	[694.0, 188.0]		
+23	21	Image	[544, 90, 300, 196]	[694.0, 188.0]	"<NSImage 0x60000329f200 Size={150, 98} RepProvider=<NSImageMultiURLReferencingRepProvider:0x6000002ae1e0 urls:(
+    ""file:///Applications/GarageBand.app/Contents/Frameworks/MAResources.framework/Resources/icon_newprojectdialog_template_empty_project_tracks@2x.tif"",
+    ""file:///Applications/GarageBand.app/Contents/Frameworks/MAResources.framework/Resources/icon_newprojectdialog_template_empty_project_tracks.tif""
+) reps:(
+    ""NSBitmapImageRep 0x6000068a9570 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x14ee19460> CGImageSource=0x60000059b240"",
+    ""NSBitmapImageRep 0x60000685f560 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000045fa40""
+)>>"	|
+22	21	Button	[544, 90, 300, 196]	[694.0, 188.0]		
+20	17	Group	[544, 90, 300, 196]	[694.0, 188.0]		
+19	17	Group	[588, 308, 210, 36]	[693.0, 326.0]		
+18	17	StaticText	[594, 310, 198, 32]	[693.0, 326.0]	Empty Project	
+13	7	StaticText	[1254, 416, 16, 32]	[1262.0, 432.0]		
+12	7	DisclosureTriangle	[462, 892, 26, 26]	[475.0, 905.0]	0	
+11	7	StaticText	[504, 888, 92, 32]	[550.0, 904.0]	Details	
+10	7	StaticText	[1108, 888, 308, 32]	[1262.0, 904.0]	Create an empty project	
+9	7	Button	[468, 976, 402, 64]	[669.0, 1008.0]		Open an existing project…
+8	7	Button	[1860, 976, 198, 64]	[1959.0, 1008.0]		Choose
+4	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+3	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+2	1	StaticText	[1148, 10, 228, 32]	[1262.0, 26.0]	Choose a Project	

@@ -1,0 +1,134 @@
+In the image, there appears to be a user interface for an application that likely involves music production or sound editing, based on the context given by the icons and labels. Here's a breakdown of each visible UI element:
+
+1. On the top left corner, there are three window control buttons which typically represent closing, minimizing, and expanding the window.
+
+2. Below, on the left sidebar, there are multiple menu options:
+   - "New Project"
+   - "Recent"
+   - "Learn to Play"
+   - "Lesson Store"
+   - "Project Templates"
+
+3. Each menu item has an accompanying icon suggestive of its function next to the text.
+
+4. Below the menu options, there's a drop-down toggle labeled "Details", which suggests expandability to show more options or information.
+
+5. Underneath the "Details" toggle, there is a button or link labeled "Open an existing project..." which suggests functionality to load previously created projects.
+
+6. In the main area to the right, the title "Choose a Project" is displayed at the top, indicating the purpose of the section.
+
+7. Below the title, there are six square icons with labels underneath them, which seem to be different project templates or starting points:
+   - The first project template is highlighted, labeled "Keyboard Collection"
+   - Next to it is "Amp Collection"
+   - Followed by "Voice"
+   - On the second row, there's "Electronic"
+   - Next to "Electronic" is "Songwriter"
+   - And the last one is labeled "Hip-Hop"
+
+8. At the bottom of the main area, there's a descriptive text that reads "A diverse collection of keyboards and synthesizers."
+
+9. In the lower-right corner, there is a button labeled "Choose" which likely confirms the selection of a project template.
+
+These elements combined suggest the user is at the starting point for creating a new musical project, with various templates to choose from.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2084, 1068]	[1042.0, 534.0]		Choose a Project
+7	1	SplitGroup	[0, 0, 2084, 1068]	[1042.0, 534.0]		
+57	7	ScrollArea	[0, 56, 440, 1012]	[220.0, 562.0]		
+58	57	Outline	[2, 56, 436, 1010]	[220.0, 561.0]		
+80	58	Row	[2, 56, 436, 8]	[220.0, 60.0]		
+81	80	Cell	[22, 56, 396, 8]	[220.0, 60.0]		
+76	58	Row	[2, 64, 436, 56]	[220.0, 92.0]		
+77	76	Cell	[22, 64, 396, 56]	[220.0, 92.0]		
+79	77	Image	[40, 76, 28, 32]	[54.0, 92.0]	<NSImage 0x60000329e620 Size={14, 16} RepProvider=<NSImageSymbolRepProvider: 0x600000e96400> symbol = doc>	|document
+78	77	StaticText	[78, 76, 328, 32]	[242.0, 92.0]	New Project	
+72	58	Row	[2, 120, 436, 56]	[220.0, 148.0]		
+73	72	Cell	[22, 120, 396, 56]	[220.0, 148.0]		
+75	73	Image	[38, 134, 30, 30]	[53.0, 149.0]	<NSImage 0x60000329c5a0 Size={15, 15} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8960> symbol = clock>	|clock
+74	73	StaticText	[78, 132, 328, 32]	[242.0, 148.0]	Recent	
+68	58	Row	[2, 176, 436, 56]	[220.0, 204.0]		
+69	68	Cell	[22, 176, 396, 56]	[220.0, 204.0]		
+71	69	Image	[38, 190, 30, 28]	[53.0, 204.0]	<NSImage 0x60000329e940 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea9650> symbol = Glyphs/music.note.square>	|
+70	69	StaticText	[78, 188, 328, 32]	[242.0, 204.0]	Learn to Play	
+64	58	Row	[2, 232, 436, 56]	[220.0, 260.0]		
+65	64	Cell	[22, 232, 396, 56]	[220.0, 260.0]		
+67	65	Image	[38, 246, 30, 28]	[53.0, 260.0]	<NSImage 0x60000329f160 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8c00> symbol = star.square>	|favourite
+66	65	StaticText	[78, 244, 328, 32]	[242.0, 260.0]	Lesson Store	
+60	58	Row	[2, 288, 436, 56]	[220.0, 316.0]		
+61	60	Cell	[22, 288, 396, 56]	[220.0, 316.0]		
+63	61	Image	[36, 302, 36, 28]	[54.0, 316.0]	<NSImage 0x60000323a8a0 Size={18, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000eb4270> symbol = folder>	|move
+62	61	StaticText	[78, 300, 328, 32]	[242.0, 316.0]	Project Templates	
+59	58	Column	[22, 56, 396, 1010]	[220.0, 561.0]		
+56	7	Splitter	[440, 56, 2, 1012]	[441.0, 562.0]	220.0	
+8	7	Group	[442, 0, 1642, 1068]	[1263.0, 534.0]		
+15	8	ScrollArea	[442, 56, 1642, 810]	[1263.0, 461.0]		
+16	15	List	[442, 56, 1642, 810]	[1263.0, 461.0]		
+17	16	List	[506, 90, 776, 580]	[894.0, 380.0]		
+48	17	Group	[506, 90, 376, 268]	[694.0, 224.0]		
+55	48	Group	[544, 90, 300, 196]	[694.0, 188.0]		
+52	48	Group	[544, 90, 300, 196]	[694.0, 188.0]		
+54	52	Image	[544, 90, 300, 196]	[694.0, 188.0]	"<NSImage 0x60000323a080 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x6000001b7640, reps:(
+    ""NSBitmapImageRep 0x600006883e20 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x6000004be240"",
+    ""NSBitmapImageRep 0x600006899260 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c736c20> CGImageSource=0x6000004be240""
+)>>"	|
+53	52	Button	[544, 90, 300, 196]	[694.0, 188.0]		
+51	48	Group	[544, 90, 300, 196]	[694.0, 188.0]		
+50	48	Group	[550, 308, 288, 36]	[694.0, 326.0]		
+49	48	StaticText	[556, 310, 276, 32]	[694.0, 326.0]	Keyboard Collection	
+42	17	Group	[906, 90, 376, 268]	[1094.0, 224.0]		
+47	42	Group	[944, 90, 300, 196]	[1094.0, 188.0]		
+44	42	Group	[944, 90, 300, 196]	[1094.0, 188.0]		
+46	44	Image	[944, 90, 300, 196]	[1094.0, 188.0]	"<NSImage 0x60000329f480 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x6000001b1e20, reps:(
+    ""NSBitmapImageRep 0x600002a69e30 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000042c700"",
+    ""NSBitmapImageRep 0x600002a69110 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c7362a0> CGImageSource=0x60000042c700""
+)>>"	|
+45	44	Button	[944, 90, 300, 196]	[1094.0, 188.0]		
+43	42	StaticText	[986, 310, 214, 32]	[1093.0, 326.0]	Amp Collection	
+36	17	Group	[1306, 90, 376, 268]	[1494.0, 224.0]		
+41	36	Group	[1344, 90, 300, 196]	[1494.0, 188.0]		
+38	36	Group	[1344, 90, 300, 196]	[1494.0, 188.0]		
+40	38	Image	[1344, 90, 300, 196]	[1494.0, 188.0]	"<NSImage 0x60000329ce60 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x6000001235b0, reps:(
+    ""NSBitmapImageRep 0x6000068931e0 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x6000003aeb20"",
+    ""NSBitmapImageRep 0x6000068934f0 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c71b230> CGImageSource=0x6000003aeb20""
+)>>"	|
+39	38	Button	[1344, 90, 300, 196]	[1494.0, 188.0]		
+37	36	StaticText	[1450, 310, 86, 32]	[1493.0, 326.0]	Voice	
+30	17	Group	[1706, 90, 376, 268]	[1894.0, 224.0]		
+35	30	Group	[1744, 90, 300, 196]	[1894.0, 188.0]		
+32	30	Group	[1744, 90, 300, 196]	[1894.0, 188.0]		
+34	32	Image	[1744, 90, 300, 196]	[1894.0, 188.0]	"<NSImage 0x6000032b33e0 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x600000109200, reps:(
+    ""NSBitmapImageRep 0x600006893800 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000042cb00"",
+    ""NSBitmapImageRep 0x6000068939c0 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c748680> CGImageSource=0x60000042cb00""
+)>>"	|
+33	32	Button	[1744, 90, 300, 196]	[1894.0, 188.0]		
+31	30	StaticText	[1830, 310, 126, 32]	[1893.0, 326.0]	Hip-Hop	
+24	17	Group	[506, 402, 376, 268]	[694.0, 536.0]		
+29	24	Group	[544, 402, 300, 196]	[694.0, 500.0]		
+26	24	Group	[544, 402, 300, 196]	[694.0, 500.0]		
+28	26	Image	[544, 402, 300, 196]	[694.0, 500.0]	"<NSImage 0x600003292d00 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x600000108850, reps:(
+    ""NSBitmapImageRep 0x600006894150 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000039b3e0"",
+    ""NSBitmapImageRep 0x600006894310 Size={300, 196} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb7baa0> CGImageSource=0x60000039b3e0""
+)>>"	|
+27	26	Button	[544, 402, 300, 196]	[694.0, 500.0]		
+25	24	StaticText	[620, 622, 146, 32]	[693.0, 638.0]	Electronic	
+18	17	Group	[906, 402, 376, 268]	[1094.0, 536.0]		
+23	18	Group	[944, 402, 300, 196]	[1094.0, 500.0]		
+20	18	Group	[944, 402, 300, 196]	[1094.0, 500.0]		
+22	20	Image	[944, 402, 300, 196]	[1094.0, 500.0]	"<NSImage 0x60000326f840 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x600000108730, reps:(
+    ""NSBitmapImageRep 0x600006895030 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x6000004902e0"",
+    ""NSBitmapImageRep 0x600006894e70 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb77610> CGImageSource=0x6000004902e0""
+)>>"	|
+21	20	Button	[944, 402, 300, 196]	[1094.0, 500.0]		
+19	18	StaticText	[1014, 622, 160, 32]	[1094.0, 638.0]	Songwriter	
+14	8	StaticText	[1254, 416, 16, 32]	[1262.0, 432.0]		
+13	8	DisclosureTriangle	[462, 892, 26, 26]	[475.0, 905.0]	0	
+12	8	StaticText	[504, 888, 92, 32]	[550.0, 904.0]	Details	
+11	8	StaticText	[948, 888, 628, 32]	[1262.0, 904.0]	A diverse collection of keyboards and synthesizers	
+10	8	Button	[468, 976, 402, 64]	[669.0, 1008.0]		Open an existing project…
+9	8	Button	[1860, 976, 198, 64]	[1959.0, 1008.0]		Choose
+4	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+6	5	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+3	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+2	1	StaticText	[1148, 10, 228, 32]	[1262.0, 26.0]	Choose a Project	

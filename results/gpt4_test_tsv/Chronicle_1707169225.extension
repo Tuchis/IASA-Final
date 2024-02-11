@@ -1,0 +1,138 @@
+The UI interface in the image appears to be for a bill management or expense tracking application. Here's a description of the elements visible in the interface:
+
+1. Left Sidebar:
+   - "Bills" section with subcategories:
+       a. Overview (indicates 1 bill)
+       b. Due Soon (indicates 1 bill with a specific amount in UAH)
+       c. Due This Month (indicates 1 bill with the same amount as in Due Soon)
+       d. Paid Recently (indicates there are no bills)
+   - "Reports" section with options:
+       a. Income
+       b. Forecast
+       c. Monthly History
+       d. Annual Spending
+       e. Archive
+
+2. Middle Pane:
+   - At the top, left-aligned, there is a dropdown menu labeled "All Items."
+   - To the right, there is a search field with a magnifying glass icon.
+   - Below are columns labeled "Name," "Amount," and "Due Date" with one entry under "Name" stating "Internet" and a note below it saying "Every month."
+
+3. Pop-up Modal Window:
+   - Title of the modal indicates "Netflix."
+   - Below the title, "Video Streaming & Television" is specified.
+   - A checkbox with a checked state next to an icon (potentially indicating a category or status).
+   - A dropdown menu for "Next Due Date" with a specified date of "20.02.2024" and a "View" button next to it.
+   - A dropdown menu for "Repeat Interval" with the option "Every Month" selected.
+   - A text field for "Amount Due" with a specified amount of "440,00 UAH."
+   - A text field for "Payment URL" with the placeholder "Optional" and an information icon.
+   - Two unchecked checkboxes for "Amount Varies" and "Paid Automatically."
+   - One checked checkbox with the label "Enable Reminder" followed by a text field with the number "7" and a label stating "days before due."
+   - A tags section with a text field apparently for inputting tags but left blank.
+   - A link to "Show More Bill Details."
+   - At the bottom, two buttons: "Cancel" on the left and "Save" on the right.
+
+4. Right Pane:
+   - At the top, right-aligned, a dropdown menu with a checkmark and the word "Internet."
+   - A centered headline stating "Due today" followed by the date "Monday, 5 February 2024" and an amount in UAH.
+   - Two buttons: "Log Payment" and "Skip."
+   - Below, two links: "View Payment History" with the text "Never Paid" and "View Statistics" with the text "Never Paid."
+   - At the bottom, a text input field with the placeholder "Click to add notes" and two buttons labeled "Archive" and "Edit."
+
+Please note that UAH likely refers to the Ukrainian Hryvnia, which is the currency of Ukraine. The UI suggests that the user can track their bills, due dates, and payment history, as well as add reminders for upcoming bills.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2200, 1240]	[1100.0, 620.0]		
+93	1	Image	[578, 152, 108, 108]	[632.0, 206.0]		|speed
+92	1	StaticText	[702, 230, 210, 26]	[807.0, 243.0]	char/min	
+91	1	StaticText	[702, 144, 52, 86]	[728.0, 187.0]	0	
+90	1	StaticText	[756, 174, 44, 32]	[778.0, 190.0]	+4	
+89	1	StaticText	[1236, 174, 44, 32]	[1258.0, 190.0]	+4	
+88	1	StaticText	[1200, 188, 34, 32]	[1217.0, 204.0]	%	
+87	1	StaticText	[1072, 144, 130, 86]	[1137.0, 187.0]	100	
+86	1	Image	[948, 152, 108, 108]	[1002.0, 206.0]		|accuracy
+85	1	StaticText	[1072, 230, 210, 26]	[1177.0, 243.0]	accuracy	
+84	1	StaticText	[1496, 174, 44, 32]	[1518.0, 190.0]	+4	
+83	1	Image	[1318, 152, 108, 108]	[1372.0, 206.0]		|typos
+82	1	StaticText	[1442, 230, 210, 26]	[1547.0, 243.0]	typos	
+81	1	StaticText	[1442, 144, 52, 86]	[1468.0, 187.0]	0	
+80	1	StaticText	[98, 412, 2000, 88]	[1098.0, 456.0]	at tee e eat e tea tata tee at ate o tee tate too to ate tata too t toe to ate at tee tattoo e too t	
+79	1	Button	[0, 1156, 84, 84]	[42.0, 1198.0]		
+78	1	Button	[2116, 1156, 84, 84]	[2158.0, 1198.0]		
+77	1	Button	[2116, 0, 84, 84]	[2158.0, 42.0]		
+76	1	Button	[330, 558, 88, 88]	[374.0, 602.0]		`
+75	1	Button	[438, 558, 88, 88]	[482.0, 602.0]		1
+74	1	Button	[546, 558, 88, 88]	[590.0, 602.0]		2
+73	1	Button	[654, 558, 88, 88]	[698.0, 602.0]		3
+72	1	Button	[762, 558, 88, 88]	[806.0, 602.0]		4
+71	1	Button	[870, 558, 88, 88]	[914.0, 602.0]		5
+70	1	Button	[978, 558, 88, 88]	[1022.0, 602.0]		6
+69	1	Button	[1086, 558, 88, 88]	[1130.0, 602.0]		7
+68	1	Button	[1194, 558, 88, 88]	[1238.0, 602.0]		8
+67	1	Button	[1304, 558, 88, 88]	[1348.0, 602.0]		9
+66	1	Button	[1410, 558, 88, 88]	[1454.0, 602.0]		0
+65	1	Button	[1626, 558, 88, 88]	[1670.0, 602.0]		=
+64	1	Button	[1518, 558, 88, 88]	[1562.0, 602.0]		-
+63	1	Button	[490, 666, 88, 88]	[534.0, 710.0]		q
+62	1	Button	[598, 666, 88, 88]	[642.0, 710.0]		w
+61	1	Button	[706, 666, 88, 88]	[750.0, 710.0]		e
+60	1	Button	[814, 666, 88, 88]	[858.0, 710.0]		r
+59	1	Button	[922, 666, 88, 88]	[966.0, 710.0]		t
+58	1	Button	[1030, 666, 88, 88]	[1074.0, 710.0]		y
+57	1	Button	[1138, 666, 88, 88]	[1182.0, 710.0]		u
+56	1	Button	[1248, 666, 88, 88]	[1292.0, 710.0]		i
+55	1	Button	[1354, 666, 88, 88]	[1398.0, 710.0]		o
+54	1	Button	[1462, 666, 88, 88]	[1506.0, 710.0]		p
+53	1	Button	[1570, 666, 88, 88]	[1614.0, 710.0]		[
+52	1	Button	[1678, 666, 88, 88]	[1722.0, 710.0]		]
+51	1	Button	[1786, 666, 88, 88]	[1830.0, 710.0]		\
+50	1	Button	[1790, 990, 88, 88]	[1834.0, 1034.0]		
+49	1	Button	[330, 990, 88, 88]	[374.0, 1034.0]		fn
+48	1	Button	[1574, 990, 88, 88]	[1618.0, 1034.0]		
+47	1	Button	[438, 990, 88, 88]	[482.0, 1034.0]		control
+46	1	Button	[1466, 990, 88, 88]	[1510.0, 1034.0]		option
+45	1	Button	[570, 882, 88, 88]	[614.0, 926.0]		z
+44	1	Button	[678, 882, 88, 88]	[722.0, 926.0]		x
+43	1	Button	[786, 882, 88, 88]	[830.0, 926.0]		c
+42	1	Button	[894, 882, 88, 88]	[938.0, 926.0]		v
+41	1	Button	[1002, 882, 88, 88]	[1046.0, 926.0]		b
+40	1	Button	[1112, 882, 88, 88]	[1156.0, 926.0]		n
+39	1	Button	[1218, 882, 88, 88]	[1262.0, 926.0]		m
+38	1	Button	[1328, 882, 88, 88]	[1372.0, 926.0]		,
+37	1	Button	[1434, 882, 88, 88]	[1478.0, 926.0]		.
+36	1	Button	[546, 990, 88, 88]	[590.0, 1034.0]		option
+35	1	Button	[1542, 882, 88, 88]	[1586.0, 926.0]		/
+34	1	Button	[330, 666, 140, 88]	[400.0, 710.0]		tab
+33	1	Button	[330, 882, 220, 88]	[440.0, 926.0]		shift
+32	1	Button	[654, 990, 116, 88]	[712.0, 1034.0]		command
+31	1	Button	[1706, 774, 168, 88]	[1790.0, 818.0]		return
+30	1	Button	[1650, 882, 228, 88]	[1764.0, 926.0]		shift
+29	1	Button	[1330, 990, 116, 88]	[1388.0, 1034.0]		command
+28	1	Button	[790, 990, 522, 88]	[1051.0, 1034.0]		 
+27	1	Button	[1682, 1036, 88, 42]	[1726.0, 1057.0]		
+26	1	Button	[330, 774, 168, 88]	[414.0, 818.0]		caps lock
+25	1	Button	[518, 774, 88, 88]	[562.0, 818.0]		a
+24	1	Button	[626, 774, 88, 88]	[670.0, 818.0]		s
+23	1	Button	[734, 774, 88, 88]	[778.0, 818.0]		d
+22	1	Button	[842, 774, 88, 88]	[886.0, 818.0]		f
+21	1	Button	[950, 774, 88, 88]	[994.0, 818.0]		g
+20	1	Button	[1058, 774, 88, 88]	[1102.0, 818.0]		h
+19	1	Button	[1168, 774, 88, 88]	[1212.0, 818.0]		j
+18	1	Button	[1274, 774, 88, 88]	[1318.0, 818.0]		k
+17	1	Button	[1384, 774, 88, 88]	[1428.0, 818.0]		l
+16	1	Button	[1490, 774, 88, 88]	[1534.0, 818.0]		;
+15	1	Button	[1598, 774, 88, 88]	[1642.0, 818.0]		'
+14	1	Button	[1734, 558, 140, 88]	[1804.0, 602.0]		delete
+13	1	Button	[1682, 990, 88, 44]	[1726.0, 1012.0]		
+12	1	Image	[444, 798, 166, 336]	[527.0, 966.0]		|leftFinger1Active
+11	1	Image	[528, 782, 196, 352]	[626.0, 958.0]		|leftFinger2Inactive
+10	1	Image	[616, 772, 214, 350]	[723.0, 947.0]		|leftFinger3Inactive
+9	1	Image	[736, 792, 200, 320]	[836.0, 952.0]		|leftFinger4Inactive
+8	1	Image	[1106, 1002, 120, 138]	[1166.0, 1071.0]		|rightFinger5Inactive
+7	1	Image	[1176, 792, 202, 320]	[1277.0, 952.0]		|rightFinger4Inactive
+6	1	Image	[1276, 772, 214, 350]	[1383.0, 947.0]		|rightFinger3Inactive
+5	1	Image	[1386, 782, 196, 352]	[1484.0, 958.0]		|rightFinger2Inactive
+4	1	Image	[1502, 796, 166, 336]	[1585.0, 964.0]		|rightFinger1Inactive
+3	1	Image	[882, 1002, 120, 138]	[942.0, 1071.0]		|leftFinger5Inactive
+2	1	StaticText	[1090, 10, 20, 32]	[1100.0, 26.0]		

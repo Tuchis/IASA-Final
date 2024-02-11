@@ -7,18 +7,28 @@ import ast
 from openai_client import OpenAI_Client
 
 # Read train data
-train_data_path = '../IASA_Champ_Final'
+train_data_path = '/home/kuzhum/IASA/IASA-Final-Vlad/IASA_Champ_Final'
 train_data_file = 'ui_questions_train.tsv'
 
 # Path to the sample file (comment or delete for the final solution)
-train_data_file = 'ui_questions_train_test.tsv'
+# train_data_file = 'ui_questions_train_test.tsv'
 
 train_data = pd.read_csv(os.path.join(train_data_path, train_data_file), sep='\t')
+
+image_representations_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gemini_test"
+
+# Get screen representation ids from files in the folder
+screen_representations = os.listdir(image_representations_folder)
+
+# Get a value with regex that is between _ and .
+screen_representations = [int(screen.split('_')[1].split('.')[0]) for screen in screen_representations]
+
+# Get rows from the train data that are in the screen representations
+train_data = train_data[train_data['Screen id'].isin(screen_representations)]
 
 print(train_data.head(5))
 
 # Image representations folder
-image_representations_folder = "../results"
 
 def get_screen_representation(app_name, screen_id):
     path = os.path.join(image_representations_folder, f"{app_name}_{screen_id}.extension")

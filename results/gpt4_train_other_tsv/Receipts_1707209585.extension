@@ -1,0 +1,42 @@
+In the image, you are looking at a software application window with various UI elements related to exporting data, potentially from an accounting or document management application. Here’s an overview of the UI elements present:
+
+On the left-hand side, there is a sidebar with the following items:
+
+- At the top, there are three circular buttons, which are likely window control buttons for closing, minimizing, and maximizing the window.
+- Below is a file path "Receipts.receipts" indicating the current location within the application.
+- A set of icons and labels follow, representing different categories or filters: "All," "Unconfirmed," "Not Paid," "Starred," "Without Attach," "Recent Imports," and "Trash."
+- Below these are labeled "JOURNAL" and a collapsible list of months from "January" to "December" under the year "2023."
+
+On the right-hand side of the window, there are two main sections titled "Export Content" and "Columns" with various options:
+
+Under "Export Content":
+- A checked option "Documents as PDF"
+  - A sub-option "Formatted with recognized values" is checked.
+  - Two sub-options "Single PDF File for each Receipt" and "One Combined PDF File" are unchecked.
+- A checked option "Excel File"
+  - An unchecked sub-option "Grouped by Categories"
+  - A checked sub-option "Show +/- signs"
+- An unchecked "CSV File"
+- An unchecked "JSON File"
+- An unchecked "DATEV"
+
+Under "Option":
+- An unchecked "Archive as ZIP File"
+
+There's a button or link: "Configure Templates" with a question mark icon, suggesting it is for help or more information.
+
+Under "Columns":
+- Unchecked options for "Reference," "Paid," "Title," "Export File Name," "Note," "Currency," "Tax," "Amount."
+- Checked options for "Date," "Contact," "Category," "Tags," "Note," "Tax in UAH," "Net in UAH."
+
+At the bottom of this section, two buttons are present:
+- "Cancel" which is likely to close the dialog without saving changes.
+- "Export..." which suggests proceeding with export actions based on selected options.
+
+In the top-right corner of the window, we see:
+- A search bar, indicated by a magnifying glass icon and the placeholder text "Search."
+- Two buttons with grid and list icons, presumably for changing the view mode.
+- A button with an icon resembling documents or layers, likely another action related to the contents or exporting.
+- A button labeled "Report," followed by another button with an arrow indicating exporting or sharing, labeled "Export."
+
+The center of the window between these two sections remains greyed out, probably indicating an area where content would be displayed or interacted with when not in the export settings dialog.

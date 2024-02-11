@@ -1,0 +1,27 @@
+In the image, there's a UI interface of an app with several elements as listed below:
+
+1. Top row (menu bar):
+   - A grid icon labeled "Calendars".
+   - A selected icon with an "M!" inside a square, labeled "Markdown".
+   - A checkmark inside a circle, labeled "Todo".
+   - An "A" with a paintbrush, labeled "Editor".
+   - An icon with two overlapping squares, labeled "Themes".
+   - A puzzle piece icon, labeled "AI & Plugins".
+   - Two arrows forming a circle, labeled "Sync".
+   - A grid with a plus symbol, labeled "Shortcuts".
+   - A folder icon, labeled "Files".
+   - A key icon, labeled "License".
+   - The word "Preferences" aligned to the right of these icons.
+
+2. Main section with checklists and options:
+   - A checkbox labeled "Render Markdown" with a checkmark indicating the option is selected.
+   - A checkbox labeled "Recognize * as Todo" with a checkmark indicating it is selected.
+   - An unchecked checkbox labeled "Recognize - as Todo".
+   - An unchecked checkbox labeled "Recognize 1. as Todo".
+   - Text describing the items with square brackets being recognized as Todos by default with an example provided.
+   - A radio button with the label "Use * as default", currently selected.
+   - Another radio button with the label "Use - as default", not selected.
+   - A paragraph explaining the behavior of the list and todo shortcuts and how only one option is selected to be recognized as 'Todo'.
+   - A checkbox labeled "Show help text (and template button)", checked indicating the option is selected.
+   - A checkbox labeled "Smart Markdown Links", checked indicating the option is selected.
+   - Text explaining the feature of smart markdown links where web links pasted into the editor are converted into markdown links with titles from the website, and mentioning that the app NotePlan requires to make a web request for this.

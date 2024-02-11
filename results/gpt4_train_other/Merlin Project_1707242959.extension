@@ -1,0 +1,33 @@
+The image displays a user interface of what appears to be a resource management application. Here's the description of the visible UI elements and information on the screen:
+
+Top Bar:
+- Red, yellow, green window control buttons (common on macOS applications).
+- The window title reads "Big birthday Edited".
+- Tabs for "Traits" and "Resources" are visible, with "Resources" currently selected.
+
+Main Panel (Resources Tab):
+- There are two main columns in the Resources tab.
+- The left side lists different types of resources with the following fields: 
+  - "Title"
+  - "Type"
+  - "Material Unit"
+  - "Available"
+  - "Initials"
+  - "Email"
+  - Icons indicating additional functionalities such as edit or phone are present but the specific function is not indicated by text.
+  - Some of the resource titles include "Person celebrating big birthday", "Band", "Caterer", "Printer", "Guests", "Partner of person celebrating their big birthday", "Friend with design expertise", "Hotelier", and "Default Resource". They all have 'Person' listed under "Type" and '100%' listed under "Available". Initials and other fields are partially obscured or abbreviated.
+- There's a scrollbar suggesting more content beyond what's visible.
+
+Top Toolbar (within Resources Tab):
+- New item (+) button.
+- Share button/option.
+- Various sort and filter toggles and buttons (represented by icons such as lines and sliders, checkmark within a box, and what might be a filter funnel).
+- A view layout toggle represented by an icon with boxes and lines.
+- Another button or toggle at the far right, but the icon is small and not clearly identifiable.
+- A search field is present but is collapsed or just represented by a search icon.
+
+Right Sidebar:
+- There's a panel titled "Resource: Tags", with an input field for "Title" and below it, a list of items with checkboxes next to them. The list contains "Decision", "Discussion", "Draft", and "Proposal". Each item has a checkbox unlabeled, indicating it might be used to assign or indicate the status of a resource with respect to these tags.
+- At the bottom of the tags panel, there are buttons for adding a new tag (+) and removing a tag (−).
+
+Please note that the text is based on the visual presentation and some assumptions about the application's functionality. The actual functionality might differ.

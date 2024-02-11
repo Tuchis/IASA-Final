@@ -1,0 +1,57 @@
+The UI interface captured in this image appears to be from an app that uses artificial intelligence to compose emails. The interface elements are as follows:
+
+1. At the very top of the screen, there appears to be the system status bar showing signal strength, Wi-Fi connectivity, and battery status symbols. Below this are three dots indicating a swipe-able carousel or slider, which is a common pattern for onboarding screens or feature introductions.
+
+2. Below the carousel, there is a large, bold heading that reads "Let AI Write Your Emails." This title communicates the primary function of the application.
+
+3. Beneath the title, there's a subheading that says "Let Canary magically write or reply to emails on your behalf." This text likely refers to the name of the AI feature or the app itself, here named "Canary," and explains its functionality.
+
+4. Followed by a prompt stating, "Select an option to try it now:" This prompt suggests action from the user's side.
+
+5. Below this prompt, there are two predefined text options within outlined rectangular shapes that users can presumably tap to generate an email:
+   - The first option is "Congratulate Neil for landing on the Moon!" This option is outlined in blue, indicating it has been selected.
+   - The second option is "Email boss, say I quit. Make it funny." This option is not selected.
+
+6. There's an empty text field framed with a rounded rectangle and placeholder text inside which reads "Enter prompt here…" It implies that users can input their own unique prompts for email generation.
+
+7. At the bottom, there is a prominent blue button with rounded corners labeled "Write Email" complemented by a sparkling star icon, which suggests it is the call-to-action button to initiate the email writing process based on the selected option or entered text.
+
+8. To the right of the "Write Email" button, there is a rounded arrow button consistent with a next or continue icon, which means users might be able to proceed to the next step by tapping this.
+
+The entire interface is designed with a clean, minimalistic approach, utilizing white space effectively to distinguish each UI element and focusing on user interaction with the AI-powered email writing feature.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 752, 1390]	[376.0, 695.0]		Window
+31	1	StaticText	[96, 144, 560, 160]	[376.0, 224.0]	"Welcome to
+Canary"	
+30	1	Image	[256, 434, 240, 240]	[376.0, 554.0]		|icon3
+29	1	StaticText	[96, 802, 560, 130]	[376.0, 867.0]	Use the power of AI to craft your emails, surface the important ones, and kill your spam.	
+28	1	Button	[100, 1098, 552, 100]	[376.0, 1148.0]		Continue
+27	1	StaticText	[126, 1226, 498, 34]	[375.0, 1243.0]	By continuing you agree to accept our	
+26	1	Button	[142, 1262, 218, 34]	[251.0, 1279.0]		terms of service
+25	1	StaticText	[364, 1262, 56, 34]	[392.0, 1279.0]	and	
+24	1	Button	[424, 1262, 186, 34]	[517.0, 1279.0]		privacy policy
+23	1	StaticText	[96, 144, 560, 160]	[376.0, 224.0]	"Let AI Write
+Your Emails"	
+22	1	StaticText	[96, 348, 560, 76]	[376.0, 386.0]	Let Canary magically write or reply to emails on your behalf.	
+21	1	StaticText	[96, 452, 560, 38]	[376.0, 471.0]	Select an option to try it now:	
+6	1	ScrollArea	[84, 530, 584, 528]	[376.0, 794.0]		
+7	6	Table	[84, 530, 584, 528]	[376.0, 794.0]		
+18	7	Row	[84, 530, 584, 156]	[376.0, 608.0]		
+19	18	Cell	[100, 530, 550, 156]	[375.0, 608.0]		
+20	19	StaticText	[128, 574, 494, 68]	[375.0, 608.0]	Congratulate Neil for landing on the Moon!	
+15	7	Row	[84, 686, 584, 156]	[376.0, 764.0]		
+16	15	Cell	[100, 686, 550, 156]	[375.0, 764.0]		
+17	16	StaticText	[128, 730, 494, 68]	[375.0, 764.0]	Email boss, say I quit. Make it funny.	
+12	7	Row	[84, 842, 584, 54]	[376.0, 869.0]		
+13	12	Cell	[100, 842, 550, 54]	[375.0, 869.0]		
+14	13	StaticText	[354, 852, 40, 34]	[374.0, 869.0]	Or	
+9	7	Row	[84, 896, 584, 156]	[376.0, 974.0]		
+10	9	Cell	[100, 896, 550, 156]	[375.0, 974.0]		
+11	10	TextField	[132, 940, 486, 68]	[375.0, 974.0]		
+8	7	Column	[84, 530, 584, 528]	[376.0, 794.0]		
+5	1	Button	[100, 1098, 420, 100]	[310.0, 1148.0]		Write Email
+4	1	Image	[582, 1132, 40, 30]	[602.0, 1147.0]		|b right arrow
+3	1	Button	[552, 1098, 100, 100]	[602.0, 1148.0]		
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		

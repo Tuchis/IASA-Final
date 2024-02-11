@@ -1,0 +1,84 @@
+Sure, this is a screenshot of a user interface from a VPN application showing a list of keyboard shortcuts designed to speed up user actions within the app. Here are the UI elements as described:
+
+On the left side, there's a vertical menu with the following items:
+- Account
+- Your devices
+- System settings
+- Shortcuts (highlighted, indicating the current selection)
+- Stand with Ukraine, which includes an emoji of the Ukrainian flag
+- Need help?
+Below the menu, there's a highlighted message box with text that reads "Are you sure all your devices are protected?" and a status note saying "7 of 8 slots remaining."
+
+On the top right of the screen, there's a header titled "Shortcuts" with an "X" button to presumably close the window.
+
+Below the header, there are three shortcut categories, each with their respective functions:
+
+1. VPN activation:
+   - "Activate VPN mode" with a keyboard icon and a "return" button.
+   - "Details screen" with a keyboard icon and a downward-pointing chevron button.
+   - "Switch between smart presets" with left and right arrow buttons.
+   - "Switch between VPN modes" with up and down chevron buttons.
+
+2. Navigation:
+   - "Open settings" with a keyboard icon showing the command symbol and the "&" symbol followed by a ",".
+   - "Back to the main screen" with an "esc" button.
+   - "Search for countries in Location changer" with a keyboard icon showing the command symbol and the letter "F".
+ 
+3. Close the app:
+   - "Quit the app" with a keyboard icon showing the command symbol and the letter "Q".
+   - "Hide the app" with a keyboard icon showing the command symbol and the letter "W".
+
+The layout provides clear sections for different types of actions that users can take using keyboard shortcuts, with buttons that illustrate what keys to press for each action.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+49	1	Button	[1488, 76, 64, 64]	[1520.0, 108.0]		|settings-close-button
+48	1	StaticText	[448, 132, 218, 48]	[557.0, 156.0]	Shortcuts	
+47	1	StaticText	[48, 224, 320, 68]	[208.0, 258.0]	Account	
+46	1	StaticText	[48, 292, 320, 68]	[208.0, 326.0]	Your devices	
+45	1	StaticText	[448, 276, 796, 36]	[846.0, 294.0]	Speed up your actions with keyboard shortcuts	
+44	1	StaticText	[48, 360, 320, 68]	[208.0, 394.0]	System settings	
+43	1	StaticText	[448, 372, 170, 24]	[533.0, 384.0]	VPN activation	
+42	1	StaticText	[48, 428, 320, 68]	[208.0, 462.0]	Shortcuts	
+41	1	StaticText	[48, 496, 320, 104]	[208.0, 548.0]	Stand with Ukraine 🇺🇦	
+40	1	StaticText	[48, 600, 320, 68]	[208.0, 634.0]	Need help?	
+27	1	OpaqueProviderGroup	[464, 436, 1064, 200]	[996.0, 536.0]		
+39	27	StaticText	[464, 446, 104, 52]	[516.0, 472.0]	Activate VPN mode	
+38	27	Image	[836, 436, 136, 72]	[904.0, 472.0]		|return
+37	27	StaticText	[1020, 462, 140, 20]	[1090.0, 472.0]	Details screen	
+36	27	Image	[1456, 436, 72, 72]	[1492.0, 472.0]		|arrowDown
+35	27	StaticText	[464, 574, 166, 52]	[547.0, 600.0]	Switch between smart presets	
+34	27	Image	[758, 564, 72, 72]	[794.0, 600.0]		|arrowLeft
+33	27	StaticText	[854, 584, 20, 32]	[864.0, 600.0]	/	
+32	27	Image	[900, 564, 72, 72]	[936.0, 600.0]		|arrowRight
+31	27	StaticText	[1020, 574, 166, 52]	[1103.0, 600.0]	Switch between VPN modes	
+30	27	Image	[1314, 564, 72, 72]	[1350.0, 600.0]		|arrowDown
+29	27	StaticText	[1410, 584, 20, 32]	[1420.0, 600.0]	/	
+28	27	Image	[1456, 564, 72, 72]	[1492.0, 600.0]		|arrowUp
+26	1	StaticText	[448, 708, 124, 24]	[510.0, 720.0]	Navigation	
+25	1	Image	[82, 870, 252, 148]	[208.0, 944.0]		|banner-devices
+14	1	OpaqueProviderGroup	[464, 772, 1064, 218]	[996.0, 881.0]		
+24	14	StaticText	[464, 798, 138, 20]	[533.0, 808.0]	Open settings	
+23	14	Image	[720, 772, 112, 72]	[776.0, 808.0]		|command
+22	14	StaticText	[856, 792, 20, 32]	[866.0, 808.0]	&	
+21	14	Image	[900, 772, 72, 72]	[936.0, 808.0]		|coma
+20	14	StaticText	[1020, 782, 120, 52]	[1080.0, 808.0]	Back to the main screen	
+19	14	Image	[1408, 772, 120, 72]	[1468.0, 808.0]		|esc
+18	14	StaticText	[464, 906, 172, 84]	[550.0, 948.0]	Search for countries in Location changer	
+17	14	Image	[720, 912, 112, 72]	[776.0, 948.0]		|command
+16	14	StaticText	[856, 932, 20, 32]	[866.0, 948.0]	&	
+15	14	Image	[900, 912, 72, 72]	[936.0, 948.0]		|f
+13	1	StaticText	[114, 1044, 188, 80]	[208.0, 1084.0]	"Are you sure 
+all your devices are protected?"	
+12	1	StaticText	[448, 1068, 162, 24]	[529.0, 1080.0]	Close the app	
+11	1	Button	[80, 1150, 256, 44]	[208.0, 1172.0]		|7 of 8 slots remaining
+2	1	OpaqueProviderGroup	[464, 1132, 1064, 72]	[996.0, 1168.0]		
+10	2	StaticText	[464, 1158, 126, 20]	[527.0, 1168.0]	Quit the app	
+9	2	Image	[720, 1132, 112, 72]	[776.0, 1168.0]		|command
+8	2	StaticText	[856, 1152, 20, 32]	[866.0, 1168.0]	&	
+7	2	Image	[900, 1132, 72, 72]	[936.0, 1168.0]		|q
+6	2	StaticText	[1020, 1158, 128, 20]	[1084.0, 1168.0]	Hide the app	
+5	2	Image	[1276, 1132, 112, 72]	[1332.0, 1168.0]		|command
+4	2	StaticText	[1412, 1152, 20, 32]	[1422.0, 1168.0]	&	
+3	2	Image	[1456, 1132, 72, 72]	[1492.0, 1168.0]		|w

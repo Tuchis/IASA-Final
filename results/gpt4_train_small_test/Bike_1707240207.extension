@@ -1,0 +1,38 @@
+In the image, you can see a user interface that appears to be for a settings page within a software application, specifically dedicated to configuring "Links" behavior. Here's the breakdown of all the UI elements visible in the image:
+
+**Window Controls**
+- Three dots at the top left corner representing window controls for closing, minimizing, or expanding the window. The leftmost dot is red, the middle one is yellow, and the right one is green.
+
+**Settings Navigation Tabs**
+- A top row of tabs or buttons that indicate different settings categories:
+  - General (gear icon)
+  - Document (clipboard icon)
+  - Links (chain link icon, this is highlighted indicating selection)
+  - Editor (text cursor icon)
+  - Autocorrect (ABC with a dotted line underneath)
+  - Sandbox (an icon that appears to be a box or cube with a play arrow on it)
+  - License (an icon resembling a certificate or a badge with a ribbon)
+
+**Links Settings Options**
+- The main body of the window has various options related to how links behave when clicked. Each option is accompanied by a radio button to select the preferred setting.
+
+**Row Links Settings**
+- "Click opens in current" (radio button: not selected)
+- "Click opens in a new tab" (radio button: not selected)
+- "Click opens in a new window" (radio button: not selected)
+- "⌘-Click opens in current" (radio button: not selected)
+- "⌘-Click opens in a new tab" (radio button: selected, as indicated by the blue-filled circle)
+- "⌘-Click opens in a new window" (radio button: not selected)
+- "^⌘-Click opens in current" (radio button: not selected)
+- "^⌘-Click opens in a new tab" (radio button: not selected)
+- "^⌘-Click opens in a new window" (radio button: selected, as indicated by the blue-filled circle)
+
+**Additional Options**
+- Below the radio buttons, there is a checkbox with the following option:
+  - "When a new tab or window opens, make it active" (checkbox: selected, as indicated by the blue tick mark)
+  
+**Helpful Tip**
+- At the bottom, there's an instructional tip that says:
+  - "Hold Shift key to reverse activation behavior."
+
+The interface uses blue and grey colors to distinguish between selected and unselected options, and the various symbols (such as ⌘ and ^) imply keyboard shortcuts, which suggests the software is likely to be used on a Mac due to the use of the command symbol (⌘).

@@ -1,0 +1,32 @@
+You're looking at a UI interface of an app with the following elements and text fields:
+
+On the top left, there are three colored dots — red, yellow, and green, typically used to close, minimize, and maximize a window on macOS.
+
+Below that, on the left-hand side, is the sidebar navigation panel containing the following items:
+1. General (with gear icon before the text)
+2. Windows (highlighted in blue with a screen icon before the text, indicating the current section selected)
+3. Snapping (with a screen icon before the text)
+4. Apps (with a screen icon before the text)
+5. Menubar (with a screen icon before the text)
+6. Advanced (with a gear icon before the text)
+7. About (with an information 'i' icon before the text)
+
+On the top right corner of the window is a "Quit" button, which probably exits the application.
+
+The main content panel to the right of the sidebar shows the title "Windows" with a subtitle text that reads, "Control basic functionality by swiping and pinching on window titlebars."
+
+Below the title are the following settings with checkboxes, text descriptions, and illustrative icons:
+
+1. "Mission Control" (checkbox checked) — "Most Window and Snapping gestures also work in Mission Control & App Exposé."
+2. "General Modifier" with a dropdown arrow, set to "^" (symbol representing the Control key on a keyboard).
+
+Listed below are several actions with associated gestures and keyboard shortcuts:
+
+- "Quit" — Red 'x' icon — Pinch in twice to quit an application. Shortcut: "⌘↓"
+- "Close" — Red 'x' icon — Pinch in once to close a window. Shortcut: "⌘↓"
+- "Minimize" — Yellow '-' icon — Swipe down once to minimize a window. Shortcut: "⤵︎↓"
+- "Fullscreen" — Green '+' icon — Pinch out or tap, hold and swipe up to enter or exit fullscreen mode. Shortcut: "⤾↑"
+- "Hide" — "G⤵︎⤴︎2" shown in symbols, a double tap with the general modifier to hide all windows of an application. Use the secondary modifier to hide all other apps.
+- "Spaces" — Blue rectangle icon — Tap, hold and swipe or use the general modifier to move a window between Mission Control spaces. Shortcut: "G⬅➡"
+
+These descriptions and shortcuts provide guidance on how to manipulate windows within the application, including using multiple fingers on a trackpad or mouse (as indicated by the gesture icons) alongside keyboard modifiers and shortcuts.

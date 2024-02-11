@@ -1,0 +1,26 @@
+In this UI interface of an app, from the top-left corner to the bottom-right corner, we have the following elements:
+
+1. At the top-left corner of the screen, there is a "Cancel" button.
+2. Just beside the "Cancel" button, moving to the right, there are three tabs labeled "Expense", "Income", and "Transfer". The "Expense" tab appears to be the active selection.
+3. To the far right, at the top of the screen, there is a "Done" button.
+4. Below the tabs, there is a text field with a placeholder text that reads "How much?".
+5. Right below this field, there is a currency selection button labeled "USD", beside which is a larger text field displaying the currency amount "-0,00 US$".
+6. Below the currency amount field, there is another text field with placeholder text "Notes" intended for entering additional details.
+7. Following that, there is a category selection with an icon representing categories and a text area next to it reading "No Category" with a navigation arrow pointing to the right, suggesting that it opens a further selection menu.
+8. Underneath the category section, there is a label "Sheet:" followed by a button labeled "Planner" with a navigation arrow pointing to the right.
+9. Next, there are two fields labeled "Date" and "Time," respectively, with the date set to "05.02.2024" and the time to "23:34."
+10. Below the date and time fields, there is a checkbox next to the word "Pending," which is currently unchecked.
+11. Following the pending checkbox, there is a repeat section with an icon to its left and a button to the right labeled "Never" with a navigation arrow, indicating an additional menu for setting repeat options.
+12. At the very bottom left corner of the screen, there is a button with a "+" symbol and the text "New Sheet".
+13. Adjacent to the "New Sheet" button, there is a settings icon, which likely provides access to more options or settings for the app.
+
+On the left-hand sidebar, separate from the main dialog:
+
+1. Under the title "Sheets," there is a selection labeled "Planner" with a monetary value and a timestamp next to it.
+
+At the top of the screen, separate from the main dialog:
+
+1. There is a "+" sign for possibly adding a new element or feature.
+2. There are icons which seem to represent connectivity or syncing status, and a magnifying glass icon probably for search functionality.
+
+Keep in mind that without color or interactive context, some assumptions are being made about the functionality of these buttons and text fields based on standard UI design conventions.

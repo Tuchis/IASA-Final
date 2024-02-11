@@ -1,0 +1,36 @@
+This image depicts the user interface for the settings of an application titled "OpenIn Settings." The UI suggests this application is used for managing how certain types of links or protocols open in different applications on a computer system, likely a Mac based on the design aesthetics and the window controls in the top-left corner.
+
+Starting from the top-left corner of the window, we see the standard red, yellow, and green window controls which are typically used to close, minimize, and maximize the window, respectively.
+
+Directly below these window controls is a sidebar with six sections:
+
+1. "General" - represented with a gear icon.
+2. "Browsers" - represented with a compass icon.
+3. "Mail apps" - represented with an envelope icon.
+4. "Call apps" - represented with a telephone icon, and it's the currently selected section, indicated by the highlight.
+5. "Files" - represented with a document icon.
+6. "Backups" - represented with a hard drive icon.
+7. "About" - represented with an information "i" icon.
+
+In the top-right corner of the window, we see a toggle switch (in the 'off' position) and a question mark symbol that likely indicates a help or information function.
+
+The main part of the UI under the "Call apps" section contains the following elements:
+
+1. "tel:// scheme handler" - This text indicates that the settings being configured pertain to how "tel://" links (which often initiate telephone calls on the computer) are handled by the system.
+
+2. An "Enabled" section with a toggle switch next to it, again in the 'off' position. This suggests that handling of "tel://" schemes can be enabled or disabled.
+
+3. "Applications" - Below the "Enabled" section, there is an "Applications" heading, followed by two entries:
+   - "FaceTime" with a green dot, indicating it is probably the default or currently selected application for handling "tel://" links. It has three horizontal lines to the left, which likely means it can be reordered within the list through drag-and-drop.
+   - "zoom.us" with a blue dot and similar three horizontal lines for reordering.
+
+4. "Rules" - At the bottom, there is a "Rules" section with one entry:
+   - "Default" - This entry has the same three horizontal lines to the left, implying it is reorderable as well.
+
+Lastly, between the "Applications" and "Rules" sections are two buttons:
+- "Remove all applications" - Probably used to clear all the listed applications.
+- "Add application..." - Used to add more applications to the list.
+
+Below the "Rules" section, there is an "Add rule..." button, which likely allows the user to add specific rules for handling "tel://" links.
+
+This summary provides an overview of each element within the UI, offering context and functionality based on common UI patterns and icons.

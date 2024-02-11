@@ -1,0 +1,22 @@
+You've provided a screenshot of a settings pane for an application with a focus on web search configuration. Here's a breakdown of the user interface elements displayed in the image:
+
+1. At the top of the window, there are three dot icons indicating that it can be dragged. They are colored red, yellow, and green (from left to right), typically used in macOS for window management (close, minimize, and maximize/full screen, respectively).
+
+2. Below these dots, there are five icons in a toolbar:
+   - A gear icon labeled "General," which likely leads to general settings.
+   - A downward arrow icon labeled "Downloads," which is probably for download settings.
+   - An icon made of two overlapping rectangles labeled "Docsets," which may pertain to documentation sets.
+   - A magnifying glass icon labeled "Web Search," which appears to be currently selected, suggesting this is the Web Search configuration settings.
+   - An icon that resembles two pieces of a jigsaw puzzle labeled "Integration," which probably deals with how this application integrates with other software or services.
+   - A clipboard icon labeled "Snippets," which might be for managing text snippets or templates.
+
+3. The main area of the window has a heading that states, "Web searches appear at the bottom of search results." 
+
+4. Underneath this statement, there's a list of web search options, each accompanied by checkboxes, favicons, names, and URL structures for search queries:
+   - A checked box with the Google favicon and name "Google," followed by the URL "https://www.google.com/search?q={query}"
+   - An unchecked box with the DuckDuckGo favicon and name "DuckDuckGo," followed by the URL "https://duckduckgo.com/?q={query}&ia=web"
+   - A checked box with the Stack Overflow favicon and name "Stack Overflow," followed by the URL "https://stackoverflow.com/search?q={query}"
+
+5. At the bottom of the window, there are two buttons: a "+" button to presumably add a new search engine, and a "-" button to likely remove the selected search engine from the list.
+
+The text fields contain placeholders where "{query}" suggests that the user's search terms would be inserted dynamically during an actual search operation. The checked boxes indicate which search engines are currently enabled for use within this application.

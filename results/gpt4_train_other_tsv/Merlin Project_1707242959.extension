@@ -1,0 +1,61 @@
+The image displays a user interface of what appears to be a resource management application. Here's the description of the visible UI elements and information on the screen:
+
+Top Bar:
+- Red, yellow, green window control buttons (common on macOS applications).
+- The window title reads "Big birthday Edited".
+- Tabs for "Traits" and "Resources" are visible, with "Resources" currently selected.
+
+Main Panel (Resources Tab):
+- There are two main columns in the Resources tab.
+- The left side lists different types of resources with the following fields: 
+  - "Title"
+  - "Type"
+  - "Material Unit"
+  - "Available"
+  - "Initials"
+  - "Email"
+  - Icons indicating additional functionalities such as edit or phone are present but the specific function is not indicated by text.
+  - Some of the resource titles include "Person celebrating big birthday", "Band", "Caterer", "Printer", "Guests", "Partner of person celebrating their big birthday", "Friend with design expertise", "Hotelier", and "Default Resource". They all have 'Person' listed under "Type" and '100%' listed under "Available". Initials and other fields are partially obscured or abbreviated.
+- There's a scrollbar suggesting more content beyond what's visible.
+
+Top Toolbar (within Resources Tab):
+- New item (+) button.
+- Share button/option.
+- Various sort and filter toggles and buttons (represented by icons such as lines and sliders, checkmark within a box, and what might be a filter funnel).
+- A view layout toggle represented by an icon with boxes and lines.
+- Another button or toggle at the far right, but the icon is small and not clearly identifiable.
+- A search field is present but is collapsed or just represented by a search icon.
+
+Right Sidebar:
+- There's a panel titled "Resource: Tags", with an input field for "Title" and below it, a list of items with checkboxes next to them. The list contains "Decision", "Discussion", "Draft", and "Proposal". Each item has a checkbox unlabeled, indicating it might be used to assign or indicate the status of a resource with respect to these tags.
+- At the bottom of the tags panel, there are buttons for adding a new tag (+) and removing a tag (−).
+
+Please note that the text is based on the visual presentation and some assumptions about the application's functionality. The actual functionality might differ.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2500, 1560]	[1250.0, 780.0]		Big birthday
+3	1	Toolbar	[0, 0, 2500, 104]	[1250.0, 52.0]		
+22	3	Group	[1420, 0, 122, 104]	[1481.0, 52.0]		
+23	22	Group	[1416, 12, 130, 80]	[1481.0, 52.0]		|New
+25	23	Button	[1416, 12, 74, 80]	[1453.0, 52.0]		
+24	23	Button	[1490, 12, 56, 80]	[1518.0, 52.0]		
+18	3	Group	[1542, 0, 194, 104]	[1639.0, 52.0]		
+19	18	Group	[1538, 12, 202, 80]	[1639.0, 52.0]		|Indentation
+21	19	Button	[1538, 12, 102, 80]	[1589.0, 52.0]		
+20	19	Button	[1640, 12, 100, 80]	[1690.0, 52.0]		
+14	3	Group	[1736, 0, 122, 104]	[1797.0, 52.0]		
+15	14	Group	[1732, 12, 130, 80]	[1797.0, 52.0]		|Link
+17	15	Button	[1732, 12, 74, 80]	[1769.0, 52.0]		
+16	15	Button	[1806, 12, 56, 80]	[1834.0, 52.0]		
+12	3	MenuButton	[1858, 0, 112, 104]	[1914.0, 52.0]		|Action
+13	12	MenuButton	[1856, 12, 116, 80]	[1914.0, 52.0]		
+11	3	Button	[2018, 0, 72, 104]	[2054.0, 52.0]		|Dynamic Help
+10	3	Button	[2090, 0, 72, 104]	[2126.0, 52.0]		|Critical Path
+9	3	Button	[2162, 0, 72, 104]	[2198.0, 52.0]		|Resources
+8	3	Button	[2234, 0, 72, 104]	[2270.0, 52.0]		|Settings
+4	3	Group	[2306, 0, 178, 104]	[2395.0, 52.0]		
+5	4	Group	[2302, 12, 186, 80]	[2395.0, 52.0]		|Layout
+7	5	Button	[2302, 12, 94, 80]	[2349.0, 52.0]		
+6	5	Button	[2396, 12, 92, 80]	[2442.0, 52.0]		
+2	1	StaticText	[174, 0, 1246, 104]	[797.0, 52.0]	Big birthday	

@@ -1,0 +1,63 @@
+In the image, there's a UI interface for an application's "System settings" panel which displays various settings grouped into different sections.
+
+In the top-left corner, there's a navigation column with the following items:
+
+- Account
+- Your devices
+- System settings (currently selected, as indicated by the highlighted background color)
+- Shortcuts
+- Stand with Ukraine (with the Ukrainian flag beside it)
+- Need help?
+
+To the bottom-left, there is an advertisement-like box with a graphic of a computer and mobile device, with the following text:
+
+- "Are you sure all your devices are protected?"
+- "7 of 8 slots remaining"
+
+The main central space is filled with system settings grouped under three headers, with accompanying descriptions and toggle switches:
+
+SYSTEM
+- "Kill Switch" (toggle is on): "Prevent traffic leaks in case Internet connection goes off"
+
+- "Show ClearVPN in the Dock" (toggle is on): "Let the app always be at hand"
+
+STARTUP
+- "Launch on system startup" (toggle is off): "Keep it at hand whenever you need the app"
+
+TROUBLESHOOTING
+- "Reset all changes made by ClearVPN" 
+- "Remove VPN configurations" (a button)
+
+In the top-right corner of the "System settings" panel, there is an "X" button which likely closes the panel.
+
+The overall color scheme is shades of purple and the UI elements are modern and minimalistic.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+26	1	Button	[1488, 76, 64, 64]	[1520.0, 108.0]		|settings-close-button
+25	1	StaticText	[448, 132, 358, 48]	[627.0, 156.0]	System settings	
+24	1	StaticText	[48, 224, 320, 68]	[208.0, 258.0]	Account	
+23	1	StaticText	[448, 272, 90, 24]	[493.0, 284.0]	SYSTEM	
+22	1	StaticText	[48, 292, 320, 68]	[208.0, 326.0]	Your devices	
+21	1	StaticText	[448, 326, 140, 28]	[518.0, 340.0]	Kill Switch	
+20	1	CheckBox	[1476, 334, 76, 44]	[1514.0, 356.0]	1	|
+19	1	StaticText	[48, 360, 320, 68]	[208.0, 394.0]	System settings	
+18	1	StaticText	[448, 368, 646, 24]	[771.0, 380.0]	Prevent traffic leaks in case Internet connection goes off	
+17	1	StaticText	[48, 428, 320, 68]	[208.0, 462.0]	Shortcuts	
+16	1	StaticText	[448, 482, 370, 28]	[633.0, 496.0]	Show ClearVPN in the Dock	
+15	1	StaticText	[48, 496, 320, 104]	[208.0, 548.0]	Stand with Ukraine 🇺🇦	
+14	1	CheckBox	[1476, 490, 76, 44]	[1514.0, 512.0]	1	|
+13	1	StaticText	[448, 524, 346, 24]	[621.0, 536.0]	Let the app always be at hand	
+12	1	StaticText	[48, 600, 320, 68]	[208.0, 634.0]	Need help?	
+11	1	StaticText	[448, 632, 104, 24]	[500.0, 644.0]	STARTUP	
+10	1	StaticText	[448, 686, 346, 28]	[621.0, 700.0]	Launch on system startup	
+9	1	CheckBox	[1476, 694, 76, 44]	[1514.0, 716.0]	0	|
+8	1	StaticText	[448, 728, 504, 24]	[700.0, 740.0]	Keep it at hand whenever you need the app	
+7	1	StaticText	[448, 836, 234, 24]	[565.0, 848.0]	TROUBLESHOOTING	
+6	1	Image	[82, 870, 252, 148]	[208.0, 944.0]		|banner-devices
+5	1	StaticText	[448, 890, 494, 28]	[695.0, 904.0]	Reset all changes made by ClearVPN	
+4	1	Button	[448, 944, 358, 48]	[627.0, 968.0]		|Remove VPN configurations
+3	1	StaticText	[114, 1044, 188, 80]	[208.0, 1084.0]	"Are you sure 
+all your devices are protected?"	
+2	1	Button	[80, 1150, 256, 44]	[208.0, 1172.0]		|7 of 8 slots remaining

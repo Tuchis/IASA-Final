@@ -1,0 +1,21 @@
+In the top-left corner of the UI, there is a navigation option labeled "Back" accompanied by a left-pointing arrow icon.
+
+At the top of the UI is a label indicating "YOU'RE HERE NOW" with an IP address displayed below ("91.139.84.198"), signifying the current virtual location provided by the VPN. Next to this label is another label titled "Czechia," which presumably refers to the VPN location as well.
+
+To the top-right, there is a toggle switch labeled "VPN CONNECTION" with a state indicator that currently shows "Off." Alongside the toggle, there is a lock icon.
+
+Below "YOU'RE HERE NOW," there is a large shield-like graphic with three asterisks in the center, typically representing a password or other obscured information.
+
+Underneath the large graphic is a section titled "Smart connection" with a description that reads, "Have your VPN automatically set up in the most efficient way with our smart VPN presets."
+
+On the lower-left of the UI, there is a settings gear icon.
+
+On the right side of the UI, there is a section titled "Pick priority" with three options:
+
+1. A circle icon with a line through it, followed by the option title "No restrictions," and a description that reads, "Connects you to countries with the fewest web restrictions. Perfect for accessing blocked websites."
+
+2. A circle icon with a tick mark, followed by the option title "Fastest server," and a description that reads, "Picks an optimal IP address based on your current location. Great for preserving your speed."
+
+3. A circle icon with a shield, followed by the option title "Top protection," and a description that reads, "Blocks ads and connects to countries with the strongest privacy protection laws. Your speed might get affected."
+
+Each of these three priority options includes an accompanying icon to the left of the text.

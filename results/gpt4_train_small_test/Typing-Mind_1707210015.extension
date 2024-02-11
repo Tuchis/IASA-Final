@@ -1,0 +1,49 @@
+This image displays a user interface that appears to belong to a messaging or chat-based application, possibly designed for collaborative work or communication with a conversational AI. 
+
+On the leftmost portion of the interface, we see a dark sidebar with the following elements:
+
+1. Three-dot menu icon at the top-left corner, indicating additional options or settings.
+2. A “New Chat” button featuring a chat bubble icon with a plus symbol inside it, suggesting the option to initiate a new conversation.
+3. A magnifying glass icon, implying a search functionality.
+4. A sidebar with various chat sessions, each with a British flag icon and an "AI" logo on two of them:
+   - "Interview for the '{position}'..."
+   - "(Example) Learn English"
+   - "(Example) Writing Content"
+   - "(Example) Web Search"
+   - "(Example) Coding Help"
+   Each of these items appears to be a different chat with a brief latest message shown beneath the chat title.
+   
+5. At the bottom-left corner, there are icons implying settings or feedback options, listed as follows:
+   - A cogwheel icon, suggesting access to settings.
+   - A talking bubble icon with a question mark, perhaps indicating help or FAQs.
+   - An envelope icon, likely for sending feedback.
+   - A chain link icon.
+   - A loudspeaker icon.
+
+Moving to the central portion of the UI, there's a pop-up window titled "Speech Settings" with the following elements:
+
+1. A header "Speech Settings."
+2. A button labeled "Open Text-to-Speech Settings," indicating it might allow users to modify text-to-speech options.
+3. A section titled "Keyboard shortcuts" listing several actions with corresponding shortcut keys and dropdown arrows, suggesting they might be customizable. These actions include:
+   - Open Search
+   - Toggle Sidebar
+   - New Chat
+   - Reset Chat
+   - Regenerate
+   - Clear Context
+   - Toggle Plugins
+   - Copy Last Message
+4. Below the keyboard shortcuts, there's a section labeled "All Data," informing the user they have "1 saved prompt, 5 chats with 17 messages on this device." There are also buttons for:
+   - Export (with an export icon)
+   - Import (with an import icon)
+   - Recover Lost Data (with a circular arrow icon)
+   - Import From OpenAI (suggesting integration with OpenAI's services)
+5. Instructions or a link with the text "How to export data from OpenAI?" is also visible.
+
+Just below the "All Data" section, there is the title "Storage Stats," but the details underneath are not visible.
+
+Finally, on the rightmost side of the interface, there's a larger chat window titled "Typing Mind." Inside this chat window, there's a conversation bubble with a set of instructions reading, "you will ask me the interview questions you have prepared. I will reply as the interviewer. Do not write all your questions at once, just chat with me. Ask me the questions and then wait for the response. Send your questions one by one like an interviewer would." Below this instruction bubble, there is another conversation bubble that starts with "Let's begin the interview for the position...", followed by a partially visible message asking about background and experience.
+
+At the very top right corner, there is an "information" icon (notated with the letter 'i') which typically indicates access to more details, help, or additional instructions.
+
+Lastly, at the very bottom right corner of the entire interface, there are chat control buttons labeled "Refresh," "Clear Context," "+ New Chat," and three overlapping chat bubbles which may indicate the current chat or communication status.

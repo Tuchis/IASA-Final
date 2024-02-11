@@ -1,0 +1,28 @@
+In the image, there is a user interface of an application with various elements divided into two main sections: a sidebar on the left and the main content area on the right.
+
+On the left sidebar, the following options are listed top to bottom with associated icons:
+
+1. General (selected)
+2. Windows
+3. Snapping
+4. Apps
+5. Menubar
+6. Advanced
+7. About
+
+In the main content area, the current selection "General" has further settings divided into subsections:
+
+The first subsection is "System" with the following elements:
+- A heading "System Permissions" with an indicator next to it and two buttons labeled "Request" and "Diagnostics". The indicator next to “System Permissions” is accompanied by a text explaining the requirement for accessibility permissions and the "Request" button. A similar setting for "Diagnostics" has an indicator with a "Run" button beside it.
+- Two text-based descriptions explain the function and the method to modify "System Permissions".
+- Two checkbox options labeled "Launch at Login" and "Show in Menubar", with the latter option currently selected (indicated by a checkmark).
+
+The second subsection is "Gestures" with the following elements:
+- A checkbox option labeled "Haptic Feedback" with the box currently selected (indicated by a checkmark). There is text underneath explaining the condition under which haptic feedback will be provided.
+- A slider labeled "Touch Sensitivity" with an unselected range button and labels "Very Snappy" on the right end. It is accompanied by text suggesting that users might want to decrease sensitivity based on hardware.
+- A checkbox option labeled "Tap & Hold" with the box currently selected (indicated by a checkmark).
+- A slider labeled "Cancel Timeout" with the current timeout value shown as "0.8 Seconds".
+
+In the top-right corner of the window, there's a "Quit" button.
+
+Throughout the interface, horizontal lines are used to separate different sections.

@@ -1,0 +1,20 @@
+This is the user interface screen for a software application called "Gemini." The UI is designed to indicate that a cleaning or de-duplication process has been completed. Here are the UI elements from this screenshot:
+
+1. Title Bar:
+   - In the top left, there are three dots that likely represent the standard window controls for minimizing, maximizing, and closing the window.
+   - In the top right, there is a star icon which might represent a 'favorites' or 'bookmark' function.
+
+2. Main Content Area:
+   - A central circular graphic with a light green progress ring indicates the completion of a process. Inside the circle is a folder icon with "Nothing Remaining" written underneath it, which suggests that all unnecessary or duplicate files have been dealt with.
+   - At the center top of the ring, the name "Gemini" appears, suggesting the branding of the application.
+   - Just below that and in the central portion of the interface, in large text is "All Clean!"
+   - Below the "All Clean!" message, there are two additional information texts: "1,9 MB" and "Successfully trashed" indicating the amount of data that has been removed during the last operation.
+   - Underneath this, in smaller text: "1,9 MB Cleaned in Total" which might refer to the cumulative amount of data cleaned by the software.
+
+3. Buttons and Social Media Icons:
+   - On the bottom, there are two buttons:
+     - "Review Trashed" which presumably allows users to review what was deleted during the last cleaning operation. This button is in a muted blue color, indicating it might be a secondary action.
+     - "Start Over" which is highlighted in green, likely the primary call to action for users to initiate a new cleaning cycle.
+   - On the bottom right of the interface, there are two icons representing Facebook and Twitter, suggesting that users can share their cleaning results on social media.
+
+Please note that while the descriptions are built upon the UI elements, actual functionality may only be confirmed through the use of the application.

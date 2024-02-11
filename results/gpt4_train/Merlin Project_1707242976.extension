@@ -1,0 +1,33 @@
+The UI interface in the image depicts a project management application that is displaying a Gantt chart and a task list with associated detail settings.
+
+Starting at the top left corner and moving clockwise:
+
+1. The top menu bar has basic window controls on the left and the name of the document ("Simple activity plan with milestones") in the center.
+
+2. Below the top menu is the primary toolbar which contains the following:
+   - A "Sidebar" toggle button that appears like a panel icon.
+   - A "Work Breakdown" button with a dropdown arrow indicating more options.
+   - Zoom in (+) and zoom out (-) buttons.
+   - A task layout arrangement button.
+   - A search field.
+   - A share button.
+   - A "Settings" button with a cogwheel icon.
+   - A "Help" button with a question mark icon.
+
+3. The main interface is divided into two panels:
+   - On the left, a sidebar that serves as a task list or work breakdown structure (WBS) with columns for Traits, Title, Given Work, Given Earliest Start, and Resources. Each task or milestone has icons indicating status or type and some tasks have nested activities indicated by dropdown arrows next to the activity number.
+   - On the right, a Gantt chart corresponding to the tasks listed on the left, showing their duration and relationships over a timeline indicated by weeks and dates.
+
+4. On the far right, there's a secondary sidebar with specific settings and controls for the project structured in collapsible sections. The sections visible include:
+   - "Simple activity plan with milestones: General" with a clipboard icon and three additional icons allowing for various options and views.
+   - "Date Presets" with dropdown menus to set the Direction, Start date, and First day of the week.
+   - "Work & Duration" with fields to enter Hours per day, Hours per week, Days per month, and a Calculation Unit selection via dropdown menu.
+   - "Default Values" with fields for Work and Duration.
+   - "Status Date" with a date and time indication and a toggle for "Actual Start/End" as Automatic.
+   - "Resources" with a selection for Currency Symbol and a field to input a currency amount.
+
+The left task list shows 16 items, some of which have sub-items, and tasks vary from "Simple activity plan with milestones" to "Milestone at end," as well as timeline options and activities with specific alignment labels (e.g., ASAP, ALAP, Long).
+
+The Gantt chart visually represents this structure with bars and connecting lines that indicate task duration and dependencies. The view is currently showing the month of February with highlighted work days.
+
+On the bottom right, there's a horizontal scroll bar indicating the chart's timeline can be navigated left and right.

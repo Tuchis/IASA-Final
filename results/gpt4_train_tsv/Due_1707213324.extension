@@ -1,0 +1,17 @@
+In the UI interface of this app, the following elements are displayed:
+
+1. At the top left corner, there are three horizontal lines, suggesting a menu or navigation drawer icon.
+2. Below the navigation drawer icon, there are three vertically lined icons designated for different functionalities or sections of the app:
+   - The first icon appears to represent "Reminders."
+   - The second icon signifies "Timers."
+   - The third icon looks to be a "Logbook."
+3. In the center towards the top is a search bar with a magnifying glass icon and the placeholder text "Search."
+4. In the main area of the interface, there is a graphic of a bell with a facial expression and a speech bubble containing an exclamation mark.
+5. Below the graphic:
+   - There is a large text message stating "Due cannot remind you." This is presumably the title of the notification.
+   - A smaller explanatory text follows which reads, "You have turned off notifications for Due."
+6. Below the explanatory text, there is a button labeled "System Preferences."
+7. At the very bottom of the left-side menu, there is a triangle with an exclamation mark inside it, likely an alert or warning sign.
+8. Below the alert sign, there is a "+" (plus) sign.
+
+These elements together form a user interface designed to alert the user that notifications for the app "Due" have been turned off and provide a direct link via the "System Preferences" button to presumably change this setting.

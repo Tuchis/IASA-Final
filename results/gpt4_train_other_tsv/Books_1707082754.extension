@@ -1,0 +1,81 @@
+The image displays the user interface of an eBook reader application. Here's a breakdown of the UI elements visible in the image:
+
+Top-left area:
+- Three system control dots in red, yellow, and green, typically found on macOS applications for closing, minimizing, and maximizing the window, respectively.
+- A search bar labeled "Search."
+
+Top-center area:
+- A navigation bar showing "Apple Books" with a highlighted tab “All,” indicating the current selection within the application.
+
+Left sidebar:
+- The sidebar consists of multiple sections.
+- Under "Apple Books," there are options for "Read Now," "Book Store," and "Audiobook Store."
+- A "Library" section with the following options: “All” (highlighted in blue to indicate the current selection), "Want to Read," "Finished," "Books," "Audiobooks," "PDFs," and "My Samples."
+- Below “Library,” there's a section titled "My Collections," with an option to add a "New Collection."
+
+The middle to the right of the screen showcases thumbnails of documents and books with varying progress indicators displayed in percentages:
+- The first item on the top-left corner shows a partially read document titled "Empowering LLL..." with a progress of "69%."
+- To the right of the first document, there are three more items, which are not clearly readable, but they appear to be music scores. The first one is marked with "2%," the second one with "40%," and the third one with "50%."
+- Below those, there are three more items, likely also music scores based on their appearance. The progress indicators under these items show "50%," "99%," and the last one is not visible.
+
+Bottom-left corner:
+- There is a user icon labeled "Mariya H." indicating the user profile or account associated with the application.
+
+At the bottom-right corner:
+- There is a scrollbar indicating the ability to scroll through the content horizontally.
+
+Across the bottom and to the right:
+- A faint scrollbar suggests that vertical scrolling is also possible.
+
+Thumbnails of documents:
+- Each thumbnail has a menu indicated by three dots "...", suggesting additional options or actions can be taken for each item.
+- Progress indicators for document reading progress under each thumbnail are visible with a circle filling up according to the percentage read.
+
+Please note that due to resolution and certain elements being cut off in the image, not every item is completely visible and thus, not all text can be identified with precision.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		All
+3	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+4	3	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+25	4	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+26	25	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+28	26	Group	[0, 104, 400, 1264]	[200.0, 736.0]		|Sidebar
+43	28	Group	[20, 104, 360, 78]	[200.0, 143.0]		
+44	43	TextField	[18, 108, 364, 60]	[200.0, 138.0]		|Search
+42	28	Heading	[20, 202, 360, 52]	[200.0, 228.0]		|Apple Books
+41	28	StaticText	[20, 254, 360, 56]	[200.0, 282.0]		|Read Now
+40	28	StaticText	[20, 310, 360, 56]	[200.0, 338.0]		|Book Store
+39	28	StaticText	[20, 366, 360, 56]	[200.0, 394.0]		|Audiobook Store
+38	28	Heading	[20, 442, 360, 52]	[200.0, 468.0]	Expanded	|Library
+37	28	StaticText	[20, 494, 360, 56]	[200.0, 522.0]		|All
+36	28	StaticText	[20, 550, 360, 56]	[200.0, 578.0]		|Want to Read
+35	28	StaticText	[20, 606, 360, 56]	[200.0, 634.0]		|Finished
+34	28	StaticText	[20, 662, 360, 56]	[200.0, 690.0]		|Books
+33	28	StaticText	[20, 718, 360, 56]	[200.0, 746.0]		|Audiobooks
+32	28	StaticText	[20, 774, 360, 56]	[200.0, 802.0]		|PDFs
+31	28	StaticText	[20, 830, 360, 56]	[200.0, 858.0]		|My Samples
+30	28	Heading	[20, 906, 360, 52]	[200.0, 932.0]	Expanded	|My Collections
+29	28	Button	[20, 958, 360, 56]	[200.0, 986.0]		|New Collection
+27	26	Button	[40, 1424, 248, 72]	[164.0, 1460.0]	Mariya Hirna	|Account
+5	4	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+6	5	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+22	6	Heading	[402, 0, 1646, 104]	[1225.0, 52.0]		|Read Now, toolbar
+23	22	Group	[426, 0, 1598, 104]	[1225.0, 52.0]		
+24	23	Button	[1960, 24, 64, 56]	[1992.0, 52.0]		|More
+7	6	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+8	7	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		|Library
+21	8	StaticText	[482, 102, 1486, 76]	[1225.0, 140.0]		|All
+20	8	Button	[482, 272, 336, 602]	[650.0, 573.0]		|2308.15272, Hao Wen1, Yuanchun Li1,, Guohong Liu1, Shanhui Zhao1,*, Tao Yu1,*, Toby Jia-Jun Li2, Shiqi Jiang3, Yunhao Liu1, Yaqin Zhang1, Yunxin Liu1, 69% finished
+19	8	Button	[866, 272, 336, 602]	[1034.0, 573.0]		|the_kite_runner, Zubair Gharghasht, 2% finished, In iCloud
+18	8	Button	[1250, 272, 336, 602]	[1418.0, 573.0]		|notonly_birdy-peoplehelpthepeople, Sorgdal @ The Pianist's Library, 40% finished
+17	8	Button	[1634, 272, 336, 602]	[1802.0, 573.0]		|notomania_ru-Baby_Its_Cold_Outside_, Unknown Author, 50% finished
+16	8	Button	[482, 896, 336, 602]	[650.0, 1197.0]		|IMSLP309756-PMLP478884-Por_una_cabeza_alto_piano, Unknown Author, 50% finished
+15	8	Button	[866, 896, 336, 602]	[1034.0, 1197.0]		|PIANOKAFECOM ноты Justin Hurwitz - Another day of sun, Unknown Author, 99% finished
+14	8	Button	[1250, 896, 336, 602]	[1418.0, 1197.0]		|Muse-feeling-good, Unknown Author, 50% finished
+13	8	Button	[1634, 896, 336, 602]	[1802.0, 1197.0]		|PIANOKAFECOM ноты Justin Hurwitz - Someone in the crowd, Unknown Author, 50% finished
+12	8	Button	[482, 1520, 336, 16]	[650.0, 1528.0]		|2018-03-08_mariya_ghirna, booking.uz.gov.ua, 1% finished
+11	8	Button	[866, 1520, 336, 16]	[1034.0, 1528.0]		|L9-Poisson_0fda5e4d6f2227cc706c02170c5bf91a, Rostyslav Hryniv, 75% finished
+10	8	Button	[1250, 1520, 336, 16]	[1418.0, 1528.0]		|notonly_anotherloveto, (Annemie Van Riel), 67% finished
+9	8	Button	[1634, 1520, 336, 16]	[1802.0, 1528.0]		|nike-run-club-5k-en_LU-1, Unknown Author, 95% finished
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

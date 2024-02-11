@@ -1,0 +1,67 @@
+The image displays a user interface of what appears to be a document or receipt management application. The UI is divided into several sections with different elements involved. Here's a detailed breakdown:
+
+On the top left side, there are three window control buttons typical for macOS:
+- A red "close" button
+- A yellow "minimize" button
+- A green "maximize" button
+
+Below the window controls, the directory path "Receipts.receipts" is visible, indicating the current location or file in the application.
+
+On the top right side, there are three icons:
+- Two overlapping rectangles that likely represent a "toggle sidebar" button
+- A list icon that may toggle a different view or panel
+- A "Search" bar with a magnifying glass icon and a text field where users can input search queries
+
+On the left-hand section of the interface, there's a sidebar with various filters or sections that users might click to sort or view their documents:
+- "All," represented by a square icon with lines (probably the view of all documents)
+- "Unconfirmed," indicated by a circle icon with a dot in the middle
+- "Not Paid," symbolized by a circle icon 
+- "Starred," represented by a star icon
+- "Without Attachments," illustrated by a paperclip icon
+- "Recent Imports," which has an icon suggestive of download or import action
+- "Trash," represented by a trash bin icon
+
+Below the filters, there's a category named "JOURNAL" with a dropdown arrow indicating collapsibility, followed by months "January" through "October" for the year 2023, suggesting these are filters to view documents by month.
+
+In the lower left corner, there is a "+" button that likely serves as a way to add new items or create new entries in the application.
+
+The main section in the middle-top is titled "Export Content" and lists options for exporting documents with checkboxes to select preferences:
+- "Documents as PDF" with a checkbox (ticked)
+- "Formatted with recognized values" with a checkbox (ticked)
+- "Single PDF File for each Receipt" with a radio button (selected)
+- "One Combined PDF File" with a radio button (not selected)
+- "Excel File" with a checkbox (ticked)
+- "Grouped by Categories" with a checkbox (not ticked)
+- "Show +/- signs" with a checkbox (ticked)
+- "CSV File" with a checkbox (not ticked)
+- "JSON File" with a checkbox (not ticked)
+- "DATEV" with a checkbox (not ticked)
+
+Below this section, there is another subsection titled "Option":
+- "Archive as ZIP File" with a checkbox (not ticked)
+
+At the bottom of this middle section, there is a "?" button labeled "Configure Templates," presumably for setting up export templates.
+
+The next section on the right is titled "Columns" and lists various columns that can be included in the export file with checkboxes to select which columns are included:
+- "Reference" with a checkbox (not ticked)
+- "Date" with a checkbox (ticked)
+- "Paid" with a checkbox (not ticked)
+- "Contact" with a checkbox (ticked)
+- "Category" with a checkbox (ticked)
+- "Tags" with a checkbox (ticked)
+- "Title" with a checkbox (not ticked)
+- "Export File Name" with a checkbox (not ticked)
+- "Note" with a checkbox (ticked)
+- "Currency" with a checkbox (not ticked)
+- "Tax" with a checkbox (not ticked)
+- "Amount" with a checkbox (not ticked)
+- "Tax in UAH" with a checkbox (ticked)
+- "Net in UAH" with a checkbox (ticked)
+
+On the bottom right-side of the screen, there are two buttons:
+- "Cancel," likely used to exit the export dialog without saving changes
+- "Export..." (partially obscured), which is the button to proceed with the export process as configured
+
+Right below these buttons, there's an element that says "Report" with a paper icon and an upward arrow, indicating an export or save action.
+
+This description should provide a comprehensive overview of the UI elements visible in the app's interface image you've shared.

@@ -1,0 +1,32 @@
+The UI interface in the image belongs to an application named "Permute." Here is a description of the various elements visible:
+
+- Window Controls at the very top left: These are the standard three-colored buttons typically found on macOS applications. The red button is used to close the window, the yellow to minimize it, and the green to maximize or enter full-screen mode.
+  
+- Application Name: "Permute" is displayed at the top center of the window, indicating the name of the application.
+
+- Central Graphic: There is a large, central graphic that appears to be a stylized representation of a media file, such as audio or video, given that it has a waveform and what might resemble a film perforation edge.
+
+- Text Field at the bottom center: The text within the field reads "No Conversions," which likely indicates that there are currently no file conversion tasks running or queued within the application.
+
+- Buttons at the bottom:
+  - A "+" button on the bottom left to add files for conversion.
+  - A gear icon next to it, likely representing settings or preferences options.
+  - A play button with a circular arrow around it on the bottom right, which suggests it's for starting conversions or perhaps retrying failed ones.
+  - An information "i" icon, which commonly indicates a place to find more information or details.
+  - A hamburger menu (three horizontal lines) or options icon which usually implies additional functions or settings beyond the primary interface.
+
+Across the bottom of the window, there's a subtle dividing line separating the main panel from the lower button area. The overall aesthetic is minimalistic and modern, fitting with many macOS applications.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1428, 1246]	[714.0, 623.0]		Permute
+3	1	ScrollArea	[0, 0, 1428, 1246]	[714.0, 623.0]		Drop zone. There are currently no files in the queue.
+11	3	ScrollArea	[0, 0, 1428, 1246]	[714.0, 623.0]		Drop zone. There are currently no items in the queue.
+10	3	ScrollArea	[0, 44, 1428, 1146]	[714.0, 617.0]		
+9	3	Button	[1336, 1202, 30, 30]	[1351.0, 1217.0]		|Show History
+8	3	StaticText	[642, 1206, 146, 22]	[715.0, 1217.0]	No Conversions	
+7	3	Button	[1290, 1202, 30, 30]	[1305.0, 1217.0]		|Clear Finished Conversions
+6	3	Button	[1382, 1202, 30, 30]	[1397.0, 1217.0]		|Contact Support
+5	3	Button	[16, 1200, 28, 32]	[30.0, 1216.0]		|Open
+4	3	Button	[58, 1204, 28, 28]	[72.0, 1218.0]		|Permute's Workshop
+2	1	StaticText	[654, 10, 118, 32]	[713.0, 26.0]	Permute	

@@ -1,0 +1,27 @@
+The image shows the "Numi Preferences" user interface. The UI contains several elements for configuring the options of the Numi app. Here is a detailed breakdown:
+
+1. Window control buttons: At the top-left corner, there are three circular buttons typical of a macOS window - red, yellow, and green, which are used to close, minimize, and maximize the window, respectively.
+
+2. Title: At the top, centered, is the title "Numi Preferences," indicating that these are settings for the Numi application.
+
+3. Precision setting:
+   - A label "Precision:" on the left denoting the setting for numerical precision.
+   - A text field displaying the number "2", which signifies the current precision level set for numerical calculations.
+
+4. Option checkboxes and buttons:
+   - "Show in Menu Bar" checkbox is unchecked, indicating this option is currently turned off.
+   - "Night Mode" checkbox is checked, marked with a blue tick, indicating this option is currently turned on.
+   - "Always on Top" checkbox is unchecked, indicating this option is currently disabled.
+   - "Dynamic Font" button with a blue downwards arrow, which possibly indicates a dropdown menu or further options for dynamic font settings.
+
+5. Hotkey setting:
+   - A label "Hotkey:" on the left.
+   - A button labeled "Record Shortcut", which likely allows the user to set a custom keyboard shortcut for Numi.
+
+6. More options checkboxes:
+   - "Launch Numi at Login" checkbox is unchecked, indicating Numi is not set to automatically start when the user logs into the system.
+   - "Enable Alfred integration" checkbox is unchecked, which suggests this integration is currently disabled.
+
+7. At the bottom, there is a button labeled "Send Feedback", which is likely used to report issues or suggestions related to Numi.
+
+The overall UI elements suggest that users have customization options for Numi's behavior, appearance in terms of night mode and font, startup preferences, and integration features with other services such as Alfred.

@@ -1,0 +1,32 @@
+The image displays the user interface of an application, most likely a utility software for managing various tasks or items. Here are the elements of the UI from left to right, top to bottom:
+
+1. At the top left corner of the window, there are three colored dots typically used on macOS interfaces to close (red), minimize (yellow), and maximize/full-screen (green) the window. Next to these dots is a gray square button that might be used to enter into a settings or menu mode.
+
+2. Below this area is a search text box with the placeholder text "Filter". This is likely used to search or filter the items in the "LIBRARY" section below it.
+
+3. In the "LIBRARY" section, there are four items listed:
+   - Start
+   - Import (highlighted in blue, indicating it is currently selected or active)
+   - Export
+   - Remove
+
+4. Below the LIBRARY, there's a section titled "CLEANER GROUPS," and below it "CUSTOM CLEANERS," but no items are visible under these headers.
+
+5. On the bottom left, there are two icons: a "+" sign, potentially for adding new items, and a grouped folder icon with a "+", which may be for adding new groups or categories to the library.
+
+6. On the right panel at the top, there's a large heading "Import."
+
+7. Below the "Import" heading is a description text that reads:
+   "Select the files to import. Review the cleaners contained within the files. Select desired cleaners and click 'Import Selected'."
+
+8. Next to this descriptive text, there is a button labeled "Select Files..." which is presumably used to open a file dialog to choose files for import.
+
+9. The main area of the right panel appears to be a blank space with horizontal lines, resembling a list or table, where the imported files or "cleaners" would be listed and reviewed.
+
+10. At the bottom of the right panel, there is an unchecked checkbox with the label "Replace existing cleaners without prompts," which implies that when checked, it would overwrite current items without asking for further confirmation.
+
+11. On the bottom right corner, there is an "Import Selected" button, which is presumably clickable to finalize the import of selected items from the list above.
+
+12. Lastly, at the footer of the right panel, we can see a trash can icon, which likely serves the purpose of deleting items.
+
+This is a typical layout for utility or management software, and the UI seems to be designed for simplicity and ease of use.

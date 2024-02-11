@@ -1,0 +1,154 @@
+The UI interface in the image appears to be of a video editing application. Here are the elements present in the UI:
+
+Top left corner:
+- Three horizontal bars indicate a menu or panel.
+- Text labels: "Media", "Resources", and "Effects", suggesting these are different tabs or sections within the menu.
+
+Top middle area:
+- A preview monitor that is currently displaying the default logo of the "Filmage Editor." This is likely the area where edited videos or media clips can be previewed.
+
+Top right corner:
+- Text indicating the project is "Untitled 1.flmg."
+- A "Viewer" label followed by a dropdown menu that likely allows selection of the preview monitor's aspect ratio. It currently indicates "16:9."
+- An "Export" button, presumably to render and export the video project.
+
+Right sidebar:
+- An information panel with the following attributes:
+  - “Project Duration”
+  - “Resolution”
+  - “FPS”
+  - “Video Encoder”
+  - “Audio Encoder”
+  - “Sample Rate”
+  - “Sound Channel”
+  - “Date Created”
+  - “Date Modified”
+  - “Size”
+Each attribute has accompanying values (except "Size"), providing details about the current video editing project.
+
+Bottom left corner:
+- Tool icons that could represent functionalities such as import, cut, split, delete, media library, project settings, or similar editing tools.
+
+Timeline:
+- A horizontal timeline marked with time codes from "00:00:00:00" to "00:05:00:00". It contains tracks below the timecodes, and these tracks have icons that may permit adding various types of media (video, audio, text, effects).
+- A vertical red marker which represents the current position or "playhead" on the timeline.
+- A message stating "Drag media and effects here to create your video." This provides instruction for users on how to use the timeline area.
+
+Bottom center:
+- Playback controls that include typical buttons like play, stop, go to beginning, go to end, and possibly step-one-frame-forward/backward functions.
+
+Bottom right corner:
+- A set of elements that appear to be zoom controls for the timeline view.
+- Three vertical dots indicating some additional menu or options.
+
+Bottom bar:
+- A horizontal slider that might be used for adjusting the preview volume or some other variable parameter in real-time.
+
+The elements described focus on the functionality that each part of the UI likely serves within the video editing process.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2880, 1628]	[1440.0, 814.0]		Untitled 1.flmg
+104	1	Image	[40, 92, 64, 48]	[72.0, 116.0]		|ic big navigationbar normal 1
+103	1	StaticText	[100, 102, 92, 30]	[146.0, 117.0]	Media	
+102	1	Button	[40, 76, 154, 80]	[117.0, 116.0]		
+101	1	Image	[208, 92, 64, 48]	[240.0, 116.0]		|ic big navigationbar normal 2
+100	1	StaticText	[268, 102, 148, 30]	[342.0, 117.0]	Resources	
+99	1	Button	[208, 76, 204, 80]	[310.0, 116.0]		
+98	1	Image	[432, 92, 64, 48]	[464.0, 116.0]		|ic big navigationbar normal 3
+97	1	StaticText	[492, 102, 104, 30]	[544.0, 117.0]	Effects	
+96	1	Button	[432, 76, 160, 80]	[512.0, 116.0]		
+95	1	StaticText	[2356, 102, 90, 32]	[2401.0, 118.0]	Viewer	
+94	1	Image	[2312, 96, 40, 40]	[2332.0, 116.0]		|ic navigationbar checker
+93	1	Button	[2304, 88, 148, 56]	[2378.0, 116.0]		
+92	1	StaticText	[2718, 102, 88, 32]	[2762.0, 118.0]	Export	
+91	1	Image	[2678, 96, 40, 40]	[2698.0, 116.0]		|ic navigationbar export unslec
+90	1	Button	[2652, 88, 188, 56]	[2746.0, 116.0]		
+89	1	Image	[2586, 96, 40, 40]	[2606.0, 116.0]		|ic zhankai
+88	1	StaticText	[2490, 100, 112, 32]	[2546.0, 116.0]	16:9	
+87	1	Button	[2484, 88, 142, 56]	[2555.0, 116.0]		
+86	1	StaticText	[740, 180, 668, 30]	[1074.0, 195.0]		
+85	1	StaticText	[60, 776, 148, 30]	[134.0, 791.0]	00:00:00:00	
+84	1	Button	[2044, 776, 40, 40]	[2064.0, 796.0]		
+83	1	StaticText	[1884, 776, 148, 30]	[1958.0, 791.0]	00:00:00:00	
+82	1	Image	[860, 444, 426, 112]	[1073.0, 500.0]		|img watermark
+81	1	Image	[2466, 188, 48, 48]	[2490.0, 212.0]		|ic checker info nor
+80	1	Button	[2140, 172, 700, 80]	[2490.0, 212.0]		
+52	1	ScrollArea	[2140, 252, 700, 688]	[2490.0, 596.0]		
+79	52	StaticText	[2176, 176, 548, 32]	[2450.0, 192.0]	Untitled 1.flmg	
+78	52	Button	[2180, 220, 560, 30]	[2460.0, 235.0]		Can't Find The Project
+77	52	Button	[2760, 170, 40, 40]	[2780.0, 190.0]		
+76	52	StaticText	[2176, 296, 198, 30]	[2275.0, 311.0]	Project Duration:	
+75	52	StaticText	[2456, 296, 112, 30]	[2512.0, 311.0]	00:00:00	
+74	52	StaticText	[2176, 360, 134, 30]	[2243.0, 375.0]	Resolution:	
+73	52	StaticText	[2456, 360, 134, 30]	[2523.0, 375.0]	1920x1080	
+72	52	StaticText	[2176, 424, 60, 30]	[2206.0, 439.0]	FPS:	
+71	52	StaticText	[2456, 424, 74, 30]	[2493.0, 439.0]	30.00	
+70	52	StaticText	[2176, 488, 180, 30]	[2266.0, 503.0]	Video Encoder:	
+69	52	StaticText	[2456, 488, 72, 30]	[2492.0, 503.0]	H264	
+68	52	StaticText	[2176, 552, 180, 30]	[2266.0, 567.0]	Audio Encoder:	
+67	52	StaticText	[2456, 552, 56, 30]	[2484.0, 567.0]	AAC	
+66	52	StaticText	[2176, 616, 156, 30]	[2254.0, 631.0]	Sample Rate:	
+65	52	StaticText	[2456, 616, 80, 30]	[2496.0, 631.0]	44100	
+64	52	StaticText	[2176, 680, 186, 30]	[2269.0, 695.0]	Sound Channel:	
+63	52	StaticText	[2456, 680, 72, 30]	[2492.0, 695.0]	Mono	
+62	52	StaticText	[2176, 744, 164, 30]	[2258.0, 759.0]	Date Created:	
+61	52	StaticText	[2456, 744, 252, 30]	[2582.0, 759.0]	2024-02-06 15:17:45	
+60	52	StaticText	[2176, 808, 174, 30]	[2263.0, 823.0]	Date Modified:	
+59	52	StaticText	[2456, 808, 252, 30]	[2582.0, 823.0]	2024-02-06 15:17:45	
+58	52	StaticText	[2176, 872, 62, 30]	[2207.0, 887.0]	Size:	
+57	52	StaticText	[2456, 872, 54, 30]	[2483.0, 887.0]	96B	
+53	52	ScrollBar	[2810, 252, 30, 688]	[2825.0, 596.0]	1.0	
+56	53	ValueIndicator	[2810, 366, 30, 570]	[2825.0, 651.0]	1.0	
+55	53	Button	[2810, 936, 30, 4]	[2825.0, 938.0]		
+54	53	Button	[2810, 252, 30, 112]	[2825.0, 308.0]		
+51	1	Button	[80, 1058, 40, 40]	[100.0, 1078.0]		
+38	1	ScrollArea	[446, 1028, 2394, 100]	[1643.0, 1078.0]		
+50	38	StaticText	[440, 1050, 200, 34]	[540.0, 1067.0]	00:00:00:00	
+49	38	StaticText	[654, 1050, 200, 34]	[754.0, 1067.0]	00:00:30:00	
+48	38	StaticText	[868, 1050, 200, 34]	[968.0, 1067.0]	00:01:00:00	
+47	38	StaticText	[1082, 1050, 200, 34]	[1182.0, 1067.0]	00:01:30:00	
+46	38	StaticText	[1298, 1050, 200, 34]	[1398.0, 1067.0]	00:02:00:00	
+45	38	StaticText	[1512, 1050, 200, 34]	[1612.0, 1067.0]	00:02:30:00	
+44	38	StaticText	[1726, 1050, 200, 34]	[1826.0, 1067.0]	00:03:00:00	
+43	38	StaticText	[1940, 1050, 200, 34]	[2040.0, 1067.0]	00:03:30:00	
+42	38	StaticText	[2156, 1050, 200, 34]	[2256.0, 1067.0]	00:04:00:00	
+41	38	StaticText	[2370, 1050, 200, 34]	[2470.0, 1067.0]	00:04:30:00	
+40	38	StaticText	[2584, 1050, 200, 34]	[2684.0, 1067.0]	00:05:00:00	
+39	38	StaticText	[2800, 1050, 80, 34]	[2840.0, 1067.0]	00:05:30:00	
+36	1	ScrollArea	[446, 1128, 2394, 460]	[1643.0, 1358.0]		
+37	36	StaticText	[1334, 1344, 616, 32]	[1642.0, 1360.0]	Drag media and effects here to create your video.	
+24	1	ScrollArea	[40, 1128, 402, 460]	[241.0, 1358.0]		
+35	24	Button	[70, 1492, 40, 40]	[90.0, 1512.0]		
+34	24	Button	[140, 1492, 40, 40]	[160.0, 1512.0]		
+33	24	Button	[210, 1492, 40, 40]	[230.0, 1512.0]		
+32	24	Button	[70, 1336, 40, 40]	[90.0, 1356.0]		
+31	24	Button	[140, 1336, 40, 40]	[160.0, 1356.0]		
+30	24	Button	[210, 1336, 40, 40]	[230.0, 1356.0]		
+29	24	Button	[280, 1336, 40, 40]	[300.0, 1356.0]		
+28	24	Button	[70, 1184, 40, 40]	[90.0, 1204.0]		
+27	24	Button	[140, 1184, 40, 40]	[160.0, 1204.0]		
+26	24	Button	[210, 1184, 40, 40]	[230.0, 1204.0]		
+25	24	Button	[280, 1184, 40, 40]	[300.0, 1204.0]		
+23	1	Image	[430, 1080, 28, 548]	[444.0, 1354.0]		|pic axis timeneedle nor
+22	1	Button	[76, 964, 40, 40]	[96.0, 984.0]		
+21	1	Button	[164, 964, 40, 40]	[184.0, 984.0]		
+20	1	Button	[228, 964, 40, 40]	[248.0, 984.0]		
+19	1	Button	[448, 964, 40, 40]	[468.0, 984.0]		
+18	1	Button	[512, 964, 40, 40]	[532.0, 984.0]		
+17	1	Button	[576, 964, 40, 40]	[596.0, 984.0]		
+16	1	Button	[668, 964, 40, 40]	[688.0, 984.0]		
+15	1	Button	[740, 964, 40, 40]	[760.0, 984.0]		
+14	1	Button	[812, 964, 40, 40]	[832.0, 984.0]		
+13	1	Button	[884, 964, 40, 40]	[904.0, 984.0]		
+12	1	Button	[2270, 964, 40, 40]	[2290.0, 984.0]		
+11	1	Button	[2342, 964, 40, 40]	[2362.0, 984.0]		
+10	1	Button	[2414, 964, 40, 40]	[2434.0, 984.0]		
+9	1	Button	[2486, 964, 40, 40]	[2506.0, 984.0]		
+8	1	Button	[2704, 964, 40, 40]	[2724.0, 984.0]		
+7	1	Button	[2780, 960, 60, 48]	[2810.0, 984.0]		
+6	1	Image	[2776, 960, 64, 48]	[2808.0, 984.0]		|ic toolbar audiotest no open
+5	1	Image	[2794, 966, 12, 36]	[2800.0, 984.0]		|pic yinpin small
+4	1	Image	[2808, 966, 12, 36]	[2814.0, 984.0]		|pic yinpin small
+3	1	StaticText	[400, 10, 2080, 36]	[1440.0, 28.0]	Untitled 1.flmg	
+2	1	StaticText	[1430, 10, 20, 32]	[1440.0, 26.0]		

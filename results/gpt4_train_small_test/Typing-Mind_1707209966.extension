@@ -1,0 +1,33 @@
+This is an image of a user interface for a chat-based application, possibly a chatbot or messaging system designed to simulate a conversation. The interface is divided into three main columns:
+
+### Left Column (Chat List)
+- At the very top, we see a hamburger menu (three horizontal lines), a "New Chat" button, and a magnifying glass icon, which likely opens a search bar.
+- Below that are icons for settings (gear), previous chats (arrow), information or help (question mark inside a circle), and alerts or notifications (bell with a dot indicating an unread item).
+- To the right of these icons is a search bar with the placeholder text "Search chats..." followed by buttons: plus (+), left arrow, right arrow, and three vertical dots which probably indicates more options.
+- Beneath the chat function controls, there are listed chats with different titles such as "Interview for the '{position}'...", "(Example) Learn English", "(Example) Writing Content", "(Example) Web Search", and "(Example) Coding Help".
+- Each chat item displays a flag icon next to the title (indicating the language), a preview of the chat content, and a timer or clock icon with a timestamp indicating recent activity on the chat.
+
+### Middle Column (Active Chat Window)
+- This column is titled "Setapp GPT-3.5", suggesting that the active chat is with an entity or bot versioned as GPT-3.5. There is an icon next to it which might indicate settings or details for the chat, and a numbered counter, which probably shows unread messages or notifications.
+- The active chat displays a date "06 Feb 2024" on the top right, indicating when the messages were sent.
+- In the chat area, two message bubbles are visible:
+  - The first from the user asking the chat partner (presumably a bot) to act as an interviewer for a '{position}', instructing the bot on how the dialogue should proceed, emphasizing brevity in the bot's responses, and stating that the user's first sentence will be "Hi".
+  - The second bubble from the Setapp GPT-3.5 bot includes a template with placeholder text `'{position}'` instead of a specific job title, indicating a request to start the interview and posing an opening interview question.
+- Below the first message, there is a 'Play' button which might allow the user to hear the message read aloud.
+
+### Right Column (Options and Input Area)
+- At the bottom of this column, we see several key interface elements:
+  - A text input field with "Type '/' to open menu" as the placeholder text, suggesting that typing '/' will bring up additional options or commands.
+  - To the left of the input field, there is a microphone icon, typically used for voice input.
+  - To the right are buttons for "Regenerate", "Share", "Clear Context", "New Chat", plus a three-dot more options menu.
+- At the very bottom of the interface, we see a speech bubble icon followed by '3K', which might imply the number of messages or characters left, and a button with 'Type "I"' that might be a shortcut for initiating a command.
+
+### Bottom Bar
+- At the bottom left of the image, there is a bar extending across the screen underneath the left and middle columns which includes:
+  - Speaker icon with waves, likely indicating sound or notification settings.
+  - A text box with the placeholder "Enter API Key", hinting at a developer or API interaction feature.
+  - Below that, there are links for "Privacy | Terms | FAQs | Contact", suggesting legal information and support options.
+  - A 'Feedback' button flanked by flag icons, which likely signifies language choice or internationalization options.
+  - On the far right, there is a cat emoji, which could be a branding element or an Easter egg.
+
+Please note that the '[position]' elements in the chat are placeholders meant to be replaced with an actual position name during a conversation.

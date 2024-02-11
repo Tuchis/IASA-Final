@@ -1,0 +1,48 @@
+This appears to be a screenshot of a user interface (UI), possibly from a spreadsheet or note-taking app on a desktop or laptop computer. The specific elements of this UI include:
+
+1. **Window Controls**: In the top-left corner, there are three dot icons, typically representing window controls on a macOS system. These are usually used to close, minimize, and maximize the window.
+
+2. **Navigation Arrow**: Just to the right of the window controls, there is a back navigation arrow (<), which suggests the ability to return to a previous screen or menu.
+
+3. **App-Specific Toolbar**:
+   - A layout/grid icon: This could be a button to change the view or manage the layout of documents or sheets within the app.
+   - A '+' button: This likely serves to create a new document, sheet, or entry in the app.
+   - Three consecutive dots arranged horizontally (⋯), suggesting additional options or settings.
+   - A dropdown arrow next to a symbol that appears to resemble a person or user account, indicating user account options or settings.
+   - A magnifying glass on the far right inside a search box, denoting a search function. The text in the search box says "Search", indicating that you can type in this field to search within the app.
+
+4. **Central Message**: In the center of the screen is a message that reads "Select New Sheet to create a new sheet." This instructional text indicates that the user should interact with the 'New Sheet' button to begin working on a new document or sheet.
+
+5. **'New Sheet' Button**: At the bottom-left corner of the UI, there is a button labeled "New Sheet" accompanied by a '+' icon. This button will most likely create a new document or sheet within the app when clicked.
+
+The rest of the UI is predominantly empty, indicating that no documents or sheets are currently open or that the user is perhaps starting with a new account or fresh installation of the app. The visual design is minimalistic, using a lot of white space, which is common in modern app design to avoid clutter and focus user attention on the main actionable items.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Expenses
+12	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+13	12	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+19	13	Group	[0, 0, 520, 1536]	[260.0, 768.0]		
+24	19	Group	[0, 0, 520, 1536]	[260.0, 768.0]		
+25	24	Group	[0, 0, 520, 1536]	[260.0, 768.0]		
+26	25	Group	[0, 0, 520, 1536]	[260.0, 768.0]		|Empty list
+27	26	StaticText	[32, 738, 456, 60]	[260.0, 768.0]		|Select New Sheet to create a new sheet.
+20	19	Group	[0, 1460, 520, 76]	[260.0, 1498.0]		|Toolbar
+21	20	Group	[32, 1460, 456, 76]	[260.0, 1498.0]		
+23	21	Button	[32, 1482, 162, 32]	[113.0, 1498.0]		| New Sheet
+22	21	Button	[450, 1480, 38, 36]	[469.0, 1498.0]		|Settings
+18	13	Splitter	[520, 0, 2, 1536]	[521.0, 768.0]	25.390625	
+14	13	Group	[522, 0, 1526, 1536]	[1285.0, 768.0]		
+17	14	Group	[522, 76, 1526, 76]	[1285.0, 114.0]		
+15	14	Group	[522, 0, 1526, 1536]	[1285.0, 768.0]		
+16	15	Group	[522, 0, 1526, 1536]	[1285.0, 768.0]		
+2	1	Toolbar	[0, 0, 2048, 76]	[1024.0, 38.0]		
+11	2	Button	[530, 0, 60, 76]	[560.0, 38.0]		|Back
+10	2	Button	[590, 0, 80, 76]	[630.0, 38.0]		|split view horizontally left
+9	2	Button	[1392, 0, 70, 76]	[1427.0, 38.0]		|add
+8	2	Button	[1462, 0, 72, 76]	[1498.0, 38.0]		|Add People/Follow
+6	2	MenuButton	[1534, 0, 110, 76]	[1589.0, 38.0]		|more
+7	6	MenuButton	[1540, 14, 98, 50]	[1589.0, 39.0]		|more
+3	2	Group	[1644, 0, 396, 76]	[1842.0, 38.0]		
+4	3	TextField	[1650, 14, 384, 50]	[1842.0, 39.0]		
+5	4	Button	[1654, 16, 50, 44]	[1679.0, 38.0]		|Search

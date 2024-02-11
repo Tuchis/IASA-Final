@@ -1,0 +1,228 @@
+The image shows the Performance settings page of the Google Chrome browser. Here is a detailed breakdown of all visible UI elements:
+
+Top Bar:
+- The window has a series of navigation control buttons on the top left corner (back, forward, and refresh), the address bar which displays "chrome://settings/performance", and at the right end, tab management and profile access controls, including window controls (minimize, maximize/restore, and close buttons).
+
+Main Menu (left sidebar):
+- Settings (selected): A vertical menu is visible with the following categories:
+  - You and Google
+  - Autofill and passwords
+  - Privacy and security
+  - Performance (currently selected and highlighted)
+  - Appearance
+  - Search engine
+  - Default browser
+  - On start-up
+  - Languages
+  - Downloads
+  - Accessibility
+  - System
+  - Reset settings
+  - Extensions (with a square bracket symbol)
+  - About Chrome
+
+Search Field:
+- On the right, near the top, there is a "Search settings" text field.
+
+Main Content Area:
+- Two main sections are visible, titled "Memory" and "Power," with corresponding subtexts and toggle switches.
+
+Memory Section:
+- Title: "Memory"
+- Subtext: "Memory saver" with additional text explaining the feature and a "Learn more" link.
+- Toggle switch: It’s in the off position (greyed out).
+- Additional text explaining the option to keep certain sites always active, followed by a prompt "Always keep these sites active" with additional instructions.
+- A field with "No sites added" indicating none have been added to the list that remains active, and an "Add" button to include new sites.
+
+Power Section:
+- Title: "Power"
+- Subtext: "Energy saver" with additional text explaining the feature and a "Learn more" link.
+- Toggle switch: It is in the on position (blue).
+- Two radio button options labeled "Turn on only when my battery is at 20% or lower" and "Turn on when my computer is unplugged" with the former currently selected.
+
+Speed Section (partially visible):
+- The "Speed" section header is visible at the bottom of the image, but its contents are not shown.
+
+Additional UI Elements:
+- There are two icons located at the top right of the "Memory" and "Power" sections which seem to be menu or additional options buttons.
+- A profile icon in the top right corner, indicating the user's account or the ability to switch accounts.
+- Notification bell icon next to the profile icon.
+
+Based on the provided URL and the layout, this clearly resembles the interface of Google's Chrome browser. The window is laid out in a clean, organized manner consistent with modern web design principles focused on user experience.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 2030, 1606]	[1015.0, 803.0]		|
+166	1	TabGroup	[160, 0, 1870, 82]	[1095.0, 41.0]		|
+173	166	RadioButton	[160, 0, 512, 82]	[416.0, 41.0]	False	|What’s new - Memory usage - 151 MB
+174	173	Button	[588, 12, 56, 56]	[616.0, 40.0]		|Close
+171	166	RadioButton	[636, 0, 512, 82]	[892.0, 41.0]	False	|miyazaki hayao – Пошук Google - Memory usage - 158 MB
+172	171	Button	[1064, 12, 56, 56]	[1092.0, 40.0]		|Close
+169	166	RadioButton	[1112, 0, 512, 82]	[1368.0, 41.0]	True	|Settings – Performance - Memory usage - 97.8 MB
+170	169	Button	[1540, 12, 56, 56]	[1568.0, 40.0]		|Close
+168	166	Button	[1612, 0, 56, 82]	[1640.0, 41.0]		|New Tab
+167	166	PopUpButton	[1962, 0, 56, 82]	[1990.0, 41.0]		|Search tabs
+154	1	Toolbar	[0, 80, 2030, 92]	[1015.0, 126.0]		|
+165	154	Button	[10, 92, 68, 68]	[44.0, 126.0]		|Back
+164	154	Button	[82, 92, 68, 68]	[116.0, 126.0]		|Forward
+163	154	Button	[154, 92, 68, 68]	[188.0, 126.0]		|Reload
+159	154	Group	[240, 92, 1442, 68]	[961.0, 126.0]		|
+162	159	PopUpButton	[250, 102, 156, 48]	[328.0, 126.0]		|Chrome
+161	159	TextField	[422, 102, 1184, 48]	[1014.0, 126.0]	chrome://settings/performance	|Address and search bar
+160	159	Button	[1610, 102, 48, 48]	[1634.0, 126.0]		|Bookmark this tab
+158	154	PopUpButton	[1700, 92, 68, 68]	[1734.0, 126.0]		|Extensions
+157	154	Button	[1808, 92, 68, 68]	[1842.0, 126.0]		|Side panel
+156	154	Button	[1880, 92, 68, 68]	[1914.0, 126.0]		|You
+155	154	PopUpButton	[1952, 92, 68, 68]	[1986.0, 126.0]		|Chrome
+150	1	Toolbar	[0, 172, 2030, 68]	[1015.0, 206.0]		|Bookmarks
+153	150	Button	[12, 172, 134, 56]	[79.0, 200.0]		|Gmail
+152	150	Button	[162, 172, 164, 56]	[244.0, 200.0]		|YouTube
+151	150	Button	[342, 172, 130, 56]	[407.0, 200.0]		|Maps
+5	1	WebArea	[0, 242, 2030, 1364]	[1015.0, 924.0]		Settings – Performance|
+139	5	Group	[0, 242, 2030, 112]	[1015.0, 298.0]		|
+146	139	Group	[0, 242, 500, 112]	[250.0, 298.0]		|
+149	146	Group	[42, 274, 48, 48]	[66.0, 298.0]		|
+147	146	Heading	[134, 272, 366, 52]	[317.0, 298.0]		Settings|
+148	147	StaticText	[134, 272, 168, 52]	[218.0, 298.0]	Settings	|
+140	139	Group	[544, 262, 1386, 72]	[1237.0, 298.0]		|
+145	140	Group	[544, 262, 1386, 72]	[1237.0, 298.0]		|
+144	140	Group	[544, 262, 1386, 72]	[1237.0, 298.0]		|
+141	140	Group	[556, 262, 1362, 72]	[1237.0, 298.0]		|
+142	141	Group	[612, 276, 1306, 46]	[1265.0, 299.0]		|
+143	142	TextField	[612, 276, 1306, 46]	[1265.0, 299.0]		Search settings|
+138	5	Group	[0, 354, 2030, 12]	[1015.0, 360.0]		|
+6	5	Group	[0, 354, 2030, 1252]	[1015.0, 980.0]		|
+61	6	Group	[0, 354, 500, 1252]	[250.0, 980.0]		|
+62	61	Group	[0, 354, 500, 1252]	[250.0, 980.0]		|
+63	62	Group	[0, 354, 500, 1252]	[250.0, 980.0]		|
+64	63	Menu	[0, 354, 500, 1252]	[250.0, 980.0]		|
+133	64	MenuItem	[2, 354, 494, 80]	[249.0, 394.0]		You and Google|
+136	133	Group	[48, 374, 40, 40]	[68.0, 394.0]		|
+137	136	Image	[48, 374, 40, 40]	[68.0, 394.0]		|
+135	133	StaticText	[128, 378, 208, 32]	[232.0, 394.0]	You and Google	|
+134	133	Group	[2, 354, 494, 80]	[249.0, 394.0]		|
+128	64	MenuItem	[2, 434, 494, 80]	[249.0, 474.0]		Autofill and passwords|
+131	128	Group	[48, 454, 40, 40]	[68.0, 474.0]		|
+132	131	Image	[48, 454, 40, 40]	[68.0, 474.0]		|
+130	128	StaticText	[128, 458, 300, 32]	[278.0, 474.0]	Autofill and passwords	|
+129	128	Group	[2, 434, 494, 80]	[249.0, 474.0]		|
+123	64	MenuItem	[2, 514, 494, 80]	[249.0, 554.0]		Privacy and security|
+126	123	Group	[48, 534, 40, 40]	[68.0, 554.0]		|
+127	126	Image	[48, 534, 40, 40]	[68.0, 554.0]		|
+125	123	StaticText	[128, 538, 268, 32]	[262.0, 554.0]	Privacy and security	|
+124	123	Group	[2, 514, 494, 80]	[249.0, 554.0]		|
+118	64	MenuItem	[2, 594, 494, 80]	[249.0, 634.0]		Performance|
+121	118	Group	[48, 614, 40, 40]	[68.0, 634.0]		|
+122	121	Image	[48, 614, 40, 40]	[68.0, 634.0]		|
+120	118	StaticText	[128, 618, 172, 32]	[214.0, 634.0]	Performance	|
+119	118	Group	[2, 594, 494, 80]	[249.0, 634.0]		|
+113	64	MenuItem	[2, 674, 494, 80]	[249.0, 714.0]		Appearance|
+116	113	Group	[48, 694, 40, 40]	[68.0, 714.0]		|
+117	116	Image	[48, 694, 40, 40]	[68.0, 714.0]		|
+115	113	StaticText	[128, 698, 160, 32]	[208.0, 714.0]	Appearance	|
+114	113	Group	[2, 674, 494, 80]	[249.0, 714.0]		|
+108	64	MenuItem	[2, 754, 494, 80]	[249.0, 794.0]		Search engine|
+111	108	Group	[48, 774, 40, 40]	[68.0, 794.0]		|
+112	111	Image	[48, 774, 40, 40]	[68.0, 794.0]		|
+110	108	StaticText	[128, 778, 190, 32]	[223.0, 794.0]	Search engine	|
+109	108	Group	[2, 754, 494, 80]	[249.0, 794.0]		|
+103	64	MenuItem	[2, 834, 494, 80]	[249.0, 874.0]		Default browser|
+106	103	Group	[48, 854, 40, 40]	[68.0, 874.0]		|
+107	106	Image	[48, 854, 40, 40]	[68.0, 874.0]		|
+105	103	StaticText	[128, 858, 210, 32]	[233.0, 874.0]	Default browser	|
+104	103	Group	[2, 834, 494, 80]	[249.0, 874.0]		|
+98	64	MenuItem	[2, 914, 494, 80]	[249.0, 954.0]		On start-up|
+101	98	Group	[48, 934, 40, 40]	[68.0, 954.0]		|
+102	101	Image	[48, 934, 40, 40]	[68.0, 954.0]		|
+100	98	StaticText	[128, 938, 154, 32]	[205.0, 954.0]	On start-up	|
+99	98	Group	[2, 914, 494, 80]	[249.0, 954.0]		|
+93	64	MenuItem	[2, 1028, 494, 80]	[249.0, 1068.0]		Languages|
+96	93	Group	[48, 1048, 40, 40]	[68.0, 1068.0]		|
+97	96	Image	[48, 1048, 40, 40]	[68.0, 1068.0]		|
+95	93	StaticText	[128, 1052, 146, 32]	[201.0, 1068.0]	Languages	|
+94	93	Group	[2, 1028, 494, 80]	[249.0, 1068.0]		|
+88	64	MenuItem	[2, 1108, 494, 80]	[249.0, 1148.0]		Downloads|
+91	88	Group	[48, 1128, 40, 40]	[68.0, 1148.0]		|
+92	91	Image	[48, 1128, 40, 40]	[68.0, 1148.0]		|
+90	88	StaticText	[128, 1132, 146, 32]	[201.0, 1148.0]	Downloads	|
+89	88	Group	[2, 1108, 494, 80]	[249.0, 1148.0]		|
+83	64	MenuItem	[2, 1188, 494, 80]	[249.0, 1228.0]		Accessibility|
+86	83	Group	[48, 1208, 40, 40]	[68.0, 1228.0]		|
+87	86	Image	[48, 1208, 40, 40]	[68.0, 1228.0]		|
+85	83	StaticText	[128, 1212, 166, 32]	[211.0, 1228.0]	Accessibility	|
+84	83	Group	[2, 1188, 494, 80]	[249.0, 1228.0]		|
+78	64	MenuItem	[2, 1268, 494, 80]	[249.0, 1308.0]		System|
+81	78	Group	[48, 1288, 40, 40]	[68.0, 1308.0]		|
+82	81	Image	[48, 1288, 40, 40]	[68.0, 1308.0]		|
+80	78	StaticText	[128, 1292, 100, 32]	[178.0, 1308.0]	System	|
+79	78	Group	[2, 1268, 494, 80]	[249.0, 1308.0]		|
+73	64	MenuItem	[2, 1348, 494, 80]	[249.0, 1388.0]		Reset settings|
+76	73	Group	[48, 1368, 40, 40]	[68.0, 1388.0]		|
+77	76	Image	[48, 1368, 40, 40]	[68.0, 1388.0]		|
+75	73	StaticText	[128, 1372, 190, 32]	[223.0, 1388.0]	Reset settings	|
+74	73	Group	[2, 1348, 494, 80]	[249.0, 1388.0]		|
+68	64	MenuItem	[2, 1462, 494, 80]	[249.0, 1502.0]		Extensions|
+71	68	Group	[48, 1482, 40, 40]	[68.0, 1502.0]		|
+72	71	Image	[48, 1482, 40, 40]	[68.0, 1502.0]		|
+70	68	StaticText	[128, 1486, 144, 32]	[200.0, 1502.0]	Extensions	|
+69	68	Group	[2, 1462, 494, 80]	[249.0, 1502.0]		|
+65	64	MenuItem	[2, 1542, 494, 64]	[249.0, 1574.0]		About Chrome|
+67	65	StaticText	[128, 1566, 192, 32]	[224.0, 1582.0]	About Chrome	|
+66	65	Group	[2, 1542, 494, 64]	[249.0, 1574.0]		|
+7	6	Group	[556, 354, 1362, 1252]	[1237.0, 980.0]		|
+41	7	Group	[556, 354, 1362, 566]	[1237.0, 637.0]		|
+59	41	Heading	[556, 396, 110, 66]	[611.0, 429.0]		Memory|
+60	59	StaticText	[556, 416, 110, 32]	[611.0, 432.0]	Memory	|
+55	41	Button	[1828, 396, 66, 64]	[1861.0, 428.0]		|
+56	55	Group	[1828, 396, 66, 64]	[1861.0, 428.0]		|
+57	56	Group	[1840, 408, 42, 40]	[1861.0, 428.0]		|
+58	57	Image	[1840, 408, 42, 40]	[1861.0, 428.0]		|
+42	41	Group	[556, 484, 1362, 436]	[1237.0, 702.0]		|
+50	42	Group	[556, 484, 1362, 210]	[1237.0, 589.0]		|
+52	50	Group	[596, 548, 1190, 122]	[1191.0, 609.0]		|
+53	52	Link	[1004, 634, 138, 30]	[1073.0, 649.0]		|When on, Chrome frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Chrome fast. Your inactive tabs automatically become active again when you go back to them. Learn more
+54	53	StaticText	[1004, 634, 138, 30]	[1073.0, 649.0]	Learn more	|
+51	50	CheckBox	[1824, 572, 54, 34]	[1851.0, 589.0]		|Memory saver
+49	42	StaticText	[596, 724, 370, 30]	[781.0, 739.0]	Always keep these sites active	|
+47	42	Group	[596, 758, 1148, 42]	[1170.0, 779.0]		|
+48	47	StaticText	[596, 764, 1006, 30]	[1099.0, 779.0]	Websites you add will always stay active and memory won't be freed up from them.	|
+44	42	Button	[1744, 722, 134, 74]	[1811.0, 759.0]		|Add to the ‘always keep these sites active’ list
+46	44	Group	[1746, 724, 130, 70]	[1811.0, 759.0]		|
+45	44	StaticText	[1786, 744, 50, 30]	[1811.0, 759.0]	Add	|
+43	42	StaticText	[636, 856, 184, 30]	[728.0, 871.0]	No sites added	|
+17	7	Group	[556, 924, 1362, 516]	[1237.0, 1182.0]		|
+39	17	Heading	[556, 966, 84, 66]	[598.0, 999.0]		Power|
+40	39	StaticText	[556, 986, 84, 34]	[598.0, 1003.0]	Power	|
+35	17	Button	[1828, 966, 66, 66]	[1861.0, 999.0]		|
+36	35	Group	[1828, 966, 66, 66]	[1861.0, 999.0]		|
+37	36	Group	[1840, 978, 42, 42]	[1861.0, 999.0]		|
+38	37	Image	[1840, 978, 42, 42]	[1861.0, 999.0]		|
+18	17	Group	[556, 1054, 1362, 386]	[1237.0, 1247.0]		|
+30	18	Group	[556, 1054, 1362, 170]	[1237.0, 1139.0]		|
+32	30	Group	[596, 1118, 1190, 82]	[1191.0, 1159.0]		|
+33	32	Link	[1182, 1164, 138, 30]	[1251.0, 1179.0]		|When on, Chrome conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates. Learn more
+34	33	StaticText	[1182, 1164, 138, 30]	[1251.0, 1179.0]	Learn more	|
+31	30	CheckBox	[1824, 1122, 54, 34]	[1851.0, 1139.0]		|Energy saver
+19	18	Group	[556, 1222, 1362, 218]	[1237.0, 1331.0]		|
+20	19	RadioGroup	[596, 1222, 658, 194]	[925.0, 1319.0]		|Energy saver options
+25	20	Group	[596, 1222, 658, 98]	[925.0, 1271.0]		|
+28	25	RadioButton	[596, 1254, 34, 34]	[613.0, 1271.0]		Turn on only when my battery is at 20% or lower|
+29	28	Group	[604, 1262, 18, 18]	[613.0, 1271.0]		|
+26	25	Group	[668, 1250, 586, 42]	[961.0, 1271.0]		|
+27	26	StaticText	[668, 1256, 586, 30]	[961.0, 1271.0]	Turn on only when my battery is at 20% or lower	|
+21	20	Group	[596, 1318, 658, 98]	[925.0, 1367.0]		|
+24	21	RadioButton	[596, 1350, 34, 34]	[613.0, 1367.0]		Turn on when my computer is unplugged|
+22	21	Group	[668, 1346, 586, 42]	[961.0, 1367.0]		|
+23	22	StaticText	[668, 1352, 496, 30]	[916.0, 1367.0]	Turn on when my computer is unplugged	|
+8	7	Group	[556, 1444, 1362, 162]	[1237.0, 1525.0]		|
+15	8	Heading	[556, 1486, 88, 66]	[600.0, 1519.0]		Speed|
+16	15	StaticText	[556, 1506, 88, 34]	[600.0, 1523.0]	Speed	|
+11	8	Button	[1828, 1486, 66, 66]	[1861.0, 1519.0]		|
+12	11	Group	[1828, 1486, 66, 66]	[1861.0, 1519.0]		|
+13	12	Group	[1840, 1498, 42, 42]	[1861.0, 1519.0]		|
+14	13	Image	[1840, 1498, 42, 42]	[1861.0, 1519.0]		|
+9	8	Group	[556, 1574, 1362, 32]	[1237.0, 1590.0]		|
+10	9	Group	[556, 1574, 1362, 32]	[1237.0, 1590.0]		|
+3	1	PopUpButton	[922, 256, 304, 74]	[1074.0, 293.0]	Bookmarks	|Side panel selector
+4	3	Button	[922, 256, 304, 74]	[1074.0, 293.0]		|
+2	1	Splitter	[888, 242, 34, 1364]	[905.0, 924.0]		|

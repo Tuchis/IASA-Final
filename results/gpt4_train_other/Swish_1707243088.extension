@@ -1,0 +1,50 @@
+This is an image of the user interface (UI) for the settings of an application named Swish. The UI is divided into a sidebar on the left and the main content area on the right. Here are the details starting from the sidebar:
+
+Sidebar:
+- At the top, there are three window control buttons: one red, one yellow, and one green, typically for closing, minimizing, and maximizing the window, respectively.
+- Below the window control buttons, there is a vertical menu with icons and labels, as follows:
+  1. General (a gear icon)
+  2. Windows (a square icon)
+  3. Snapping (two overlapping squares icon)
+  4. Apps (a grid of 4 squares icon)
+  5. Menubar (a horizontal bar)
+  6. Advanced (a gear with a smaller cog icon) - this option is highlighted as the current selection.
+  7. About (an information "i" icon)
+
+Main Content Area:
+- In the top right corner, there is a "Quit" button.
+- The content area is titled "Keyboard" and is further divided into sections.
+
+First Section:
+- Subheading: "Super Modifier"
+- Button with the label "fn" – representing a function key to be used as a super modifier.
+- Checkbox with the label "Require for all Gestures", which is unchecked.
+
+Text Description:
+- This provides details about using the modifier to perform window gestures on their entire area or only on their title bar or dock icon and states that it can be combined with all modifiers below.
+
+Second Section:
+- Three sets of hotkeys are presented, with accompanying explanatory text:
+   1. General - key symbol "G" and an up-caret symbol implying the use of the 'G' key with a modifier.
+   2. Screen - key symbol "S" and a placeholder symbol indicating a hotkey combination involving the 'S' key.
+   3. Secondary - key symbol "2" and a right-arrow symbol.
+   4. Tertiary - key symbol "3" and an up-caret with a line under it symbol.
+
+Text Description:
+- This text explains the functions associated with the general, secondary (3x2 snapping, all windows, etc.), and tertiary (3x3 snapping) key combinations.
+
+Third Section:
+- Subheading: "Arrow Hotkeys"
+- Two toggle buttons or indicators representing "Arrows" (with four arrow symbols) and "Center" (with an 'Esc' key symbol), indicating the use of arrow keys and the Escape key for centering.
+
+Text Description:
+- Describes how to use the super modifier with arrow keys for snapping, screens, and spaces gestures, and the center key for centering and unsnapping.
+
+Fourth Section:
+- Subheading: "Event Listener"
+- Underneath, "Active Event Listener" followed by a checked checkbox.
+
+Text Description:
+- This section explains that Swish can block scroll, flick, and pinch events in the underlying window during gestures by implementing an active event listener.
+
+Throughout the UI, the text is clear and legible, primarily in shades of blue, black, and grey, which corresponds to a typical color scheme for an application's settings interface. It is not clear if the app is running on a specific operating system, but the design and layout suggest a desktop app interface, possibly macOS due to the styling of the window control buttons.

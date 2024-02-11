@@ -1,0 +1,148 @@
+This is a screenshot of a user interface from a break management application designed to help users manage and schedule breaks during their computer usage.
+
+Starting from the top left corner, there are three colored circles representing the window controls for close (red), minimize (yellow), and maximize/zoom (green). Next to these, there is a back arrow, a forward arrow, dropdown navigation labeled "Activity" with a down arrow indicating more options, and a settings gear icon. Moving to the right, there is a question mark icon within a circle, suggesting a help or information option.
+
+On the far top-right, there are five tabs for different settings categories: "Name," "Schedule," "Appearance," "Actions," and a selected tab, "Appearance."
+
+Below the window controls, on the left panel, we see a sidebar with the following sections:
+
+1. "Breaks" – It lists two types of breaks:
+    - "Normal," with a status showing "due in 49 min, 14 secs" and "new break," followed by a clickable text "click to configure break."
+    - "Micro," with a status showing "due in 13 min, 59 secs" and "new break," followed by clickable text "click to configure break."
+
+2. "Options" – This contains a menu with items:
+    - "General," with a checkmark next to it.
+    - "Shortcuts," with a checkmark next to it.
+    - "Exclusions."
+    - "Updates."
+    - "Advanced."
+
+In the main pane on the right side, under the "Appearance" tab, several settings are available:
+
+- The first setting is labeled "Theme:" followed by the "Icon" theme selected.
+- A "Preview" button with a circular arrow icon represents a refresh or update preview action.
+- "Background color:" with a color selection box and a slider for "Opacity:" set to "75 %."
+- Below that are two text fields for fade-in and fade-out durations for the breaks:
+  - "Fade in over: 10 seconds"
+  - "Fade out over: 10 seconds"
+
+There's a section titled "Break controls," containing checkboxes and time settings:
+- "Show button to postpone 5 minutes" checkbox checked.
+- "Show button to postpone 10 minutes" checkbox checked.
+- "Show button to skip break" checkbox checked.
+- "Show button to end early" checkbox unchecked followed by a dropdown box with "5 minutes" after start.
+
+Under the subsection "Mindfulness," there are options to manipulate the behavior of the controls:
+- "Disable the buttons for 15 seconds" checkbox unchecked.
+- "Show number of times postponed/skipped/done today" checkbox unchecked.
+
+Lastly, under the "Control limits," there are two checkboxes with limitations for postponing and skipping breaks:
+- "Postpone no more than 10 times per day" checkbox unchecked.
+- "Limit skip no more than 10 times per day" checkbox unchecked.
+
+The overall design uses a clear and modern layout with a set of specific controls for customizing how breaks are handled during computer use.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1682, 1110]	[841.0, 555.0]		Time Out
+2	1	SplitGroup	[0, 0, 1682, 1110]	[841.0, 555.0]		
+102	2	Button	[310, 12, 56, 46]	[338.0, 35.0]		
+101	2	Button	[378, 12, 74, 46]	[415.0, 35.0]		
+100	2	Button	[464, 12, 80, 46]	[504.0, 35.0]		
+99	2	Button	[556, 12, 66, 46]	[589.0, 35.0]		
+46	2	ScrollArea	[0, 70, 644, 1040]	[322.0, 590.0]		
+47	46	Outline	[0, 70, 644, 1040]	[322.0, 590.0]		
+95	47	Row	[0, 90, 644, 58]	[322.0, 119.0]		
+96	95	Cell	[20, 90, 604, 58]	[322.0, 119.0]		
+98	96	Image	[38, 102, 32, 32]	[54.0, 118.0]		|SidebarActivityTemplate
+97	96	StaticText	[80, 102, 98, 32]	[129.0, 118.0]	Activity	
+92	47	Row	[0, 174, 644, 54]	[322.0, 201.0]		
+93	92	Cell	[20, 174, 604, 54]	[322.0, 201.0]		
+94	93	StaticText	[28, 186, 82, 28]	[69.0, 200.0]	Breaks	
+82	47	Row	[0, 228, 644, 152]	[322.0, 304.0]		
+83	82	Cell	[20, 228, 604, 152]	[322.0, 304.0]		
+91	83	Image	[38, 244, 34, 34]	[55.0, 261.0]		|
+90	83	StaticText	[82, 242, 96, 32]	[130.0, 258.0]	Normal	
+89	83	StaticText	[604, 242, 8, 32]	[608.0, 258.0]		
+88	83	StaticText	[82, 280, 244, 28]	[204.0, 294.0]	due in 49 min, 14 secs	
+87	83	StaticText	[82, 308, 116, 28]	[140.0, 322.0]	new break	
+86	83	StaticText	[82, 336, 254, 28]	[209.0, 350.0]	click to configure break	
+85	83	Button	[436, 240, 186, 64]	[529.0, 272.0]		Start
+84	83	Button	[436, 308, 186, 64]	[529.0, 340.0]		Options
+72	47	Row	[0, 380, 644, 152]	[322.0, 456.0]		
+73	72	Cell	[20, 380, 604, 152]	[322.0, 456.0]		
+81	73	Image	[38, 396, 34, 34]	[55.0, 413.0]		|
+80	73	StaticText	[82, 394, 76, 32]	[120.0, 410.0]	Micro	
+79	73	StaticText	[604, 394, 8, 32]	[608.0, 410.0]		
+78	73	StaticText	[82, 432, 242, 28]	[203.0, 446.0]	due in 13 min, 59 secs	
+77	73	StaticText	[82, 460, 116, 28]	[140.0, 474.0]	new break	
+76	73	StaticText	[82, 488, 254, 28]	[209.0, 502.0]	click to configure break	
+75	73	Button	[436, 392, 186, 64]	[529.0, 424.0]		Start
+74	73	Button	[436, 460, 186, 64]	[529.0, 492.0]		Options
+69	47	Row	[0, 558, 644, 54]	[322.0, 585.0]		
+70	69	Cell	[20, 558, 604, 54]	[322.0, 585.0]		
+71	70	StaticText	[28, 570, 94, 28]	[75.0, 584.0]	Options	
+65	47	Row	[0, 612, 644, 58]	[322.0, 641.0]		
+66	65	Cell	[20, 612, 604, 58]	[322.0, 641.0]		
+68	66	Image	[38, 624, 32, 32]	[54.0, 640.0]		|SidebarGeneralTemplate
+67	66	StaticText	[80, 624, 102, 32]	[131.0, 640.0]	General	
+61	47	Row	[0, 670, 644, 58]	[322.0, 699.0]		
+62	61	Cell	[20, 670, 604, 58]	[322.0, 699.0]		
+64	62	Image	[38, 682, 32, 32]	[54.0, 698.0]		|SidebarShortcutsTemplate
+63	62	StaticText	[80, 682, 126, 32]	[143.0, 698.0]	Shortcuts	
+57	47	Row	[0, 728, 644, 58]	[322.0, 757.0]		
+58	57	Cell	[20, 728, 604, 58]	[322.0, 757.0]		
+60	58	Image	[38, 740, 32, 32]	[54.0, 756.0]		|SidebarExclusionsTemplate
+59	58	StaticText	[80, 740, 136, 32]	[148.0, 756.0]	Exclusions	
+53	47	Row	[0, 786, 644, 58]	[322.0, 815.0]		
+54	53	Cell	[20, 786, 604, 58]	[322.0, 815.0]		
+56	54	Image	[38, 798, 32, 32]	[54.0, 814.0]		|SidebarUpdatesTemplate
+55	54	StaticText	[80, 798, 110, 32]	[135.0, 814.0]	Updates	
+49	47	Row	[0, 844, 644, 58]	[322.0, 873.0]		
+50	49	Cell	[20, 844, 604, 58]	[322.0, 873.0]		
+52	50	Image	[38, 856, 32, 32]	[54.0, 872.0]		|SidebarAdvancedTemplate
+51	50	StaticText	[80, 856, 128, 32]	[144.0, 872.0]	Advanced	
+48	47	Column	[20, 70, 604, 1040]	[322.0, 590.0]		
+45	2	Splitter	[644, 56, 2, 1054]	[645.0, 583.0]	322.0	
+44	2	CheckBox	[872, 16, 98, 38]	[921.0, 35.0]	0	Name
+43	2	CheckBox	[986, 16, 142, 38]	[1057.0, 35.0]	0	Schedule
+42	2	CheckBox	[1144, 16, 174, 38]	[1231.0, 35.0]	1	Appearance
+41	2	CheckBox	[1334, 16, 120, 38]	[1394.0, 35.0]	0	Actions
+40	2	PopUpButton	[916, 108, 350, 50]	[1091.0, 133.0]	Icon	
+39	2	Button	[1446, 100, 208, 64]	[1550.0, 132.0]		Preview|Quick Look
+38	2	StaticText	[812, 112, 98, 32]	[861.0, 128.0]	Theme:	
+37	2	StaticText	[682, 260, 228, 32]	[796.0, 276.0]	Background color:	
+36	2	TextField	[1364, 256, 70, 42]	[1399.0, 277.0]	75	
+35	2	StaticText	[1066, 260, 110, 32]	[1121.0, 276.0]	Opacity:	
+34	2	StaticText	[1446, 258, 32, 32]	[1462.0, 274.0]	%	
+32	2	Slider	[1184, 254, 168, 56]	[1268.0, 282.0]	75.0	
+33	32	ValueIndicator	[1274, 254, 48, 56]	[1298.0, 282.0]	75.0	
+31	2	CheckBox	[918, 698, 370, 36]	[1103.0, 716.0]	1	Show button to skip break
+30	2	StaticText	[1368, 640, 104, 32]	[1420.0, 656.0]	minutes	
+29	2	TextField	[1292, 636, 66, 42]	[1325.0, 657.0]	10	
+28	2	StaticText	[1368, 580, 104, 32]	[1420.0, 596.0]	minutes	
+27	2	TextField	[1292, 576, 66, 42]	[1325.0, 597.0]	5	
+26	2	CheckBox	[918, 638, 358, 36]	[1097.0, 656.0]	1	Show button to postpone
+25	2	CheckBox	[918, 578, 358, 36]	[1097.0, 596.0]	1	Show button to postpone
+24	2	StaticText	[992, 402, 110, 32]	[1047.0, 418.0]	seconds	
+23	2	StaticText	[748, 402, 162, 32]	[829.0, 418.0]	Fade in over:	
+22	2	TextField	[922, 398, 58, 42]	[951.0, 419.0]	10	
+21	2	StaticText	[992, 456, 110, 32]	[1047.0, 472.0]	seconds	
+20	2	StaticText	[730, 456, 180, 32]	[820.0, 472.0]	Fade out over:	
+19	2	TextField	[922, 452, 58, 42]	[951.0, 473.0]	10	
+18	2	Button	[1274, 110, 40, 40]	[1294.0, 130.0]		|info
+17	2	StaticText	[720, 580, 190, 32]	[815.0, 596.0]	Break controls:	
+16	2	StaticText	[1368, 1036, 172, 32]	[1454.0, 1052.0]	times per day	
+15	2	TextField	[1292, 1032, 66, 42]	[1325.0, 1053.0]	10	
+14	2	TextField	[1292, 972, 66, 42]	[1325.0, 993.0]	10	
+13	2	CheckBox	[918, 1034, 358, 36]	[1097.0, 1052.0]	0	Limit skip no more than
+12	2	CheckBox	[918, 974, 358, 36]	[1097.0, 992.0]	0	Postpone no more than
+11	2	StaticText	[734, 976, 176, 32]	[822.0, 992.0]	Control limits:	
+10	2	StaticText	[1368, 976, 172, 32]	[1454.0, 992.0]	times per day	
+9	2	CheckBox	[918, 896, 708, 36]	[1272.0, 914.0]	0	Show number of times postponed/skipped/done today
+8	2	StaticText	[1368, 838, 110, 32]	[1423.0, 854.0]	seconds	
+7	2	TextField	[1292, 834, 66, 42]	[1325.0, 855.0]	15	
+6	2	CheckBox	[918, 836, 330, 36]	[1083.0, 854.0]	0	Disable the buttons for
+5	2	StaticText	[748, 838, 162, 32]	[829.0, 854.0]	Mindfulness:	
+4	2	CheckBox	[918, 758, 358, 36]	[1097.0, 776.0]	0	Show button to end early
+3	2	StaticText	[1498, 760, 128, 32]	[1562.0, 776.0]	after start	

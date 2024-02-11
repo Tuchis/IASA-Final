@@ -1,0 +1,19 @@
+The user interface of the app is divided into a few sections. Here are the elements as shown in the image:
+
+1. **Top-left corner**: There are three horizontal dots, which typically indicate a menu or additional options.
+
+2. **Left sidebar**: This section contains:
+   - A tab labeled "Planner".
+   - Below this tab, there is an indicator of an amount in currency (0,00 US$), followed by a timestamp (Today, 23:33).
+
+3. **Center area of interface**: This is the main content area, displaying a pop-up window with various elements:
+   - Header of the window displaying the text "Select a category".
+   - A back arrow on the top-left corner within the header, suggesting the ability to go back to the previous screen.
+   - An icon which probably represents the action to confirm or proceed, placed on the right side in the header.
+   - Beneath the header, there's a search bar with a magnifying glass symbol within it, indicating functionality to search.
+   - Below the search bar, there is a list with category options each accompanied by an icon. These categories include "No Category", "Groceries", "Food & Drink", "Transport", "Internet", "Rent", "Entertainment", and "Shopping".
+   - At the bottom of the list, there is the text "New Category" and to its right, "Manage Categories". Both items are likely interactive, with the former probably allowing the user to create a new category, and the latter to manage existing ones.
+
+4. **Bottom area of the interface**: There is a tab seemingly labeled "New Sheet" paired with what appears to be a complementary icon to create a new document or data sheet.
+
+Please note, without the ability to interact with the interface, the exact functionality of buttons and options is inferred based on typical UI design conventions.

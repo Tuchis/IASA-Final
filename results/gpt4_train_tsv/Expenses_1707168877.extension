@@ -1,0 +1,66 @@
+The user interface of the app is divided into a few sections. Here are the elements as shown in the image:
+
+1. **Top-left corner**: There are three horizontal dots, which typically indicate a menu or additional options.
+
+2. **Left sidebar**: This section contains:
+   - A tab labeled "Planner".
+   - Below this tab, there is an indicator of an amount in currency (0,00 US$), followed by a timestamp (Today, 23:33).
+
+3. **Center area of interface**: This is the main content area, displaying a pop-up window with various elements:
+   - Header of the window displaying the text "Select a category".
+   - A back arrow on the top-left corner within the header, suggesting the ability to go back to the previous screen.
+   - An icon which probably represents the action to confirm or proceed, placed on the right side in the header.
+   - Beneath the header, there's a search bar with a magnifying glass symbol within it, indicating functionality to search.
+   - Below the search bar, there is a list with category options each accompanied by an icon. These categories include "No Category", "Groceries", "Food & Drink", "Transport", "Internet", "Rent", "Entertainment", and "Shopping".
+   - At the bottom of the list, there is the text "New Category" and to its right, "Manage Categories". Both items are likely interactive, with the former probably allowing the user to create a new category, and the latter to manage existing ones.
+
+4. **Bottom area of the interface**: There is a tab seemingly labeled "New Sheet" paired with what appears to be a complementary icon to create a new document or data sheet.
+
+Please note, without the ability to interact with the interface, the exact functionality of buttons and options is inferred based on typical UI design conventions.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Expenses
+43	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+44	43	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+33	1	Toolbar	[0, 0, 2048, 76]	[1024.0, 38.0]		
+42	33	Button	[530, 0, 60, 76]	[560.0, 38.0]		|Back
+41	33	Button	[590, 0, 80, 76]	[630.0, 38.0]		|split view horizontally left
+40	33	Button	[1392, 0, 70, 76]	[1427.0, 38.0]		|add
+39	33	Button	[1462, 0, 72, 76]	[1498.0, 38.0]		|Add People/Follow
+37	33	MenuButton	[1534, 0, 110, 76]	[1589.0, 38.0]		|more
+38	37	MenuButton	[1540, 14, 98, 50]	[1589.0, 39.0]		|more
+34	33	Group	[1644, 0, 396, 76]	[1842.0, 38.0]		
+35	34	TextField	[1650, 14, 384, 50]	[1842.0, 39.0]		
+36	35	Button	[1654, 16, 50, 44]	[1679.0, 38.0]		|Search
+32	1	Button	[104, 22, 28, 32]	[118.0, 38.0]		
+2	1	Sheet	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+3	2	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+4	3	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+28	4	Group	[444, 128, 1160, 158]	[1024.0, 207.0]		
+31	28	Button	[444, 140, 68, 76]	[478.0, 178.0]		|New
+30	28	Heading	[914, 158, 220, 32]	[1024.0, 174.0]		|Select a category
+29	28	TextField	[484, 228, 1080, 44]	[1024.0, 250.0]		|Search
+9	4	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+10	9	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+11	10	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+26	11	Group	[484, 356, 1080, 74]	[1024.0, 393.0]		|No Category
+27	26	Button	[484, 356, 1080, 74]	[1024.0, 393.0]		|No Category
+24	11	Group	[484, 430, 1080, 74]	[1024.0, 467.0]		|Groceries
+25	24	Button	[484, 430, 1080, 74]	[1024.0, 467.0]		|Groceries
+22	11	Group	[484, 504, 1080, 74]	[1024.0, 541.0]		|Food & Drink
+23	22	Button	[484, 504, 1080, 74]	[1024.0, 541.0]		|Food & Drink
+20	11	Group	[484, 578, 1080, 74]	[1024.0, 615.0]		|Transport
+21	20	Button	[484, 578, 1080, 74]	[1024.0, 615.0]		|Transport
+18	11	Group	[484, 652, 1080, 74]	[1024.0, 689.0]		|Internet
+19	18	Button	[484, 652, 1080, 74]	[1024.0, 689.0]		|Internet
+16	11	Group	[484, 726, 1080, 74]	[1024.0, 763.0]		|Rent
+17	16	Button	[484, 726, 1080, 74]	[1024.0, 763.0]		|Rent
+14	11	Group	[484, 800, 1080, 74]	[1024.0, 837.0]		|Entertainment
+15	14	Button	[484, 800, 1080, 74]	[1024.0, 837.0]		|Entertainment
+12	11	Group	[484, 874, 1080, 74]	[1024.0, 911.0]		|Shopping
+13	12	Button	[484, 874, 1080, 74]	[1024.0, 911.0]		|Shopping
+5	4	Group	[444, 1332, 1160, 76]	[1024.0, 1370.0]		|Toolbar
+6	5	Group	[484, 1332, 1080, 76]	[1024.0, 1370.0]		
+8	6	Button	[484, 1354, 224, 34]	[596.0, 1371.0]		| New Category
+7	6	Button	[1312, 1344, 252, 54]	[1438.0, 1371.0]		|Manage Categories

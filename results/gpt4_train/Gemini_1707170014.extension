@@ -1,0 +1,17 @@
+The UI interface displays the following elements:
+
+1. A top navigation bar with:
+   - On the top left, an arrow pointing left with the label "Start Over."
+   - In the center top, there is the logo or name of the application, "Gemini."
+   - On the top right, there is a star icon.
+
+2. In the center of the screen, there's a major focal element:
+   - A folder icon is centrally displayed.
+   - Directly below the folder icon is a large numeral "292,6 MB" indicating a data size.
+   - Beneath this, the text "Found in Projects" gives context to the size figure.
+
+3. On the right side of the screen, the main message reads "Scan Completed" in a large font, while underneath in a smaller font is a message saying "Nothing to select automatically. Please review your duplicates before selecting them for removal."
+
+4. Below the aforementioned messages, there is a button labeled "Review Duplicates."
+
+These elements together suggest that the app has completed a scan for duplicates, presumably in files or projects, and is prompting the user to manually review the duplicates and decide on removal actions.

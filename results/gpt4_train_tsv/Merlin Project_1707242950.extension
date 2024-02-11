@@ -1,0 +1,51 @@
+The UI interface in the image seems to be a resource management application. Here's a description of the various elements visible in the screenshot:
+
+1. Window Title: The top central part of the window displays the title "Big birthday Edited," indicating the current context or project the user is viewing or working on.
+
+2. Traffic Light Control Buttons: In the top left corner, there are three circular buttons commonly used in windowed operating systems for minimizing, maximizing, and closing the window.
+
+3. Sidebar Section: To the left of the application, there is a sidebar with items labeled "Traits" and "Resources," which suggests categories or filters for the information displayed in the main panel.
+
+4. Main Content Table: The central part of the UI displays a table with the following headers: "Title," "Type," "Material Unit," "Available," "Initials," "Email," and "Phone" with each row providing details for different resources such as "Person celebrating big birthday," "Band," "Landlord," etc. All resources are of 'Person' type, and each has a specified 'Material Unit' percentage available, along with initials, and some entries for 'Email.'
+
+5. Toolbar: Above the main content, there is a toolbar with various icons (which typically represent actions like add, delete, filter, adjust settings, etc.) and a dropdown menu, though the specific functions of these buttons are not clear from the image alone.
+
+6. Secondary Sidebar Section: On the right, there is another section which might be a collapsible or secondary sidebar, currently displaying "Resource: Calendar" at the top, indicating perhaps that this panel is related to scheduling or time-based resource management. Below that, there are two dropdown options labeled "Based on" with the selection "Standard," and "Complement for Resource," followed by an icon that likely allows for further interaction.
+
+7. Information Details Panel: Just below the aforementioned options, there seems to be a panel possibly to display additional details for a selected item or resource from the table. It is currently collapsed or not displaying any information.
+
+8. Status Bar: At the very bottom right, there is an icon that suggests there might be additional notifications or status information available.
+
+The overall layout and elements imply that this app is meant for managing resources, events, or personnel, likely providing functionalities to add, edit, organize, and communicate with contacts listed as 'resources.'
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2500, 1560]	[1250.0, 780.0]		Big birthday
+29	1	StaticText	[1602, 276, 120, 32]	[1662.0, 292.0]	Based on	
+28	1	PopUpButton	[1728, 272, 754, 50]	[2105.0, 297.0]	Standard	
+27	1	StaticText	[1602, 370, 798, 32]	[2001.0, 386.0]	Complement for Resource	
+26	1	Button	[2412, 362, 64, 44]	[2444.0, 384.0]		
+3	1	Toolbar	[0, 0, 2500, 104]	[1250.0, 52.0]		
+22	3	Group	[1420, 0, 122, 104]	[1481.0, 52.0]		
+23	22	Group	[1416, 12, 130, 80]	[1481.0, 52.0]		|New
+25	23	Button	[1416, 12, 74, 80]	[1453.0, 52.0]		
+24	23	Button	[1490, 12, 56, 80]	[1518.0, 52.0]		
+18	3	Group	[1542, 0, 194, 104]	[1639.0, 52.0]		
+19	18	Group	[1538, 12, 202, 80]	[1639.0, 52.0]		|Indentation
+21	19	Button	[1538, 12, 102, 80]	[1589.0, 52.0]		
+20	19	Button	[1640, 12, 100, 80]	[1690.0, 52.0]		
+14	3	Group	[1736, 0, 122, 104]	[1797.0, 52.0]		
+15	14	Group	[1732, 12, 130, 80]	[1797.0, 52.0]		|Link
+17	15	Button	[1732, 12, 74, 80]	[1769.0, 52.0]		
+16	15	Button	[1806, 12, 56, 80]	[1834.0, 52.0]		
+12	3	MenuButton	[1858, 0, 112, 104]	[1914.0, 52.0]		|Action
+13	12	MenuButton	[1856, 12, 116, 80]	[1914.0, 52.0]		
+11	3	Button	[2018, 0, 72, 104]	[2054.0, 52.0]		|Dynamic Help
+10	3	Button	[2090, 0, 72, 104]	[2126.0, 52.0]		|Critical Path
+9	3	Button	[2162, 0, 72, 104]	[2198.0, 52.0]		|Resources
+8	3	Button	[2234, 0, 72, 104]	[2270.0, 52.0]		|Settings
+4	3	Group	[2306, 0, 178, 104]	[2395.0, 52.0]		
+5	4	Group	[2302, 12, 186, 80]	[2395.0, 52.0]		|Layout
+7	5	Button	[2302, 12, 94, 80]	[2349.0, 52.0]		
+6	5	Button	[2396, 12, 92, 80]	[2442.0, 52.0]		
+2	1	StaticText	[174, 0, 1246, 104]	[797.0, 52.0]	Big birthday	

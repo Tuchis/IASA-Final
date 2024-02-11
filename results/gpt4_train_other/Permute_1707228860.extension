@@ -1,0 +1,19 @@
+The user interface of the app shown in the image appears to be a media or file conversion application named "Permute". Here is a description of the elements in the UI from the top to the bottom:
+
+1. At the very top of the window, there's a title bar with three colored buttons on the left side (red, yellow, green) which represent close, minimize, and maximize actions in macOS. The title of the window is "Permute".
+
+2. Below the title bar on the left side of the window is a sidebar with tabs. The active tab says "Audio" with a dropdown menu next to it – the selected option is "MP3".
+
+3. In the larger right pane, at the top, there's a 'settings' or 'adjustment' gear icon on the right side.
+
+4. Just below that, there is a section with what seems to be a draggable panel, possibly representing where files are added or the status of current operations. It includes a play button, an 'x' (possibly to remove items from the pane), and two icons that look like a square and speaker, potentially indicating the status or settings of the audio or video.
+
+5. Below the draggable panel area, there's a divider line and a smaller panel or interface element. It includes a play button on the left side and the text "1 Conversion" next to it, suggesting there is an active or queued conversion task.
+
+6. At the bottom of the main pane, there is a bar that includes a play button on the left side and a larger button with a "+" on it and a camera icon, likely for adding new files. There's also text that repeats "1 Conversion" with an "x", suggesting the ability to cancel the conversion or clear the queue.
+
+7. Throughout the interface, there are several grayed-out icons that are hard to discern, indicating functionalities that are possibly disabled at the moment or context-sensitive.
+
+8. Additionally, on the left side of the screen within the sidebar, there is an item listed "alarm" with metadata underneath saying "MP3 • 256 kbps • 1 MB", indicating the file format, bitrate, and file size respectively.
+
+The UI elements are laid out in a way that suggests a workflow of selecting media type (Audio, Video, etc.), adding files, choosing a format (MP3, etc.), and managing the conversion process.

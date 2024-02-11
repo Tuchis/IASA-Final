@@ -1,0 +1,101 @@
+The image provided is a screenshot of a note-taking application's user interface. This app appears to be for organizing notes and tasks, and from the contents, it appears to be a demonstration or tutorial note explaining how to use the application, which seems to be called NotePlan.
+
+Here are the elements visible in the UI:
+
+1. At the very top, there is a window control with three dots: red, yellow, and green. This typically indicates a window on a macOS system where red is to close the window, yellow is to minimize the window, and green is to enter full screen or maximize the window.
+
+2. Next to the window control, there is the title of the note which reads "Demo Project."
+
+3. On the right side of the title, there are three icons:
+   - A square with a pencil, indicating an editing mode or feature.
+   - A capital letter "A" with a dropdown arrow next to it, indicating font or text formatting options.
+   - Three dots or an ellipsis icon, usually indicating more options or a menu.
+
+4. Below the window controls and the top right icons, the main content area begins with a header that includes an emoji waving hand and the text "Welcome to NotePlan".
+
+5. The note itself is written in plain English and explains how NotePlan works, describing it as organized around notes with one note per day plus undated notes. It explains that users can jot down notes, link them with backlinks, and add to-dos as they occur.
+
+6. The note emphasizes two kinds of notes in NotePlan: daily notes, and project notes.
+
+7. The note text also refers to planning tasks within project notes and scheduling them by linking to a date with a specified format of ">YYYY-MM-DD". 
+
+8. There is an example of a scheduled task with an accompanying checkbox, which is unchecked, and the text reads "This is a scheduled task >2020-11-24".
+
+9. It further explains that linking works by writing the note title between double square brackets and indicates that there is an auto-complete feature to help out, specifically mentioning a feature on iOS.
+
+The note content is instructional and outlines key features of how to effectively use the NotePlan app. Additional context or functionality of the app such as creating, deleting, or switching notes may also be present but not visible from this screenshot.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2200, 1548]	[1100.0, 774.0]		Main Window
+3	1	SplitGroup	[0, 0, 2200, 1548]	[1100.0, 774.0]		
+8	3	ScrollArea	[0, 0, 2200, 1548]	[1100.0, 774.0]		
+13	8	TextArea	[0, 0, 2200, 1548]	[1100.0, 774.0]	"# 🙌 Welcome to NotePlan
+Thanks for using NotePlan, I appreciate your support! Below I have summed up the most important points you need to know about NotePlan to get you started efficiently.
+
+Let's get right into it...
+
+**How does NotePlan work?** NotePlan is organized around notes – one note per day, plus any number of undated notes that you can set up in parallel.
+Jot down notes, [[link]] them with each-other using backlinks, and write additional to-dos as they occur to you.
+At the end of the day or first thing tomorrow review the note and prioritize for the next day. And to stay on track with your projects, schedule tasks from your project notes (like this one) into your daily notes by linking them to a date (use >YYYY-MM-DD).
+
+NotePlan has **Two kinds of notes**:
+- daily notes,
+- and project notes
+Plan big things in your project notes and create folders as needed. Then link tasks from your project notes into your daily notes using `>YYYY-MM-DD`:
+
+* This is a scheduled task >2020-11-24
+
+**Linking** works by writing the note title between double square brackets: [[Note Title]]. Once you start typing you will get an auto-complete box to help you out (on iOS you can tap on the note icon in the toolbar above the keyboard). Try it by clicking on the link ('Note Title') above, it will create the note for you automatically.
+
+**Tasks are first-class citizens** in NotePlan. You can create them on Mac by clicking on the `+` left of an empty paragraph and on iOS by tapping on the task icon in the toolbar - or by typing an asterisk - space - and then the task name at the beginning of a paragraph: `* my task`.
+NotePlan looks actively for tasks and lets you search and filter them under 'Review' in the sidebar. You can search for all `open` tasks for example.
+If you know what *Markdown* is, you can open the preferences, and change the way NotePlan detects tasks (under 'Markdown').
+
+**Plain text Markdown files** are used to save your notes locally on your Mac, iPhone, or iPad. This means:
+- Your data is yours - it's not locked up behind an opaque database, but always accessible on your devices.
+- Your notes are 100% future-proof, you can use any other text editor to open them instead or in a combination with NotePlan.
+- Your notes are private, only you can see them.
+On your Mac, you can find out where your notes are saved using 'Note' → 'Show In Finder' (⇧⌘S) in the menubar. On iPhone and iPad open the app ""Files"" and navigate to ""On My iPhone/iPad"" → ""NotePlan"".
+
+**CloudKit or iCloud Drive** is used to sync your notes across Mac, iPhone, and iPad. CloudKit is a private and secure database by Apple (only you have access to it). You need to have iCloud and iCloud Drive enabled to use it. Turn off syncing in your preferences if you don't need or don't want to sync.
+
+**iCloud Calendar & Reminders** are tightly integrated with NotePlan. On Mac, you have the calendar sidebar (closable) on the right which you can not only use to switch the day in your daily notes (double-click a day to open 'daily notes', if you are inside a project note), but below the monthly calendar you can also see a timeline for the selected day. Your events and timed reminders will appear there. On iOS you can see your events & reminders at the top of your daily notes.
+You can also create and edit events & reminders (on iOS pull down and on Mac click into the timeline).
+
+**Use the Command Bar (⌘J)** to quickly search for notes by title, open a daily note, or create a task:
+- To search for a note, start typing the title, like ""Welco..."".
+- To open a daily note, type the date in any format you like or something like ""tomorrow"", ""next week"", ""this friday"".
+- To create a task, type what you want to do, and then a day: ""Buy milk tomorrow"".
+Try it now, hit ⌘J to start on Mac and on iOS tap on the search icon bottom right of any note or in the sidebar. There is also a global shortcut: ⌃⌘J on Mac.
+
+**Use Markdown to format** your notes. On Mac you can either click on the `+` button left of an empty paragraph to select an option or just type it in Markdown. On iOS choose from the toolbar above your keyboard. You already saw how a task is made (`* task`).  Here is more:
+- A bullet point is similar, but uses a dash by default: `- bullet point`.
+- Create a quote using the greater than sign: `> quote`.
+- Headings to structure your notes using `# Your Heading`. You can use up to 3 levels: `### Third Level`.
+- **Bold** and *italic*
+- And `inline code` using backticks.
+
+**Use tagging and mentions** to find things easier later on. You can use `#` to tag #things and `@` to tag people, like @Tim. You find all your tags left in your sidebar. Keep everything organized using nested tagging by adding slashes: #main/sub or @client/acme/dan.
+
+We are done for now. You can archive this note for future reference if you like (on Mac right-click the note in the sidebar → 'Archive', on iOS swipe it left in the sidebar).
+
+If you need help, you can reach me through 'Help' → 'Write us' in the menubar (in the preferences on iOS).
+
+￼
+**Thanks** for supporting me on this journey. I'm enjoying every step of this path - making the productivity world a little better every day!
+
+Best, Eduard (founder and creator of NotePlan)
+"	
+16	13	Link	[736, 672, 46, 44]	[759.0, 694.0]		link
+15	13	Link	[892, 1348, 180, 44]	[982.0, 1370.0]		>2020-11-24
+14	13	Link	[1498, 1472, 132, 44]	[1564.0, 1494.0]		Note Title
+9	8	ScrollBar	[2168, 72, 32, 1476]	[2184.0, 810.0]	0.0	
+12	9	ValueIndicator	[2176, 74, 24, 360]	[2188.0, 254.0]	0.0	
+11	9	Button	[2176, 434, 24, 1112]	[2188.0, 990.0]		
+10	9	Button	[2176, 72, 24, 2]	[2188.0, 73.0]		
+7	3	Button	[148, 12, 336, 52]	[316.0, 38.0]		" 	 Demo Project"
+6	3	Button	[1952, 14, 64, 44]	[1984.0, 36.0]		
+5	3	Button	[2032, 14, 64, 44]	[2064.0, 36.0]		
+4	3	Button	[2112, 14, 64, 44]	[2144.0, 36.0]		
+2	1	Toolbar	[0, 0, 2200, 76]	[1100.0, 38.0]		

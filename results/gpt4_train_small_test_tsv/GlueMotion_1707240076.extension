@@ -1,0 +1,68 @@
+The UI interface in the image appears to be from a video editing or video preview application. The interface is divided into two main sections with various elements within each:
+
+**Left Section:**
+
+1. Navigation Bar: At the top, there's a horizontal navigation bar with a "< Go Back" link, seemingly to return to a previous screen or mode.
+2. Tabs: Next to the back link, there are several tabs that most likely switch the content of the interface between different editing modes or settings. The visible tabs are "Frames," "Transforms," "Adjustments," "Blending," and "Speed". Another tab "Export" is cut off on the right side.
+3. Central Display: The large area is showing what appears to be a preview of a video or an image. It seems like a still from video footage, featuring hanging lanterns.
+4. Action Button: At the bottom of the central display, there is a button labeled "Generate the preview ►" with an icon indicating action or proceeding forward. This button likely starts the process of generating a preview with the current settings applied.
+5. Playback Controls: Below the central display are standard video playback controls that include (from left to right) a backward skip button, a play button, a pause button, and a forward skip button.
+6. Timeline Slider: At the very bottom, there's a timeline or progress bar for the video. This would allow the user to scrub through the video or see the progress of the preview.
+
+**Right Section:**
+
+1. Panel Title: "Choose the Frame Rate" with a subtitle "Preview video at different frame rates." This area is likely to adjust how the video plays back in terms of frames per second (FPS).
+2. FPS Control: There's a large round slider with a blue indicator showing the number "30," indicating the frame rate is set to 30 FPS.
+3. Detailed Settings: Below the slider, there are detailed settings to further adjust the video preview:
+   - "Duration" with a value "0s" (seconds) just below it, indicating the preview duration is currently at zero seconds.
+   - "FPS" with a numerical input field next to it, set to "30,00" which possibly allows for manual entry of the desired frames per second.
+   - "Length" with a dropdown menu next to it labeled "All frames". This might allow choosing between playing all frames or selecting a specific range for preview.
+4. Preview Quality: At the bottom left corner of this section, there is a note "720p Preview," suggesting the current quality setting of the video preview.
+5. Action Button: At the bottom right corner, there is a "Continue ►" button, which is likely used to proceed with the selected frame rate settings.
+
+Please note that without additional context or the ability to interact with the UI, some functionalities may only be assumed based on common practices in video editing software and UI design.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2360, 1616]	[1180.0, 808.0]		folder
+15	1	Group	[0, 104, 2360, 1512]	[1180.0, 860.0]		
+42	15	StaticText	[592, 712, 334, 40]	[759.0, 732.0]	Generate the preview	
+41	15	Image	[930, 714, 32, 36]	[946.0, 732.0]		|play
+40	15	Button	[40, 1378, 52, 38]	[66.0, 1397.0]		|go to start
+39	15	Button	[100, 1378, 52, 38]	[126.0, 1397.0]		
+38	15	Button	[160, 1378, 52, 38]	[186.0, 1397.0]		|play
+37	15	Button	[220, 1378, 52, 38]	[246.0, 1397.0]		
+36	15	Button	[280, 1378, 52, 38]	[306.0, 1397.0]		|go to end
+35	15	StaticText	[1348, 1380, 172, 32]	[1434.0, 1396.0]	720p Preview	
+34	15	Group	[68, 1480, 1422, 84]	[779.0, 1522.0]		
+33	15	Group	[68, 1480, 1422, 84]	[779.0, 1522.0]		
+32	15	Group	[40, 1468, 1478, 108]	[779.0, 1522.0]		
+31	15	Group	[40, 1468, 1478, 108]	[779.0, 1522.0]		
+30	15	StaticText	[1596, 144, 728, 52]	[1960.0, 170.0]	Choose the Frame Rate	
+29	15	StaticText	[1596, 204, 728, 32]	[1960.0, 220.0]	Preview video at different frame rates	
+28	15	Button	[1588, 1508, 744, 80]	[1960.0, 1548.0]		Continue|Forward
+16	15	ScrollArea	[1560, 278, 800, 1202]	[1960.0, 879.0]		
+27	16	StaticText	[1596, 924, 126, 38]	[1659.0, 943.0]	Duration	
+26	16	StaticText	[2282, 924, 42, 38]	[2303.0, 943.0]	0s	
+25	16	StaticText	[1596, 1012, 62, 34]	[1627.0, 1029.0]	FPS	
+24	16	TextField	[2080, 1008, 206, 42]	[2183.0, 1029.0]	30,00	
+21	16	Incrementor	[2288, 1000, 38, 58]	[2307.0, 1029.0]	0.0	
+23	21	Button	[2288, 1000, 38, 28]	[2307.0, 1014.0]		
+22	21	Button	[2288, 1028, 38, 28]	[2307.0, 1042.0]		
+20	16	StaticText	[1596, 1096, 102, 38]	[1647.0, 1115.0]	Length	
+19	16	PopUpButton	[2074, 1092, 254, 50]	[2201.0, 1117.0]	All frames	
+18	16	ScrollBar	[1560, 1448, 800, 32]	[1960.0, 1464.0]	0.0	
+17	16	ScrollBar	[2328, 278, 32, 1202]	[2344.0, 879.0]	0.0	
+2	1	Toolbar	[0, 0, 2360, 104]	[1180.0, 52.0]		
+14	2	Button	[174, 0, 152, 104]	[250.0, 52.0]		|chevron.backward
+6	2	Group	[662, 0, 1036, 104]	[1180.0, 52.0]		
+7	6	RadioGroup	[658, 12, 1044, 80]	[1180.0, 52.0]	<AXUIElement 0x600002f3cd20> {pid=42841}	
+13	7	RadioButton	[658, 12, 174, 80]	[745.0, 52.0]	0	|Frames
+12	7	RadioButton	[832, 12, 174, 80]	[919.0, 52.0]	0	|Transforms
+11	7	RadioButton	[1006, 12, 174, 80]	[1093.0, 52.0]	0	|Adjustments
+10	7	RadioButton	[1180, 12, 174, 80]	[1267.0, 52.0]	0	|Blending
+9	7	RadioButton	[1354, 12, 174, 80]	[1441.0, 52.0]	1	|Speed
+8	7	RadioButton	[1528, 12, 174, 80]	[1615.0, 52.0]	0	|Export
+5	2	Button	[2196, 0, 72, 104]	[2232.0, 52.0]		|doc.badge.gearshape
+3	2	MenuButton	[2268, 0, 76, 104]	[2306.0, 52.0]		|questionmark.circle
+4	3	MenuButton	[2264, 12, 84, 80]	[2306.0, 52.0]		|questionmark.circle

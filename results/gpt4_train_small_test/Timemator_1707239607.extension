@@ -1,0 +1,28 @@
+The image depicts a user interface of a time-tracking application with various elements to note:
+
+1. **Top Bar (Controls and Indicators):**
+   - On the left, there are standard window control buttons (red, yellow, and green dots) typically found on macOS applications.
+   - In the upper center, there's a segmented control with two options: "Day" (not highlighted) and "Week" (highlighted), indicating that the displayed view is the weekly view.
+   - To the right of that, there are navigation controls consisting of two arrows (left and right) to navigate between weeks, as well as a circular button that might function as a "today" button, centering the calendar on the current date.
+   - Centered at the top is a date range "5 February 2024 – 11 February 2024" indicating the week currently being viewed.
+   - On the top right, there are two buttons with icons—one resembling a square and one mimicking a shopping cart—possibly indicating additional features or settings.
+   - Next to these icons, there are two fields displaying `$0.00` and `0:00`, which might represent total earnings and total tracked time for the selected period.
+
+2. **Left Sidebar (Navigation Menu):**
+   - There are three options here, each with an icon:
+        - "Tracking" with a play icon, possibly currently active since its background is a different shade (higher contrast than the others), indicating the current section or status.
+        - "Timeline" with a calendar icon, suggesting a different view or feature related to scheduling or reviewing past activity.
+        - "Reports" with a bar chart icon, which might be for viewing summaries, statistics, or analytics of tracked data.
+
+3. **Main Content Area (Weekly Calendar View):**
+   - A grid is displayed representing days of the week (from Monday through Sunday) and time intervals on the vertical axis (13:00 to 19:00 shown, indicating a possible 24-hour format).
+   - Each column represents a day, labeled with "Mon 5", "Tue 6", "Wed 7", etc., correlating with the dates from the date range in the top bar.
+   - There's a red line spanning across multiple days, just below the 20:00 hour mark, likely indicating the current time across the week (assuming the current time is shortly before 20:00 when the screenshot was taken).
+
+4. **Floating Action Button:**
+   - On the lower left corner, there is a blue play button with a time indicator “00:00:13” and text “First Task”, suggesting a current activity is being tracked. This element looks like an interactive button to start, stop, or resume a task timer.
+
+5. **Bottom Horizontal Bar (Possibly for Adding New Entries):**
+   - Near the bottom of the image, there’s a horizontal bar with a plus ("+") and minus ("-") button, which could be for adding and removing time entries or tasks manually to the calendar.
+
+This application's UI is designed for tracking activities or work, viewing a timeline of recorded tasks, and generating reports on the tracked data, with financial and time metrics clearly displayed. It offers both a detailed day view and an overview week view for planning and recording purposes.

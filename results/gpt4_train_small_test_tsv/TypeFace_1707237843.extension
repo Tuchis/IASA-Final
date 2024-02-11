@@ -1,0 +1,150 @@
+The image shows a UI of a font management application, most likely on macOS given the design style. I'll describe the various elements from left to right, starting with the sidebar, then the top bar, followed by the main area.
+
+**Sidebar:**
+- At the very top left, there are three small dots in red, yellow, and green, typical of macOS window controls for close, minimize, and maximize respectively.
+- Below this, there are sidebar items grouped into categories:
+  - General: 'All,' 'User,' and 'System' tabs are visible. Each is accompanied by an icon indicative of its function: a collection of parallel lines, a silhouette of a person, and a gear-like symbol respectively.
+  - Organization: 'Last Import,' 'Activated,' and 'Untagged' tabs are shown with corresponding icons that suggest their functions (an arrow indicating import action, a checkmark, and a tag).
+  - A separator line, followed by a label "Font Book".
+  - Collection Categories: Several categories are listed such as 'Fixed Width,' 'Fun,' 'Modern,' 'PDF,' 'mono-spaced,; 'ornamental,' 'sans,' 'script,' 'serif,' 'symbolic,' 'Traditional,' 'Web' which are probably filters or collections of fonts.
+
+**Top Bar:**
+- Starting from the left, there are navigation buttons, likely for going back or forward within the application.
+- The next set includes three buttons for different viewing modes.
+  - 'Pr' most likely stands for Preview Mode,
+  - The next icon appears to represent a list or detailed view mode,
+  - And the last button with squares may represent a grid view.
+- Next to these view modes, there is a slider bar, probably for adjusting the size of the font preview.
+- Following the slider, there is a search box with a magnifying glass icon, indicating a search functionality.
+
+**Main Content Area:**
+- There is a text input field with rounded corners in the center-top part of the main area which contains the sample text "IASA Champ' 2024".
+- Below the text input field, there are formatting options—these seem to include buttons for alignment (left align, center align, right align, justified), a button to toggle bold text, italic, underline, a dropdown for font size, another for font style, a ligature button, and a button probably for tracking or kerning adjustments (Tr).
+- The main content area, below the formatting options, displays the message "No fonts visible" indicating that no fonts are currently selected or being shown. There is additional text instructing to "Select some fonts to show them in this Quick Collection", which suggests that the area is meant to display a user's selected or recently used font collection.
+- A graphical silhouette of what appears to be a butterfly is present in the center of the main content area, likely serving as a placeholder graphic or brand element of the application.
+
+**Additional UI Elements:**
+- In the top-right corner, there is a hashtag followed by "quick-collection," which could be the title of the current view or collection being displayed.
+- Above the main content area to the right, there are numbers "44" and "0" with a blue slider, potentially indicating the number of fonts or items in the collection and the slider's position or a zoom level.
+
+The interface uses a clean, minimalistic design consistent with modern macOS applications, focusing on functionality and ease of use.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1760, 1500]	[880.0, 750.0]		Typeface
+117	1	Button	[128, 1436, 62, 54]	[159.0, 1463.0]		
+20	1	ScrollArea	[0, 76, 318, 1350]	[159.0, 751.0]		
+21	20	Outline	[0, 76, 318, 1350]	[159.0, 751.0]		
+112	21	Row	[0, 96, 318, 56]	[159.0, 124.0]		
+113	112	Cell	[20, 96, 278, 56]	[159.0, 124.0]		
+116	113	Image	[32, 108, 30, 30]	[47.0, 123.0]		|gridTemplate
+115	113	StaticText	[72, 108, 38, 32]	[91.0, 124.0]	All	
+114	113	StaticText	[282, 112, 8, 28]	[286.0, 126.0]	1051	
+107	21	Row	[0, 152, 318, 56]	[159.0, 180.0]		
+108	107	Cell	[20, 152, 278, 56]	[159.0, 180.0]		
+111	108	Image	[32, 164, 30, 30]	[47.0, 179.0]		|userTemplate
+110	108	StaticText	[72, 164, 64, 32]	[104.0, 180.0]	User	
+109	108	StaticText	[282, 168, 8, 28]	[286.0, 182.0]	0	
+102	21	Row	[0, 208, 318, 56]	[159.0, 236.0]		
+103	102	Cell	[20, 208, 278, 56]	[159.0, 236.0]		
+106	103	Image	[32, 222, 30, 28]	[47.0, 236.0]		|imacTemplate
+105	103	StaticText	[72, 220, 98, 32]	[121.0, 236.0]	System	
+104	103	StaticText	[282, 224, 8, 28]	[286.0, 238.0]	?	
+97	21	Row	[0, 264, 318, 56]	[159.0, 292.0]		
+98	97	Cell	[20, 264, 278, 56]	[159.0, 292.0]		
+101	98	Image	[32, 276, 30, 30]	[47.0, 291.0]		|recentTemplate
+100	98	StaticText	[72, 276, 146, 32]	[145.0, 292.0]	Last Import	
+99	98	StaticText	[282, 280, 8, 28]	[286.0, 294.0]	?	
+92	21	Row	[0, 320, 318, 56]	[159.0, 348.0]		
+93	92	Cell	[20, 320, 278, 56]	[159.0, 348.0]		
+96	93	Image	[32, 332, 30, 30]	[47.0, 347.0]		|activatedTemplate
+95	93	StaticText	[72, 332, 122, 32]	[133.0, 348.0]	Activated	
+94	93	StaticText	[282, 336, 8, 28]	[286.0, 350.0]	?	
+87	21	Row	[0, 376, 318, 56]	[159.0, 404.0]		
+88	87	Cell	[20, 376, 278, 56]	[159.0, 404.0]		
+91	88	Image	[32, 388, 30, 30]	[47.0, 403.0]		|untaggedTemplate
+90	88	StaticText	[72, 388, 128, 32]	[136.0, 404.0]	Untagged	
+89	88	StaticText	[282, 392, 8, 28]	[286.0, 406.0]	?	
+84	21	Row	[0, 432, 318, 64]	[159.0, 464.0]		
+85	84	Cell	[20, 432, 278, 64]	[159.0, 464.0]		
+86	85	Button	[136, 438, 46, 54]	[159.0, 465.0]		
+79	21	Row	[0, 496, 318, 56]	[159.0, 524.0]		
+80	79	Cell	[20, 496, 278, 56]	[159.0, 524.0]		
+83	80	Image	[32, 508, 30, 30]	[47.0, 523.0]		|fontBookTemplate
+82	80	StaticText	[72, 508, 130, 32]	[137.0, 524.0]	Font Book	
+81	80	StaticText	[282, 512, 8, 28]	[286.0, 526.0]	?	
+76	21	Row	[0, 552, 318, 64]	[159.0, 584.0]		
+77	76	Cell	[20, 552, 278, 64]	[159.0, 584.0]		
+78	77	Button	[136, 558, 46, 54]	[159.0, 585.0]		
+72	21	Row	[0, 616, 318, 56]	[159.0, 644.0]		
+73	72	Cell	[20, 616, 278, 56]	[159.0, 644.0]		
+75	73	StaticText	[34, 628, 152, 32]	[110.0, 644.0]	Fixed Width	
+74	73	StaticText	[282, 632, 8, 28]	[286.0, 646.0]	0	
+68	21	Row	[0, 672, 318, 56]	[159.0, 700.0]		
+69	68	Cell	[20, 672, 278, 56]	[159.0, 700.0]		
+71	69	StaticText	[34, 684, 52, 32]	[60.0, 700.0]	Fun	
+70	69	StaticText	[282, 688, 8, 28]	[286.0, 702.0]	?	
+64	21	Row	[0, 728, 318, 56]	[159.0, 756.0]		
+65	64	Cell	[20, 728, 278, 56]	[159.0, 756.0]		
+67	65	StaticText	[34, 740, 102, 32]	[85.0, 756.0]	Modern	
+66	65	StaticText	[282, 744, 8, 28]	[286.0, 758.0]	?	
+60	21	Row	[0, 784, 318, 56]	[159.0, 812.0]		
+61	60	Cell	[20, 784, 278, 56]	[159.0, 812.0]		
+63	61	StaticText	[34, 796, 58, 32]	[63.0, 812.0]	PDF	
+62	61	StaticText	[282, 800, 8, 28]	[286.0, 814.0]	?	
+55	21	Row	[0, 840, 318, 56]	[159.0, 868.0]		
+56	55	Cell	[20, 838, 284, 58]	[162.0, 867.0]		
+59	56	StaticText	[34, 852, 66, 32]	[67.0, 868.0]	style	
+58	56	StaticText	[282, 856, 8, 28]	[286.0, 870.0]	?	
+57	56	DisclosureTriangle	[14, 842, 26, 56]	[27.0, 870.0]	1	
+51	21	Row	[0, 896, 318, 56]	[159.0, 924.0]		
+52	51	Cell	[20, 896, 278, 56]	[159.0, 924.0]		
+54	52	StaticText	[54, 908, 164, 32]	[136.0, 924.0]	monospaced	
+53	52	StaticText	[282, 912, 8, 28]	[286.0, 926.0]	17	
+47	21	Row	[0, 952, 318, 56]	[159.0, 980.0]		
+48	47	Cell	[20, 952, 278, 56]	[159.0, 980.0]		
+50	48	StaticText	[54, 964, 144, 32]	[126.0, 980.0]	ornamental	
+49	48	StaticText	[282, 968, 8, 28]	[286.0, 982.0]	1051	
+43	21	Row	[0, 1008, 318, 56]	[159.0, 1036.0]		
+44	43	Cell	[20, 1008, 278, 56]	[159.0, 1036.0]		
+46	44	StaticText	[54, 1020, 64, 32]	[86.0, 1036.0]	sans	
+45	44	StaticText	[282, 1024, 8, 28]	[286.0, 1038.0]	?	
+39	21	Row	[0, 1064, 318, 56]	[159.0, 1092.0]		
+40	39	Cell	[20, 1064, 278, 56]	[159.0, 1092.0]		
+42	40	StaticText	[54, 1076, 76, 32]	[92.0, 1092.0]	script	
+41	40	StaticText	[282, 1080, 8, 28]	[286.0, 1094.0]	?	
+35	21	Row	[0, 1120, 318, 56]	[159.0, 1148.0]		
+36	35	Cell	[20, 1120, 278, 56]	[159.0, 1148.0]		
+38	36	StaticText	[54, 1132, 62, 32]	[85.0, 1148.0]	serif	
+37	36	StaticText	[282, 1136, 8, 28]	[286.0, 1150.0]	?	
+31	21	Row	[0, 1176, 318, 56]	[159.0, 1204.0]		
+32	31	Cell	[20, 1176, 278, 56]	[159.0, 1204.0]		
+34	32	StaticText	[54, 1188, 116, 32]	[112.0, 1204.0]	symbolic	
+33	32	StaticText	[282, 1192, 8, 28]	[286.0, 1206.0]	?	
+27	21	Row	[0, 1232, 318, 56]	[159.0, 1260.0]		
+28	27	Cell	[20, 1232, 278, 56]	[159.0, 1260.0]		
+30	28	StaticText	[34, 1244, 134, 32]	[101.0, 1260.0]	Traditional	
+29	28	StaticText	[282, 1248, 8, 28]	[286.0, 1262.0]	?	
+23	21	Row	[0, 1288, 318, 56]	[159.0, 1316.0]		
+24	23	Cell	[20, 1288, 278, 56]	[159.0, 1316.0]		
+26	24	StaticText	[34, 1300, 62, 32]	[65.0, 1316.0]	Web	
+25	24	StaticText	[282, 1304, 8, 28]	[286.0, 1318.0]	?	
+22	21	Column	[20, 76, 278, 1350]	[159.0, 751.0]		
+19	1	Button	[352, 90, 56, 70]	[380.0, 125.0]		
+18	1	Button	[414, 90, 68, 70]	[448.0, 125.0]		
+17	1	Button	[476, 90, 68, 70]	[510.0, 125.0]		
+16	1	Button	[550, 90, 56, 70]	[578.0, 125.0]		
+15	1	StaticText	[998, 98, 76, 28]	[1036.0, 112.0]	44	
+14	1	StaticText	[998, 126, 76, 28]	[1036.0, 140.0]	0	
+13	1	Button	[1002, 102, 72, 70]	[1038.0, 137.0]		 
+12	1	TextField	[1528, 100, 200, 52]	[1628.0, 126.0]		
+7	1	ScrollArea	[320, 176, 1440, 1324]	[1040.0, 838.0]		
+11	7	StaticText	[316, 870, 1444, 38]	[1038.0, 889.0]	No fonts visible	
+10	7	StaticText	[694, 918, 690, 32]	[1039.0, 934.0]	Select some fonts to show them in this Quick Collection	
+9	7	Image	[918, 582, 244, 248]	[1040.0, 706.0]		|iconMinimalColor
+8	7	ScrollBar	[1728, 176, 32, 1324]	[1744.0, 838.0]	0.0	
+6	1	TextField	[440, 272, 1200, 88]	[1040.0, 316.0]	IASA Champ' 2024	
+2	1	Toolbar	[0, 0, 1760, 76]	[880.0, 38.0]		
+3	2	Group	[440, 0, 1294, 76]	[1087.0, 38.0]		
+5	3	StaticText	[926, 18, 228, 34]	[1040.0, 35.0]	quick-collection	
+4	3	Image	[906, 24, 24, 24]	[918.0, 36.0]		|

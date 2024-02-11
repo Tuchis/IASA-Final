@@ -1,0 +1,127 @@
+You're looking at a UI interface of an app with the following elements and text fields:
+
+On the top left, there are three colored dots — red, yellow, and green, typically used to close, minimize, and maximize a window on macOS.
+
+Below that, on the left-hand side, is the sidebar navigation panel containing the following items:
+1. General (with gear icon before the text)
+2. Windows (highlighted in blue with a screen icon before the text, indicating the current section selected)
+3. Snapping (with a screen icon before the text)
+4. Apps (with a screen icon before the text)
+5. Menubar (with a screen icon before the text)
+6. Advanced (with a gear icon before the text)
+7. About (with an information 'i' icon before the text)
+
+On the top right corner of the window is a "Quit" button, which probably exits the application.
+
+The main content panel to the right of the sidebar shows the title "Windows" with a subtitle text that reads, "Control basic functionality by swiping and pinching on window titlebars."
+
+Below the title are the following settings with checkboxes, text descriptions, and illustrative icons:
+
+1. "Mission Control" (checkbox checked) — "Most Window and Snapping gestures also work in Mission Control & App Exposé."
+2. "General Modifier" with a dropdown arrow, set to "^" (symbol representing the Control key on a keyboard).
+
+Listed below are several actions with associated gestures and keyboard shortcuts:
+
+- "Quit" — Red 'x' icon — Pinch in twice to quit an application. Shortcut: "⌘↓"
+- "Close" — Red 'x' icon — Pinch in once to close a window. Shortcut: "⌘↓"
+- "Minimize" — Yellow '-' icon — Swipe down once to minimize a window. Shortcut: "⤵︎↓"
+- "Fullscreen" — Green '+' icon — Pinch out or tap, hold and swipe up to enter or exit fullscreen mode. Shortcut: "⤾↑"
+- "Hide" — "G⤵︎⤴︎2" shown in symbols, a double tap with the general modifier to hide all windows of an application. Use the secondary modifier to hide all other apps.
+- "Spaces" — Blue rectangle icon — Tap, hold and swipe or use the general modifier to move a window between Mission Control spaces. Shortcut: "G⬅➡"
+
+These descriptions and shortcuts provide guidance on how to manipulate windows within the application, including using multiple fingers on a trackpad or mouse (as indicated by the gesture icons) alongside keyboard modifiers and shortcuts.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1560, 948]	[780.0, 474.0]		Swish
+5	1	SplitGroup	[0, 0, 1560, 948]	[780.0, 474.0]		
+62	5	ScrollArea	[0, 104, 300, 844]	[150.0, 526.0]		
+63	62	Table	[0, 104, 300, 844]	[150.0, 526.0]		
+89	63	Row	[0, 104, 300, 72]	[150.0, 140.0]		
+90	89	Cell	[32, 104, 236, 72]	[150.0, 140.0]		
+92	90	Image	[42, 122, 34, 34]	[59.0, 139.0]		|General
+91	90	StaticText	[92, 122, 180, 36]	[182.0, 140.0]	General	
+85	63	Row	[0, 176, 300, 72]	[150.0, 212.0]		
+86	85	Cell	[32, 176, 236, 72]	[150.0, 212.0]		
+88	86	Image	[40, 196, 42, 32]	[61.0, 212.0]		|Windows
+87	86	StaticText	[92, 194, 180, 36]	[182.0, 212.0]	Windows	
+81	63	Row	[0, 248, 300, 72]	[150.0, 284.0]		
+82	81	Cell	[32, 248, 236, 72]	[150.0, 284.0]		
+84	82	Image	[40, 268, 40, 30]	[60.0, 283.0]		|Snapping
+83	82	StaticText	[92, 266, 180, 36]	[182.0, 284.0]	Snapping	
+77	63	Row	[0, 320, 300, 72]	[150.0, 356.0]		
+78	77	Cell	[32, 320, 236, 72]	[150.0, 356.0]		
+80	78	Image	[40, 340, 40, 30]	[60.0, 355.0]		|Apps
+79	78	StaticText	[92, 338, 180, 36]	[182.0, 356.0]	Apps	
+73	63	Row	[0, 392, 300, 72]	[150.0, 428.0]		
+74	73	Cell	[32, 392, 236, 72]	[150.0, 428.0]		
+76	74	Image	[40, 412, 40, 30]	[60.0, 427.0]		|Menubar
+75	74	StaticText	[92, 410, 180, 36]	[182.0, 428.0]	Menubar	
+69	63	Row	[0, 464, 300, 72]	[150.0, 500.0]		
+70	69	Cell	[32, 464, 236, 72]	[150.0, 500.0]		
+72	70	Image	[38, 482, 42, 34]	[59.0, 499.0]		|Advanced
+71	70	StaticText	[92, 482, 180, 36]	[182.0, 500.0]	Advanced	
+65	63	Row	[0, 536, 300, 72]	[150.0, 572.0]		
+66	65	Cell	[32, 536, 236, 72]	[150.0, 572.0]		
+68	66	Image	[44, 556, 32, 32]	[60.0, 572.0]		|About
+67	66	StaticText	[92, 554, 180, 36]	[182.0, 572.0]	About	
+64	63	Column	[20, 104, 260, 844]	[150.0, 526.0]		
+61	5	Splitter	[300, 104, 2, 844]	[301.0, 526.0]	150.0	
+6	5	ScrollArea	[302, 104, 1258, 844]	[931.0, 526.0]		
+60	6	StaticText	[322, 128, 216, 58]	[430.0, 157.0]	Windows	
+59	6	StaticText	[322, 210, 818, 32]	[731.0, 226.0]	Control basic functionality by swiping and pinching on window titlebars.	
+58	6	StaticText	[322, 282, 210, 34]	[427.0, 299.0]	Mission Control	
+57	6	CheckBox	[540, 280, 36, 36]	[558.0, 298.0]	1	
+56	6	StaticText	[322, 332, 924, 32]	[784.0, 348.0]	Most Window and Snapping gestures also work in Mission Control & App Exposé.	
+55	6	StaticText	[322, 404, 222, 34]	[433.0, 421.0]	General Modifier	
+54	6	Button	[550, 398, 64, 48]	[582.0, 422.0]		⌃
+53	6	Image	[326, 478, 48, 48]	[350.0, 502.0]		|ActionXInv
+52	6	StaticText	[386, 484, 188, 34]	[480.0, 501.0]	Quit	
+51	6	Image	[610, 492, 24, 24]	[622.0, 504.0]		|GestureInwards
+50	6	Image	[586, 492, 24, 24]	[598.0, 504.0]		|GestureInwards
+49	6	Image	[722, 492, 22, 24]	[733.0, 504.0]		|GestureDown
+48	6	Image	[700, 492, 22, 24]	[711.0, 504.0]		|GestureDown
+47	6	Image	[674, 492, 26, 24]	[687.0, 504.0]		|GestureModG
+46	6	StaticText	[770, 486, 416, 38]	[978.0, 505.0]	Pinch in twice to quit an application.	
+45	6	Image	[326, 542, 48, 48]	[350.0, 566.0]		|ActionX
+44	6	StaticText	[386, 548, 188, 34]	[480.0, 565.0]	Close	
+43	6	Image	[586, 556, 24, 24]	[598.0, 568.0]		|GestureInwards
+42	6	Image	[700, 556, 22, 24]	[711.0, 568.0]		|GestureDown
+41	6	Image	[674, 556, 26, 24]	[687.0, 568.0]		|GestureModG
+40	6	StaticText	[770, 550, 374, 38]	[957.0, 569.0]	Pinch in once to close a window.	
+39	6	Image	[326, 606, 48, 48]	[350.0, 630.0]		|ActionMinus
+38	6	StaticText	[386, 612, 188, 34]	[480.0, 629.0]	Minimize	
+37	6	Image	[586, 620, 22, 24]	[597.0, 632.0]		|GestureDown
+36	6	Image	[694, 620, 22, 24]	[705.0, 632.0]		|GestureDown
+35	6	Image	[674, 620, 20, 24]	[684.0, 632.0]		|GestureHold
+34	6	StaticText	[770, 614, 460, 38]	[1000.0, 633.0]	Swipe down once to minimize a window.	
+33	6	Image	[326, 670, 48, 48]	[350.0, 694.0]		|ActionZoom
+32	6	StaticText	[386, 676, 188, 34]	[480.0, 693.0]	Fullscreen	
+31	6	Image	[586, 684, 24, 24]	[598.0, 696.0]		|GestureOutwards
+30	6	Image	[694, 684, 22, 24]	[705.0, 696.0]		|GestureUp
+29	6	Image	[674, 684, 20, 24]	[684.0, 696.0]		|GestureHold
+28	6	StaticText	[770, 678, 770, 64]	[1155.0, 710.0]	Pinch out or tap, hold and swipe up to enter or exit fullscreen mode.	
+27	6	Image	[326, 758, 48, 48]	[350.0, 782.0]		|ActionMinus
+26	6	StaticText	[386, 766, 188, 34]	[480.0, 783.0]	Hide	
+25	6	Image	[612, 772, 24, 24]	[624.0, 784.0]		|GestureTap
+24	6	Image	[586, 772, 26, 24]	[599.0, 784.0]		|GestureModG
+23	6	Image	[700, 772, 24, 24]	[712.0, 784.0]		|GestureTap
+22	6	Image	[674, 772, 26, 24]	[687.0, 784.0]		|GestureMod2
+21	6	StaticText	[770, 768, 770, 64]	[1155.0, 800.0]	Double tap with the general modifier to hide all windows of an application. Use the secondary modifier to hide all other apps.	
+20	6	Image	[326, 848, 48, 48]	[350.0, 872.0]		|ActionSpaces
+19	6	StaticText	[386, 854, 188, 34]	[480.0, 871.0]	Spaces	
+18	6	Image	[630, 862, 24, 24]	[642.0, 874.0]		|GestureRight
+17	6	Image	[606, 862, 24, 24]	[618.0, 874.0]		|GestureLeft
+16	6	Image	[586, 862, 20, 24]	[596.0, 874.0]		|GestureHold
+15	6	Image	[724, 862, 24, 24]	[736.0, 874.0]		|GestureRight
+14	6	Image	[700, 862, 24, 24]	[712.0, 874.0]		|GestureLeft
+13	6	Image	[674, 862, 26, 24]	[687.0, 874.0]		|GestureModG
+12	6	StaticText	[770, 856, 770, 64]	[1155.0, 888.0]	Tap, hold and swipe or use the general modifier to move a window between Mission Control spaces.	
+11	6	ScrollBar	[302, 916, 1258, 32]	[931.0, 932.0]	0.0	
+7	6	ScrollBar	[1528, 104, 32, 844]	[1544.0, 526.0]	0.0	
+10	7	ValueIndicator	[1536, 106, 24, 406]	[1548.0, 309.0]	0.0	
+9	7	Button	[1536, 514, 24, 434]	[1548.0, 731.0]		
+8	7	Button	[1536, 104, 24, 2]	[1548.0, 105.0]		
+3	1	Toolbar	[0, 0, 1560, 104]	[780.0, 52.0]		
+4	3	Button	[1448, 0, 96, 104]	[1496.0, 52.0]		|Quit
+2	1	StaticText	[318, 0, 1130, 104]	[883.0, 52.0]	Swish	

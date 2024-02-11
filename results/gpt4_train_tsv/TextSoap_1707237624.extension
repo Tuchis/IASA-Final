@@ -1,0 +1,21 @@
+In the image of the UI interface, the following elements are present:
+
+On the top left:
+- Three small circles, commonly used to represent window control buttons (close, minimize, maximize).
+- A square icon that might represent a menu toggle or window controls.
+
+Below that, on the left side of the interface, there is a sidebar with the following items:
+- A search field labeled "Filter".
+- A section titled "LIBRARY" with four items listed vertically: "Start," "Import" (currently selected/highlighted), "Export," and "Remove."
+- A section titled "CLEANER GROUPS" with no items listed.
+- A section titled "CUSTOM CLEANERS" with no items listed.
+- At the bottom of the sidebar, there are two buttons: one with a "+" symbol and another with a settings gear icon next to a down-pointing arrow or chevron.
+
+In the main pane on the right side of the interface:
+- At the top, a title/header that reads "Import".
+- Below the header, there is an instructional text that provides information on how to use the import functionality: "Select the files to import. Review the cleaners contained within the files. Select desired cleaners and click 'Import Selected'."
+- There is a "Select Files..." button next to this text, presumably to open the file picker dialog.
+- Below the instructional text, there appears to be a space for listing items, indicated by empty lines that would typically hold text or information, but it's currently empty.
+- At the bottom of this main pane, there is a checkbox with the label "Replace existing cleaners without prompts" and a button labeled "Import Selected" to the right.
+
+Please note that without further context or interaction, it is not possible to determine the specific functionality or effect of each UI element, however, the labels and symbols provide user interface clues as described above.

@@ -1,0 +1,127 @@
+This screenshot shows a web browser with a tab opened to the "What's New in Chrome" page. The interface includes the following elements:
+
+1. Browser tabs and window controls:
+   - Three browser tabs are open, with the active tab showing "What's New" in Chrome.
+   - The first tab appears to be Gmail, the second tab is YouTube, and the specific active tab shows Chrome information.
+   - On the top right of the window, the window control buttons for minimizing, maximizing/restoring, and closing the window are displayed.
+
+2. Browser navigation buttons and address bar:
+   - Back, forward, and refresh buttons to navigate web pages.
+   - The address bar with the URL "chrome://whats-new" visible.
+
+3. Browser shortcut buttons and profile area:
+   - Buttons for bookmarks, and additional extensions/plugins installed.
+   - The profile button is shown with a blue user icon, indicating the current user profile.
+
+4. Within the browser content area on the left side:
+   - A message stating, "Your Chrome is up to date" with a checkmark.
+   - A heading "What's New in Chrome" which suggests content related to Chrome's new features or updates.
+   - Below the heading is a brief description: "A new Chrome Web Store and securing your online connection."
+   - An image showing a screenshot of the Chrome Web Store.
+   - At the bottom, "CHROME WEB STORE" is mentioned for further emphasis on the content.
+
+5. On the right side of the browser content area is a sidebar related to bookmarks:
+   - A bookmarks header with a star icon and a dropdown arrow, indicating that you can probably interact with it to show different bookmark options or folders.
+   - A search bar underneath with the placeholder text "Search bookmarks."
+   - Two sections in the bookmarks area are visible:
+     - "All Bookmarks" with an option to create a "New folder" as indicated by a "+" symbol.
+     - A section named "Bookmarks Bar" with a number "3" next to it, which likely indicates that there are three bookmarks within that folder.
+   - At the bottom of the bookmarks sidebar, there is a button labeled "Add current tab," indicating a quick way to bookmark the page you are currently viewing.
+
+6. Browser tabs sorting and menu:
+   - Next to the "All Bookmarks" header, there is a sorting or view options button indicated by "Newest" with a dropdown arrow and a grid/list toggle next to it.
+
+This image captures a user interface that is primarily informative and interactive, oriented towards managing web browsing and bookmarks within the Chrome browser.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 2400, 1632]	[1200.0, 816.0]		|
+86	1	TabGroup	[160, 0, 2240, 82]	[1280.0, 41.0]		|
+89	86	RadioButton	[160, 0, 512, 82]	[416.0, 41.0]	True	|What’s new - Memory usage - 104 MB
+90	89	Button	[588, 12, 56, 56]	[616.0, 40.0]		|Close
+88	86	Button	[660, 0, 56, 82]	[688.0, 41.0]		|New Tab
+87	86	PopUpButton	[2332, 0, 56, 82]	[2360.0, 41.0]		|Search tabs
+74	1	Toolbar	[0, 80, 2400, 92]	[1200.0, 126.0]		|
+85	74	Button	[10, 92, 68, 68]	[44.0, 126.0]		|Back
+84	74	Button	[82, 92, 68, 68]	[116.0, 126.0]		|Forward
+83	74	Button	[154, 92, 68, 68]	[188.0, 126.0]		|Reload
+79	74	Group	[240, 92, 1812, 68]	[1146.0, 126.0]		|
+82	79	PopUpButton	[250, 102, 156, 48]	[328.0, 126.0]		|Chrome
+81	79	TextField	[422, 102, 1554, 48]	[1199.0, 126.0]	chrome://whats-new	|Address and search bar
+80	79	Button	[1980, 102, 48, 48]	[2004.0, 126.0]		|Bookmark this tab
+78	74	PopUpButton	[2070, 92, 68, 68]	[2104.0, 126.0]		|Extensions
+77	74	Button	[2178, 92, 68, 68]	[2212.0, 126.0]		|Side panel
+76	74	Button	[2250, 92, 68, 68]	[2284.0, 126.0]		|You
+75	74	PopUpButton	[2322, 92, 68, 68]	[2356.0, 126.0]		|Chrome
+70	1	Toolbar	[0, 172, 2400, 68]	[1200.0, 206.0]		|Bookmarks
+73	70	Button	[12, 172, 134, 56]	[79.0, 200.0]		|Gmail
+72	70	Button	[162, 172, 164, 56]	[244.0, 200.0]		|YouTube
+71	70	Button	[342, 172, 130, 56]	[407.0, 200.0]		|Maps
+48	1	WebArea	[0, 242, 886, 1390]	[443.0, 937.0]		What’s new|
+49	48	Group	[0, 242, 886, 1390]	[443.0, 937.0]		|
+50	49	Group	[0, 242, 886, 1390]	[443.0, 937.0]		|
+51	50	WebArea	[0, 242, 886, 1390]	[443.0, 937.0]		What’s New in Chrome|
+52	51	Group	[0, 242, 886, 1390]	[443.0, 937.0]		|
+53	52	Group	[0, 242, 886, 1390]	[443.0, 937.0]		|
+67	53	Group	[0, 242, 886, 120]	[443.0, 302.0]		|
+68	67	Group	[298, 290, 340, 56]	[468.0, 318.0]		|
+69	68	StaticText	[298, 300, 340, 36]	[468.0, 318.0]	Your Chrome is up to date	|
+61	53	Group	[0, 242, 886, 718]	[443.0, 601.0]		|
+66	61	Group	[48, 290, 790, 610]	[443.0, 595.0]		|
+64	61	Heading	[56, 482, 774, 80]	[443.0, 522.0]		What’s New in Chrome|
+65	64	StaticText	[76, 476, 736, 92]	[444.0, 522.0]	What’s New in Chrome	|
+62	61	Group	[56, 578, 774, 128]	[443.0, 642.0]		|
+63	62	StaticText	[152, 586, 582, 114]	[443.0, 643.0]	A new Chrome Web Store and securing your online connection	|
+54	53	Group	[0, 960, 886, 672]	[443.0, 1296.0]		|
+58	54	Group	[56, 1564, 774, 68]	[443.0, 1598.0]		|
+59	58	Heading	[56, 1564, 296, 54]	[204.0, 1591.0]		CHROME WEB STORE|
+60	59	StaticText	[72, 1576, 264, 30]	[204.0, 1591.0]	CHROME WEB STORE	|
+55	54	Group	[56, 1040, 774, 444]	[443.0, 1262.0]		|
+56	55	Group	[56, 1040, 774, 444]	[443.0, 1262.0]		|
+57	56	Image	[56, 1040, 774, 436]	[443.0, 1258.0]		|The Discover homepage of the redesigned Chrome Web Store.
+2	1	Group	[888, 242, 1512, 1390]	[1644.0, 937.0]		|
+6	2	WebArea	[922, 346, 1444, 1252]	[1644.0, 972.0]		Bookmarks|
+7	6	Group	[922, 346, 1444, 1252]	[1644.0, 972.0]		|
+8	7	Group	[922, 346, 1444, 1252]	[1644.0, 972.0]		|
+42	8	Group	[938, 362, 1412, 72]	[1644.0, 398.0]		|
+47	42	Group	[938, 362, 1412, 72]	[1644.0, 398.0]		|
+46	42	Group	[938, 362, 1412, 72]	[1644.0, 398.0]		|
+43	42	Group	[950, 362, 1388, 72]	[1644.0, 398.0]		|
+44	43	Group	[1006, 376, 1332, 46]	[1672.0, 399.0]		|
+45	44	TextField	[1006, 376, 1332, 46]	[1672.0, 399.0]		Search bookmarks|
+40	8	Heading	[970, 482, 1110, 40]	[1525.0, 502.0]		All Bookmarks|
+41	40	StaticText	[970, 486, 190, 32]	[1065.0, 502.0]	All Bookmarks	|
+37	8	Button	[2166, 478, 48, 48]	[2190.0, 502.0]		|Sorting and list options
+38	37	Group	[2166, 478, 48, 48]	[2190.0, 502.0]		|
+39	38	Group	[2174, 486, 32, 32]	[2190.0, 502.0]		|
+34	8	Button	[2222, 478, 48, 48]	[2246.0, 502.0]		|Visual view
+35	34	Group	[2222, 478, 48, 48]	[2246.0, 502.0]		|
+36	35	Group	[2230, 486, 32, 32]	[2246.0, 502.0]		|
+32	8	CheckBox	[2278, 478, 48, 48]	[2302.0, 502.0]		|Edit bookmark list
+33	32	Group	[2278, 478, 48, 48]	[2302.0, 502.0]		|
+17	8	List	[922, 538, 1444, 948]	[1644.0, 1012.0]		|
+28	17	Button	[938, 538, 1412, 82]	[1644.0, 579.0]		|Create new folder
+30	28	Group	[1010, 564, 32, 32]	[1026.0, 580.0]		|
+31	30	Image	[1010, 564, 32, 32]	[1026.0, 580.0]		|
+29	28	StaticText	[1114, 566, 126, 28]	[1177.0, 580.0]	New folder	|
+18	17	Group	[938, 620, 1412, 136]	[1644.0, 688.0]		|
+27	18	Group	[938, 620, 1412, 136]	[1644.0, 688.0]		|
+19	18	Group	[938, 620, 1412, 136]	[1644.0, 688.0]		|3 Open folder Bookmarks Bar
+20	19	Group	[938, 620, 1412, 136]	[1644.0, 688.0]		|Bookmarks Bar
+22	20	Group	[970, 632, 112, 112]	[1026.0, 688.0]		|
+25	22	Group	[982, 644, 32, 32]	[998.0, 660.0]		|
+26	25	Image	[982, 644, 32, 32]	[998.0, 660.0]		|
+23	22	Group	[1026, 688, 56, 56]	[1054.0, 716.0]		|
+24	23	StaticText	[1046, 702, 18, 30]	[1055.0, 717.0]	3	|
+21	20	Button	[1114, 674, 1212, 28]	[1720.0, 688.0]		|Open folder Bookmarks Bar
+11	8	Toolbar	[922, 1486, 1444, 112]	[1644.0, 1542.0]		|
+12	11	Button	[938, 1502, 300, 80]	[1088.0, 1542.0]		Add current tab|
+16	12	Group	[938, 1502, 300, 80]	[1088.0, 1542.0]		|
+14	12	Group	[962, 1526, 32, 32]	[978.0, 1542.0]		|
+15	14	Image	[962, 1526, 32, 32]	[978.0, 1542.0]		|
+13	12	StaticText	[1010, 1528, 196, 30]	[1108.0, 1543.0]	Add current tab	|
+10	8	Group	[922, 346, 2, 2]	[923.0, 347.0]		|
+9	8	Group	[922, 346, 2, 2]	[923.0, 347.0]		|
+5	2	PopUpButton	[922, 256, 304, 74]	[1074.0, 293.0]	Bookmarks	|Side panel selector
+4	2	Button	[2310, 266, 56, 56]	[2338.0, 294.0]		|Close
+3	2	Splitter	[888, 242, 34, 1390]	[905.0, 937.0]		|

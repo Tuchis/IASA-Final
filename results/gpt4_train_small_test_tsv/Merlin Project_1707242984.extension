@@ -1,0 +1,69 @@
+The screenshot provided appears to be from project management software, specifically showing a Gantt chart view with an accompanying task list to the left and a separate "Value Lists" panel to the right, which seems to be a secondary feature, potentially related to tracking costs and invoicing status.
+
+### Top Menu Bar
+- Traffic light icons: Presumably for indicating the status or health of the project.
+- "Simple activity plan with milestones": The title of the project or document.
+
+### Work Breakdown Section (Left)
+- Column titles:
+  - #: Indicates row numbers or task IDs.
+  - Traits: May include icons representing task properties.
+  - Title: Names/descriptions of tasks or milestones.
+  - Given Work: Placeholder column, possibly for assigning work amounts, currently empty.
+  - Start: Placeholder column for a start date, currently empty except for the first task.
+  - Earliest: Presumably the earliest start date; empty in this view.
+  - Resources: Possibly for assigning human or material resources; also empty.
+
+For each of the tasks and milestones listed:
+- Row 0: Foldable section titled "Simple activity plan with milestones" set to begin on "7 Feb 2024".
+- Rows 1 to 16: Various tasks and milestones, which include:
+  - Icons indicating different properties, such as a milestone (flag icon) and dependencies (link icon). 
+  - Tasks are mostly titled "Activity" with additional context for some tasks, like "which ends on the same day as the predecessor".
+  - Row 11 "Group milestone (phase)" implies a larger section or phase within the project.
+  - Rows 12, 13, 14, and 15 labeled "Timeline options" with subtitles for alignment (e.g., "ASAP", "ALAP", "Long").
+
+### Gantt Chart Section (Center and Right)
+- The timeline is marked with "WK 6, 5 February" and "WK 7, 12 February", indicating weeks and corresponding dates.
+- The Gantt chart visually represents the tasks with bars spanning across the dates. Some bars are linked, illustrating dependencies or sequential relationships between tasks.
+- At the top right, there are navigation and functionality icons such as a plus, vertical dots indicating more options, a save or download button, and one for sharing or exporting.
+
+### "Value Lists" Panel (Right-most)
+- The panel is titled "Simple activity plan with milestones: Value Lists".
+- It appears to be a filter or legend panel with dropdowns for "For:" (currently set to "Cost") and two sections below for "Type" and "Status".
+  - The "Type" section includes options like "Consulting", "Charges", "Material", "Room", and the "Status" section includes "Requested", "Approved", "Invoice received", "Invoice released", "Invoice paid" with corresponding color-coded icons.
+
+### Additional UI Elements
+- At the bottom right, there are plus and minus icons, likely for zooming in and out of the Gantt chart view.
+- At the bottom are empty gray areas, possibly a status bar or additional navigation.
+
+The user interface provides a comprehensive tool for planning, scheduling, tracking, and managing project tasks and milestones, with additional features for handling financial details like costing and invoicing.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2500, 1560]	[1250.0, 780.0]		Simple activity plan with milestones
+27	1	StaticText	[1900, 278, 56, 32]	[1928.0, 294.0]	For:	
+26	1	PopUpButton	[1964, 274, 522, 50]	[2225.0, 299.0]	Cost	
+3	1	Toolbar	[0, 0, 2500, 104]	[1250.0, 52.0]		
+22	3	Group	[1420, 0, 122, 104]	[1481.0, 52.0]		
+23	22	Group	[1416, 12, 130, 80]	[1481.0, 52.0]		|New
+25	23	Button	[1416, 12, 74, 80]	[1453.0, 52.0]		
+24	23	Button	[1490, 12, 56, 80]	[1518.0, 52.0]		
+18	3	Group	[1542, 0, 194, 104]	[1639.0, 52.0]		
+19	18	Group	[1538, 12, 202, 80]	[1639.0, 52.0]		|Indentation
+21	19	Button	[1538, 12, 102, 80]	[1589.0, 52.0]		
+20	19	Button	[1640, 12, 100, 80]	[1690.0, 52.0]		
+14	3	Group	[1736, 0, 122, 104]	[1797.0, 52.0]		
+15	14	Group	[1732, 12, 130, 80]	[1797.0, 52.0]		|Link
+17	15	Button	[1732, 12, 74, 80]	[1769.0, 52.0]		
+16	15	Button	[1806, 12, 56, 80]	[1834.0, 52.0]		
+12	3	MenuButton	[1858, 0, 112, 104]	[1914.0, 52.0]		|Action
+13	12	MenuButton	[1856, 12, 116, 80]	[1914.0, 52.0]		
+11	3	Button	[2018, 0, 72, 104]	[2054.0, 52.0]		|Dynamic Help
+10	3	Button	[2090, 0, 72, 104]	[2126.0, 52.0]		|Critical Path
+9	3	Button	[2162, 0, 72, 104]	[2198.0, 52.0]		|Resources
+8	3	Button	[2234, 0, 72, 104]	[2270.0, 52.0]		|Settings
+4	3	Group	[2306, 0, 178, 104]	[2395.0, 52.0]		
+5	4	Group	[2302, 12, 186, 80]	[2395.0, 52.0]		|Layout
+7	5	Button	[2302, 12, 94, 80]	[2349.0, 52.0]		
+6	5	Button	[2396, 12, 92, 80]	[2442.0, 52.0]		
+2	1	StaticText	[174, 0, 1246, 104]	[797.0, 52.0]	Simple activity plan with milestones	

@@ -1,0 +1,30 @@
+The image shows a UI interface of an application named "Swish". The UI is broken down into two main sections: a left sidebar for navigation and the main settings panel on the right. Here are the elements within this UI:
+
+### Left Sidebar:
+1. **General**: A selected menu item indicated by blue coloring and a gear icon suggesting settings or preferences.
+2. **Windows**: A menu item with stacked rectangles icon, indicating settings for window management.
+3. **Snapping**: A menu item involving window snapping functionality.
+4. **Apps**: A menu item that might include app-specific settings or configurations.
+5. **Menubar**: A menu item possibly for settings related to the system menu bar.
+6. **Advanced**: A menu item with a gear icon, indicating additional complex settings.
+7. **About**: A menu item with information or "i" icon, likely providing information about the Swish application.
+
+### Main Settings Panel:
+- **Title**: "Swish" at the top, with three colored dots to the left (red, yellow, green), typically used to close, minimize, and maximize windows in macOS.
+- **Quit Button**: Top right corner button labeled "Quit" to exit the application.
+  
+#### System Permissions Section:
+1. **System Permissions**: A text label with a red dot suggesting an issue or attention required.
+2. **Request Button**: A button to presumably request system permissions.
+3. **Diagnostics**: A text label with a yellow dot, which may indicate a warning or something to be noted.
+4. **Run Button**: A button to presumably run diagnostics.
+5. **Descriptive Text**: Explaining that Swish needs accessibility permissions to function properly and providing instructions on how to enable these.
+6. **Launch at Login**: A checkbox that is currently unchecked.
+7. **Show in Menubar**: A checkbox that is currently checked, indicating this option is enabled.
+
+#### Gestures Section:
+1. **Haptic Feedback**: A checkbox with a tick, indicating that this option is enabled. There is a text line below it explaining that Swish will provide haptic feedback if enabled via System Settings.
+2. **Touch Sensitivity**: A slider from "—" to "+" indicating controllable sensitivity levels, set towards the middle. It is labeled with "Very Snappy" at the end indicating the result of the maximum sensitivity setting. There is a checkbox labeled as "Tap & Hold" that is checked.
+3. **Cancel Timeout**: A slider with a label displaying "0.8 Seconds", indicating the current setting for this option.
+
+The divider lines separate sections for organizational purposes. Text and UI elements indicate a macOS-style interface, and the styling suggests the preferences pane of the Swish application is focused on touch gestures and system interaction settings.

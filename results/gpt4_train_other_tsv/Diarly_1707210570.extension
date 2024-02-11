@@ -1,0 +1,44 @@
+The image shows a user interface of a journaling application, possibly called "Diarly." The UI is divided into two main panels, with the left panel housing navigation and the right panel displaying content.
+
+Left Panel (Navigation):
+
+1. A search bar at the top with three tabs or filter options just below (not legibly labeled).
+2. A 'Journals' section with an emotive icon (a face with a slight smile) followed by the text "My Journal."
+3. A 'View' section with five options listed vertically:
+   - List (icon of three horizontal lines),
+   - Calendar (icon of a calendar),
+   - Map (icon of a map pointer within an outlined square),
+   - Gallery (icon of multiple squares in a grid formation),
+   - Stats (icon of a bar chart).
+4. The bottom of the left panel has a 'Settings' option with a gear icon.
+
+Right Panel (Content):
+
+1. At the top left, there's an "i" inside a circle indicating an information button, and to the right, a button with a flag icon.
+2. The title "Notes" is followed by a subheading "All Notes."
+3. Below this are three entries:
+   - The first entry titled "Welcome to Diarly," followed by a waving hand emoji, contains a message that says, "Hello there! We're so excited to have you on board. Diarly is designed to make journaling an enjoyable and seamless experience. Let's," with the message truncating after "Let's." There is a small image of a person sitting at a desk with a computer and a plant, timestamped "2m" for 2 minutes ago.
+   - Right beside the three entries is a vertical scrollbar indicating the length of content within the window.
+4. Near the top of the right panel, there are navigation controls that include a left-pointing arrow, a right-pointing arrow, and the date "Tue, 6 February" with a drop-down arrow next to it.
+5. A light bulb icon and a "24h" icon to the right, with three vertical dots indicating more options.
+6. A large content area where different prompts for journal entries are shown. Text here includes:
+   - "Three small things I'm grateful for:"
+   - "What is my positive intention for the day?"
+   - "How did I feel today and what patterns or triggers did I notice?"
+7. Below the prompts, there is location information "Kyiv, Antonovycha Street" with icons representing weather (a cloud with snow), temperature "2°C," and the current weather condition (snowflake).
+8. There's a hashtag "#StartingOut" and text "Welcome to Diarly" next to an icon that seems to represent a document.
+
+At the bottom right corner is a popover showing more text formatting options, such as:
+
+- "H1 Heading 1"
+- "Checklist"
+- "Quote"
+- "List"
+- "Ordered List"
+- "Insert current time"
+- "Insert current date"
+- "Insert time-separator"
+- "Insert weather"
+- "Insert current location"
+
+This UI appears to be designed to be user-friendly and minimalist, allowing users to navigate through different views of their journal and easily add or format entries.

@@ -1,0 +1,40 @@
+The image displays a user interface (UI) for what appears to be an export feature within an application. Here are the UI elements as they appear:
+
+In the top-left corner:
+- "< Go Back" button to presumably return to the previous screen.
+
+At the top-center of the screen, there is a navigation bar with tabs:
+- Frames
+- Transforms
+- Adjustments
+- Blending
+- Speed
+- Export (currently active tab)
+
+In the top-right corner:
+- Icons for additional settings or functions which are not explicitly labeled, but they often represent actions like help, notifications, and user account settings.
+
+In the center-left portion of the screen:
+- A large circular progress indicator showing "0%" which indicates that no progress has been made.
+- A text prompt below the progress indicator reads "Click on the blue button to start the export."
+
+Right side, under the "Export Content" section:
+- A heading that reads "Export Content" with a subheading "Export timelapse frames and videos"
+- A dropdown menu labeled "Contents" with "Video" selected.
+- A text field labeled "Filename" with the word "folder" inputted.
+- A button next to "Destination" labeled "Choose Destination" with the placeholder text "No destination" below it.
+
+Further down under the "Format" section:
+- A dropdown for "Format" with "MOV" chosen.
+- A dropdown for "Codec" with "HEVC" chosen.
+- A dropdown for "Background" with "Black" chosen.
+- A dropdown for "Aspect" with "Fill" chosen.
+- A dropdown for "Resolution" with "Keep the Original Resolution" chosen.
+
+Under the "Authoring" section:
+- Three text fields labeled "Author," "Title," and "Description," all with placeholder text indicating no author, title, or description have been provided: "No Author," "No Title," and "No Description."
+
+At the bottom:
+- A blue button labeled "Export Content" which is used to start exporting the files with the provided settings.
+
+Overall, the UI presents a clean, organized interface for users to input settings for exporting content from the app, although the progress of the export has not yet begun.

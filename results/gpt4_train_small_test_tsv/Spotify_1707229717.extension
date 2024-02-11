@@ -1,0 +1,50 @@
+The image shows the user interface of a music streaming application. The UI elements are presented in a dark theme with elements of teal, green, and black colors.
+
+Starting from the top left, there is a vertical navigation bar with the following icons:
+
+1. A three-line menu button (hamburger menu).
+2. A magnifying glass representing the search function.
+3. A square (likely representing the library or albums view).
+4. A heart icon, usually indicative of liked songs or favorites.
+5. A pair of eighth notes, which could represent the playlists or music tracks.
+
+To the right of the navigation bar, there are two arrow icons pointing left and right, suggesting back and forward navigation within the app.
+
+In the upper right corner, there are three icons:
+
+1. A bell for notifications.
+2. A human icon potentially representing a user profile or social features.
+3. An initial "M" which is possibly a placeholder for a user profile image or avatar.
+
+In the center of the screen, we see the main content area showing an album and its details:
+
+- The left part of the content area contains an album cover image depicting an artistic graphic with Cyrillic text.
+- Next to the cover is a large title reading "Зелений", which is Ukrainian for "Green". Underneath the title, the text says "Пирій і багіт", followed by "2023 • 12 songs, 38 min 6 sec", indicating the artist's name, year of release, and album details.
+
+Below this section, there are playback controls including:
+
+1. A green play button.
+2. What appears to be a shuffle button (two crossing arrows).
+3. An add button with a plus sign, likely to add songs to a playlist or library.
+4. A download button (downward arrow) for offline listening.
+5. An ellipsis (...) signifying more options.
+
+In the lower part of the content area, we see a list of songs:
+
+- Listed are four tracks with the following titles in Ukrainian, along with the artist name "Пирій і багіт":
+  1. "Прелюдія"
+  2. "Пісенька до сну"
+  3. "Сірні Гімн"
+  4. "Рогатий"
+
+- Next to each track title, there are two additional pieces of information for each song: the number of plays (e.g. "3,454", "4,676") and the duration of each track (e.g. "1:11", "2:33").
+
+On the right, under the list view, there's an icon that likely toggles between different view modes (list or grid view).
+
+Finally, there is a player control bar at the bottom of the screen displaying:
+
+- A current track information section on the left, which is empty, indicating that no song is currently playing.
+- Basic music controls in the center: previous track, play/pause, and next track buttons.
+- On the right side, there's a volume control slider and additional icons that may represent queue listing, sound settings (like an equalizer), and another list view toggle.
+
+In summary, this UI is for navigating and playing music, indicating features for searching, viewing libraries, managing likes, controlling playback, and accessing user notifications and profiles.

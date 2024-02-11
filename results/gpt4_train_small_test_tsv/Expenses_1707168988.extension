@@ -1,0 +1,68 @@
+The user interface depicted in the image appears to be from a financial or budget-tracking application. The following elements are visible:
+
+1. Top Left Area:
+- **Sheets Dropdown**: Currently selected to "Planner" with additional information stating "-50,00 US$ Today, 23:35". This implies that the currently selected sheet (or category) is named "Planner", and there is a recorded transaction or balance change of negative fifty US dollars, with a timestamp showing today's date and the time of 23:35.
+
+2. Top Center Area:
+- **Page Title**: "Export" with a subheading "Planner" which signifies that the export function is being accessed within the context of the "Planner" sheet/category.
+
+3. Top Right Area:
+- **Balance Display**: Showing "-50,00 US$" reiterated twice, which likely shows a current balance or a recently logged transaction. The duplication could hint at a stylistic design choice or possibly a functional layout showing the same information in different places.
+
+4. Middle Area:
+- **Export Section**: Consists of a white, card-style modal dialog containing the export options.
+  - **Dropdown Menu**: Tagged as "Export all images" with a downward-facing arrow suggesting that it's a dropdown menu where the user can select which items to export, defaulted to images in this context.
+  - **Dropdown Menu**: Beneath it is another, labelled "All Time" with a similar downward-facing arrow, indicating a selectable range or period for the export, currently defaulted to "All Time".
+  - **Export Button**: At the bottom of this modal, a button with the label "Export" suggests that clicking it will initiate the export process based on the selected parameters.
+
+5. Bottom Left Area:
+- **New Sheet Button**: An icon with a "+" sign and the label "New Sheet" which likely allows the user to create a new sheet/category within the app.
+
+6. Bottom Center Area:
+- **Navigation Indicators**: Three horizontal dots implying there are multiple screens or panels that the user can navigate through, with the central dot highlighted, suggesting it's the currently viewed panel.
+
+7. Top Left Corner and Bottom Right Corner:
+- **Close Button**: The button with the "X" icon and the gear icon are overlaid on the main UI, suggesting functionality to close or exit the export modal, and access to settings or preferences, respectively.
+
+8. Top and Bottom Navigation:
+- **Back Arrow**: In the top left corner, there is a less prominent back arrow, which likely serves to navigate back to the previous screen.
+- **Page Indicators**: The right side of the top and bottom navigation shows "1" and ">" symbol, respectively. It indicates that there might be multiple pages or entries and the user is on the first one, with the ">" symbol to navigate to the next.
+
+9. Search Field:
+- **Search Box**: In the top center-right area, there's a magnifying glass icon with the text "Search" next to it, allowing users to search through their entries or data within the app.
+
+This UI is a blend of visual cues providing navigation both within the broader app and specific to the export functionality.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Expenses
+30	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+31	30	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+20	1	Toolbar	[0, 0, 2048, 76]	[1024.0, 38.0]		
+29	20	Button	[530, 0, 60, 76]	[560.0, 38.0]		|Back
+28	20	Button	[590, 0, 80, 76]	[630.0, 38.0]		|split view horizontally left
+27	20	Button	[1392, 0, 70, 76]	[1427.0, 38.0]		|add
+26	20	Button	[1462, 0, 72, 76]	[1498.0, 38.0]		|Add People/Follow
+24	20	MenuButton	[1534, 0, 110, 76]	[1589.0, 38.0]		|more
+25	24	MenuButton	[1540, 14, 98, 50]	[1589.0, 39.0]		|more
+21	20	Group	[1644, 0, 396, 76]	[1842.0, 38.0]		
+22	21	TextField	[1650, 14, 384, 50]	[1842.0, 39.0]		
+23	22	Button	[1654, 16, 50, 44]	[1679.0, 38.0]		|Search
+19	1	Button	[104, 22, 28, 32]	[118.0, 38.0]		
+2	1	Sheet	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+3	2	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+4	3	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+16	4	Group	[444, 128, 1160, 86]	[1024.0, 171.0]		
+18	16	Heading	[976, 140, 94, 76]	[1023.0, 178.0]		|Export Planner
+17	16	Button	[1502, 140, 78, 76]	[1541.0, 178.0]		|Close
+5	4	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+6	5	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+7	6	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+13	7	Group	[484, 284, 1080, 60]	[1024.0, 314.0]	1	
+15	13	CheckBox	[484, 284, 1080, 60]	[1024.0, 314.0]	1	|Export all images
+14	13	CheckBox	[1496, 296, 36, 36]	[1514.0, 314.0]	1	|Export all images
+10	7	Group	[484, 426, 1080, 60]	[1024.0, 456.0]	1	
+12	10	CheckBox	[484, 426, 1080, 60]	[1024.0, 456.0]	1	|All Time
+11	10	CheckBox	[1496, 438, 36, 36]	[1514.0, 456.0]	1	|All Time
+8	7	Group	[484, 570, 1080, 60]	[1024.0, 600.0]		
+9	8	StaticText	[484, 570, 1080, 60]	[1024.0, 600.0]		|Export

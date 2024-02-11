@@ -1,0 +1,47 @@
+In the top-left corner of the UI, there is a navigation option labeled "Back" accompanied by a left-pointing arrow icon.
+
+At the top of the UI is a label indicating "YOU'RE HERE NOW" with an IP address displayed below ("91.139.84.198"), signifying the current virtual location provided by the VPN. Next to this label is another label titled "Czechia," which presumably refers to the VPN location as well.
+
+To the top-right, there is a toggle switch labeled "VPN CONNECTION" with a state indicator that currently shows "Off." Alongside the toggle, there is a lock icon.
+
+Below "YOU'RE HERE NOW," there is a large shield-like graphic with three asterisks in the center, typically representing a password or other obscured information.
+
+Underneath the large graphic is a section titled "Smart connection" with a description that reads, "Have your VPN automatically set up in the most efficient way with our smart VPN presets."
+
+On the lower-left of the UI, there is a settings gear icon.
+
+On the right side of the UI, there is a section titled "Pick priority" with three options:
+
+1. A circle icon with a line through it, followed by the option title "No restrictions," and a description that reads, "Connects you to countries with the fewest web restrictions. Perfect for accessing blocked websites."
+
+2. A circle icon with a tick mark, followed by the option title "Fastest server," and a description that reads, "Picks an optimal IP address based on your current location. Great for preserving your speed."
+
+3. A circle icon with a shield, followed by the option title "Top protection," and a description that reads, "Blocks ads and connects to countries with the strongest privacy protection laws. Your speed might get affected."
+
+Each of these three priority options includes an accompanying icon to the left of the text.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+23	1	Image	[610, 148, 32, 24]	[626.0, 160.0]		|CZ
+22	1	StaticText	[658, 148, 90, 24]	[703.0, 160.0]	Czechia	
+21	1	StaticText	[96, 170, 192, 20]	[192.0, 180.0]	YOU'RE HERE NOW	
+20	1	StaticText	[850, 170, 184, 20]	[942.0, 180.0]	VPN CONNECTION	
+19	1	StaticText	[1380, 168, 34, 24]	[1397.0, 180.0]	Off	
+18	1	StaticText	[604, 188, 146, 24]	[677.0, 200.0]	91.139.84.198	
+17	1	Button	[1440, 156, 64, 48]	[1472.0, 180.0]		|reportFlag
+16	1	Button	[48, 292, 156, 48]	[126.0, 316.0]		|Back
+15	1	StaticText	[624, 350, 162, 28]	[705.0, 364.0]	Pick priority	
+14	1	Image	[62, 404, 240, 240]	[182.0, 524.0]		
+13	1	StaticText	[720, 450, 174, 24]	[807.0, 462.0]	No restrictions	
+12	1	Image	[656, 470, 48, 48]	[680.0, 494.0]		
+11	1	StaticText	[720, 482, 704, 56]	[1072.0, 510.0]	Connects you to countries with the fewest web restrictions. Perfect for accessing blocked websites.	
+10	1	StaticText	[720, 614, 164, 24]	[802.0, 626.0]	Fastest server	
+9	1	Image	[656, 634, 48, 48]	[680.0, 658.0]		
+8	1	StaticText	[720, 646, 698, 56]	[1069.0, 674.0]	Picks an optimal IP address based on your current location. Great for preserving your speed.	
+7	1	StaticText	[62, 698, 302, 36]	[213.0, 716.0]	Smart connection	
+6	1	StaticText	[62, 760, 452, 88]	[288.0, 804.0]	Have your VPN automatically set up in the most efficient way with our smart VPN presets.	
+5	1	StaticText	[720, 778, 176, 24]	[808.0, 790.0]	Top protection	
+4	1	Image	[656, 798, 48, 48]	[680.0, 822.0]		
+3	1	StaticText	[720, 810, 664, 56]	[1052.0, 838.0]	Blocks ads and connects to countries with the strongest privacy protection laws. Your speed might get affected.	
+2	1	Button	[56, 1160, 48, 48]	[80.0, 1184.0]		|settings_icon

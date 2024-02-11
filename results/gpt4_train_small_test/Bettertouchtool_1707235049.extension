@@ -1,0 +1,20 @@
+This image displays a user interface for configuring touch bar settings for an application. The UI is divided into three main columns, each with its own set of controls and information:
+
+**Leftmost Column:**
+- At the very top, the window control buttons typical for macOS apps: the red, yellow, and green dots for closing, minimizing, and expanding the window, respectively.
+- Below it, there's a sidebar navigation menu with "All Apps" highlighted in blue, indicating it's the selected view. Below it is an icon for "Finder" with a blue vertical bar next to it, also suggesting it's the selected item within the "All Apps" category.
+- At the bottom of the left column, there are two icons: a plus sign and a trash can, indicating functions for adding and removing items, respectively.
+
+**Middle Column:**
+- At the top, there are arrows indicating backward and forward navigation (the backward arrow highlighted), a title of the section that reads ". Touch Bar" with an icon next to it representing the touch bar, and a pencil icon for editing.
+- Below the title, it reads "Groups & Top Level Triggers" with a subtitle of "Enter Touch Bar Button Name" and a text field with the prefilled placeholder "Name". Below that, there is more text that reads "Action: Move/Resize: -".
+- There is a button with the placeholder "Please Select a Trigger" suggesting a dropdown menu or selection interface.
+- Two large blue plus signs are visible, one below the "Enter Touch Bar Button Name" and the other in the adjacent Actions column, presumably for adding new triggers or actions.
+
+**Rightmost Column:**
+- At the top, there are several UI elements: three icons which seem to represent different view options or states (two squares, a pause symbol, and list or menu lines), the text "Preset: Default" suggesting you are currently viewing a default set of touch bar settings, and a three-dot menu for additional options.
+- The main section has the heading "Actions Assigned to Selected Trigger" and directly below it, the words "Move/Resize: -" with a leftward arrow, and a large plus sign, likely for adding new actions to the selected trigger.
+- The "Action Configuration" area below includes a dropdown menu with the selected option "Custom Move / Resize Window," an "Add additional action" link for more configurations, and an invitation to "Click here to configure the custom move / resize:" followed by a "Configure Move / Resize" button.
+- There is another instance of "Move/Resize: -" at the bottom of this column, which correlates to the action selected or being configured.
+
+This interface is focused on customizing touch bar actions for apps on macOS, allowing a user to define certain triggers and actions when using the touch bar. The UI uses a combination of text fields, buttons, and dropdown menus to allow users to input and configure settings.

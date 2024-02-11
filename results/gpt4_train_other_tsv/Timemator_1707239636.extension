@@ -1,0 +1,71 @@
+The user interface displayed in the image appears to be that of a time tracking application, featuring several elements:
+
+On the very top left, you can see three colored dots, typically used in macOS to indicate window controls for close (red), minimize (yellow), and maximize (green).
+
+Left Sidebar:
+- At the top left of the sidebar, there are three menu items with icons:
+  - Tracking (highlighted, indicating it is currently selected): Icon resembles a 'play' symbol.
+  - Timeline: Icon resembles a timeline or bar graph.
+  - Reports: Icon resembling bar charts.
+
+Main Area:
+- There are three tabs at the top center of the main area labeled "All Tasks," "Recent," and "Archive" with the "Archive" tab currently active.
+- Below the tabs, there is a button with a "+" sign and a downward-facing arrow indicating a dropdown or more options.
+- Within the "Archive" section, there is a heading titled "Archived Time Entries" and text below it that reads "last 30 days," suggesting the section shows entries from the past month.
+- On the right side, there's a message that says "No time entries found" alongside a suggestion to "Add a time entry or start the timer."
+- There is a "+" button for adding new elements and a button with a trash can icon, presumably used for deleting items, near the top right corner.
+
+Running Task:
+- At the bottom left within a grayed-out section, there is a running task timer showing "00:00:13," indicating that it has been running for 13 seconds.
+- Below the timer, there is a label "First Task," suggesting this is the name of the task currently being timed.
+- This timer has a 'play' icon to its left, which generally indicates the ability to start or resume timing.
+
+The mid-section on the left, where the task timer is located, is slightly shaded, possibly indicating that this is a separate interactive panel or a drawer that may contain more information about the task currently being tracked or allows interaction with the task. The sidebar and main area maintain a clean and minimalist design, typical for productivity apps.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2188, 1104]	[1094.0, 552.0]		Timemator
+10	1	SplitGroup	[0, 0, 2188, 1104]	[1094.0, 552.0]		
+30	10	ScrollArea	[0, 104, 344, 856]	[172.0, 532.0]		
+31	30	Outline	[0, 104, 344, 856]	[172.0, 532.0]		
+41	31	Row	[0, 104, 344, 72]	[172.0, 140.0]		
+42	41	Cell	[20, 104, 304, 72]	[172.0, 140.0]		
+44	42	StaticText	[90, 120, 222, 38]	[201.0, 139.0]	Tracking	
+43	42	Image	[38, 120, 40, 40]	[58.0, 140.0]		|sidebar tracking
+37	31	Row	[0, 176, 344, 72]	[172.0, 212.0]		
+38	37	Cell	[20, 176, 304, 72]	[172.0, 212.0]		
+40	38	StaticText	[90, 192, 222, 38]	[201.0, 211.0]	Timeline	
+39	38	Image	[38, 192, 40, 40]	[58.0, 212.0]		|sidebar timeline
+33	31	Row	[0, 248, 344, 72]	[172.0, 284.0]		
+34	33	Cell	[20, 248, 304, 72]	[172.0, 284.0]		
+36	34	StaticText	[90, 264, 222, 38]	[201.0, 283.0]	Reports	
+35	34	Image	[38, 264, 40, 40]	[58.0, 284.0]		|sidebar reports
+32	31	Column	[20, 104, 304, 856]	[172.0, 532.0]		
+29	10	StaticText	[114, 1006, 198, 38]	[213.0, 1025.0]	00:00:13	
+28	10	StaticText	[114, 1044, 198, 30]	[213.0, 1059.0]	First Task	
+27	10	Splitter	[344, 104, 2, 1000]	[345.0, 604.0]	172.0	
+11	10	SplitGroup	[346, 0, 1842, 1104]	[1267.0, 552.0]		
+24	11	ScrollArea	[346, 104, 640, 1000]	[666.0, 604.0]		
+25	24	Outline	[346, 104, 640, 1000]	[666.0, 604.0]		
+26	25	Column	[366, 104, 600, 1000]	[666.0, 604.0]		
+23	11	StaticText	[444, 494, 444, 76]	[666.0, 532.0]	"Your archived tasks and folders
+will be listed here"	
+22	11	Splitter	[986, 104, 2, 1000]	[987.0, 604.0]	320.0	
+15	11	ScrollArea	[988, 104, 1200, 1000]	[1588.0, 604.0]		
+16	15	Outline	[988, 104, 1200, 1000]	[1588.0, 604.0]		
+21	16	Column	[988, 104, 200, 1000]	[1088.0, 604.0]		
+20	16	Column	[1188, 104, 264, 1000]	[1320.0, 604.0]		
+19	16	Column	[1452, 104, 136, 1000]	[1520.0, 604.0]		
+18	16	Column	[1588, 104, 300, 1000]	[1738.0, 604.0]		
+17	16	Column	[1888, 104, 300, 1000]	[2038.0, 604.0]		
+14	11	StaticText	[1382, 458, 410, 48]	[1587.0, 482.0]	No time entries found	
+13	11	StaticText	[1380, 514, 480, 38]	[1620.0, 533.0]	Add a time entry or start the timer	
+12	11	Button	[1322, 510, 46, 46]	[1345.0, 533.0]		
+2	1	Toolbar	[0, 0, 2188, 104]	[1094.0, 52.0]		
+8	2	MenuButton	[858, 0, 112, 104]	[914.0, 52.0]		|More Actions
+9	8	MenuButton	[856, 12, 116, 80]	[914.0, 52.0]		|add
+5	2	Group	[1004, 0, 300, 104]	[1154.0, 52.0]		
+7	5	StaticText	[1008, 20, 292, 36]	[1154.0, 38.0]	Archived Time Entries	
+6	5	StaticText	[1008, 56, 292, 28]	[1154.0, 70.0]	last 30 days	
+4	2	Button	[2014, 0, 84, 104]	[2056.0, 52.0]		|New Time Entry
+3	2	Button	[2098, 0, 74, 104]	[2135.0, 52.0]		|Export

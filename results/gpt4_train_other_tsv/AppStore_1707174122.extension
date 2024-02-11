@@ -1,0 +1,132 @@
+The image displays a user interface that appears to be from an app store on a computer operating system. The UI elements are divided among three sections: the top bar, the sidebar on the left, and the main content area.
+
+Top Bar:
+- Three colored dots on the top left, typically representing window controls for close (red), minimize (yellow), and maximize/restore (green).
+- A search field with a magnifying glass icon and the placeholder text "Search".
+
+Sidebar (navigation pane):
+- A series of items with icons and labels: "Discover", "Arcade", "Create", "Work", "Play", "Develop", "Categories" (selected), and "Updates" (the latter has a badge with the number '5').
+- The name "Mariya Hirna" is displayed at the bottom of the sidebar with a user icon preceding it, indicating a user profile section or account information.
+
+Main Content Area:
+- A header titled "Categories" with a list of categories each accompanied by an icon. These categories are: "Business," "Entertainment," "Graphics & Design," "Medical," "Photo & Video," "Safari Extensions," "Travel," "Developer Tools," "Finance," "Health & Fitness," "Music," "Productivity," "Social Networking," "Utilities," "Education," "Games," "Lifestyle," "News," "Reference," "Sports," and "Weather."
+- A subheader titled "Editors' Choice," which lists a selection of apps with their logo, name, and a brief description or tagline. For each app, there is also a price or action button:
+  - "Photomator" with the tagline "Your photo editing powerhouse" and a "Get" button indicating it might be a free app with in-app purchases.
+  - "Things 3" with the tagline "Organize your life" and a displayed price of £49.99.
+  - "Pixelmator Pro" with the tagline "Pro image editing for everyone" and a displayed price of £49.99.
+  - "Acorn 7" with the tagline "Image editing for humans" and a displayed price of £29.99.
+  - "Drafts" with the tagline "Where text starts" and a "Get" button indicating it might be a free app with in-app purchases.
+  - "Adobe Lightroom" with no tagline visible and a "Get" button indicating it might be a free app with in-app purchases.
+
+In the top right corner of the "Editors' Choice" section, there is a "See All" link that likely allows users to view the full list of editors' choice apps.
+
+Please note that without any interactive functionality, this description is based purely on the static visual elements in the image.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2360, 1448]	[1180.0, 724.0]		App Store
+3	1	SplitGroup	[0, 0, 2360, 1448]	[1180.0, 724.0]		
+105	3	Group	[20, 104, 400, 56]	[220.0, 132.0]		
+106	105	TextField	[80, 104, 288, 56]	[224.0, 132.0]		|search field
+79	3	Outline	[0, 176, 440, 1160]	[220.0, 756.0]		
+102	79	Row	[0, 196, 440, 72]	[220.0, 232.0]		
+103	102	Cell	[20, 196, 400, 72]	[220.0, 232.0]		|Discover
+104	103	Button	[0, 196, 440, 72]	[220.0, 232.0]		|Discover
+99	79	Row	[0, 268, 440, 72]	[220.0, 304.0]		
+100	99	Cell	[20, 268, 400, 72]	[220.0, 304.0]		|Arcade
+101	100	Button	[0, 268, 440, 72]	[220.0, 304.0]		|Arcade
+96	79	Row	[0, 340, 440, 72]	[220.0, 376.0]		
+97	96	Cell	[20, 340, 400, 72]	[220.0, 376.0]		|Create
+98	97	Button	[0, 340, 440, 72]	[220.0, 376.0]		|Create
+93	79	Row	[0, 412, 440, 72]	[220.0, 448.0]		
+94	93	Cell	[20, 412, 400, 72]	[220.0, 448.0]		|Work
+95	94	Button	[0, 412, 440, 72]	[220.0, 448.0]		|Work
+90	79	Row	[0, 484, 440, 72]	[220.0, 520.0]		
+91	90	Cell	[20, 484, 400, 72]	[220.0, 520.0]		|Play
+92	91	Button	[0, 484, 440, 72]	[220.0, 520.0]		|Play
+87	79	Row	[0, 556, 440, 72]	[220.0, 592.0]		
+88	87	Cell	[20, 556, 400, 72]	[220.0, 592.0]		|Develop
+89	88	Button	[0, 556, 440, 72]	[220.0, 592.0]		|Develop
+84	79	Row	[0, 628, 440, 72]	[220.0, 664.0]		
+85	84	Cell	[20, 628, 400, 72]	[220.0, 664.0]		|Categories
+86	85	Button	[0, 628, 440, 72]	[220.0, 664.0]		|Categories
+81	79	Row	[0, 700, 440, 72]	[220.0, 736.0]		
+82	81	Cell	[20, 700, 400, 72]	[220.0, 736.0]		|Updates, 5
+83	82	Button	[0, 700, 440, 72]	[220.0, 736.0]		|Updates, 5
+80	79	Column	[20, 176, 400, 1160]	[220.0, 756.0]		
+76	3	Button	[0, 1336, 440, 112]	[220.0, 1392.0]		Mariya Hirna|Mariya Hirna
+78	76	Image	[20, 1356, 72, 72]	[56.0, 1392.0]		|
+77	76	StaticText	[104, 1376, 168, 32]	[188.0, 1392.0]	Mariya Hirna	
+6	3	ScrollArea	[442, 218, 1918, 1230]	[1401.0, 833.0]		
+11	6	List	[442, 218, 1918, 1230]	[1401.0, 833.0]		|Categories
+35	11	List	[522, 254, 1758, 658]	[1401.0, 583.0]		
+74	35	Group	[522, 254, 558, 94]	[801.0, 301.0]		
+75	74	Button	[522, 254, 558, 94]	[801.0, 301.0]		Business|Business
+72	35	Group	[1122, 254, 558, 94]	[1401.0, 301.0]		
+73	72	Button	[1122, 254, 558, 94]	[1401.0, 301.0]		Developer Tools|Developer Tools
+70	35	Group	[1722, 254, 558, 94]	[2001.0, 301.0]		
+71	70	Button	[1722, 254, 558, 94]	[2001.0, 301.0]		Education|Education
+68	35	Group	[522, 348, 558, 94]	[801.0, 395.0]		
+69	68	Button	[522, 348, 558, 94]	[801.0, 395.0]		Entertainment|Entertainment
+66	35	Group	[1122, 348, 558, 94]	[1401.0, 395.0]		
+67	66	Button	[1122, 348, 558, 94]	[1401.0, 395.0]		Finance|Finance
+64	35	Group	[1722, 348, 558, 94]	[2001.0, 395.0]		
+65	64	Button	[1722, 348, 558, 94]	[2001.0, 395.0]		Games|Games
+62	35	Group	[522, 442, 558, 94]	[801.0, 489.0]		
+63	62	Button	[522, 442, 558, 94]	[801.0, 489.0]		Graphics & Design|Graphics & Design
+60	35	Group	[1122, 442, 558, 94]	[1401.0, 489.0]		
+61	60	Button	[1122, 442, 558, 94]	[1401.0, 489.0]		Health & Fitness|Health & Fitness
+58	35	Group	[1722, 442, 558, 94]	[2001.0, 489.0]		
+59	58	Button	[1722, 442, 558, 94]	[2001.0, 489.0]		Lifestyle|Lifestyle
+56	35	Group	[522, 536, 558, 94]	[801.0, 583.0]		
+57	56	Button	[522, 536, 558, 94]	[801.0, 583.0]		Medical|Medical
+54	35	Group	[1122, 536, 558, 94]	[1401.0, 583.0]		
+55	54	Button	[1122, 536, 558, 94]	[1401.0, 583.0]		Music|Music
+52	35	Group	[1722, 536, 558, 94]	[2001.0, 583.0]		
+53	52	Button	[1722, 536, 558, 94]	[2001.0, 583.0]		News|News
+50	35	Group	[522, 630, 558, 94]	[801.0, 677.0]		
+51	50	Button	[522, 630, 558, 94]	[801.0, 677.0]		Photo & Video|Photo & Video
+48	35	Group	[1122, 630, 558, 94]	[1401.0, 677.0]		
+49	48	Button	[1122, 630, 558, 94]	[1401.0, 677.0]		Productivity|Productivity
+46	35	Group	[1722, 630, 558, 94]	[2001.0, 677.0]		
+47	46	Button	[1722, 630, 558, 94]	[2001.0, 677.0]		Reference|Reference
+44	35	Group	[522, 724, 558, 94]	[801.0, 771.0]		
+45	44	Button	[522, 724, 558, 94]	[801.0, 771.0]		Safari Extensions|Safari Extensions
+42	35	Group	[1122, 724, 558, 94]	[1401.0, 771.0]		
+43	42	Button	[1122, 724, 558, 94]	[1401.0, 771.0]		Social Networking|Social Networking
+40	35	Group	[1722, 724, 558, 94]	[2001.0, 771.0]		
+41	40	Button	[1722, 724, 558, 94]	[2001.0, 771.0]		Sports|Sports
+38	35	Group	[522, 818, 558, 94]	[801.0, 865.0]		
+39	38	Button	[522, 818, 558, 94]	[801.0, 865.0]		Travel|Travel
+36	35	Group	[1122, 818, 558, 94]	[1401.0, 865.0]		
+37	36	Button	[1122, 818, 558, 94]	[1401.0, 865.0]		Utilities|Utilities
+12	11	List	[442, 984, 1918, 464]	[1401.0, 1216.0]		|Editors’ Choice
+32	12	Group	[442, 984, 1918, 106]	[1401.0, 1037.0]		
+34	32	StaticText	[522, 1010, 280, 48]	[662.0, 1034.0]	Editors’ Choice	
+33	32	Button	[2170, 1018, 110, 38]	[2225.0, 1037.0]		See All
+13	12	Group	[442, 1090, 1918, 358]	[1401.0, 1269.0]		
+14	13	Group	[442, 1090, 1918, 358]	[1401.0, 1269.0]		|Editors’ Choice
+15	14	ScrollArea	[442, 1090, 1918, 358]	[1401.0, 1269.0]		
+16	15	List	[442, 1090, 1918, 358]	[1401.0, 1269.0]		|Editors’ Choice
+30	16	Button	[522, 1090, 858, 138]	[951.0, 1159.0]		Photomator, Your photo editing powerhouse, Get, In-App Purchases|Photomator, Your photo editing powerhouse, Get, In-App Purchases
+31	30	Button	[1244, 1090, 136, 104]	[1312.0, 1142.0]		Get, In-App Purchases|Get, In-App Purchases
+28	16	Button	[522, 1228, 858, 138]	[951.0, 1297.0]		Things 3, Organize your life, £49.99|Things 3, Organize your life, £49.99
+29	28	Button	[1244, 1228, 136, 104]	[1312.0, 1280.0]		£49.99|£49.99
+26	16	Button	[522, 1366, 858, 82]	[951.0, 1407.0]		Pixelmator Pro, Pro image editing for everyone, £49.99|Pixelmator Pro, Pro image editing for everyone, £49.99
+27	26	Button	[1244, 1366, 136, 82]	[1312.0, 1407.0]		£49.99|£49.99
+24	16	Button	[1420, 1090, 858, 138]	[1849.0, 1159.0]		Acorn 7, Image editing for humans, £29.99|Acorn 7, Image editing for humans, £29.99
+25	24	Button	[2142, 1090, 136, 104]	[2210.0, 1142.0]		£29.99|£29.99
+22	16	Button	[1420, 1228, 858, 138]	[1849.0, 1297.0]		Drafts, Where text starts, Get, In-App Purchases|Drafts, Where text starts, Get, In-App Purchases
+23	22	Button	[2142, 1228, 136, 104]	[2210.0, 1280.0]		Get, In-App Purchases|Get, In-App Purchases
+20	16	Button	[1420, 1366, 858, 82]	[1849.0, 1407.0]		Adobe Lightroom, Edit, manage and share photos, Get, In-App Purchases|Adobe Lightroom, Edit, manage and share photos, Get, In-App Purchases
+21	20	Button	[2142, 1366, 136, 82]	[2210.0, 1407.0]		Get, In-App Purchases|Get, In-App Purchases
+19	16	Button	[2318, 1090, 42, 138]	[2339.0, 1159.0]		Fantastical - Calendar, Reminders & Todo List, Get, In-App Purchases|Fantastical - Calendar, Reminders & Todo List, Get, In-App Purchases
+18	16	Button	[2318, 1228, 42, 138]	[2339.0, 1297.0]		MacFamilyTree 10, The Best in Genealogy, £69.99|MacFamilyTree 10, The Best in Genealogy, £69.99
+17	16	Button	[2318, 1366, 42, 82]	[2339.0, 1407.0]		PCalc, The Best Calculator, £9.99|PCalc, The Best Calculator, £9.99
+7	6	ScrollBar	[2328, 0, 32, 1448]	[2344.0, 724.0]	0.0	
+10	7	ValueIndicator	[2336, 2, 24, 474]	[2348.0, 239.0]	0.0	
+9	7	Button	[2336, 476, 24, 970]	[2348.0, 961.0]		
+8	7	Button	[2336, 0, 24, 2]	[2348.0, 1.0]		
+4	3	Toolbar	[442, 0, 1918, 218]	[1401.0, 109.0]		
+5	4	StaticText	[522, 118, 346, 80]	[695.0, 158.0]	Categories	
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

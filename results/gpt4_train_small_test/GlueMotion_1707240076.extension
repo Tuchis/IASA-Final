@@ -1,0 +1,23 @@
+The UI interface in the image appears to be from a video editing or video preview application. The interface is divided into two main sections with various elements within each:
+
+**Left Section:**
+
+1. Navigation Bar: At the top, there's a horizontal navigation bar with a "< Go Back" link, seemingly to return to a previous screen or mode.
+2. Tabs: Next to the back link, there are several tabs that most likely switch the content of the interface between different editing modes or settings. The visible tabs are "Frames," "Transforms," "Adjustments," "Blending," and "Speed". Another tab "Export" is cut off on the right side.
+3. Central Display: The large area is showing what appears to be a preview of a video or an image. It seems like a still from video footage, featuring hanging lanterns.
+4. Action Button: At the bottom of the central display, there is a button labeled "Generate the preview ►" with an icon indicating action or proceeding forward. This button likely starts the process of generating a preview with the current settings applied.
+5. Playback Controls: Below the central display are standard video playback controls that include (from left to right) a backward skip button, a play button, a pause button, and a forward skip button.
+6. Timeline Slider: At the very bottom, there's a timeline or progress bar for the video. This would allow the user to scrub through the video or see the progress of the preview.
+
+**Right Section:**
+
+1. Panel Title: "Choose the Frame Rate" with a subtitle "Preview video at different frame rates." This area is likely to adjust how the video plays back in terms of frames per second (FPS).
+2. FPS Control: There's a large round slider with a blue indicator showing the number "30," indicating the frame rate is set to 30 FPS.
+3. Detailed Settings: Below the slider, there are detailed settings to further adjust the video preview:
+   - "Duration" with a value "0s" (seconds) just below it, indicating the preview duration is currently at zero seconds.
+   - "FPS" with a numerical input field next to it, set to "30,00" which possibly allows for manual entry of the desired frames per second.
+   - "Length" with a dropdown menu next to it labeled "All frames". This might allow choosing between playing all frames or selecting a specific range for preview.
+4. Preview Quality: At the bottom left corner of this section, there is a note "720p Preview," suggesting the current quality setting of the video preview.
+5. Action Button: At the bottom right corner, there is a "Continue ►" button, which is likely used to proceed with the selected frame rate settings.
+
+Please note that without additional context or the ability to interact with the UI, some functionalities may only be assumed based on common practices in video editing software and UI design.

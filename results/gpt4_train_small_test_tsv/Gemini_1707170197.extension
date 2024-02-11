@@ -1,0 +1,36 @@
+This is a screenshot of a user interface from a desktop application named "Gemini," which seems to be focused on finding and managing duplicate files. The UI is divided into several sections, and I will describe each element starting from the top left and moving to the bottom right.
+
+**Top-left corner:**
+- Traffic light control buttons (red, yellow, green), typically found on macOS applications, used for closing, minimizing, and maximizing the window.
+
+**Left pane ("Summary" sidebar):**
+- A sidebar with a "Summary" header and three categories listed below, each followed by their respective sizes:
+  - "Exact Duplicates" with "2,9 MB"
+  - "Documents" with "139 KB"
+  - "Images" with "2,8 MB"
+- Below the categories, there is a "Selected" section with "1,9 MB."
+- At the bottom left of the sidebar, there is a text stating "2,9 MB in 5 files found in total," giving a summary of the total duplicates found.
+
+**Center-top area:**
+- Dropdown menu with the label "Select Duplicates ▾" suggesting that the user can choose how duplicates are selected (potentially automatically or manually).
+- "Sort by Size ▾" dropdown menu possibly allows the user to sort the displayed files by their size.
+
+**Center panel:**
+- A list view showing file names and their locations. In this screenshot, we have:
+  - "IMG_8660" with two duplicates listed beneath it, each labeled with the folder path/icon, then a file name like "IMG_8660 2.JPG" and the sizes "1 | 2," probably indicating there are two additional duplicates in each set.
+  - A text file named "total_costs" with "139 KB" size on the side and numbers "1 | 2" below it, indicating duplicates as well.
+- Each file entry has a checkbox next to it, allowing the user to select which files to manage.
+
+**Right pane (Preview area):**
+- At the top, we see the application name "Gemini."
+- Below the name, there is a large preview thumbnail of the selected file, in this case, "IMG_8660," which is an image of what appears to be lit fabric lanterns.
+- To the right of the thumbnail, there is a menu icon (three horizontal lines), a search field denoted by the magnifying glass (with "Search" placeholder text), and a star icon, which might allow the user to favorite or mark files.
+- Below this, there are two indicators: "2 duplicates selected" and "3 duplicates found," which likely corresponds to the user's selections and the application's findings, respectively.
+
+**Bottom-right corner:**
+- A blue button labeled "Smart Cleanup," which presumably will perform an action on the selected duplicates, possibly removing them to clear storage space.
+
+**Bottom bar:**
+- The bar shows "1,9 MB Selected," which may indicate the total size of all currently selected duplicate files.
+
+The interface suggests the user is interactively searching for duplicate files, has the ability to preview those files, and can select which duplicates to handle. Additionally, the application likely comes with intelligent sorting and automatic selection features to assist in managing duplicates detected on the system.

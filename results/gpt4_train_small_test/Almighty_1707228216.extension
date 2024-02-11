@@ -1,0 +1,38 @@
+This image depicts a user interface (UI) of an application named "Almighty" on a macOS-style window. The UI is split into two main sections: a left sidebar and a main content area.
+
+**Left Sidebar**:
+
+1. At the top left corner, there are three rounded dots colored red, yellow, and green, which typically represent the close, minimize, and maximize buttons on a macOS window.
+
+2. Below these, there's a vertical menu with the following items:
+   - "All" - represented with a four-square grid icon.
+   - "New" - indicated with a star icon.
+   - "Popular" - marked with a thumbs-up icon.
+   - "Random" - denoted with a shuffle-like icon marked with two crossing arrows.
+
+3. Underneath the first set of menu items, there's a labeled section "Apps" with several entries each associated with an icon:
+   - "Desktop" - symbolized with a computer screen icon.
+   - "Display" - featuring a monitor icon.
+   - "Dock" - signified by a rectangle with a line underneath.
+   - "Effect" - shown with a droplet or teardrop icon.
+   - "Finder" - depicted with the standard blue smiling Finder icon of macOS. (This item is selected, as indicated by its blue background.)
+   - "Keyboard" - represented by a keyboard icon.
+   - "Mouse" - having a mouse icon.
+   - "Photos" - indicated by a four-colored flower icon.
+   - Additional items might be below, but are not visible in the current view.
+
+**Main Content Area**:
+Above the content area:
+1. In the upper right corner is a magnifying glass icon for search, followed by a search input field labeled "Search".
+
+Below the search area are three grey rectangular panels, each with a setting option for the Finder app:
+
+1. The first panel is titled "Add Quit Option" and includes a subtext "Add a Quit option to Finder menu." It has a toggle switch on the right side indicating that the feature is currently turned off (toggle is in the leftmost position). The panel also has a Finder icon on the left.
+
+2. The second panel is titled "Show File Extension" and includes a subtext "Show all file extensions in Finder." Like the first panel, this one also has a toggle switch indicating the feature is not active and includes a Finder icon.
+
+3. The third panel is labeled "Show File Full Path" with subtext "Display full file path in Finder title bar." This also has a toggle to the left side, suggesting the feature is not enabled, and features an associated Finder icon on the left.
+
+Each panel's Finder icons are distinctive: the first has a simple Finder icon, the second has a Finder icon with sunglasses, and the third panel has a Finder icon with a detective-like magnifying glass.
+
+Overall, the UI is designed in a clean, straightforward manner consistent with macOS aesthetics, suggesting that the application provides various tweaks and enhancements for the operating system, particularly focused on the Finder application as indicated by the selected sidebar item and the content in the main area.

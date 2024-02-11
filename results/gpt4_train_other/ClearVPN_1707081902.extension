@@ -1,0 +1,33 @@
+In the image, there's a UI interface for an application's "System settings" panel which displays various settings grouped into different sections.
+
+In the top-left corner, there's a navigation column with the following items:
+
+- Account
+- Your devices
+- System settings (currently selected, as indicated by the highlighted background color)
+- Shortcuts
+- Stand with Ukraine (with the Ukrainian flag beside it)
+- Need help?
+
+To the bottom-left, there is an advertisement-like box with a graphic of a computer and mobile device, with the following text:
+
+- "Are you sure all your devices are protected?"
+- "7 of 8 slots remaining"
+
+The main central space is filled with system settings grouped under three headers, with accompanying descriptions and toggle switches:
+
+SYSTEM
+- "Kill Switch" (toggle is on): "Prevent traffic leaks in case Internet connection goes off"
+
+- "Show ClearVPN in the Dock" (toggle is on): "Let the app always be at hand"
+
+STARTUP
+- "Launch on system startup" (toggle is off): "Keep it at hand whenever you need the app"
+
+TROUBLESHOOTING
+- "Reset all changes made by ClearVPN" 
+- "Remove VPN configurations" (a button)
+
+In the top-right corner of the "System settings" panel, there is an "X" button which likely closes the panel.
+
+The overall color scheme is shades of purple and the UI elements are modern and minimalistic.

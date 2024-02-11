@@ -1,0 +1,47 @@
+The image displays a user interface (UI) for managing bills within an application. The interface is organized with various elements that allow for input and interaction. Here is a detailed description of each UI element:
+
+1. Sidebar Navigation:
+   - Located on the left side of the screen, it contains a vertical menu with the following items:
+     - Bills (selected), which further subdivides into:
+       - Overview (with a subtext 'No Bills')
+       - Due Soon ('No Bills')
+       - Due This Month ('No Bills')
+       - Paid Recently ('No Bills', with a checkmark icon indicating the selected state)
+     - Reports, which further subdivides into:
+       - Income
+       - Forecast
+       - Monthly History
+       - Annual Spending
+     - Archive
+   - Each item in the sidebar has an associated icon to its left.
+
+2. Bills Lists View:
+   - On the top of this central section, there are toggle buttons for different list views and a search box on the right:
+     - A toggle icon for list view options.
+     - A "+" button to add a new item.
+     - An "All Items" drop-down selector.
+     - A search input field with a magnifying glass icon.
+
+3. Bills Table:
+   - This section is supposed to list bills with columns for 'Name', 'Amount', and 'Due Date'. However, in the image, this area is mostly obstructed by a floating window.
+
+4. Floating Window (Bill Detail/Edit Panel):
+   - Title: "Internet"
+   - Below the title is a drop-down selection labeled "Internet & Broadband".
+   - A row of fields is present with the following detail:
+     - Next Due Date: A date input field with "05.02.2024" filled in, accompanied by a 'View' button and a calendar icon.
+     - Repeat Interval: A drop-down box set to "Every Month".
+   - Amount Due: A textbox with "270,00 UAH" entered.
+   - Payment URL: A textbox labeled 'Optional', accompanied by an informational question mark icon.
+   - Below these, there are checkboxes for "Amount Varies", "Paid Automatically", and an "Enable Reminder" option selected with a text field to specify "10 days before due".
+   - A tags input field: This field is empty, waiting for user input.
+   - A link/button styled as "> Show More Bill Details".
+   - Control buttons: "Cancel" and "Save" at the bottom of this panel, providing options to either discard changes or save them.
+
+5. Calendar View:
+   - Displayed on the right side of the screen, above the detail/edit panel.
+   - The month "February 2024" is shown in the calendar header, with navigation arrows on either side to switch months.
+   - The days of the week are labeled from "MON" to "SUN" at the top.
+   - Dates are displayed in a grid format with the current date (5th) highlighted in blue.
+
+This UI allows a user to view, manage, and edit the details of their bills, set up payment reminders, and navigate through different views and time periods. The app facilitates bill management within a centralized and organized system.

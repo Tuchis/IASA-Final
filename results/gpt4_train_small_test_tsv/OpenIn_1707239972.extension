@@ -1,0 +1,87 @@
+This image depicts the user interface for the settings of an application titled "OpenIn Settings." The UI suggests this application is used for managing how certain types of links or protocols open in different applications on a computer system, likely a Mac based on the design aesthetics and the window controls in the top-left corner.
+
+Starting from the top-left corner of the window, we see the standard red, yellow, and green window controls which are typically used to close, minimize, and maximize the window, respectively.
+
+Directly below these window controls is a sidebar with six sections:
+
+1. "General" - represented with a gear icon.
+2. "Browsers" - represented with a compass icon.
+3. "Mail apps" - represented with an envelope icon.
+4. "Call apps" - represented with a telephone icon, and it's the currently selected section, indicated by the highlight.
+5. "Files" - represented with a document icon.
+6. "Backups" - represented with a hard drive icon.
+7. "About" - represented with an information "i" icon.
+
+In the top-right corner of the window, we see a toggle switch (in the 'off' position) and a question mark symbol that likely indicates a help or information function.
+
+The main part of the UI under the "Call apps" section contains the following elements:
+
+1. "tel:// scheme handler" - This text indicates that the settings being configured pertain to how "tel://" links (which often initiate telephone calls on the computer) are handled by the system.
+
+2. An "Enabled" section with a toggle switch next to it, again in the 'off' position. This suggests that handling of "tel://" schemes can be enabled or disabled.
+
+3. "Applications" - Below the "Enabled" section, there is an "Applications" heading, followed by two entries:
+   - "FaceTime" with a green dot, indicating it is probably the default or currently selected application for handling "tel://" links. It has three horizontal lines to the left, which likely means it can be reordered within the list through drag-and-drop.
+   - "zoom.us" with a blue dot and similar three horizontal lines for reordering.
+
+4. "Rules" - At the bottom, there is a "Rules" section with one entry:
+   - "Default" - This entry has the same three horizontal lines to the left, implying it is reorderable as well.
+
+Lastly, between the "Applications" and "Rules" sections are two buttons:
+- "Remove all applications" - Probably used to clear all the listed applications.
+- "Add application..." - Used to add more applications to the list.
+
+Below the "Rules" section, there is an "Add rule..." button, which likely allows the user to add specific rules for handling "tel://" links.
+
+This summary provides an overview of each element within the UI, offering context and functionality based on common UI patterns and icons.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1360]	[800.0, 680.0]		OpenIn Settings
+14	1	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+15	14	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+16	15	ScrollArea	[0, 160, 1600, 1200]	[800.0, 760.0]		
+48	16	Heading	[60, 204, 304, 32]	[212.0, 220.0]		|tel:// scheme handler
+47	16	Button	[1500, 200, 40, 40]	[1520.0, 220.0]		|Help
+44	16	Group	[34, 256, 1532, 84]	[800.0, 298.0]		
+46	44	StaticText	[60, 280, 98, 32]	[109.0, 296.0]	Enabled	
+45	44	CheckBox	[1488, 282, 52, 30]	[1514.0, 297.0]	0	
+43	16	Heading	[60, 392, 158, 32]	[139.0, 408.0]		|Applications
+29	16	Group	[34, 440, 1532, 164]	[800.0, 522.0]		
+30	29	ScrollArea	[60, 464, 1480, 112]	[800.0, 520.0]		
+31	30	Table	[60, 464, 1480, 112]	[800.0, 520.0]		
+38	31	Row	[60, 464, 1480, 56]	[800.0, 492.0]		
+39	38	Cell	[72, 464, 1456, 56]	[800.0, 492.0]		
+42	39	Image	[82, 486, 26, 12]	[95.0, 492.0]		|Drag
+41	39	Image	[128, 476, 32, 32]	[144.0, 492.0]		
+40	39	StaticText	[176, 476, 114, 32]	[233.0, 492.0]	FaceTime	
+33	31	Row	[60, 520, 1480, 56]	[800.0, 548.0]		
+34	33	Cell	[72, 520, 1456, 56]	[800.0, 548.0]		
+37	34	Image	[82, 542, 26, 12]	[95.0, 548.0]		|Drag
+36	34	Image	[128, 532, 32, 32]	[144.0, 548.0]		
+35	34	StaticText	[176, 532, 102, 32]	[227.0, 548.0]	zoom.us	
+32	31	Column	[60, 464, 1480, 112]	[800.0, 520.0]		
+28	16	Button	[996, 618, 284, 32]	[1138.0, 634.0]		|Remove all applications
+27	16	Button	[1332, 618, 210, 32]	[1437.0, 634.0]		|Add application...
+26	16	Heading	[60, 716, 70, 32]	[95.0, 732.0]		|Rules
+18	16	Group	[34, 764, 1532, 108]	[800.0, 818.0]		
+19	18	ScrollArea	[60, 788, 1480, 56]	[800.0, 816.0]		
+20	19	Table	[60, 788, 1480, 56]	[800.0, 816.0]		
+22	20	Row	[60, 788, 1480, 56]	[800.0, 816.0]		
+23	22	Cell	[72, 788, 1456, 56]	[800.0, 816.0]		
+25	23	Image	[82, 810, 26, 12]	[95.0, 816.0]		|Drag
+24	23	StaticText	[128, 800, 88, 32]	[172.0, 816.0]	Default	
+21	20	Column	[60, 788, 1480, 56]	[800.0, 816.0]		
+17	16	Button	[1420, 886, 124, 32]	[1482.0, 902.0]		|Add rule...
+6	1	Toolbar	[0, 56, 1600, 104]	[800.0, 108.0]		
+13	6	Button	[388, 56, 110, 104]	[443.0, 108.0]		General
+12	6	Button	[500, 56, 120, 104]	[560.0, 108.0]		Browsers
+11	6	Button	[624, 56, 124, 104]	[686.0, 108.0]		Mail apps
+10	6	Button	[750, 56, 120, 104]	[810.0, 108.0]		Call apps
+9	6	Button	[874, 56, 110, 104]	[929.0, 108.0]		Files
+8	6	Button	[986, 56, 114, 104]	[1043.0, 108.0]		Backups
+7	6	Button	[1102, 56, 110, 104]	[1157.0, 108.0]		About
+3	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+4	3	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+2	1	StaticText	[692, 10, 218, 32]	[801.0, 26.0]	OpenIn Settings	

@@ -1,0 +1,31 @@
+In this user interface for an app, here are the elements present:
+
+There are five tabs across the top of the window: "General," "Downloads," "Docsets," "Web Search," and "Integration," with "Snippets" being the last one.
+
+Below the tabs, there is a main area split into two columns:
+
+Left column:
+
+1. A sidebar titled "Included Docsets," with the following items listed:
+    - "Main Docsets" with a sub-domain indicated (kapeli.com)
+    - "Cheat Sheets" with a sub-domain indicated (cheat.kapeli.com)
+    - "User Contributed" with a sub-domain indicated (contrib.kapeli.com)
+    - "Docset Generator" with a subtitle "Create a new docset"
+2. Below these items, there's a section labelled "Third-Party Sources" with multiple items listed such as:
+    - "Swift Docsets" (swift.packageindex.com)
+    - "Ruby Docsets" (rubygems.org)
+    - "Python Docsets" (Any Sphinx docs)
+    - "PHP Docsets" (packagist.org)
+    - "Java Docsets" (search.maven.org)
+    - "Go Docsets" (pkg.go.dev)
+    - "Rust Docsets" (docs.rs)
+3. At the bottom of the left column, there is a "+" and a "−" button, possibly to add or remove items from the list, and a checked checkbox with the label "Check for and install docset updates automatically."
+
+Right column:
+
+1. A search field at the top with a placeholder text that says "Find docsets to download."
+2. Below the search field, there's a list of different docsets with names such as "ActionScript," "Akka," "Angular," "AngularJS," "Ansible," "Apache HTTP Server," "Apple API Reference," "AppleScript," "Arduino," "Backbone.JS," "Bash," "Boost," "Bootstrap 2," and "Bootstrap 3." Each item has an icon associated with it and a "Download" button to the right. Some items have a dropdown arrow next to the "Download" button, and one item specifically has a "Generate" button instead of "Download."
+3. There is a scrollbar on the right indicating that more items are available beyond what is shown.
+4. At the very bottom of the right column, there's a button that says "Check and Install Now."
+
+Please note that discussing specific color, style, or aesthetic elements has been avoided as per your requirement.

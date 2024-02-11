@@ -1,0 +1,42 @@
+The image provided is a screenshot of a stock tracking application's user interface. The layout is divided into left and right sections, which are as follows:
+
+**Left Section - Setting Sidebar:**
+- There are several setting categories, each indicated by an icon and a text label:
+
+  1. General (icon: a switch)
+  2. Calculator (icon: a calculator) – This is broken down into three sub-settings which are highlighted in a segmented control:
+     i. General (currently selected)
+     ii. Editing
+     iii. Styling
+     iv. Currencies
+     v. QuickSolver
+  3. Number Formatting (icon: the letter 'G')
+  4. Regional Settings (icon: a globe)
+  5. Currency Symbols (icon: the currency exchange symbol)
+  6. Data Sources (a sub-label that is not an interactive element)
+  7. Stocks (icon: a bar chart) – This is highlighted indicating the current selection.
+  8. Weather (icon: a cloud)
+  9. AI Assistant (icon: a silhouette of a person's head and shoulders)
+  10. Your Definitions (icon: the letter 'x' with brackets surrounding it)
+  11. Custom Units (icon: a warning triangle with an exclamation mark)
+  12. Additional Places (icon: a map pin)
+
+**Right Section - Main Content:**
+- The stocks panel displays the following elements:
+  1. A title header with two columns: "Stock" and "Price."
+  2. A list of stocks with respective information:
+     - AAPL (Apple Inc): US$188.20, "Sourced Today"
+     - ABNB (Airbnb Inc): US$143.63, "Sourced Today"
+     - AMZN (Amazon.com Inc): US$168.78, "Sourced Today"
+     - GOOGL (Alphabet Inc): US$144.07, "Sourced Today"
+     - META (Meta Platforms Inc.): US$455.59, "Sourced Today"
+     - MSFT (Microsoft Corporation): US$404.82, "Sourced Today"
+     - NFLX (Netflix): US$557.25, "Sourced Today"
+  3. Buttons for adding (+) and removing (−) stocks from the list are placed below the stocks list.
+  4. A checkbox that reads "Automatically fetch prices every hour," which is currently checked.
+  5. A button labeled "Fetch latest prices."
+  6. The text "Last updated: Today, 17:17" is visible at the bottom, providing information on when the stock prices were last refreshed.
+
+Across the top of the entire window, the application's menu bar includes standard window controls for close, minimize, and full-screen (red, yellow, and green dots, respectively).
+
+This interface is designed to allow users to configure their experience and track stock prices, giving the option to automatically update the prices and manually fetch the latest data. The left part of the interface seems to navigate through different settings or functionalities of the app, with the "Stocks" function currently being active.

@@ -1,0 +1,89 @@
+This image appears to be a screenshot of a map application user interface with a focus on a geographic location. Here are the elements of the UI identified:
+
+Top-left corner:
+- A search field with a magnifying glass icon, suggesting functionality to search within the map.
+- Three horizontal lines indicating a menu or options button, often called a "hamburger" menu.
+
+Top-right corner:
+- A detail box indicating the location "Lviv – Lviv Oblast".
+- A button with two arrows forming a circle, likely representing a 're-center' or 'reset orientation' feature.
+- A scale indication "0.125 mi" to represent the distance on the map.
+- A 3D button, suggesting an option to view the map in three dimensions.
+
+Left Sidebar:
+- Favorites section:
+   - Home with "Add" text underneath. This looks like a place to save a home address.
+   - Work with "Add" text underneath. This looks like a place to save a work address.
+- "My Guides" section with "Add Guide" text/button underneath, for presumably creating or adding a guide.
+
+Bottom-left corner:
+- "Terms & Conditions" link, likely leading to the legal terms of using the application.
+
+Map Area:
+Various elements are displayed within the map area, including:
+- Streets and street names, such as "Vulvyka Honey".
+- Icons representing places and points of interest, such as churches and parks.
+- Labels for squares and institutions such as "Ivan Franko Square" and "Ukrainian Catholic University".
+- Public spaces like "Stryiskyi Park".
+- Different shades of green presumably indicating different park areas or levels of vegetation.
+- Light blue lines that may represent water bodies or rivers.
+
+Bottom-right corner:
+- Zoom controls represented by "+" and "-" buttons.
+- An orientation indicator displaying a compass with a red needle pointing north.
+
+The map seems to be centered around a green park area with nearby points of interest labeled, providing users with a helpful overview of this region within Lviv, Ukraine.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Lviv — Lviv Oblast
+15	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+16	15	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+17	16	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+42	17	Group	[0, 0, 564, 1536]	[282.0, 768.0]		
+51	42	TextField	[30, 74, 504, 60]	[282.0, 104.0]		|Search Maps
+44	42	Group	[0, 154, 564, 1382]	[282.0, 845.0]		|Locations
+50	44	Heading	[20, 154, 524, 48]	[282.0, 178.0]		|Favourites
+49	44	StaticText	[20, 202, 524, 72]	[282.0, 238.0]		|Home, Add
+48	44	StaticText	[20, 274, 524, 72]	[282.0, 310.0]		|Work, Add
+47	44	Heading	[20, 346, 524, 48]	[282.0, 370.0]		|My Guides
+45	44	Group	[20, 394, 524, 30]	[282.0, 409.0]		
+46	45	Button	[32, 394, 152, 30]	[108.0, 409.0]		| Add Guide
+43	42	Button	[32, 1482, 222, 28]	[143.0, 1496.0]		|Terms & Conditions
+41	17	Splitter	[564, 0, 2, 1536]	[565.0, 768.0]	27.5390625	
+40	17	Group	[566, 0, 1482, 1536]	[1307.0, 768.0]		
+39	17	Button	[590, 1452, 96, 58]	[638.0, 1481.0]		|windy, 5 degrees
+38	17	Button	[1926, 1414, 96, 96]	[1974.0, 1462.0]	Heading: 0 degrees North	|Compass
+37	17	Button	[1810, 1462, 48, 48]	[1834.0, 1486.0]		|Zoom out
+36	17	Button	[1858, 1462, 48, 48]	[1882.0, 1486.0]		|Zoom in
+20	17	Image	[0, 0, 2048, 1536]	[1024.0, 768.0]		|Map
+35	20	GenericElement	[1312, 78, 60, 60]	[1342.0, 108.0]		|Vulyk Honey Restaurant
+34	20	GenericElement	[1446, 114, 60, 60]	[1476.0, 144.0]		|Yevhen Petrushevych Square
+33	20	GenericElement	[800, 160, 60, 60]	[830.0, 190.0]		|Lviv Citadel
+32	20	GenericElement	[1198, 366, 60, 60]	[1228.0, 396.0]		|Ivan Franko Square
+31	20	GenericElement	[1478, 368, 60, 60]	[1508.0, 398.0]		|Ліцей №28 Львівської Міської Ради
+30	20	GenericElement	[554, 478, 60, 60]	[584.0, 508.0]		"|Готель ""Замок Лева"""
+29	20	GenericElement	[764, 556, 60, 60]	[794.0, 586.0]		|Парк культури та відпочинку імені Богдана Хмельницького
+28	20	GenericElement	[628, 568, 60, 60]	[658.0, 598.0]		|Маленька Скандинавія
+27	20	GenericElement	[1598, 798, 60, 60]	[1628.0, 828.0]		|Львівська Національна Академія Мистецтв
+26	20	GenericElement	[960, 848, 60, 60]	[990.0, 878.0]		|Stryisky Park
+25	20	GenericElement	[1536, 944, 60, 60]	[1566.0, 974.0]		|Український католицький університет / Ukrainian Catholic University
+24	20	GenericElement	[1332, 1020, 60, 60]	[1362.0, 1050.0]		|Українська приватна гімназія
+23	20	GenericElement	[1840, 1104, 60, 60]	[1870.0, 1134.0]		|Snopkivskyj Park
+22	20	GenericElement	[1548, 1312, 60, 60]	[1578.0, 1342.0]		|Парк «Залізна Вода»
+21	20	GenericElement	[764, 1458, 60, 60]	[794.0, 1488.0]		|Ukrainian Catholic University
+19	17	Button	[1810, 1462, 48, 48]	[1834.0, 1486.0]		|Zoom out
+18	17	Button	[1858, 1462, 48, 48]	[1882.0, 1486.0]		|Zoom in
+4	1	Toolbar	[0, 0, 2048, 76]	[1024.0, 38.0]		
+14	4	Button	[574, 0, 72, 76]	[610.0, 38.0]		|Hide Sidebar
+13	4	Button	[1486, 0, 66, 76]	[1519.0, 38.0]		|location services off
+12	4	Button	[1552, 0, 70, 76]	[1587.0, 38.0]		|show map
+11	4	CheckBox	[1622, 0, 80, 76]	[1662.0, 38.0]	0	|3D
+10	4	CheckBox	[1702, 0, 76, 76]	[1740.0, 38.0]	0	|Look Around
+9	4	CheckBox	[1778, 0, 66, 76]	[1811.0, 38.0]	0	|Directions
+7	4	MenuButton	[1844, 0, 64, 76]	[1876.0, 38.0]		|New
+8	7	MenuButton	[1850, 14, 52, 50]	[1876.0, 39.0]		|New
+6	4	Button	[1908, 0, 66, 76]	[1941.0, 38.0]		|Share
+5	4	Button	[1974, 0, 66, 76]	[2007.0, 38.0]		|account
+3	1	Button	[64, 22, 28, 32]	[78.0, 38.0]		
+2	1	StaticText	[646, 0, 822, 76]	[1057.0, 38.0]	Lviv — Lviv Oblast	

@@ -1,0 +1,171 @@
+The image appears to show the system settings page of a web browser's settings interface, seemingly from Google Chrome, based on the "Chrome" logo in the tab. Starting from the top left, going to the bottom right, here's a description of every element in the user interface:
+
+1. In the very top left corner are three small circles colored red, yellow, and green, which are standard window control buttons for macOS. They are typically used to close, minimize, and maximize the window, respectively.
+
+2. Immediately below these buttons is a navigation bar with back and forward arrows, a refresh button, a home button, and an address bar with "chrome://settings/system" typed in it. To the right of the address bar are buttons for bookmarking (star icon), making a new tab (+ icon), and miscellaneous settings (three vertical dots). Multiple browser tabs are open — the active tab displays the settings icon and text "Settings - System", with another tab to the right showing a plus sign, indicating it is a new or blank tab.
+
+3. Below the navigation bar, on the left-hand side, is a sidebar that lists different settings categories:
+   - "Settings" (selected)
+   - "You and Google"
+   - "Autofill and passwords"
+   - "Privacy and security"
+   - "Performance"
+   - "Appearance"
+   - "Search engine"
+   - "Default browser"
+   - "On start-up"
+   - "Languages"
+   - "Downloads"
+   - "Accessibility"
+   - "System" (highlighted in blue, indicating it is the currently selected category)
+   - "Reset settings"
+   - "Extensions" (with a link icon indicating an external link)
+   - "About Chrome"
+
+4. At the very bottom left corner, there is a gear icon to indicate settings.
+
+5. On the right-hand side, the main content area starts with a search bar at the top with a magnifying glass icon and placeholder text that reads "Search settings".
+
+6. The main section of the settings page is labeled "System" and contains the following options:
+   - "Use hardware acceleration when available" with a toggle switch to the right. The switch is currently in the off position.
+   - "Open your computer's proxy settings" with an icon to the right that signifies that clicking it will take you to an external or different settings page.
+
+Lastly, in the top right corner of the image, there are typical browser profile, notifications, and three-dot menu buttons. These are part of the browser's user interface for account management and additional settings.
+
+This is an overview of the UI elements present without interaction or using any of them.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 2030, 1606]	[1015.0, 803.0]		|
+125	1	TabGroup	[160, 0, 1870, 82]	[1095.0, 41.0]		|
+132	125	RadioButton	[160, 0, 512, 82]	[416.0, 41.0]	False	|What’s new - Memory usage - 151 MB
+133	132	Button	[588, 12, 56, 56]	[616.0, 40.0]		|Close
+130	125	RadioButton	[636, 0, 512, 82]	[892.0, 41.0]	False	|miyazaki hayao – Пошук Google - Memory usage - 158 MB
+131	130	Button	[1064, 12, 56, 56]	[1092.0, 40.0]		|Close
+128	125	RadioButton	[1112, 0, 512, 82]	[1368.0, 41.0]	True	|Settings – System - Memory usage - 97.8 MB
+129	128	Button	[1540, 12, 56, 56]	[1568.0, 40.0]		|Close
+127	125	Button	[1612, 0, 56, 82]	[1640.0, 41.0]		|New Tab
+126	125	PopUpButton	[1962, 0, 56, 82]	[1990.0, 41.0]		|Search tabs
+113	1	Toolbar	[0, 80, 2030, 92]	[1015.0, 126.0]		|
+124	113	Button	[10, 92, 68, 68]	[44.0, 126.0]		|Back
+123	113	Button	[82, 92, 68, 68]	[116.0, 126.0]		|Forward
+122	113	Button	[154, 92, 68, 68]	[188.0, 126.0]		|Reload
+118	113	Group	[240, 92, 1442, 68]	[961.0, 126.0]		|
+121	118	PopUpButton	[250, 102, 156, 48]	[328.0, 126.0]		|Chrome
+120	118	TextField	[422, 102, 1184, 48]	[1014.0, 126.0]	chrome://settings/system	|Address and search bar
+119	118	Button	[1610, 102, 48, 48]	[1634.0, 126.0]		|Bookmark this tab
+117	113	PopUpButton	[1700, 92, 68, 68]	[1734.0, 126.0]		|Extensions
+116	113	Button	[1808, 92, 68, 68]	[1842.0, 126.0]		|Side panel
+115	113	Button	[1880, 92, 68, 68]	[1914.0, 126.0]		|You
+114	113	PopUpButton	[1952, 92, 68, 68]	[1986.0, 126.0]		|Chrome
+109	1	Toolbar	[0, 172, 2030, 68]	[1015.0, 206.0]		|Bookmarks
+112	109	Button	[12, 172, 134, 56]	[79.0, 200.0]		|Gmail
+111	109	Button	[162, 172, 164, 56]	[244.0, 200.0]		|YouTube
+110	109	Button	[342, 172, 130, 56]	[407.0, 200.0]		|Maps
+5	1	WebArea	[0, 242, 2030, 1364]	[1015.0, 924.0]		Settings – System|
+98	5	Group	[0, 242, 2030, 112]	[1015.0, 298.0]		|
+105	98	Group	[0, 242, 500, 112]	[250.0, 298.0]		|
+108	105	Group	[42, 274, 48, 48]	[66.0, 298.0]		|
+106	105	Heading	[134, 272, 366, 52]	[317.0, 298.0]		Settings|
+107	106	StaticText	[134, 272, 168, 52]	[218.0, 298.0]	Settings	|
+99	98	Group	[544, 262, 1386, 72]	[1237.0, 298.0]		|
+104	99	Group	[544, 262, 1386, 72]	[1237.0, 298.0]		|
+103	99	Group	[544, 262, 1386, 72]	[1237.0, 298.0]		|
+100	99	Group	[556, 262, 1362, 72]	[1237.0, 298.0]		|
+101	100	Group	[612, 276, 1306, 46]	[1265.0, 299.0]		|
+102	101	TextField	[612, 276, 1306, 46]	[1265.0, 299.0]		Search settings|
+97	5	Group	[0, 354, 2030, 12]	[1015.0, 360.0]		|
+6	5	Group	[0, 354, 2030, 1252]	[1015.0, 980.0]		|
+20	6	Group	[0, 354, 500, 1252]	[250.0, 980.0]		|
+21	20	Group	[0, 354, 500, 1252]	[250.0, 980.0]		|
+22	21	Group	[0, 354, 500, 1252]	[250.0, 980.0]		|
+23	22	Menu	[0, 354, 500, 1252]	[250.0, 980.0]		|
+92	23	MenuItem	[2, 354, 494, 80]	[249.0, 394.0]		You and Google|
+95	92	Group	[48, 374, 40, 40]	[68.0, 394.0]		|
+96	95	Image	[48, 374, 40, 40]	[68.0, 394.0]		|
+94	92	StaticText	[128, 378, 208, 32]	[232.0, 394.0]	You and Google	|
+93	92	Group	[2, 354, 494, 80]	[249.0, 394.0]		|
+87	23	MenuItem	[2, 434, 494, 80]	[249.0, 474.0]		Autofill and passwords|
+90	87	Group	[48, 454, 40, 40]	[68.0, 474.0]		|
+91	90	Image	[48, 454, 40, 40]	[68.0, 474.0]		|
+89	87	StaticText	[128, 458, 300, 32]	[278.0, 474.0]	Autofill and passwords	|
+88	87	Group	[2, 434, 494, 80]	[249.0, 474.0]		|
+82	23	MenuItem	[2, 514, 494, 80]	[249.0, 554.0]		Privacy and security|
+85	82	Group	[48, 534, 40, 40]	[68.0, 554.0]		|
+86	85	Image	[48, 534, 40, 40]	[68.0, 554.0]		|
+84	82	StaticText	[128, 538, 268, 32]	[262.0, 554.0]	Privacy and security	|
+83	82	Group	[2, 514, 494, 80]	[249.0, 554.0]		|
+77	23	MenuItem	[2, 594, 494, 80]	[249.0, 634.0]		Performance|
+80	77	Group	[48, 614, 40, 40]	[68.0, 634.0]		|
+81	80	Image	[48, 614, 40, 40]	[68.0, 634.0]		|
+79	77	StaticText	[128, 618, 172, 32]	[214.0, 634.0]	Performance	|
+78	77	Group	[2, 594, 494, 80]	[249.0, 634.0]		|
+72	23	MenuItem	[2, 674, 494, 80]	[249.0, 714.0]		Appearance|
+75	72	Group	[48, 694, 40, 40]	[68.0, 714.0]		|
+76	75	Image	[48, 694, 40, 40]	[68.0, 714.0]		|
+74	72	StaticText	[128, 698, 160, 32]	[208.0, 714.0]	Appearance	|
+73	72	Group	[2, 674, 494, 80]	[249.0, 714.0]		|
+67	23	MenuItem	[2, 754, 494, 80]	[249.0, 794.0]		Search engine|
+70	67	Group	[48, 774, 40, 40]	[68.0, 794.0]		|
+71	70	Image	[48, 774, 40, 40]	[68.0, 794.0]		|
+69	67	StaticText	[128, 778, 190, 32]	[223.0, 794.0]	Search engine	|
+68	67	Group	[2, 754, 494, 80]	[249.0, 794.0]		|
+62	23	MenuItem	[2, 834, 494, 80]	[249.0, 874.0]		Default browser|
+65	62	Group	[48, 854, 40, 40]	[68.0, 874.0]		|
+66	65	Image	[48, 854, 40, 40]	[68.0, 874.0]		|
+64	62	StaticText	[128, 858, 210, 32]	[233.0, 874.0]	Default browser	|
+63	62	Group	[2, 834, 494, 80]	[249.0, 874.0]		|
+57	23	MenuItem	[2, 914, 494, 80]	[249.0, 954.0]		On start-up|
+60	57	Group	[48, 934, 40, 40]	[68.0, 954.0]		|
+61	60	Image	[48, 934, 40, 40]	[68.0, 954.0]		|
+59	57	StaticText	[128, 938, 154, 32]	[205.0, 954.0]	On start-up	|
+58	57	Group	[2, 914, 494, 80]	[249.0, 954.0]		|
+52	23	MenuItem	[2, 1028, 494, 80]	[249.0, 1068.0]		Languages|
+55	52	Group	[48, 1048, 40, 40]	[68.0, 1068.0]		|
+56	55	Image	[48, 1048, 40, 40]	[68.0, 1068.0]		|
+54	52	StaticText	[128, 1052, 146, 32]	[201.0, 1068.0]	Languages	|
+53	52	Group	[2, 1028, 494, 80]	[249.0, 1068.0]		|
+47	23	MenuItem	[2, 1108, 494, 80]	[249.0, 1148.0]		Downloads|
+50	47	Group	[48, 1128, 40, 40]	[68.0, 1148.0]		|
+51	50	Image	[48, 1128, 40, 40]	[68.0, 1148.0]		|
+49	47	StaticText	[128, 1132, 146, 32]	[201.0, 1148.0]	Downloads	|
+48	47	Group	[2, 1108, 494, 80]	[249.0, 1148.0]		|
+42	23	MenuItem	[2, 1188, 494, 80]	[249.0, 1228.0]		Accessibility|
+45	42	Group	[48, 1208, 40, 40]	[68.0, 1228.0]		|
+46	45	Image	[48, 1208, 40, 40]	[68.0, 1228.0]		|
+44	42	StaticText	[128, 1212, 166, 32]	[211.0, 1228.0]	Accessibility	|
+43	42	Group	[2, 1188, 494, 80]	[249.0, 1228.0]		|
+37	23	MenuItem	[2, 1268, 494, 80]	[249.0, 1308.0]		System|
+40	37	Group	[48, 1288, 40, 40]	[68.0, 1308.0]		|
+41	40	Image	[48, 1288, 40, 40]	[68.0, 1308.0]		|
+39	37	StaticText	[128, 1292, 100, 32]	[178.0, 1308.0]	System	|
+38	37	Group	[2, 1268, 494, 80]	[249.0, 1308.0]		|
+32	23	MenuItem	[2, 1348, 494, 80]	[249.0, 1388.0]		Reset settings|
+35	32	Group	[48, 1368, 40, 40]	[68.0, 1388.0]		|
+36	35	Image	[48, 1368, 40, 40]	[68.0, 1388.0]		|
+34	32	StaticText	[128, 1372, 190, 32]	[223.0, 1388.0]	Reset settings	|
+33	32	Group	[2, 1348, 494, 80]	[249.0, 1388.0]		|
+27	23	MenuItem	[2, 1462, 494, 80]	[249.0, 1502.0]		Extensions|
+30	27	Group	[48, 1482, 40, 40]	[68.0, 1502.0]		|
+31	30	Image	[48, 1482, 40, 40]	[68.0, 1502.0]		|
+29	27	StaticText	[128, 1486, 144, 32]	[200.0, 1502.0]	Extensions	|
+28	27	Group	[2, 1462, 494, 80]	[249.0, 1502.0]		|
+24	23	MenuItem	[2, 1542, 494, 64]	[249.0, 1574.0]		About Chrome|
+26	24	StaticText	[128, 1566, 192, 32]	[224.0, 1582.0]	About Chrome	|
+25	24	Group	[2, 1542, 494, 64]	[249.0, 1574.0]		|
+7	6	Group	[556, 354, 1362, 326]	[1237.0, 517.0]		|
+8	7	Group	[556, 354, 1362, 326]	[1237.0, 517.0]		|
+18	8	Heading	[556, 396, 100, 66]	[606.0, 429.0]		System|
+19	18	StaticText	[556, 416, 100, 32]	[606.0, 432.0]	System	|
+9	8	Group	[556, 484, 1362, 196]	[1237.0, 582.0]		|
+15	9	Group	[556, 484, 1362, 98]	[1237.0, 533.0]		|
+17	15	Group	[596, 678, 1190, 2]	[1191.0, 679.0]		|
+16	15	CheckBox	[1824, 516, 54, 34]	[1851.0, 533.0]		|Use hardware acceleration when available
+10	9	Group	[556, 580, 1362, 100]	[1237.0, 630.0]		|
+13	10	Group	[596, 610, 1202, 42]	[1197.0, 631.0]		|
+14	13	StaticText	[596, 616, 450, 30]	[821.0, 631.0]	Open your computer's proxy settings	|
+11	10	Button	[1828, 598, 66, 66]	[1861.0, 631.0]		|Open your computer's proxy settings
+12	11	Group	[1828, 598, 66, 66]	[1861.0, 631.0]		|
+3	1	PopUpButton	[922, 256, 304, 74]	[1074.0, 293.0]	Bookmarks	|Side panel selector
+4	3	Button	[922, 256, 304, 74]	[1074.0, 293.0]		|
+2	1	Splitter	[888, 242, 34, 1364]	[905.0, 924.0]		|

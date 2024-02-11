@@ -1,0 +1,29 @@
+In the image provided, there's a user interface of an application with numerous elements that pertain to settings or preferences related to Markdown features within the app. Starting from the top, following is a detailed description of each element:
+
+1. **Top Menu Bar**:
+   - At the very top, there is a menu bar with the text 'Preferences'. To its left and right, there are buttons, but the left side is cut off, and only the right side is fully visible. 
+   - Visible buttons include:
+     - **AI & Plugins** (icon looks like a "puzzle piece"): Probably relates to artificial intelligence features or additional plugins for the application.
+     - **Sync** (icon with two arrows forming a circle): This likely relates to synchronization settings.
+     - **Shortcuts** (icon with four squares forming a larger square): Presumably where users can configure keyboard shortcuts.
+     - **Files** (icon with folder and file): Possible settings for file management.
+     - **License** (icon with a key): Where users might manage their application license or subscription.
+
+2. **Side Menu Bar**:
+   - On the left side, there's a vertical menu bar with icons, out of which only 'Calendars' and 'Markdown' tabs are fully visible. The 'Markdown' tab is selected, as indicated by a blue left border and a filled background.
+
+3. **Markdown Settings**:
+   - Within the 'Markdown' section, there are multiple settings outlined with checkboxes, radio buttons, and explanatory text:
+     - **Render Markdown**: Checked, indicating markdown rendering is enabled.
+     - **Recognize * as Todo**: Checked, indicating items with an asterisk are recognized as to-do tasks.
+     - **Recognize - as Todo**: Unchecked, suggesting this format is not recognized as to-do tasks.
+     - **Recognize 1. as Todo**: Unchecked, another format not recognized as to-do tasks.
+     - Below these options, a note explains that items with square brackets are recognized as Todos by default, demonstrated with "* [ ]".
+     - Two radio buttons follow, indicating options for default to-do recognition:
+       - **Use * as default**: Selected radio button.
+       - **Use - as default**: Deselected radio button.
+     - An additional explanatory note states that list and to-do shortcuts would print the default selected above, except only one option is selected to be recognized as Todo.
+     - **Show help text (and template button)**: Checked, this setting shows the help text in empty notes.
+     - **Smart Markdown Links**: Checked, indicating web links pasted into the editor are converted to markdown links with titles from the website. There's a note that the application needs to make a web request for this.
+
+The overall context of the UI suggests that these settings are part of a note-taking application or a text editor that supports markdown, and these particular preferences are customized by the user to control how markdown is rendered and how to-do items are managed and recognized within the application.

@@ -1,0 +1,24 @@
+The image displays a user interface with the following elements:
+
+1. A header text that reads: "Choose the main purpose of your journal for a personalized experience:"
+2. A list with five options, each with a circular button to the left that can be selected, and each option is accompanied by an icon and a description. The options are as follows:
+   - Option 1: "Foster self-improvement and self-discovery" with a sprout icon.
+   - Option 2: "Practice mindfulness and live in the present" with a meditating person icon.
+   - Option 3: "Document your everyday moments and thoughts" with a book icon.
+   - Option 4: "Reflect and cultivate mental health" with a smiling face and leaf icon. This option has a checkmark indicating it is currently selected.
+   - Option 5: "Capture memories and experiences from your journeys" with a globe icon.
+   - Option 6: "Set, track, and celebrate your progress" with a checkmark icon.
+3. A button at the bottom that reads "Continue".
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1120, 1360]	[560.0, 680.0]		Welcome
+3	1	ScrollArea	[0, 192, 1120, 764]	[560.0, 574.0]		
+10	3	StaticText	[66, 192, 912, 120]	[522.0, 252.0]	Choose the main purpose of your journal for a personalized experience:	
+9	3	StaticText	[120, 370, 714, 42]	[477.0, 391.0]	🌱 Foster self-improvement and self-discovery.	
+8	3	StaticText	[120, 468, 712, 42]	[476.0, 489.0]	🧘 Practice mindfulness and live in the present.	
+7	3	StaticText	[120, 566, 792, 42]	[516.0, 587.0]	📓 Document your everyday moments and thoughts.	
+6	3	StaticText	[120, 664, 578, 42]	[409.0, 685.0]	😌 Reflect and cultivate mental health.	
+5	3	StaticText	[120, 762, 880, 42]	[560.0, 783.0]	🌍 Capture memories and experiences from your journeys.	
+4	3	StaticText	[120, 860, 634, 42]	[437.0, 881.0]	✅ Set, track, and celebrate your progress.	
+2	1	Button	[808, 1214, 246, 80]	[931.0, 1254.0]		Continue

@@ -1,0 +1,36 @@
+This is a screenshot of an application interface with the following UI elements:
+
+At the top:
+
+- A row of icon buttons from left to right - Calendars, Markdown, Todo, Editor, Themes, AI & Plugins, Sync, Shortcuts, Files, and License.
+- A large header labeled "Preferences" aligned to the top center of the UI.
+
+Below the top row:
+
+- A text button labeled "Import Theme..." is located on the upper left side below the icons.
+- On the upper right side, there is a text/button labeled "How to create a custom theme?".
+
+In the main content area:
+
+There are six rectangular UI components, each with a title and a list of items demonstrating different text formatting, arranged in two columns of three rows. Each component represents a different theme style, and appears to be selectable. Each list item within these components includes a mix of the following elements:
+
+1. An unselected radio button indicating a task.
+2. Text with different formatting examples, such as:
+   - "World," which seems to highlight a specific element or feature.
+   - "task" annotated with an "@" symbol to denote a task-related keyword or tag.
+   - "bold" and "italic" text indicating text format examples.
+   - "links" enclosed in square brackets followed by "(?)" indicating a placeholder for a hyperlink.
+   - A bullet point preceding the text in the second line.
+   - An indentation and a vertical bar on the third line of text, possibly indicating a quoted text or a nested list item.
+
+The titles of the six components are:
+
+- "Orange"
+- "Toothbleach"
+- "Toothbleach Condensed"
+- "Solarized Light"
+- "Breakers"
+
+The sixth title is obscured by an overlapping interface element at the bottom of the screenshot and is not fully visible, but it seems to start with "Contra..." which could potentially be "Contrast" or another similar title.
+
+Lastly, each component has its own border which provides a visual separation from the others.

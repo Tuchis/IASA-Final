@@ -1,0 +1,41 @@
+This image shows a user interface for what appears to be a theme selection screen within an app.
+
+At the top, we have a header or toolbar with icons and text:
+
+1. A Navbar with various icons indicating possible features or sections of the application such as:
+   - Calendars
+   - Markdown
+   - Todo
+   - Editor
+   - Themes
+   - AI & Plugins
+   - Sync
+   - Shortcuts
+   - Files
+   - License
+2. The word "Preferences" to the right, which is likely clickable and opens up the application’s settings or preferences panel.
+
+Directly to the right of the Preferences button, there is an Import button:
+- "Import Theme..." suggests a functionality to add or customize themes from an external source.
+
+Below that, there appears to be a title or instruction:
+- "How to create a custom theme?" which might be a hyperlink or a dropdown that provides additional information on theme customization.
+
+The main section below shows several theme options with example content:
+
+1. The "Orange" theme on the left has a border highlighting it, suggesting it's selected or currently active. Each theme preview seems to contain the same example content:
+   - A radio button (unselected)
+   - The text "Hello World, this is a @task"
+   - A bullet point containing "With some bold and italic text"
+   - A blockquote symbol followed by "And brave [links](#) inside a quote"
+
+2. The other theme examples visible are:
+   - "Toothbleach"
+   - "Toothbleach Condensed"
+   - "Solarized Light"
+   - "Breakers"
+   - "Contrast"
+
+Each of these theme examples has the same example content mentioned above with stylistic differences in font, weight, and colors to distinguish each theme from one another.
+
+The UI design indicates that this app may be used for taking notes or managing tasks, and it provides a visual way for users to select how their interface looks in terms of color and typography.

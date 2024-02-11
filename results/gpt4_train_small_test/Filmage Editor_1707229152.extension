@@ -1,0 +1,35 @@
+This image shows a user interface for a video editing application, with a variety of elements intended for creating and exporting multimedia content.
+
+On the top left corner, there is a primary navigation section with three tabs:
+
+1. **Media**: Selected in the image, this tab is likely used to manage media files imported into the project.
+2. **Resources**: This tab is where additional elements like text, sound effects, stickers, etc., can be accessed.
+3. **Effects**: This tab would contain various effects that can be applied to the video content.
+
+Below the top tabs, there is a secondary navigation pane with various resources listed, probably accessible through the "Resources" tab:
+
+- **Text**: To add text overlays or titles to the video.
+- **Sound FX**: For adding sound effects.
+- **Stickers**: To overlay stickers on the video.
+- **GIPHY**: Selected in the image, indicating that this tab contains GIFs from GIPHY to be used in the video.
+- **Unsplash**: This would offer images from Unsplash.
+- **Pexels**: Access to images from Pexels.
+- **Pixabay**: Access to multimedia resources from Pixabay.
+
+Each resource category appears expandable with a chevron indicating that more options or categories may be available under each section.
+
+There are a series of images and GIFs displayed in a grid, probably representing the GIPHY resources that can be added to the video project. Above this, there are two buttons: "All" and "Download," which may filter or import these resources. There's a search bar with the placeholder text "Search" and a "Refresh" button to probably refresh the listed resources.
+
+The central top area has the text "Untitled 1.filmg," which is likely the name of the current project.
+
+On the top right, there is a box denoting "Viewer" which is likely the window where video content is previewed. Below that are aspect ratio options ("16:9" selected) and an "Export" button, which would be used to render and export the final video product.
+
+The central area represents the timeline where the video editing takes place. It features a series of icons and a timecode marker indicating the position of the timeline. The icons represent different types of tracks or layers (for video, audio, text, effects, etc.), and the timeline stretches across the screen with timecodes marked at intervals.
+
+At the bottom-left corner, there are familiar video editing controls such as play, stop, back, and forward, among others (these icons are partially obscured in the image).
+
+Lastly, there is a message at the bottom central area that says, "Drag media and effects here to create your video." This is instructive text guiding the user on how to proceed with assembling the video elements on the timeline.
+
+The overall dark theme of the UI suggests that this application is designed for use in various lighting conditions, which is typical for video editing software to reduce eye strain during long editing sessions.
+
+Note: The actual functionality of the UI elements would need to be confirmed by using the application; the descriptions provided are based on typical functions of similar-looking UI elements in video editing software.

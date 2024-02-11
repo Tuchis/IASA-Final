@@ -1,0 +1,44 @@
+This is a screenshot of a settings interface from a software application, seemingly for configuration preferences related to the application's graphical user interface.
+
+On the top left corner, there is a navigation bar with a back arrow <, the title "Settings," and close button 'X' to exit the settings. Below this is a "Search settings" field where users can type a query to find specific settings.
+
+On the left-hand side, there is a sidebar with various categories listed under the "User" section:
+
+- Commonly Used
+- Text Editor
+- Workbench
+  - Window
+  - New Window
+- Features
+- Application
+- Security
+- Extensions
+
+The "Window" category is expanded, the others are either collated or with a downwards-facing arrow indicating they can be expanded to view more options.
+
+On the right side, there are detailed settings specifically for "Window":
+
+1. Auto Detect Color Scheme
+   - There's a checkbox, which is checked, with the following description:
+     "If set, automatically switch to the preferred color theme based on the OS appearance. If the OS appearance is dark, the theme specified at Workbench: Preferred Dark Color Theme is used, for light Workbench: Preferred Light Color Theme."
+
+2. Auto Detect High Contrast (Applies to all profiles)
+   - There's another checkbox, which is also checked, accompanied by this text:
+     "If enabled, will automatically change to high contrast theme if the OS is using a high contrast theme. The high contrast theme to use is specified by Workbench: Preferred High Contrast Color Theme and Workbench: Preferred High Contrast Light Color Theme."
+
+3. Click Through Inactive (Applies to all profiles)
+   - A checked checkbox next to a description:
+     "If enabled, clicking on an inactive window will both activate the window and trigger the element under the mouse if it is clickable. If disabled, clicking anywhere on an inactive window will activate it only and a second click is required on the element."
+
+4. Close When Empty
+   - An unchecked checkbox with a label:
+     "Controls whether closing the last editor should also close the window. This setting only applies for windows that do not show folders."
+
+5. Command Center
+   - A checkbox labeled "Show command launcher together with the window title. This setting only has an effect when Window: Title Bar Style is set to custom."
+
+At the bottom left of the window, there are icons suggestive of notifications or alerts, and at the very bottom left corner there are additional icons likely for different settings or actions (the details of these icons aren't clearly visible or labeled in the image).
+
+In the top right corner, there are various icons that likely correspond to different functions such as syncing settings, notification bell, and more options indicated by ellipsis (...). There is also a cloud icon with a checkmark inside it and a note "Last synced: 2 mos ago," suggesting a cloud synchronization status.
+
+The UI is using a dark theme with light text, which is easier on the eyes in low-light conditions and is a helpful accessibility feature for users who prefer or require high-contrast visuals.

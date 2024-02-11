@@ -1,0 +1,75 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 752, 1390]	[376.0, 695.0]		Window
+70	1	StaticText	[96, 144, 560, 160]	[376.0, 224.0]	"Welcome to
+Canary"	
+69	1	Image	[256, 434, 240, 240]	[376.0, 554.0]		|icon3
+68	1	StaticText	[96, 802, 560, 130]	[376.0, 867.0]	Use the power of AI to craft your emails, surface the important ones, and kill your spam.	
+67	1	Button	[100, 1098, 552, 100]	[376.0, 1148.0]		Continue
+66	1	StaticText	[126, 1226, 498, 34]	[375.0, 1243.0]	By continuing you agree to accept our	
+65	1	Button	[142, 1262, 218, 34]	[251.0, 1279.0]		terms of service
+64	1	StaticText	[364, 1262, 56, 34]	[392.0, 1279.0]	and	
+63	1	Button	[424, 1262, 186, 34]	[517.0, 1279.0]		privacy policy
+62	1	StaticText	[96, 144, 560, 160]	[376.0, 224.0]	"Let AI Write
+Your Emails"	
+61	1	StaticText	[96, 348, 560, 76]	[376.0, 386.0]	Let Canary magically write or reply to emails on your behalf.	
+60	1	StaticText	[96, 452, 560, 38]	[376.0, 471.0]	Select an option to try it now:	
+45	1	ScrollArea	[84, 530, 584, 528]	[376.0, 794.0]		
+46	45	Table	[84, 530, 584, 528]	[376.0, 794.0]		
+57	46	Row	[84, 530, 584, 156]	[376.0, 608.0]		
+58	57	Cell	[100, 530, 550, 156]	[375.0, 608.0]		
+59	58	StaticText	[128, 574, 494, 68]	[375.0, 608.0]	Congratulate Neil for landing on the Moon!	
+54	46	Row	[84, 686, 584, 156]	[376.0, 764.0]		
+55	54	Cell	[100, 686, 550, 156]	[375.0, 764.0]		
+56	55	StaticText	[128, 730, 494, 68]	[375.0, 764.0]	Email boss, say I quit. Make it funny.	
+51	46	Row	[84, 842, 584, 54]	[376.0, 869.0]		
+52	51	Cell	[100, 842, 550, 54]	[375.0, 869.0]		
+53	52	StaticText	[354, 852, 40, 34]	[374.0, 869.0]	Or	
+48	46	Row	[84, 896, 584, 156]	[376.0, 974.0]		
+49	48	Cell	[100, 896, 550, 156]	[375.0, 974.0]		
+50	49	TextField	[132, 940, 486, 68]	[375.0, 974.0]		
+47	46	Column	[84, 530, 584, 528]	[376.0, 794.0]		
+44	1	Button	[100, 1098, 420, 100]	[310.0, 1148.0]		Write Email
+43	1	Image	[582, 1132, 40, 30]	[602.0, 1147.0]		|b right arrow
+42	1	Button	[552, 1098, 100, 100]	[602.0, 1148.0]		
+41	1	Button	[32, 80, 84, 38]	[74.0, 99.0]		Back
+40	1	Button	[604, 80, 116, 38]	[662.0, 99.0]		Restore
+3	1	ScrollArea	[0, 144, 752, 1246]	[376.0, 767.0]		
+39	3	StaticText	[96, 144, 560, 160]	[376.0, 224.0]	"Add
+Account"	
+38	3	TextField	[132, 386, 488, 38]	[376.0, 405.0]		
+37	3	Button	[100, 504, 552, 100]	[376.0, 554.0]		Add Account
+6	3	ScrollArea	[100, 652, 552, 360]	[376.0, 832.0]		
+7	6	List	[100, 652, 552, 360]	[376.0, 832.0]		
+8	7	List	[100, 652, 408, 360]	[304.0, 832.0]		
+33	8	Group	[100, 652, 120, 156]	[160.0, 730.0]		
+36	33	Image	[124, 676, 72, 72]	[160.0, 712.0]		|c google
+35	33	StaticText	[124, 778, 72, 30]	[160.0, 793.0]	Gmail	
+34	33	Button	[100, 652, 120, 156]	[160.0, 730.0]		
+29	8	Group	[244, 652, 120, 156]	[304.0, 730.0]		
+32	29	Image	[268, 676, 72, 72]	[304.0, 712.0]		|c icloud
+31	29	StaticText	[264, 778, 80, 30]	[304.0, 793.0]	iCloud	
+30	29	Button	[244, 652, 120, 156]	[304.0, 730.0]		
+25	8	Group	[388, 652, 120, 156]	[448.0, 730.0]		
+28	25	Image	[412, 676, 72, 72]	[448.0, 712.0]		|c outlook
+27	25	StaticText	[400, 778, 96, 30]	[448.0, 793.0]	Outlook	
+26	25	Button	[388, 652, 120, 156]	[448.0, 730.0]		
+21	8	Group	[532, 652, 120, 156]	[592.0, 730.0]		
+24	21	Image	[556, 676, 72, 72]	[592.0, 712.0]		|c exchange
+23	21	StaticText	[532, 778, 118, 30]	[591.0, 793.0]	Exchange	
+22	21	Button	[532, 652, 120, 156]	[592.0, 730.0]		
+17	8	Group	[172, 856, 120, 156]	[232.0, 934.0]		
+20	17	Image	[196, 880, 72, 72]	[232.0, 916.0]		|c office365
+19	17	StaticText	[170, 982, 122, 30]	[231.0, 997.0]	Office365	
+18	17	Button	[172, 856, 120, 156]	[232.0, 934.0]		
+13	8	Group	[316, 856, 120, 156]	[376.0, 934.0]		
+16	13	Image	[340, 880, 72, 72]	[376.0, 916.0]		|c yahoo
+15	13	StaticText	[336, 982, 78, 30]	[375.0, 997.0]	Yahoo	
+14	13	Button	[316, 856, 120, 156]	[376.0, 934.0]		
+9	8	Group	[460, 856, 120, 156]	[520.0, 934.0]		
+12	9	Image	[484, 880, 72, 72]	[520.0, 916.0]		|c icloud
+11	9	StaticText	[484, 982, 72, 30]	[520.0, 997.0]	Other	
+10	9	Button	[460, 856, 120, 156]	[520.0, 934.0]		
+5	3	StaticText	[96, 1060, 560, 64]	[376.0, 1092.0]	"Connect and sync all your email
+accounts with Canary."	
+4	3	ScrollBar	[720, 144, 32, 1246]	[736.0, 767.0]	0.0	
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		

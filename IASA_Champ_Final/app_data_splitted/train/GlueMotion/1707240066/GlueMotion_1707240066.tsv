@@ -1,0 +1,45 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2360, 1616]	[1180.0, 808.0]		folder
+15	1	Group	[0, 104, 2360, 1512]	[1180.0, 860.0]		
+44	15	StaticText	[610, 712, 296, 40]	[758.0, 732.0]	Calculate the chart	
+43	15	Image	[910, 714, 32, 36]	[926.0, 732.0]		|play
+42	15	StaticText	[1596, 144, 728, 52]	[1960.0, 170.0]	Configure Blending	
+41	15	StaticText	[1596, 204, 728, 32]	[1960.0, 220.0]	Enable deflickering and blending options	
+40	15	Button	[1588, 1508, 744, 80]	[1960.0, 1548.0]		Continue|Forward
+16	15	ScrollArea	[1560, 278, 800, 1202]	[1960.0, 879.0]		
+39	16	StaticText	[1596, 318, 172, 38]	[1682.0, 337.0]	Deflickering	
+38	16	PopUpButton	[1782, 314, 546, 50]	[2055.0, 339.0]		
+37	16	StaticText	[1596, 380, 172, 38]	[1682.0, 399.0]	Passes	
+36	16	TextField	[1788, 378, 498, 42]	[2037.0, 399.0]	2	
+33	16	Incrementor	[2288, 370, 38, 56]	[2307.0, 398.0]	0.0	
+35	33	Button	[2288, 370, 38, 28]	[2307.0, 384.0]		
+34	33	Button	[2288, 398, 38, 28]	[2307.0, 412.0]		
+32	16	StaticText	[1596, 442, 172, 38]	[1682.0, 461.0]	Window	
+31	16	TextField	[1788, 440, 498, 42]	[2037.0, 461.0]	30	
+28	16	Incrementor	[2288, 432, 38, 56]	[2307.0, 460.0]	0.0	
+30	28	Button	[2288, 432, 38, 28]	[2307.0, 446.0]		
+29	28	Button	[2288, 460, 38, 28]	[2307.0, 474.0]		
+27	16	StaticText	[1596, 644, 172, 38]	[1682.0, 663.0]	Blending	
+26	16	PopUpButton	[1782, 640, 546, 50]	[2055.0, 665.0]		
+25	16	StaticText	[1596, 706, 172, 38]	[1682.0, 725.0]	Window	
+24	16	TextField	[1788, 704, 498, 42]	[2037.0, 725.0]	1	
+21	16	Incrementor	[2288, 696, 38, 56]	[2307.0, 724.0]	0.0	
+23	21	Button	[2288, 696, 38, 28]	[2307.0, 710.0]		
+22	21	Button	[2288, 724, 38, 28]	[2307.0, 738.0]		
+20	16	StaticText	[1784, 498, 540, 64]	[2054.0, 530.0]	Enabling this option allows you to correct luminances to avoid flicker effects.	
+19	16	StaticText	[1784, 762, 540, 64]	[2054.0, 794.0]	Enabling this option allows you to transition between images in a smoother way.	
+18	16	ScrollBar	[1560, 1448, 800, 32]	[1960.0, 1464.0]	0.0	
+17	16	ScrollBar	[2328, 278, 32, 1202]	[2344.0, 879.0]	0.0	
+2	1	Toolbar	[0, 0, 2360, 104]	[1180.0, 52.0]		
+14	2	Button	[174, 0, 152, 104]	[250.0, 52.0]		|chevron.backward
+6	2	Group	[662, 0, 1036, 104]	[1180.0, 52.0]		
+7	6	RadioGroup	[658, 12, 1044, 80]	[1180.0, 52.0]	<AXUIElement 0x6000002fbcc0> {pid=42841}	
+13	7	RadioButton	[658, 12, 174, 80]	[745.0, 52.0]	0	|Frames
+12	7	RadioButton	[832, 12, 174, 80]	[919.0, 52.0]	0	|Transforms
+11	7	RadioButton	[1006, 12, 174, 80]	[1093.0, 52.0]	0	|Adjustments
+10	7	RadioButton	[1180, 12, 174, 80]	[1267.0, 52.0]	1	|Blending
+9	7	RadioButton	[1354, 12, 174, 80]	[1441.0, 52.0]	0	|Speed
+8	7	RadioButton	[1528, 12, 174, 80]	[1615.0, 52.0]	0	|Export
+5	2	Button	[2196, 0, 72, 104]	[2232.0, 52.0]		|doc.badge.gearshape
+3	2	MenuButton	[2268, 0, 76, 104]	[2306.0, 52.0]		|questionmark.circle
+4	3	MenuButton	[2264, 12, 84, 80]	[2306.0, 52.0]		|questionmark.circle

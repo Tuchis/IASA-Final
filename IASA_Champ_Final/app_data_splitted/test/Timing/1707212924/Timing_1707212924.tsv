@@ -1,0 +1,10 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1128, 1320]	[564.0, 660.0]		Onboarding
+9	1	StaticText	[76, 80, 976, 86]	[564.0, 123.0]	Set it and forget it.	
+8	1	StaticText	[76, 214, 976, 84]	[564.0, 256.0]	Timing sits in the background, automatically tracking what you do across documents, apps and websites.	
+7	1	CheckBox	[76, 370, 972, 36]	[562.0, 388.0]	1	Automatically start background tracking at login
+6	1	CheckBox	[76, 450, 972, 36]	[562.0, 468.0]	1	Automatically ask to record time when a video call ends
+5	1	StaticText	[116, 492, 936, 32]	[584.0, 508.0]	Requires your permission to send notifications.	
+4	1	CheckBox	[76, 570, 972, 36]	[562.0, 588.0]	0	Automatically ask what I did whenever I return to my Mac
+3	1	Button	[28, 1212, 124, 80]	[90.0, 1252.0]		Back
+2	1	Button	[978, 1212, 122, 80]	[1039.0, 1252.0]		Next

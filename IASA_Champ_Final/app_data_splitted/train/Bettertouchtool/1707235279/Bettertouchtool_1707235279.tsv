@@ -1,0 +1,104 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1988, 1306]	[994.0, 653.0]		BetterTouchTool Settings
+27	1	ScrollArea	[0, 56, 340, 1250]	[170.0, 681.0]		
+32	27	Table	[2, 58, 336, 1248]	[170.0, 682.0]		
+101	32	Row	[2, 58, 336, 76]	[170.0, 96.0]		
+102	101	Cell	[14, 60, 312, 72]	[170.0, 96.0]		
+103	102	StaticText	[26, 90, 286, 32]	[169.0, 106.0]	Standard Settings	
+97	32	Row	[2, 134, 336, 64]	[170.0, 166.0]		
+98	97	Cell	[14, 136, 312, 60]	[170.0, 166.0]		
+100	98	Image	[28, 128, 50, 72]	[53.0, 164.0]		|action
+99	98	StaticText	[88, 152, 224, 28]	[200.0, 166.0]	Basic	
+93	32	Row	[2, 198, 336, 64]	[170.0, 230.0]		
+94	93	Cell	[14, 200, 312, 60]	[170.0, 230.0]		
+96	94	Image	[28, 196, 50, 68]	[53.0, 230.0]		|sidebar
+95	94	StaticText	[88, 216, 224, 28]	[200.0, 230.0]	User Interface	
+89	32	Row	[2, 262, 336, 64]	[170.0, 294.0]		
+90	89	Cell	[14, 264, 312, 60]	[170.0, 294.0]		
+92	90	Image	[28, 268, 50, 50]	[53.0, 293.0]		|touchbar pop
+91	90	StaticText	[88, 280, 224, 28]	[200.0, 294.0]	Touch Bar	
+85	32	Row	[2, 326, 336, 64]	[170.0, 358.0]		
+86	85	Cell	[14, 328, 312, 60]	[170.0, 358.0]		
+88	86	Image	[28, 332, 50, 50]	[53.0, 357.0]		|streamdeck pop
+87	86	StaticText	[88, 344, 224, 28]	[200.0, 358.0]	Stream Deck	
+81	32	Row	[2, 390, 336, 92]	[170.0, 436.0]		
+82	81	Cell	[14, 392, 312, 88]	[170.0, 436.0]		
+84	82	Image	[28, 410, 50, 50]	[53.0, 435.0]		|floating bar pop
+83	82	StaticText	[88, 408, 224, 56]	[200.0, 436.0]	Notch / Action Menu Bar	
+77	32	Row	[2, 482, 336, 92]	[170.0, 528.0]		
+78	77	Cell	[14, 484, 312, 88]	[170.0, 528.0]		
+80	78	Image	[28, 502, 50, 50]	[53.0, 527.0]		|BSTMenubarIcon
+79	78	StaticText	[88, 500, 224, 56]	[200.0, 528.0]	Window Snapping & Moving	
+73	32	Row	[2, 574, 336, 64]	[170.0, 606.0]		
+74	73	Cell	[14, 576, 312, 60]	[170.0, 606.0]		
+76	74	Image	[28, 580, 50, 50]	[53.0, 605.0]		|btt pop
+75	74	StaticText	[88, 592, 224, 28]	[200.0, 606.0]	BTT Remote	
+70	32	Row	[2, 638, 336, 76]	[170.0, 676.0]		
+71	70	Cell	[14, 640, 312, 72]	[170.0, 676.0]		
+72	71	StaticText	[26, 670, 286, 32]	[169.0, 686.0]	Advanced Settings	
+66	32	Row	[2, 714, 336, 64]	[170.0, 746.0]		
+67	66	Cell	[14, 716, 312, 60]	[170.0, 746.0]		
+69	67	Image	[28, 708, 50, 72]	[53.0, 744.0]		|action
+68	67	StaticText	[88, 732, 224, 28]	[200.0, 746.0]	General	
+62	32	Row	[2, 778, 336, 64]	[170.0, 810.0]		
+63	62	Cell	[14, 780, 312, 60]	[170.0, 810.0]		
+65	63	Image	[28, 784, 50, 50]	[53.0, 809.0]		|trackpad pop
+64	63	StaticText	[88, 796, 224, 28]	[200.0, 810.0]	Trackpad	
+58	32	Row	[2, 842, 336, 64]	[170.0, 874.0]		
+59	58	Cell	[14, 844, 312, 60]	[170.0, 874.0]		
+61	59	Image	[28, 848, 50, 50]	[53.0, 873.0]		|magicmouse pop
+60	59	StaticText	[88, 860, 224, 28]	[200.0, 874.0]	Magic Mouse	
+54	32	Row	[2, 906, 336, 64]	[170.0, 938.0]		
+55	54	Cell	[14, 908, 312, 60]	[170.0, 938.0]		
+57	55	Image	[28, 912, 50, 50]	[53.0, 937.0]		|keyboard pop
+56	55	StaticText	[88, 924, 224, 28]	[200.0, 938.0]	Keyboard	
+50	32	Row	[2, 970, 336, 92]	[170.0, 1016.0]		
+51	50	Cell	[14, 972, 312, 88]	[170.0, 1016.0]		
+53	51	Image	[28, 990, 50, 50]	[53.0, 1015.0]		|drawings pop
+52	51	StaticText	[88, 988, 224, 56]	[200.0, 1016.0]	Drawings / Mouse Gestures	
+46	32	Row	[2, 1062, 336, 64]	[170.0, 1094.0]		
+47	46	Cell	[14, 1064, 312, 60]	[170.0, 1094.0]		
+49	47	Image	[28, 1068, 50, 50]	[53.0, 1093.0]		|midi pop
+48	47	StaticText	[88, 1080, 224, 28]	[200.0, 1094.0]	MIDI Settings	
+42	32	Row	[2, 1126, 336, 64]	[170.0, 1158.0]		
+43	42	Cell	[14, 1128, 312, 60]	[170.0, 1158.0]		
+45	43	Image	[28, 1132, 50, 50]	[53.0, 1157.0]		|script
+44	43	StaticText	[88, 1144, 224, 28]	[200.0, 1158.0]	Scripting BTT	
+38	32	Row	[2, 1190, 336, 64]	[170.0, 1222.0]		
+39	38	Cell	[14, 1192, 312, 60]	[170.0, 1222.0]		
+41	39	Image	[28, 1196, 50, 50]	[53.0, 1221.0]		|network
+40	39	StaticText	[88, 1208, 224, 28]	[200.0, 1222.0]	Web Server	
+34	32	Row	[2, 1254, 336, 52]	[170.0, 1280.0]		
+35	34	Cell	[14, 1256, 312, 50]	[170.0, 1281.0]		
+37	35	Image	[28, 1260, 50, 46]	[53.0, 1283.0]		|normal mouse pop
+36	35	StaticText	[88, 1272, 224, 28]	[200.0, 1286.0]	Normal Mouse	
+33	32	Column	[2, 58, 336, 1248]	[170.0, 682.0]		
+28	27	ScrollBar	[306, 58, 32, 1246]	[322.0, 681.0]	0.0	
+31	28	ValueIndicator	[314, 60, 24, 1168]	[326.0, 644.0]	0.0	
+30	28	Button	[314, 1228, 24, 74]	[326.0, 1265.0]		
+29	28	Button	[314, 58, 24, 2]	[326.0, 59.0]		
+3	1	TabGroup	[358, 60, 1602, 1240]	[1159.0, 680.0]	<AXUIElement 0x14becae00> {pid=18369}	
+26	3	RadioButton	[390, 70, 160, 48]	[470.0, 94.0]	1	Snapping
+25	3	RadioButton	[550, 70, 190, 48]	[645.0, 94.0]	0	Appearance
+24	3	RadioButton	[740, 70, 228, 48]	[854.0, 94.0]	0	Stage Manager
+23	3	RadioButton	[968, 70, 340, 48]	[1138.0, 94.0]	0	Advanced Snap Settings
+22	3	RadioButton	[1308, 70, 440, 48]	[1528.0, 94.0]	0	Moving & Resizing Modifier Keys
+21	3	RadioButton	[1748, 70, 182, 48]	[1839.0, 94.0]	0	Snap Areas
+20	3	CheckBox	[640, 552, 192, 36]	[736.0, 570.0]	1	Snap to left
+19	3	CheckBox	[640, 778, 286, 36]	[783.0, 796.0]	1	Snap to bottom left
+18	3	CheckBox	[1084, 272, 150, 68]	[1159.0, 306.0]	1	Snap to top
+17	3	CheckBox	[1430, 262, 256, 92]	[1558.0, 308.0]	1	Snap to top right
+16	3	CheckBox	[1476, 552, 210, 36]	[1581.0, 570.0]	1	Snap to right
+15	3	CheckBox	[1382, 778, 304, 36]	[1534.0, 796.0]	1	Snap to bottom right
+14	3	Image	[926, 366, 466, 410]	[1159.0, 571.0]		|iconwin
+13	3	StaticText	[674, 864, 970, 112]	[1159.0, 920.0]	Instructions: in order to snap a window to one of the above mentioned positions click on its titlebar and drag it to the screen's edges. As soon as the mouse cursor touches the corners or edges of the screen a graphic will show you how the window will be resized after you release the drag.	
+12	3	CheckBox	[640, 290, 240, 36]	[760.0, 308.0]	1	Snap to top left
+11	3	Button	[690, 1020, 938, 46]	[1159.0, 1043.0]		Using BetterTouchTool and Spaces / Mission Control at the same time?
+10	3	CheckBox	[762, 1134, 332, 32]	[928.0, 1150.0]	1	Left edge: resize to left half
+9	3	CheckBox	[1164, 1134, 252, 32]	[1290.0, 1150.0]	1	Top edge: maximize
+8	3	StaticText	[760, 1086, 796, 32]	[1158.0, 1102.0]	Advanced: While using predefined actions start/stop moving:	
+7	3	CheckBox	[1164, 1188, 324, 32]	[1326.0, 1204.0]	1	Corners: resize to quarters
+6	3	CheckBox	[762, 1188, 360, 32]	[942.0, 1204.0]	1	Right edge: resize to right half
+5	3	CheckBox	[970, 164, 372, 36]	[1156.0, 182.0]	1	Enable window snapping
+4	3	CheckBox	[1048, 212, 220, 32]	[1158.0, 228.0]	0	Haptic Feedback
+2	1	StaticText	[826, 10, 334, 32]	[993.0, 26.0]	BetterTouchTool Settings	

@@ -1,0 +1,67 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1536, 1472]	[768.0, 736.0]		Reminders
+7	1	SplitGroup	[0, 0, 1536, 1472]	[768.0, 736.0]		
+8	7	LayoutArea	[0, 0, 1536, 1472]	[768.0, 736.0]		|Reminders
+66	8	TextArea	[32, 112, 1472, 80]	[768.0, 152.0]		|Reminders , 8 reminders
+9	8	ScrollArea	[0, 210, 1536, 1262]	[768.0, 841.0]		
+10	9	Outline	[0, 210, 1536, 1262]	[768.0, 841.0]		
+59	10	Row	[0, 210, 1536, 72]	[768.0, 246.0]		
+60	59	Cell	[0, 210, 1536, 72]	[768.0, 246.0]		|12 Completed, Hiding completed reminders
+61	60	Cell	[30, 210, 1494, 72]	[777.0, 246.0]		|12 Completed, Hiding completed reminders
+65	61	StaticText	[28, 230, 172, 32]	[114.0, 246.0]	12 Completed	
+63	61	Button	[1434, 230, 74, 32]	[1471.0, 246.0]		Show
+64	63	Button	[1434, 230, 74, 32]	[1471.0, 246.0]		Show
+62	61	MenuButton	[228, 230, 62, 32]	[259.0, 246.0]		Clear
+53	10	Row	[0, 282, 1536, 102]	[768.0, 333.0]		
+54	53	Cell	[0, 282, 1536, 102]	[768.0, 333.0]		|Incomplete, Put liquid for contact lenses, 4 Apr 2021, 08:00, Overdue
+55	54	Group	[30, 282, 1494, 102]	[777.0, 333.0]		|Incomplete, Put liquid for contact lenses, 4 Apr 2021, 08:00, Overdue
+58	55	CheckBox	[32, 294, 40, 40]	[52.0, 314.0]	0	|Mark as completed
+57	55	TextField	[92, 298, 1418, 32]	[801.0, 314.0]	Put liquid for contact lenses	
+56	55	StaticText	[92, 332, 240, 32]	[212.0, 348.0]	04/04/2021, 08:00	
+48	10	Row	[0, 384, 1536, 68]	[768.0, 418.0]		
+49	48	Cell	[0, 384, 1536, 68]	[768.0, 418.0]		|Incomplete, The same time two app
+50	49	Group	[30, 384, 1494, 68]	[777.0, 418.0]		|Incomplete, The same time two app
+52	50	CheckBox	[32, 396, 40, 40]	[52.0, 416.0]	0	|Mark as completed
+51	50	TextField	[92, 400, 1418, 32]	[801.0, 416.0]	The same time two app	
+42	10	Row	[0, 452, 1536, 102]	[768.0, 503.0]		
+43	42	Cell	[0, 452, 1536, 102]	[768.0, 503.0]		|Incomplete, Make a form, 8 May 2021, 19:00, Overdue
+44	43	Group	[30, 452, 1494, 102]	[777.0, 503.0]		|Incomplete, Make a form, 8 May 2021, 19:00, Overdue
+47	44	CheckBox	[32, 464, 40, 40]	[52.0, 484.0]	0	|Mark as completed
+46	44	TextField	[92, 468, 1418, 32]	[801.0, 484.0]	Make a form	
+45	44	StaticText	[92, 502, 236, 32]	[210.0, 518.0]	08/05/2021, 19:00	
+36	10	Row	[0, 554, 1536, 102]	[768.0, 605.0]		
+37	36	Cell	[0, 554, 1536, 102]	[768.0, 605.0]		|Incomplete, Get a general practitioner, 12 Dec 2022, 15:00, Overdue
+38	37	Group	[30, 554, 1494, 102]	[777.0, 605.0]		|Incomplete, Get a general practitioner, 12 Dec 2022, 15:00, Overdue
+41	38	CheckBox	[32, 566, 40, 40]	[52.0, 586.0]	0	|Mark as completed
+40	38	TextField	[92, 570, 1418, 32]	[801.0, 586.0]	Get a general practitioner	
+39	38	StaticText	[92, 604, 230, 32]	[207.0, 620.0]	12/12/2022, 15:00	
+30	10	Row	[0, 656, 1536, 102]	[768.0, 707.0]		
+31	30	Cell	[0, 656, 1536, 102]	[768.0, 707.0]		|Incomplete, Cauliflower, 3 Jul 2023, 17:39, Overdue
+32	31	Group	[30, 656, 1494, 102]	[777.0, 707.0]		|Incomplete, Cauliflower, 3 Jul 2023, 17:39, Overdue
+35	32	CheckBox	[32, 668, 40, 40]	[52.0, 688.0]	0	|Mark as completed
+34	32	TextField	[92, 672, 1418, 32]	[801.0, 688.0]	Cauliflower	
+33	32	StaticText	[92, 706, 236, 32]	[210.0, 722.0]	03/07/2023, 17:39	
+24	10	Row	[0, 758, 1536, 102]	[768.0, 809.0]		
+25	24	Cell	[0, 758, 1536, 102]	[768.0, 809.0]		|Incomplete, Turn off the rice, 5 Jul 2023, 20:32, Overdue
+26	25	Group	[30, 758, 1494, 102]	[777.0, 809.0]		|Incomplete, Turn off the rice, 5 Jul 2023, 20:32, Overdue
+29	26	CheckBox	[32, 770, 40, 40]	[52.0, 790.0]	0	|Mark as completed
+28	26	TextField	[92, 774, 1418, 32]	[801.0, 790.0]	Turn off the rice	
+27	26	StaticText	[92, 808, 240, 32]	[212.0, 824.0]	05/07/2023, 20:32	
+18	10	Row	[0, 860, 1536, 102]	[768.0, 911.0]		
+19	18	Cell	[0, 860, 1536, 102]	[768.0, 911.0]		|Incomplete, Recall learning techniques, 29 Aug 2023, 19:40, Overdue
+20	19	Group	[30, 860, 1494, 102]	[777.0, 911.0]		|Incomplete, Recall learning techniques, 29 Aug 2023, 19:40, Overdue
+23	20	CheckBox	[32, 872, 40, 40]	[52.0, 892.0]	0	|Mark as completed
+22	20	TextField	[92, 876, 1418, 32]	[801.0, 892.0]	Recall learning techniques	
+21	20	StaticText	[92, 910, 240, 32]	[212.0, 926.0]	29/08/2023, 19:40	
+12	10	Row	[0, 962, 1536, 102]	[768.0, 1013.0]		
+13	12	Cell	[0, 962, 1536, 102]	[768.0, 1013.0]		|Incomplete, water plants, 6 Jan 2024, 11:00, Overdue
+14	13	Group	[30, 962, 1494, 102]	[777.0, 1013.0]		|Incomplete, water plants, 6 Jan 2024, 11:00, Overdue
+17	14	CheckBox	[32, 974, 40, 40]	[52.0, 994.0]	0	|Mark as completed
+16	14	TextField	[92, 978, 1418, 32]	[801.0, 994.0]	water plants	
+15	14	StaticText	[92, 1012, 232, 32]	[208.0, 1028.0]	06/01/2024, 11:00	
+11	10	Column	[0, 210, 1536, 1262]	[768.0, 841.0]		
+3	1	Toolbar	[0, 0, 1536, 104]	[768.0, 52.0]		
+6	3	Button	[1296, 0, 74, 104]	[1333.0, 52.0]		|Share List
+5	3	Button	[1370, 0, 78, 104]	[1409.0, 52.0]		|Add Section
+4	3	Button	[1448, 0, 72, 104]	[1484.0, 52.0]		|Add Reminder
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

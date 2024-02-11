@@ -1,0 +1,16 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	ScrollArea	[0, 0, 1120, 1002]	[560.0, 501.0]		
+15	1	StaticText	[66, 0, 574, 60]	[353.0, 30.0]	Customize your daily prompt	
+14	1	StaticText	[66, 96, 988, 126]	[560.0, 159.0]	Every day when you open Diarly, a new entry will be automatically created for you. We recommend allowing the following information to be imported:	
+13	1	StaticText	[120, 260, 186, 42]	[213.0, 281.0]	📍 Location	
+12	1	StaticText	[120, 350, 154, 42]	[197.0, 371.0]	❤️ Health	
+11	1	StaticText	[342, 350, 406, 44]	[545.0, 372.0]	Workouts - total duration	
+10	1	StaticText	[746, 358, 34, 26]	[763.0, 371.0]		
+9	1	Button	[270, 338, 46, 54]	[293.0, 365.0]		
+8	1	StaticText	[120, 442, 446, 42]	[343.0, 463.0]	🌙 Last night's sleep duration	
+7	1	Button	[574, 430, 46, 54]	[597.0, 457.0]		
+6	1	StaticText	[66, 558, 582, 42]	[357.0, 579.0]	Additionally, you can choose to import:	
+5	1	StaticText	[120, 638, 184, 42]	[212.0, 659.0]	⛅️ Weather	
+4	1	StaticText	[120, 720, 378, 42]	[309.0, 741.0]	🗓️ Events from Calendar	
+3	1	StaticText	[120, 802, 624, 42]	[432.0, 823.0]	✅ Uncompleted Tasks from previous day	
+2	1	StaticText	[66, 918, 882, 84]	[507.0, 960.0]	You can always modify or disable the daily prompt later as needed	

@@ -1,0 +1,34 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 752, 1390]	[376.0, 695.0]		Window
+31	1	StaticText	[96, 144, 560, 160]	[376.0, 224.0]	"Welcome to
+Canary"	
+30	1	Image	[256, 434, 240, 240]	[376.0, 554.0]		|icon3
+29	1	StaticText	[96, 802, 560, 130]	[376.0, 867.0]	Use the power of AI to craft your emails, surface the important ones, and kill your spam.	
+28	1	Button	[100, 1098, 552, 100]	[376.0, 1148.0]		Continue
+27	1	StaticText	[126, 1226, 498, 34]	[375.0, 1243.0]	By continuing you agree to accept our	
+26	1	Button	[142, 1262, 218, 34]	[251.0, 1279.0]		terms of service
+25	1	StaticText	[364, 1262, 56, 34]	[392.0, 1279.0]	and	
+24	1	Button	[424, 1262, 186, 34]	[517.0, 1279.0]		privacy policy
+23	1	StaticText	[96, 144, 560, 160]	[376.0, 224.0]	"Let AI Write
+Your Emails"	
+22	1	StaticText	[96, 348, 560, 76]	[376.0, 386.0]	Let Canary magically write or reply to emails on your behalf.	
+21	1	StaticText	[96, 452, 560, 38]	[376.0, 471.0]	Select an option to try it now:	
+6	1	ScrollArea	[84, 530, 584, 528]	[376.0, 794.0]		
+7	6	Table	[84, 530, 584, 528]	[376.0, 794.0]		
+18	7	Row	[84, 530, 584, 156]	[376.0, 608.0]		
+19	18	Cell	[100, 530, 550, 156]	[375.0, 608.0]		
+20	19	StaticText	[128, 574, 494, 68]	[375.0, 608.0]	Congratulate Neil for landing on the Moon!	
+15	7	Row	[84, 686, 584, 156]	[376.0, 764.0]		
+16	15	Cell	[100, 686, 550, 156]	[375.0, 764.0]		
+17	16	StaticText	[128, 730, 494, 68]	[375.0, 764.0]	Email boss, say I quit. Make it funny.	
+12	7	Row	[84, 842, 584, 54]	[376.0, 869.0]		
+13	12	Cell	[100, 842, 550, 54]	[375.0, 869.0]		
+14	13	StaticText	[354, 852, 40, 34]	[374.0, 869.0]	Or	
+9	7	Row	[84, 896, 584, 156]	[376.0, 974.0]		
+10	9	Cell	[100, 896, 550, 156]	[375.0, 974.0]		
+11	10	TextField	[132, 940, 486, 68]	[375.0, 974.0]		
+8	7	Column	[84, 530, 584, 528]	[376.0, 794.0]		
+5	1	Button	[100, 1098, 420, 100]	[310.0, 1148.0]		Write Email
+4	1	Image	[582, 1132, 40, 30]	[602.0, 1147.0]		|b right arrow
+3	1	Button	[552, 1098, 100, 100]	[602.0, 1148.0]		
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		

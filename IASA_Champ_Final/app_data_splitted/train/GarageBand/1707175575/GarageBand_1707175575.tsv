@@ -1,0 +1,46 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2084, 1068]	[1042.0, 534.0]		Choose a Project
+7	1	SplitGroup	[0, 0, 2084, 1068]	[1042.0, 534.0]		
+21	7	ScrollArea	[0, 56, 440, 1012]	[220.0, 562.0]		
+22	21	Outline	[2, 56, 436, 1010]	[220.0, 561.0]		
+44	22	Row	[2, 56, 436, 8]	[220.0, 60.0]		
+45	44	Cell	[22, 56, 396, 8]	[220.0, 60.0]		
+40	22	Row	[2, 64, 436, 56]	[220.0, 92.0]		
+41	40	Cell	[22, 64, 396, 56]	[220.0, 92.0]		
+43	41	Image	[40, 76, 28, 32]	[54.0, 92.0]	<NSImage 0x60000329e620 Size={14, 16} RepProvider=<NSImageSymbolRepProvider: 0x600000e96400> symbol = doc>	|document
+42	41	StaticText	[78, 76, 328, 32]	[242.0, 92.0]	New Project	
+36	22	Row	[2, 120, 436, 56]	[220.0, 148.0]		
+37	36	Cell	[22, 120, 396, 56]	[220.0, 148.0]		
+39	37	Image	[38, 134, 30, 30]	[53.0, 149.0]	<NSImage 0x60000329c5a0 Size={15, 15} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8960> symbol = clock>	|clock
+38	37	StaticText	[78, 132, 328, 32]	[242.0, 148.0]	Recent	
+32	22	Row	[2, 176, 436, 56]	[220.0, 204.0]		
+33	32	Cell	[22, 176, 396, 56]	[220.0, 204.0]		
+35	33	Image	[38, 190, 30, 28]	[53.0, 204.0]	<NSImage 0x60000329e940 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea9650> symbol = Glyphs/music.note.square>	|
+34	33	StaticText	[78, 188, 328, 32]	[242.0, 204.0]	Learn to Play	
+28	22	Row	[2, 232, 436, 56]	[220.0, 260.0]		
+29	28	Cell	[22, 232, 396, 56]	[220.0, 260.0]		
+31	29	Image	[38, 246, 30, 28]	[53.0, 260.0]	<NSImage 0x60000329f160 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8c00> symbol = star.square>	|favourite
+30	29	StaticText	[78, 244, 328, 32]	[242.0, 260.0]	Lesson Store	
+24	22	Row	[2, 288, 436, 56]	[220.0, 316.0]		
+25	24	Cell	[22, 288, 396, 56]	[220.0, 316.0]		
+27	25	Image	[36, 302, 36, 28]	[54.0, 316.0]	<NSImage 0x60000323a8a0 Size={18, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000eb4270> symbol = folder>	|move
+26	25	StaticText	[78, 300, 328, 32]	[242.0, 316.0]	Project Templates	
+23	22	Column	[22, 56, 396, 1010]	[220.0, 561.0]		
+20	7	Splitter	[440, 56, 2, 1012]	[441.0, 562.0]	220.0	
+8	7	Group	[442, 0, 1642, 1068]	[1263.0, 534.0]		
+16	8	RadioGroup	[958, 94, 610, 46]	[1263.0, 117.0]	<AXUIElement 0x135706310> {pid=3533}	
+19	16	RadioButton	[958, 92, 210, 48]	[1063.0, 116.0]	1	|Guitar Lessons
+18	16	RadioButton	[1168, 92, 200, 48]	[1268.0, 116.0]	0	|Piano Lessons
+17	16	RadioButton	[1368, 92, 200, 48]	[1468.0, 116.0]	0	|Artist Lessons
+12	8	Group	[442, 148, 1642, 718]	[1263.0, 507.0]		
+13	12	ScrollArea	[442, 148, 1642, 718]	[1263.0, 507.0]		
+15	13	ScrollBar	[442, 834, 1642, 32]	[1263.0, 850.0]	0.0	
+14	13	ScrollBar	[2052, 148, 32, 718]	[2068.0, 507.0]	0.0	
+11	8	StaticText	[1254, 888, 16, 32]	[1262.0, 904.0]		
+10	8	Button	[468, 976, 402, 64]	[669.0, 1008.0]		Open an existing project…
+9	8	Button	[1860, 976, 198, 64]	[1959.0, 1008.0]		Choose
+4	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+6	5	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+3	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+2	1	StaticText	[1148, 10, 228, 32]	[1262.0, 26.0]	Choose a Project	

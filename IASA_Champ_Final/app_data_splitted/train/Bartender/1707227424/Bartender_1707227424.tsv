@@ -1,0 +1,32 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1400]	[800.0, 700.0]		Window
+29	1	StaticText	[36, 180, 1530, 36]	[801.0, 198.0]	Bartender needs your permission to manage menu bar items. Follow these steps to grant access:	
+28	1	StaticText	[368, 70, 868, 68]	[802.0, 104.0]	macOS Permissions for Bartender	
+22	1	Group	[676, 1048, 800, 88]	[1076.0, 1092.0]		
+23	22	Group	[630, 1030, 892, 112]	[1076.0, 1086.0]		
+27	23	Image	[714, 1066, 50, 50]	[739.0, 1091.0]		|AppIcon
+26	23	StaticText	[804, 1072, 152, 32]	[880.0, 1088.0]	Bartender 5	
+25	23	Button	[1380, 1076, 56, 32]	[1408.0, 1092.0]	1	
+24	23	Button	[678, 1044, 796, 82]	[1076.0, 1085.0]		
+21	1	StaticText	[672, 1152, 880, 52]	[1112.0, 1178.0]	If the checkbox is disabled, click the 􀎠 and enter your password.	
+20	1	StaticText	[50, 1068, 636, 48]	[368.0, 1092.0]	This is how correctly set permissions should look:	
+19	1	StaticText	[50, 1204, 1516, 48]	[808.0, 1228.0]	Having problems with permissions:	
+18	1	Button	[486, 1192, 628, 64]	[800.0, 1224.0]		Solutions for Permissons Issues
+11	1	Group	[40, 266, 1522, 360]	[801.0, 446.0]		
+17	11	StaticText	[38, 282, 1526, 52]	[801.0, 308.0]	Accessibility	
+16	11	StaticText	[38, 372, 1518, 64]	[797.0, 404.0]	Bartender requires accessibility access so that it can:	
+15	11	Button	[520, 494, 552, 64]	[796.0, 526.0]		Open macOS Accessibility Settings
+14	11	StaticText	[474, 408, 880, 80]	[914.0, 448.0]	"• Arrange your menu bar items.
+• Show and hide menu bar items."	
+13	11	StaticText	[38, 560, 1518, 50]	[797.0, 585.0]	Then in System Settings check Bartender to grant access.	
+12	11	Button	[1038, 290, 482, 36]	[1279.0, 308.0]		Find out why Bartender needs this
+4	1	Group	[42, 658, 1522, 356]	[803.0, 836.0]		
+10	4	StaticText	[40, 676, 1526, 52]	[803.0, 702.0]	Screen Recording	
+9	4	StaticText	[40, 764, 1518, 50]	[799.0, 789.0]	Bartender requires Screen Recording access on your Mac so that it can: 	
+8	4	Button	[490, 880, 616, 64]	[798.0, 912.0]		Open macOS Screen Recording Settings
+7	4	StaticText	[362, 796, 1086, 76]	[905.0, 834.0]	"• Get a list of the menu items in your menu bar to control them. 
+• Capture images of menu bar items for display in Settings, Bartender Bar, Search etc."	
+6	4	StaticText	[40, 942, 1518, 50]	[799.0, 967.0]	Then in System Settings check Bartender to grant access.	
+5	4	Button	[1040, 684, 482, 36]	[1281.0, 702.0]		Find out why Bartender needs this
+3	1	Button	[1192, 1304, 380, 80]	[1382.0, 1344.0]		Open System Preferences
+2	1	Button	[26, 1322, 246, 64]	[149.0, 1354.0]		Quit Bartender

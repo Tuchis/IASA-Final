@@ -1,0 +1,41 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Search
+3	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+4	3	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+20	4	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+21	20	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+23	21	Group	[0, 104, 400, 1264]	[200.0, 736.0]		|Sidebar
+38	23	Group	[20, 104, 360, 78]	[200.0, 143.0]		
+40	38	TextField	[18, 108, 364, 60]	[200.0, 138.0]	lord of the rings	
+39	38	Button	[338, 122, 30, 30]	[353.0, 137.0]		|Clear text
+37	23	Heading	[20, 202, 360, 52]	[200.0, 228.0]		|Apple Books
+36	23	StaticText	[20, 254, 360, 56]	[200.0, 282.0]		|Read Now
+35	23	StaticText	[20, 310, 360, 56]	[200.0, 338.0]		|Book Store
+34	23	StaticText	[20, 366, 360, 56]	[200.0, 394.0]		|Audiobook Store
+33	23	Heading	[20, 442, 360, 52]	[200.0, 468.0]	Expanded	|Library
+32	23	StaticText	[20, 494, 360, 56]	[200.0, 522.0]		|All
+31	23	StaticText	[20, 550, 360, 56]	[200.0, 578.0]		|Want to Read
+30	23	StaticText	[20, 606, 360, 56]	[200.0, 634.0]		|Finished
+29	23	StaticText	[20, 662, 360, 56]	[200.0, 690.0]		|Books
+28	23	StaticText	[20, 718, 360, 56]	[200.0, 746.0]		|Audiobooks
+27	23	StaticText	[20, 774, 360, 56]	[200.0, 802.0]		|PDFs
+26	23	StaticText	[20, 830, 360, 56]	[200.0, 858.0]		|My Samples
+25	23	Heading	[20, 906, 360, 52]	[200.0, 932.0]	Expanded	|My Collections
+24	23	Button	[20, 958, 360, 56]	[200.0, 986.0]		|New Collection
+22	21	Button	[40, 1424, 248, 72]	[164.0, 1460.0]	Mariya Hirna	|Account
+5	4	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+6	5	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+19	6	Group	[426, 0, 1598, 104]	[1225.0, 52.0]		
+7	6	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+8	7	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+18	8	StaticText	[428, 40, 1594, 20]	[1225.0, 50.0]		|Showing suggestions for “lord of the rings”
+17	8	Heading	[482, 168, 222, 26]	[593.0, 181.0]		|Suggestions
+16	8	Button	[402, 226, 1646, 104]	[1225.0, 278.0]		|lord of the rings
+15	8	Button	[402, 332, 1646, 104]	[1225.0, 384.0]		|the lord of the rings, the fellowship of the ring
+14	8	Button	[402, 436, 1646, 104]	[1225.0, 488.0]		|the lord of the rings
+13	8	Button	[402, 542, 1646, 104]	[1225.0, 594.0]		|the lord of the rings, the return of the king
+12	8	Heading	[482, 710, 214, 26]	[589.0, 723.0]		|Top Results
+11	8	Button	[402, 778, 1646, 202]	[1225.0, 879.0]		|The Fellowship of the Ring by J. R. R. Tolkien, Audiobook, The Fellowship of the Ring, J. R. R. Tolkien, Audiobook, 4.6 stars, 416 ratings, £14.99
+10	8	Button	[402, 980, 1646, 202]	[1225.0, 1081.0]		|The Fellowship of the Ring by J. R. R. Tolkien, The Fellowship of the Ring, J. R. R. Tolkien, Book, 4.5 stars, 251 ratings, £3.99
+9	8	Button	[402, 1184, 1646, 202]	[1225.0, 1285.0]		|The Two Towers by J. R. R. Tolkien, Audiobook, The Two Towers, J. R. R. Tolkien, Audiobook, 4.6 stars, 174 ratings, £14.99
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

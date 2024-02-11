@@ -1,0 +1,12 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1400]	[800.0, 700.0]		Session Pomodoro Focus Timer
+2	1	Group	[0, 0, 1600, 1400]	[800.0, 700.0]		
+11	2	Button	[0, 200, 94, 96]	[47.0, 248.0]		|00:31
+10	2	StaticText	[622, 208, 450, 30]	[847.0, 223.0]	Synchronize your data between devices	
+9	2	StaticText	[712, 238, 270, 50]	[847.0, 263.0]	Register / login	
+8	2	Button	[0, 296, 94, 96]	[47.0, 344.0]		|bar-chart-2
+7	2	Button	[0, 392, 94, 96]	[47.0, 440.0]		|user
+6	2	TextField	[608, 390, 480, 32]	[848.0, 406.0]		
+5	2	Button	[0, 488, 94, 96]	[47.0, 536.0]		|book-open
+4	2	Button	[608, 460, 480, 72]	[848.0, 496.0]		|Get one-time password
+3	2	Button	[0, 1224, 94, 96]	[47.0, 1272.0]		|settings

@@ -1,0 +1,27 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+25	1	Button	[1488, 76, 64, 64]	[1520.0, 108.0]		|settings-close-button
+24	1	StaticText	[448, 132, 286, 48]	[591.0, 156.0]	Your devices	
+23	1	StaticText	[48, 224, 320, 68]	[208.0, 258.0]	Account	
+22	1	StaticText	[448, 272, 242, 28]	[569.0, 286.0]	Connected (1 / 8)	
+21	1	StaticText	[48, 292, 320, 68]	[208.0, 326.0]	Your devices	
+20	1	StaticText	[48, 360, 320, 68]	[208.0, 394.0]	System settings	
+19	1	StaticText	[48, 428, 320, 68]	[208.0, 462.0]	Shortcuts	
+18	1	StaticText	[48, 496, 320, 104]	[208.0, 548.0]	Stand with Ukraine 🇺🇦	
+17	1	StaticText	[48, 600, 320, 68]	[208.0, 634.0]	Need help?	
+13	1	ScrollArea	[448, 368, 1104, 320]	[1000.0, 528.0]		
+16	13	Image	[486, 368, 242, 142]	[607.0, 439.0]		|mac
+15	13	StaticText	[480, 554, 254, 24]	[607.0, 566.0]	Mariya’s MacBook Pro	
+14	13	StaticText	[556, 586, 104, 24]	[608.0, 598.0]	(current)	
+12	1	StaticText	[448, 730, 836, 28]	[866.0, 744.0]	Scan QR code and download ClearVPN on your mobile device	
+11	1	Image	[82, 870, 252, 148]	[208.0, 944.0]		|banner-devices
+10	1	Image	[448, 804, 160, 160]	[528.0, 884.0]		
+9	1	Image	[624, 846, 32, 32]	[640.0, 862.0]		|ios_logo
+8	1	StaticText	[668, 850, 40, 24]	[688.0, 862.0]	iOS	
+7	1	StaticText	[624, 894, 270, 20]	[759.0, 904.0]	Works on iOS 14 and higher	
+6	1	StaticText	[114, 1044, 188, 80]	[208.0, 1084.0]	"Are you sure 
+all your devices are protected?"	
+5	1	StaticText	[448, 1056, 482, 28]	[689.0, 1070.0]	Want to connect a desktop device?	
+4	1	Button	[1244, 1062, 308, 48]	[1398.0, 1086.0]		|Share download link
+3	1	StaticText	[448, 1098, 582, 24]	[739.0, 1110.0]	Send the download link and open it on that device	
+2	1	Button	[80, 1150, 256, 44]	[208.0, 1172.0]		|7 of 8 slots remaining

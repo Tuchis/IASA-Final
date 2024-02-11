@@ -1,0 +1,15 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 740, 720]	[370.0, 360.0]		Numi
+11	1	StaticText	[336, 18, 72, 34]	[372.0, 35.0]	Numi	
+10	1	Unknown	[636, 12, 44, 44]	[658.0, 34.0]		|Add calculation
+9	1	Unknown	[680, 14, 44, 40]	[702.0, 34.0]		|All calculations
+7	1	ScrollArea	[52, 76, 660, 566]	[382.0, 359.0]		
+8	7	TextArea	[52, 76, 660, 566]	[382.0, 359.0]	"# Sample
+8 / (45 - 20%)
+5 inches in cm
+$9 in Euro"	
+6	1	Unknown	[22, 666, 32, 32]	[38.0, 682.0]		|Settings
+5	1	Unknown	[678, 662, 40, 40]	[698.0, 682.0]		|Export
+4	1	StaticText	[270, 662, 200, 34]	[370.0, 679.0]	Add calculation	
+3	1	Unknown	[350, 658, 40, 50]	[370.0, 683.0]		|Total
+2	1	Toolbar	[0, 0, 740, 76]	[370.0, 38.0]		

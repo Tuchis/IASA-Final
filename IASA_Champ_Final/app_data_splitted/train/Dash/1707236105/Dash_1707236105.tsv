@@ -1,0 +1,59 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2400, 1556]	[1200.0, 778.0]		Python Online Compiler & Interpreter - Replit
+15	1	SplitGroup	[0, 104, 2400, 1452]	[1200.0, 830.0]		
+58	15	Splitter	[0, 104, 2, 1452]	[1.0, 830.0]	0.0	
+17	15	Group	[0, 0, 2400, 1556]	[1200.0, 778.0]		
+18	17	Group	[0, 0, 2400, 1556]	[1200.0, 778.0]		
+19	18	ScrollArea	[0, 104, 2400, 1452]	[1200.0, 830.0]		|
+21	19	WebArea	[0, 104, 2400, 1452]	[1200.0, 830.0]		|Python Online Compiler & Interpreter - Replit
+56	21	Link	[8, 34, 290, 70]	[153.0, 69.0]		Skip to content|
+57	56	StaticText	[18, 44, 272, 50]	[154.0, 69.0]	Skip to content	|
+55	21	Group	[2384, 1540, 16, 16]	[2392.0, 1548.0]		|
+36	21	Group	[0, 102, 2400, 122]	[1200.0, 163.0]		|
+54	36	Link	[20, 124, 222, 80]	[131.0, 164.0]		|Replit
+51	36	Group	[254, 102, 4, 2]	[256.0, 103.0]		|
+53	51	StaticText	[254, 102, 70, 36]	[289.0, 120.0]	Open	|
+52	51	StaticText	[322, 102, 172, 36]	[408.0, 120.0]	 navbar menu	|
+41	36	Group	[256, 104, 1836, 120]	[1174.0, 164.0]		|
+50	41	PopUpButton	[256, 132, 200, 64]	[356.0, 164.0]		|Features
+48	41	Link	[470, 132, 194, 64]	[567.0, 164.0]		Membership|
+49	48	StaticText	[486, 148, 162, 36]	[567.0, 166.0]	Membership	|
+46	41	Link	[678, 132, 90, 64]	[723.0, 164.0]		Blog|
+47	46	StaticText	[694, 148, 58, 36]	[723.0, 166.0]	Blog	|
+44	41	Link	[782, 132, 122, 64]	[843.0, 164.0]		Pricing|
+45	44	StaticText	[798, 148, 90, 36]	[843.0, 166.0]	Pricing	|
+42	41	Link	[920, 132, 132, 64]	[986.0, 164.0]		Careers|
+43	42	StaticText	[936, 148, 100, 36]	[986.0, 166.0]	Careers	|
+39	36	Link	[2108, 132, 134, 64]	[2175.0, 164.0]		Sign Up|
+40	39	StaticText	[2126, 146, 98, 36]	[2175.0, 164.0]	Sign Up	|
+37	36	Link	[2256, 132, 116, 64]	[2314.0, 164.0]		Log In|
+38	37	StaticText	[2274, 146, 78, 36]	[2313.0, 164.0]	Log In	|
+27	21	Group	[0, 104, 2400, 1452]	[1200.0, 830.0]		|
+34	27	Group	[0, 200, 2400, 1356]	[1200.0, 878.0]		|
+35	34	Group	[0, 200, 2400, 1356]	[1200.0, 878.0]		|
+31	27	Heading	[650, 520, 1100, 394]	[1200.0, 717.0]	1	Code, create, and learn together with Python|
+33	31	StaticText	[676, 520, 1048, 274]	[1200.0, 657.0]	Code, create, and learn together with	|
+32	31	StaticText	[1006, 760, 388, 154]	[1200.0, 837.0]	Python	|
+30	27	StaticText	[662, 930, 1076, 128]	[1200.0, 994.0]	Code, collaborate, compile, run, share, and deploy Python and more online from your browser.	|
+29	27	Button	[980, 1090, 440, 100]	[1200.0, 1140.0]		Sign up to code in Python|
+28	27	Group	[64, 1464, 16, 92]	[72.0, 1510.0]		|
+22	21	Group	[2260, 1502, 140, 18]	[2330.0, 1511.0]		|
+25	22	Link	[2272, 1498, 56, 26]	[2300.0, 1511.0]		Privacy|
+26	25	StaticText	[2272, 1502, 54, 18]	[2299.0, 1511.0]	Privacy	|
+23	22	Link	[2340, 1498, 48, 26]	[2364.0, 1511.0]		Terms|
+24	23	StaticText	[2340, 1502, 48, 18]	[2364.0, 1511.0]	Terms	|
+20	19	ScrollBar	[2368, 284, 32, 1272]	[2384.0, 920.0]	0.0	|
+16	15	StaticText	[14, 1512, 1054, 32]	[541.0, 1528.0]	OpenCV.docset/dc/d84/group__core__basic.html#ga353a9de602fe76c709e12074a6f362ba	
+14	1	Button	[168, 24, 66, 56]	[201.0, 52.0]		
+13	1	Button	[242, 24, 66, 56]	[275.0, 52.0]		
+12	1	Button	[324, 24, 66, 56]	[357.0, 52.0]		
+11	1	Button	[2310, 24, 66, 56]	[2343.0, 52.0]		
+10	1	Button	[2146, 24, 66, 56]	[2179.0, 52.0]		
+9	1	Button	[2064, 24, 66, 56]	[2097.0, 52.0]		
+8	1	Button	[2228, 24, 66, 56]	[2261.0, 52.0]		
+6	1	TextField	[828, 24, 748, 56]	[1202.0, 52.0]	￼	
+7	6	Image	[832, 24, 74, 40]	[869.0, 44.0]		
+5	1	Image	[840, 36, 50, 32]	[865.0, 52.0]		|
+4	1	Button	[1524, 32, 52, 36]	[1550.0, 50.0]		|stop progress
+3	1	Button	[1592, 24, 66, 56]	[1625.0, 52.0]		
+2	1	StaticText	[1190, 10, 20, 32]	[1200.0, 26.0]		

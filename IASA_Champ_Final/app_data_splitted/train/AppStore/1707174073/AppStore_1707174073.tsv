@@ -1,0 +1,98 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2360, 1448]	[1180.0, 724.0]		App Store
+3	1	SplitGroup	[0, 0, 2360, 1448]	[1180.0, 724.0]		
+94	3	Group	[20, 104, 400, 56]	[220.0, 132.0]		
+95	94	TextField	[80, 104, 288, 56]	[224.0, 132.0]		|search field
+68	3	Outline	[0, 176, 440, 1160]	[220.0, 756.0]		
+91	68	Row	[0, 196, 440, 72]	[220.0, 232.0]		
+92	91	Cell	[20, 196, 400, 72]	[220.0, 232.0]		|Discover
+93	92	Button	[0, 196, 440, 72]	[220.0, 232.0]		|Discover
+88	68	Row	[0, 268, 440, 72]	[220.0, 304.0]		
+89	88	Cell	[20, 268, 400, 72]	[220.0, 304.0]		|Arcade
+90	89	Button	[0, 268, 440, 72]	[220.0, 304.0]		|Arcade
+85	68	Row	[0, 340, 440, 72]	[220.0, 376.0]		
+86	85	Cell	[20, 340, 400, 72]	[220.0, 376.0]		|Create
+87	86	Button	[0, 340, 440, 72]	[220.0, 376.0]		|Create
+82	68	Row	[0, 412, 440, 72]	[220.0, 448.0]		
+83	82	Cell	[20, 412, 400, 72]	[220.0, 448.0]		|Work
+84	83	Button	[0, 412, 440, 72]	[220.0, 448.0]		|Work
+79	68	Row	[0, 484, 440, 72]	[220.0, 520.0]		
+80	79	Cell	[20, 484, 400, 72]	[220.0, 520.0]		|Play
+81	80	Button	[0, 484, 440, 72]	[220.0, 520.0]		|Play
+76	68	Row	[0, 556, 440, 72]	[220.0, 592.0]		
+77	76	Cell	[20, 556, 400, 72]	[220.0, 592.0]		|Develop
+78	77	Button	[0, 556, 440, 72]	[220.0, 592.0]		|Develop
+73	68	Row	[0, 628, 440, 72]	[220.0, 664.0]		
+74	73	Cell	[20, 628, 400, 72]	[220.0, 664.0]		|Categories
+75	74	Button	[0, 628, 440, 72]	[220.0, 664.0]		|Categories
+70	68	Row	[0, 700, 440, 72]	[220.0, 736.0]		
+71	70	Cell	[20, 700, 400, 72]	[220.0, 736.0]		|Updates, 5
+72	71	Button	[0, 700, 440, 72]	[220.0, 736.0]		|Updates, 5
+69	68	Column	[20, 176, 400, 1160]	[220.0, 756.0]		
+65	3	Button	[0, 1336, 440, 112]	[220.0, 1392.0]		Mariya Hirna|Mariya Hirna
+67	65	Image	[20, 1356, 72, 72]	[56.0, 1392.0]		|
+66	65	StaticText	[104, 1376, 168, 32]	[188.0, 1392.0]	Mariya Hirna	
+5	3	ScrollArea	[442, 0, 1918, 1448]	[1401.0, 724.0]		
+10	5	List	[442, 0, 1918, 1448]	[1401.0, 724.0]		|Arcade
+58	10	List	[522, 0, 1758, 988]	[1401.0, 494.0]		
+59	58	Unknown	[522, 0, 1758, 988]	[1401.0, 494.0]		
+64	59	Image	[522, 0, 1758, 988]	[1401.0, 494.0]		|Artwork
+63	59	StaticText	[602, 546, 1598, 240]	[1401.0, 666.0]	"Play 200+ games. 
+No in-app purchases. 
+No ads."	
+62	59	Image	[1318, 498, 162, 34]	[1399.0, 515.0]		|arcade wordmark en
+61	59	Button	[1132, 812, 536, 80]	[1400.0, 852.0]		Try It Free|Try It Free
+60	59	StaticText	[1222, 926, 356, 28]	[1400.0, 940.0]	1 month free, then £6.99/month.	
+27	10	List	[442, 1012, 1918, 92]	[1401.0, 1058.0]		
+28	27	Unknown	[442, 1012, 1918, 92]	[1401.0, 1058.0]		
+29	28	ScrollArea	[442, 1012, 1918, 92]	[1401.0, 1058.0]		
+30	29	List	[442, 1012, 1918, 92]	[1401.0, 1058.0]		
+31	30	List	[522, 1028, 1838, 60]	[1441.0, 1058.0]		
+55	31	Unknown	[522, 1028, 186, 60]	[615.0, 1058.0]		
+57	55	Image	[534, 1038, 56, 40]	[562.0, 1058.0]		|Artwork
+56	55	StaticText	[598, 1044, 86, 28]	[641.0, 1058.0]	Action 	
+52	31	Unknown	[724, 1028, 228, 60]	[838.0, 1058.0]		
+54	52	Image	[736, 1038, 56, 40]	[764.0, 1058.0]		|Artwork
+53	52	StaticText	[800, 1044, 128, 28]	[864.0, 1058.0]	Adventure 	
+49	31	Unknown	[970, 1028, 188, 60]	[1064.0, 1058.0]		
+51	49	Image	[982, 1038, 56, 40]	[1010.0, 1058.0]		|Artwork
+50	49	StaticText	[1046, 1044, 88, 28]	[1090.0, 1058.0]	Casual 	
+46	31	Unknown	[1174, 1028, 186, 60]	[1267.0, 1058.0]		
+48	46	Image	[1186, 1038, 56, 40]	[1214.0, 1058.0]		|Artwork
+47	46	StaticText	[1250, 1044, 86, 28]	[1293.0, 1058.0]	Family 	
+43	31	Unknown	[1378, 1028, 182, 60]	[1469.0, 1058.0]		
+45	43	Image	[1390, 1038, 56, 40]	[1418.0, 1058.0]		|Artwork
+44	43	StaticText	[1454, 1044, 82, 28]	[1495.0, 1058.0]	Puzzle	
+40	31	Unknown	[1576, 1028, 190, 60]	[1671.0, 1058.0]		
+42	40	Image	[1588, 1038, 56, 40]	[1616.0, 1058.0]		|Artwork
+41	40	StaticText	[1652, 1044, 90, 28]	[1697.0, 1058.0]	Racing 	
+37	31	Unknown	[1784, 1028, 254, 60]	[1911.0, 1058.0]		
+39	37	Image	[1796, 1038, 56, 40]	[1824.0, 1058.0]		|Artwork
+38	37	StaticText	[1860, 1044, 154, 28]	[1937.0, 1058.0]	Role-Playing 	
+34	31	Unknown	[2054, 1028, 224, 60]	[2166.0, 1058.0]		
+36	34	Image	[2066, 1038, 56, 40]	[2094.0, 1058.0]		|Artwork
+35	34	StaticText	[2130, 1044, 124, 28]	[2192.0, 1058.0]	Simulation	
+32	31	Unknown	[2296, 1028, 64, 60]	[2328.0, 1058.0]		
+33	32	Image	[2308, 1038, 52, 40]	[2334.0, 1058.0]		|Artwork
+11	10	List	[442, 1136, 1918, 312]	[1401.0, 1292.0]		|Top Arcade Games
+26	11	StaticText	[442, 1136, 1918, 106]	[1401.0, 1189.0]		|Top Arcade Games
+12	11	Group	[442, 1242, 1918, 206]	[1401.0, 1345.0]		
+13	12	Group	[442, 1242, 1918, 206]	[1401.0, 1345.0]		|Top Arcade Games
+14	13	ScrollArea	[442, 1242, 1918, 206]	[1401.0, 1345.0]		
+15	14	List	[442, 1242, 1918, 206]	[1401.0, 1345.0]		|Top Arcade Games
+24	15	Button	[522, 1242, 858, 138]	[951.0, 1311.0]		1, Apple Arcade, Football Manager 2024 Touch, Elite football management, Get|1, Apple Arcade, Football Manager 2024 Touch, Elite football management, Get
+25	24	Button	[1244, 1242, 136, 104]	[1312.0, 1294.0]		Get|Get
+22	15	Button	[522, 1380, 858, 68]	[951.0, 1414.0]		2, Apple Arcade, Snake.io+, Fun Battle Royale Arcade Game, Get|2, Apple Arcade, Snake.io+, Fun Battle Royale Arcade Game, Get
+23	22	Button	[1244, 1380, 136, 68]	[1312.0, 1414.0]		Get|Get
+20	15	Button	[1420, 1242, 858, 138]	[1849.0, 1311.0]		4, Apple Arcade, BEAST: Bio Exo Arena Suit Team, Hero Shooter: PVP Battles, Get|4, Apple Arcade, BEAST: Bio Exo Arena Suit Team, Hero Shooter: PVP Battles, Get
+21	20	Button	[2142, 1242, 136, 104]	[2210.0, 1294.0]		Get|Get
+18	15	Button	[1420, 1380, 858, 68]	[1849.0, 1414.0]		5, Apple Arcade, Disney Dreamlight Valley, Arcade Edition, Get|5, Apple Arcade, Disney Dreamlight Valley, Arcade Edition, Get
+19	18	Button	[2142, 1380, 136, 68]	[2210.0, 1414.0]		Get|Get
+17	15	Button	[2318, 1242, 42, 138]	[2339.0, 1311.0]		7, Apple Arcade, Sonic Dream Team, 3D Prime Adventure, Get|7, Apple Arcade, Sonic Dream Team, 3D Prime Adventure, Get
+16	15	Button	[2318, 1380, 42, 68]	[2339.0, 1414.0]		8, Apple Arcade, Hello Kitty Island Adventure, Island adventures await, Get|8, Apple Arcade, Hello Kitty Island Adventure, Island adventures await, Get
+6	5	ScrollBar	[2328, 0, 32, 1448]	[2344.0, 724.0]	0.0	
+9	6	ValueIndicator	[2336, 2, 24, 192]	[2348.0, 98.0]	0.0	
+8	6	Button	[2336, 194, 24, 1252]	[2348.0, 820.0]		
+7	6	Button	[2336, 0, 24, 2]	[2348.0, 1.0]		
+4	3	Toolbar	[442, 0, 1918, 352]	[1401.0, 176.0]		
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

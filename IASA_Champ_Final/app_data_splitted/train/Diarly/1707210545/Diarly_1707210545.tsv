@@ -1,0 +1,62 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2400, 1600]	[1200.0, 800.0]		Diary
+44	1	Button	[272, 16, 80, 70]	[312.0, 51.0]		|View Timeline
+43	1	Button	[352, 16, 80, 70]	[392.0, 51.0]		|View Notes
+42	1	Button	[654, 16, 64, 70]	[686.0, 51.0]		|Create Note
+22	1	ScrollArea	[0, 104, 750, 1496]	[375.0, 852.0]		
+23	22	Table	[0, 104, 750, 1496]	[375.0, 852.0]		
+39	23	Row	[0, 104, 750, 68]	[375.0, 138.0]		
+40	39	Cell	[0, 104, 750, 68]	[375.0, 138.0]		
+41	40	StaticText	[20, 116, 156, 42]	[98.0, 137.0]	Timeline	
+37	23	Row	[0, 172, 750, 8]	[375.0, 176.0]		
+38	37	Cell	[0, 172, 750, 8]	[375.0, 176.0]		
+34	23	Row	[0, 180, 750, 58]	[375.0, 209.0]		
+35	34	Cell	[0, 180, 750, 58]	[375.0, 209.0]		
+36	35	StaticText	[20, 192, 196, 32]	[118.0, 208.0]	February 2024	
+27	23	Row	[0, 238, 750, 256]	[375.0, 366.0]		
+28	27	Cell	[0, 238, 750, 256]	[375.0, 366.0]		
+33	28	StaticText	[46, 428, 168, 32]	[130.0, 444.0]	#StartingOut	
+32	28	TextArea	[40, 268, 598, 148]	[339.0, 342.0]	"# Three small things I'm grateful for:
+- 
+# What is my positive intention for the day?
+# How did I feel today and what patterns or triggers did I notice?
+[Kyiv, Antonovycha Street](diarly://map/50.42603751718915,30.51559530818982)  2˚C ☁️  
+#StartingOut  Welcome to Diarly 👋 "	
+31	28	StaticText	[670, 268, 28, 34]	[684.0, 285.0]	6	|Today
+30	28	StaticText	[660, 306, 46, 26]	[683.0, 319.0]	Tue	
+29	28	Button	[658, 332, 50, 56]	[683.0, 360.0]		
+25	23	Row	[0, 494, 750, 20]	[375.0, 504.0]		
+26	25	Cell	[0, 494, 750, 20]	[375.0, 504.0]		
+24	23	Column	[0, 104, 750, 1496]	[375.0, 852.0]		
+14	1	ScrollArea	[750, 104, 1650, 1496]	[1575.0, 852.0]		
+19	14	TextArea	[750, 104, 1650, 1496]	[1575.0, 852.0]	"# Three small things I'm grateful for:
+- 
+
+# What is my positive intention for the day?
+
+
+# How did I feel today and what patterns or triggers did I notice?
+
+
+[Kyiv, Antonovycha Street](diarly://map/50.42603751718915,30.51559530818982) 📲🛌 2˚C ☁️ 📲👟 
+
+
+#StartingOut  Welcome to Diarly 👋"	
+21	19	Link	[810, 624, 340, 42]	[980.0, 645.0]		Kyiv, Antonovycha Street
+20	19	Link	[1006, 754, 336, 42]	[1174.0, 775.0]		 Welcome to Diarly 👋
+15	14	ScrollBar	[2380, 104, 20, 1496]	[2390.0, 852.0]	0.0	
+18	15	ValueIndicator	[2380, 106, 20, 890]	[2390.0, 551.0]	0.0	
+17	15	Button	[2380, 996, 20, 602]	[2390.0, 1297.0]		
+16	15	Button	[2380, 104, 20, 2]	[2390.0, 105.0]		
+13	1	Button	[2128, 16, 64, 70]	[2160.0, 51.0]		|Insert
+12	1	Button	[2040, 16, 64, 70]	[2072.0, 51.0]		|Editor & Themes
+11	1	Button	[2304, 16, 64, 70]	[2336.0, 51.0]		|More
+10	1	Button	[782, 16, 64, 70]	[814.0, 51.0]		|Toggle Editor Only (⇧⌘K)
+9	1	Button	[1134, 16, 46, 70]	[1157.0, 51.0]		|Previous Note (⌃⌘←)
+8	1	Button	[1498, 16, 46, 70]	[1521.0, 51.0]		|Next Note (⌃⌘→)
+7	1	StaticText	[940, 36, 142, 32]	[1011.0, 52.0]	My Journal	
+6	1	StaticText	[890, 36, 46, 32]	[913.0, 52.0]	😌	
+5	1	StaticText	[1242, 32, 248, 40]	[1366.0, 52.0]	Tue, 6 February	
+4	1	Button	[1176, 16, 62, 70]	[1207.0, 51.0]		|Add Badge
+3	1	Button	[184, 16, 64, 70]	[216.0, 51.0]		
+2	1	Toolbar	[0, 0, 2400, 104]	[1200.0, 52.0]		

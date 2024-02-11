@@ -1,0 +1,82 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1560, 948]	[780.0, 474.0]		Swish
+5	1	SplitGroup	[0, 0, 1560, 948]	[780.0, 474.0]		
+51	5	ScrollArea	[0, 104, 300, 844]	[150.0, 526.0]		
+52	51	Table	[0, 104, 300, 844]	[150.0, 526.0]		
+78	52	Row	[0, 104, 300, 72]	[150.0, 140.0]		
+79	78	Cell	[32, 104, 236, 72]	[150.0, 140.0]		
+81	79	Image	[42, 122, 34, 34]	[59.0, 139.0]		|General
+80	79	StaticText	[92, 122, 180, 36]	[182.0, 140.0]	General	
+74	52	Row	[0, 176, 300, 72]	[150.0, 212.0]		
+75	74	Cell	[32, 176, 236, 72]	[150.0, 212.0]		
+77	75	Image	[40, 196, 42, 32]	[61.0, 212.0]		|Windows
+76	75	StaticText	[92, 194, 180, 36]	[182.0, 212.0]	Windows	
+70	52	Row	[0, 248, 300, 72]	[150.0, 284.0]		
+71	70	Cell	[32, 248, 236, 72]	[150.0, 284.0]		
+73	71	Image	[40, 268, 40, 30]	[60.0, 283.0]		|Snapping
+72	71	StaticText	[92, 266, 180, 36]	[182.0, 284.0]	Snapping	
+66	52	Row	[0, 320, 300, 72]	[150.0, 356.0]		
+67	66	Cell	[32, 320, 236, 72]	[150.0, 356.0]		
+69	67	Image	[40, 340, 40, 30]	[60.0, 355.0]		|Apps
+68	67	StaticText	[92, 338, 180, 36]	[182.0, 356.0]	Apps	
+62	52	Row	[0, 392, 300, 72]	[150.0, 428.0]		
+63	62	Cell	[32, 392, 236, 72]	[150.0, 428.0]		
+65	63	Image	[40, 412, 40, 30]	[60.0, 427.0]		|Menubar
+64	63	StaticText	[92, 410, 180, 36]	[182.0, 428.0]	Menubar	
+58	52	Row	[0, 464, 300, 72]	[150.0, 500.0]		
+59	58	Cell	[32, 464, 236, 72]	[150.0, 500.0]		
+61	59	Image	[38, 482, 42, 34]	[59.0, 499.0]		|Advanced
+60	59	StaticText	[92, 482, 180, 36]	[182.0, 500.0]	Advanced	
+54	52	Row	[0, 536, 300, 72]	[150.0, 572.0]		
+55	54	Cell	[32, 536, 236, 72]	[150.0, 572.0]		
+57	55	Image	[44, 556, 32, 32]	[60.0, 572.0]		|About
+56	55	StaticText	[92, 554, 180, 36]	[182.0, 572.0]	About	
+53	52	Column	[20, 104, 260, 844]	[150.0, 526.0]		
+50	5	Splitter	[300, 104, 2, 844]	[301.0, 526.0]	150.0	
+6	5	ScrollArea	[302, 104, 1258, 844]	[931.0, 526.0]		
+49	6	StaticText	[322, 128, 222, 58]	[433.0, 157.0]	Snapping	
+48	6	StaticText	[322, 210, 1050, 32]	[847.0, 226.0]	Snap windows to a 2×2, 3×2 or 3×3 grid. Unsnap by either dragging or via Swish's gestures.	
+47	6	StaticText	[322, 282, 174, 34]	[409.0, 299.0]	Grid Spacing	
+45	6	Slider	[504, 278, 208, 40]	[608.0, 298.0]	0.0	
+46	45	ValueIndicator	[518, 278, 24, 40]	[530.0, 298.0]	0.0	
+44	6	StaticText	[720, 286, 80, 26]	[760.0, 299.0]	Default	
+43	6	Button	[810, 280, 36, 38]	[828.0, 299.0]		|Help
+42	6	StaticText	[322, 332, 1028, 32]	[836.0, 348.0]	A small distance between windows and screen edges can visually de-clutter your desktop.	
+41	6	StaticText	[322, 404, 208, 34]	[426.0, 421.0]	Drag to Unsnap	
+40	6	CheckBox	[538, 402, 36, 36]	[556.0, 420.0]	1	
+39	6	StaticText	[630, 404, 226, 34]	[743.0, 421.0]	Activate Window	
+38	6	CheckBox	[864, 402, 36, 36]	[882.0, 420.0]	0	
+37	6	StaticText	[956, 404, 172, 34]	[1042.0, 421.0]	Move Cursor	
+36	6	CheckBox	[1136, 402, 36, 36]	[1154.0, 420.0]	0	
+35	6	StaticText	[322, 454, 764, 32]	[704.0, 470.0]	Use the secondary modifier to temporarily disable Drag to Unsnap.	
+34	6	StaticText	[322, 526, 338, 34]	[491.0, 543.0]	Resize Adjacent Windows	
+33	6	CheckBox	[668, 524, 36, 36]	[686.0, 542.0]	1	
+32	6	StaticText	[322, 576, 1006, 32]	[825.0, 592.0]	Quickly resize multiple snapped windows at once by dragging the divider between them.	
+31	6	Image	[326, 674, 48, 48]	[350.0, 698.0]		|ActionSnapUnsnap
+30	6	PopUpButton	[374, 680, 270, 34]	[509.0, 697.0]	Center & Unsnap	
+29	6	Image	[674, 688, 24, 24]	[686.0, 700.0]		|GestureTap
+28	6	StaticText	[770, 682, 526, 38]	[1033.0, 701.0]	Double tap to unsnap and/or center a window.	
+27	6	Image	[326, 738, 48, 48]	[350.0, 762.0]		|ActionSnapMax
+26	6	StaticText	[386, 744, 188, 34]	[480.0, 761.0]	Maximize	
+25	6	Image	[586, 752, 22, 24]	[597.0, 764.0]		|GestureUp
+24	6	StaticText	[770, 746, 512, 38]	[1026.0, 765.0]	Swipe up once to fill the entire desktop area.	
+23	6	Image	[326, 802, 48, 48]	[350.0, 826.0]		|ActionSnapHalves
+22	6	StaticText	[386, 808, 188, 34]	[480.0, 825.0]	Halves	
+21	6	Image	[586, 816, 24, 24]	[598.0, 828.0]		|GestureLeft
+20	6	Image	[674, 816, 24, 24]	[686.0, 828.0]		|GestureRight
+19	6	StaticText	[770, 810, 722, 38]	[1131.0, 829.0]	Swipe horizontally to snap to the left or right half of the screen.	
+18	6	Image	[326, 866, 48, 48]	[350.0, 890.0]		|ActionSnapVertical
+17	6	StaticText	[386, 872, 188, 34]	[480.0, 889.0]	Vertical	
+16	6	Image	[608, 880, 22, 24]	[619.0, 892.0]		|GestureUp
+15	6	Image	[586, 880, 22, 24]	[597.0, 892.0]		|GestureUp
+14	6	Image	[696, 880, 22, 24]	[707.0, 892.0]		|GestureDown
+13	6	Image	[674, 880, 22, 24]	[685.0, 892.0]		|GestureDown
+12	6	StaticText	[770, 874, 770, 64]	[1155.0, 906.0]	Double-swipe vertically to snap to the top or bottom half of the screen.	
+11	6	ScrollBar	[302, 916, 1258, 32]	[931.0, 932.0]	0.0	
+7	6	ScrollBar	[1528, 104, 32, 844]	[1544.0, 526.0]	0.0	
+10	7	ValueIndicator	[1536, 106, 24, 480]	[1548.0, 346.0]	0.0	
+9	7	Button	[1536, 588, 24, 360]	[1548.0, 768.0]		
+8	7	Button	[1536, 104, 24, 2]	[1548.0, 105.0]		
+3	1	Toolbar	[0, 0, 1560, 104]	[780.0, 52.0]		
+4	3	Button	[1448, 0, 96, 104]	[1496.0, 52.0]		|Quit
+2	1	StaticText	[318, 0, 1130, 104]	[883.0, 52.0]	Swish	

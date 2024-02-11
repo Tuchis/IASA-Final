@@ -1,0 +1,87 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2360, 1448]	[1180.0, 724.0]		App Store
+3	1	SplitGroup	[0, 0, 2360, 1448]	[1180.0, 724.0]		
+85	3	Group	[20, 104, 400, 56]	[220.0, 132.0]		
+86	85	TextField	[80, 104, 288, 56]	[224.0, 132.0]		|search field
+59	3	Outline	[0, 176, 440, 1160]	[220.0, 756.0]		
+82	59	Row	[0, 196, 440, 72]	[220.0, 232.0]		
+83	82	Cell	[20, 196, 400, 72]	[220.0, 232.0]		|Discover
+84	83	Button	[0, 196, 440, 72]	[220.0, 232.0]		|Discover
+79	59	Row	[0, 268, 440, 72]	[220.0, 304.0]		
+80	79	Cell	[20, 268, 400, 72]	[220.0, 304.0]		|Arcade
+81	80	Button	[0, 268, 440, 72]	[220.0, 304.0]		|Arcade
+76	59	Row	[0, 340, 440, 72]	[220.0, 376.0]		
+77	76	Cell	[20, 340, 400, 72]	[220.0, 376.0]		|Create
+78	77	Button	[0, 340, 440, 72]	[220.0, 376.0]		|Create
+73	59	Row	[0, 412, 440, 72]	[220.0, 448.0]		
+74	73	Cell	[20, 412, 400, 72]	[220.0, 448.0]		|Work
+75	74	Button	[0, 412, 440, 72]	[220.0, 448.0]		|Work
+70	59	Row	[0, 484, 440, 72]	[220.0, 520.0]		
+71	70	Cell	[20, 484, 400, 72]	[220.0, 520.0]		|Play
+72	71	Button	[0, 484, 440, 72]	[220.0, 520.0]		|Play
+67	59	Row	[0, 556, 440, 72]	[220.0, 592.0]		
+68	67	Cell	[20, 556, 400, 72]	[220.0, 592.0]		|Develop
+69	68	Button	[0, 556, 440, 72]	[220.0, 592.0]		|Develop
+64	59	Row	[0, 628, 440, 72]	[220.0, 664.0]		
+65	64	Cell	[20, 628, 400, 72]	[220.0, 664.0]		|Categories
+66	65	Button	[0, 628, 440, 72]	[220.0, 664.0]		|Categories
+61	59	Row	[0, 700, 440, 72]	[220.0, 736.0]		
+62	61	Cell	[20, 700, 400, 72]	[220.0, 736.0]		|Updates, 5
+63	62	Button	[0, 700, 440, 72]	[220.0, 736.0]		|Updates, 5
+60	59	Column	[20, 176, 400, 1160]	[220.0, 756.0]		
+56	3	Button	[0, 1336, 440, 112]	[220.0, 1392.0]		Mariya Hirna|Mariya Hirna
+58	56	Image	[20, 1356, 72, 72]	[56.0, 1392.0]		|
+57	56	StaticText	[104, 1376, 168, 32]	[188.0, 1392.0]	Mariya Hirna	
+6	3	ScrollArea	[442, 0, 1918, 1448]	[1401.0, 724.0]		
+11	6	List	[442, 0, 1918, 1448]	[1401.0, 724.0]		|Discover
+39	11	List	[442, 0, 1918, 680]	[1401.0, 340.0]		|You’re a cat, and 12 more stories
+40	39	Unknown	[442, 0, 1918, 680]	[1401.0, 340.0]		|You’re a cat, and 12 more stories
+41	40	ScrollArea	[442, 0, 1918, 680]	[1401.0, 340.0]		
+42	41	List	[442, 0, 1918, 680]	[1401.0, 340.0]		
+43	42	List	[522, 0, 1838, 680]	[1441.0, 340.0]		
+47	43	Group	[522, 0, 1758, 680]	[1401.0, 340.0]		
+48	47	Group	[522, 0, 1758, 680]	[1401.0, 340.0]		
+49	48	Unknown	[522, 0, 1758, 680]	[1401.0, 340.0]	GAMES WE LOVE, Deliver the future in Death Stranding, An unforgettable odyssey awaits	|GAMES WE LOVE, Deliver the future in Death Stranding, An unforgettable odyssey awaits
+55	49	StaticText	[572, 50, 326, 586]	[735.0, 343.0]	GAMES WE LOVE, Deliver the future in Death Stranding, An unforgettable odyssey awaits	|GAMES WE LOVE, Deliver the future in Death Stranding, An unforgettable odyssey awaits
+50	49	Unknown	[962, 0, 1318, 680]	[1621.0, 340.0]		|Video
+54	50	Image	[962, 0, 1318, 680]	[1621.0, 340.0]		|Artwork
+53	50	Button	[1556, 276, 128, 128]	[1620.0, 340.0]		|Play
+52	50	Button	[982, 600, 90, 60]	[1027.0, 630.0]		|Play
+51	50	Button	[2170, 600, 90, 60]	[2215.0, 630.0]		|Play
+44	43	Group	[2320, 0, 40, 680]	[2340.0, 340.0]		
+45	44	Group	[2320, 0, 40, 680]	[2340.0, 340.0]		
+46	45	Unknown	[2320, 0, 40, 680]	[2340.0, 340.0]	GAMES WE LOVE, You’re a cat, Explore a mysterious cyber-city in Stray	|GAMES WE LOVE, You’re a cat, Explore a mysterious cyber-city in Stray
+25	11	List	[442, 720, 1918, 460]	[1401.0, 950.0]		|Get more out of Microsoft 365, and 8 more stories
+26	25	Unknown	[442, 720, 1918, 460]	[1401.0, 950.0]		|Get more out of Microsoft 365, and 8 more stories
+27	26	ScrollArea	[442, 720, 1918, 460]	[1401.0, 950.0]		
+28	27	List	[442, 720, 1918, 460]	[1401.0, 950.0]		
+29	28	List	[522, 720, 1838, 460]	[1441.0, 950.0]		
+36	29	Group	[522, 720, 858, 460]	[951.0, 950.0]		
+37	36	Group	[522, 720, 858, 460]	[951.0, 950.0]		
+38	37	StaticText	[522, 720, 858, 460]	[951.0, 950.0]	GET STARTED, New to Mac, Get the best apps for every task	|GET STARTED, New to Mac, Get the best apps for every task
+33	29	Group	[1420, 720, 858, 460]	[1849.0, 950.0]		
+34	33	Group	[1420, 720, 858, 460]	[1849.0, 950.0]		
+35	34	StaticText	[1420, 720, 858, 460]	[1849.0, 950.0]	GET PRODUCTIVE, Get more out of Microsoft 365, Level up your productivity with these tips	|GET PRODUCTIVE, Get more out of Microsoft 365, Level up your productivity with these tips
+30	29	Group	[2318, 720, 42, 460]	[2339.0, 950.0]		
+31	30	Group	[2318, 720, 42, 460]	[2339.0, 950.0]		
+32	31	StaticText	[2318, 720, 42, 460]	[2339.0, 950.0]	OUR FAVOURITES, Great apps and games for 2024, Stellar picks to kick off the new year	|OUR FAVOURITES, Great apps and games for 2024, Stellar picks to kick off the new year
+12	11	List	[442, 1252, 1918, 196]	[1401.0, 1350.0]		|Try These Mac Favourites
+22	12	Group	[442, 1252, 1918, 106]	[1401.0, 1305.0]		
+24	22	StaticText	[522, 1278, 468, 48]	[756.0, 1302.0]	Try These Mac Favourites	
+23	22	Button	[2170, 1286, 110, 38]	[2225.0, 1305.0]		See All
+13	12	Group	[442, 1358, 1918, 90]	[1401.0, 1403.0]		
+14	13	Group	[442, 1358, 1918, 90]	[1401.0, 1403.0]		|Try These Mac Favourites
+15	14	ScrollArea	[442, 1358, 1918, 90]	[1401.0, 1403.0]		
+16	15	List	[442, 1358, 1918, 90]	[1401.0, 1403.0]		|Try These Mac Favourites
+20	16	Button	[522, 1358, 858, 90]	[951.0, 1403.0]		Microsoft Word, Create, Edit & Share Documents, Re-download|Microsoft Word, Create, Edit & Share Documents, Re-download
+21	20	Button	[1244, 1358, 136, 90]	[1312.0, 1403.0]		Re-download|Re-download
+18	16	Button	[1420, 1358, 858, 90]	[1849.0, 1403.0]		Pixelmator Pro, Pro image editing for everyone, £49.99|Pixelmator Pro, Pro image editing for everyone, £49.99
+19	18	Button	[2142, 1358, 136, 90]	[2210.0, 1403.0]		£49.99|£49.99
+17	16	Button	[2318, 1358, 42, 90]	[2339.0, 1403.0]		Asphalt 9: Legends, Car Simulator: Drive & Drift, Get, In-App Purchases|Asphalt 9: Legends, Car Simulator: Drive & Drift, Get, In-App Purchases
+7	6	ScrollBar	[2328, 0, 32, 1448]	[2344.0, 724.0]	0.0	
+10	7	ValueIndicator	[2336, 2, 24, 144]	[2348.0, 74.0]	0.0	
+9	7	Button	[2336, 146, 24, 1300]	[2348.0, 796.0]		
+8	7	Button	[2336, 0, 24, 2]	[2348.0, 1.0]		
+4	3	Toolbar	[442, 0, 1918, 104]	[1401.0, 52.0]		
+5	4	StaticText	[1334, 32, 134, 38]	[1401.0, 51.0]	Discover	
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

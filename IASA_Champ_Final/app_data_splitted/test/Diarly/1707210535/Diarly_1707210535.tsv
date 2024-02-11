@@ -1,0 +1,7 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1120, 1360]	[560.0, 680.0]		Welcome
+3	1	ScrollArea	[0, 180, 1120, 786]	[560.0, 573.0]		
+6	3	StaticText	[66, 180, 698, 60]	[415.0, 210.0]	You’ve successfully set up Diarly  ✨	
+5	3	StaticText	[66, 276, 952, 84]	[542.0, 318.0]	Jump straight in and start journaling, or keep exploring available options.	
+4	3	Image	[246, 466, 624, 500]	[558.0, 716.0]		|End Light
+2	1	Button	[866, 1214, 188, 80]	[960.0, 1254.0]		Done

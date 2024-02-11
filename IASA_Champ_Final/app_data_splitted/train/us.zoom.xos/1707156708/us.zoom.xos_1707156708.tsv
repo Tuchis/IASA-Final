@@ -1,0 +1,26 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1760, 1320]	[880.0, 660.0]		Zoom
+25	1	Button	[1266, 2, 166, 100]	[1349.0, 52.0]	More	|
+24	1	Button	[768, 2, 166, 100]	[851.0, 52.0]	Home, selected	|1 of 9
+23	1	Button	[934, 2, 166, 100]	[1017.0, 52.0]	Meetings	|2 of 9
+22	1	Button	[1100, 2, 166, 100]	[1183.0, 52.0]	Team Chat	|3 of 9
+21	1	Button	[1528, 24, 56, 56]	[1556.0, 52.0]		|Help
+20	1	Button	[1600, 24, 56, 56]	[1628.0, 52.0]		|Open Activity Center, collapsed
+19	1	Button	[1672, 20, 64, 64]	[1704.0, 52.0]		|available on desktop
+18	1	Button	[168, 24, 56, 56]	[196.0, 52.0]		|Back in Chat(⌘ + left bracket)
+17	1	Button	[232, 24, 56, 56]	[260.0, 52.0]		|Forward in Chat(⌘ + right bracket)
+16	1	Button	[318, 24, 56, 56]	[346.0, 52.0]		|
+15	1	Button	[404, 24, 270, 56]	[539.0, 52.0]		|Search  ⌘F
+2	1	SplitGroup	[0, 106, 1760, 1214]	[880.0, 713.0]		
+14	2	Button	[1696, 130, 32, 32]	[1712.0, 146.0]		|Settings
+13	2	Button	[40, 256, 120, 120]	[100.0, 316.0]		|Start New Meeting
+12	2	Button	[40, 256, 120, 120]	[100.0, 316.0]		|Start New Meeting Options
+11	2	Button	[40, 256, 120, 120]	[100.0, 316.0]		|Join Meeting
+10	2	Button	[40, 256, 120, 120]	[100.0, 316.0]		|Schedule Meeting
+9	2	Button	[40, 256, 120, 120]	[100.0, 316.0]		|Share Screen
+8	2	Button	[1520, 288, 64, 64]	[1552.0, 320.0]		|Change background image
+6	2	Unknown	[980, 328, 560, 96]	[1260.0, 376.0]	19:11	|07:11 pm, Monday, February 05
+7	6	StaticText	[980, 328, 560, 96]	[1260.0, 376.0]	19:11	|07:11 pm, Monday, February 05
+5	2	StaticText	[980, 430, 560, 40]	[1260.0, 450.0]	Monday, 5 February 2024	
+3	2	Group	[920, 552, 680, 598]	[1260.0, 851.0]		
+4	3	Button	[1142, 830, 234, 42]	[1259.0, 851.0]		|Add a Calendar

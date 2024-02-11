@@ -1,0 +1,47 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2360, 1616]	[1180.0, 808.0]		folder
+15	1	Group	[0, 104, 2360, 1512]	[1180.0, 860.0]		
+46	15	StaticText	[712, 762, 134, 94]	[779.0, 809.0]	0%	
+45	15	StaticText	[514, 872, 530, 32]	[779.0, 888.0]	Click on the blue button to start the export.	
+44	15	StaticText	[1596, 144, 728, 52]	[1960.0, 170.0]	Export Content	
+43	15	StaticText	[1596, 204, 728, 32]	[1960.0, 220.0]	Export timelapse frames and videos	
+42	15	Button	[1588, 1508, 744, 80]	[1960.0, 1548.0]		Export Content
+16	15	ScrollArea	[1560, 278, 800, 1242]	[1960.0, 899.0]		
+41	16	StaticText	[1596, 380, 172, 38]	[1682.0, 399.0]	Filename	
+40	16	StaticText	[1596, 442, 172, 38]	[1682.0, 461.0]	Destination	
+39	16	TextField	[1788, 378, 530, 42]	[2053.0, 399.0]	folder	
+38	16	StaticText	[1784, 496, 538, 32]	[2053.0, 512.0]	No destination	
+37	16	StaticText	[1596, 1044, 172, 38]	[1682.0, 1063.0]	Author	
+36	16	StaticText	[1596, 1128, 172, 38]	[1682.0, 1147.0]	Title	
+35	16	StaticText	[1596, 1212, 172, 38]	[1682.0, 1231.0]	Description	
+34	16	TextField	[1788, 1042, 530, 64]	[2053.0, 1074.0]		
+33	16	TextField	[1788, 1126, 530, 64]	[2053.0, 1158.0]		
+32	16	TextField	[1788, 1210, 530, 96]	[2053.0, 1258.0]		
+31	16	StaticText	[1596, 318, 172, 38]	[1682.0, 337.0]	Contents	
+30	16	PopUpButton	[1782, 314, 544, 50]	[2054.0, 339.0]	Video	
+29	16	Button	[1774, 430, 558, 64]	[2053.0, 462.0]		Choose Destination
+28	16	StaticText	[1596, 612, 172, 38]	[1682.0, 631.0]	Format	
+27	16	StaticText	[1596, 674, 172, 38]	[1682.0, 693.0]	Codec	
+26	16	PopUpButton	[1782, 672, 544, 50]	[2054.0, 697.0]	HEVC	
+25	16	PopUpButton	[1782, 610, 544, 50]	[2054.0, 635.0]	MOV	
+24	16	PopUpButton	[1782, 796, 544, 50]	[2054.0, 821.0]	Black	
+23	16	StaticText	[1596, 798, 172, 38]	[1682.0, 817.0]	Background	
+22	16	PopUpButton	[1782, 858, 544, 50]	[2054.0, 883.0]	Fill	
+21	16	StaticText	[1596, 860, 172, 38]	[1682.0, 879.0]	Aspect	
+20	16	PopUpButton	[1782, 920, 544, 50]	[2054.0, 945.0]	Keep the Original Resolution	
+19	16	StaticText	[1596, 922, 172, 38]	[1682.0, 941.0]	Resolution	
+18	16	ScrollBar	[1560, 1488, 800, 32]	[1960.0, 1504.0]	0.0	
+17	16	ScrollBar	[2328, 278, 32, 1242]	[2344.0, 899.0]	0.0	
+2	1	Toolbar	[0, 0, 2360, 104]	[1180.0, 52.0]		
+14	2	Button	[174, 0, 152, 104]	[250.0, 52.0]		|chevron.backward
+6	2	Group	[662, 0, 1036, 104]	[1180.0, 52.0]		
+7	6	RadioGroup	[658, 12, 1044, 80]	[1180.0, 52.0]	<AXUIElement 0x60000232a640> {pid=42841}	
+13	7	RadioButton	[658, 12, 174, 80]	[745.0, 52.0]	0	|Frames
+12	7	RadioButton	[832, 12, 174, 80]	[919.0, 52.0]	0	|Transforms
+11	7	RadioButton	[1006, 12, 174, 80]	[1093.0, 52.0]	0	|Adjustments
+10	7	RadioButton	[1180, 12, 174, 80]	[1267.0, 52.0]	0	|Blending
+9	7	RadioButton	[1354, 12, 174, 80]	[1441.0, 52.0]	0	|Speed
+8	7	RadioButton	[1528, 12, 174, 80]	[1615.0, 52.0]	1	|Export
+5	2	Button	[2196, 0, 72, 104]	[2232.0, 52.0]		|doc.badge.gearshape
+3	2	MenuButton	[2268, 0, 76, 104]	[2306.0, 52.0]		|questionmark.circle
+4	3	MenuButton	[2264, 12, 84, 80]	[2306.0, 52.0]		|questionmark.circle

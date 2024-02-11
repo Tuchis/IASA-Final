@@ -1,0 +1,9 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1128, 1320]	[564.0, 660.0]		Onboarding
+6	1	Image	[80, 80, 192, 192]	[176.0, 176.0]		|AppIcon without shadow
+5	1	StaticText	[76, 320, 976, 86]	[564.0, 363.0]	Welcome to Timing.	
+4	1	StaticText	[76, 454, 976, 42]	[564.0, 475.0]	The intelligent automatic time tracking app.	
+3	1	StaticText	[76, 576, 976, 190]	[564.0, 671.0]	"Timing is very powerful. Even the basics we are about to teach you should already help you get a more detailed picture of your time than with any other time tracking tool.
+
+We are all about saving you time, so we'll keep this short."	
+2	1	Button	[978, 1212, 122, 80]	[1039.0, 1252.0]		Next

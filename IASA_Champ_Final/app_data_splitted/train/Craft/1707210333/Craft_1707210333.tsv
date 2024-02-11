@@ -1,0 +1,45 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		My Templates
+4	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+5	4	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+35	5	Group	[588, 104, 1444, 1416]	[1310.0, 812.0]		
+44	35	StaticText	[636, 168, 1074, 44]	[1173.0, 190.0]		|My Templates
+43	35	StaticText	[724, 290, 320, 32]	[884.0, 306.0]		|New Document
+42	35	StaticText	[1186, 290, 320, 32]	[1346.0, 306.0]		|New Folder
+41	35	StaticText	[1650, 290, 320, 32]	[1810.0, 306.0]		|Templates
+40	35	StaticText	[724, 322, 320, 28]	[884.0, 336.0]		|Start writing on a blank page
+39	35	StaticText	[1186, 322, 320, 28]	[1346.0, 336.0]		|Quickly organize your notes
+38	35	StaticText	[1650, 322, 320, 28]	[1810.0, 336.0]		|Browse & Pick a template
+37	35	StaticText	[660, 444, 1300, 40]	[1310.0, 464.0]		|Documents added to this folder can be used as templates when creating a new document or page
+36	35	StaticText	[1186, 796, 248, 32]	[1310.0, 812.0]		|This Folder is Empty
+34	5	StaticText	[138, 156, 252, 32]	[264.0, 172.0]		|Yelyzaveta Boiarchuk
+33	5	StaticText	[156, 160, 226, 32]	[269.0, 176.0]		|Yelyzaveta’s Space
+32	5	StaticText	[138, 188, 240, 24]	[258.0, 200.0]		|boiarchuk@macpaw.com
+31	5	StaticText	[48, 272, 472, 48]	[284.0, 296.0]		|Teams
+30	5	StaticText	[140, 336, 222, 64]	[251.0, 368.0]		|Yelyzaveta’s Team
+29	5	StaticText	[170, 400, 232, 64]	[286.0, 432.0]		|Yelyzaveta’s Space
+28	5	StaticText	[170, 464, 138, 64]	[239.0, 496.0]		|New Space
+27	5	StaticText	[104, 528, 128, 64]	[168.0, 560.0]		|New Team
+26	5	StaticText	[128, 326, 372, 64]	[314.0, 358.0]		|Home
+25	5	StaticText	[128, 390, 372, 64]	[314.0, 422.0]		|Starred
+24	5	StaticText	[128, 454, 372, 64]	[314.0, 486.0]		|Unsorted
+23	5	StaticText	[128, 518, 372, 64]	[314.0, 550.0]		|My Templates
+22	5	StaticText	[128, 582, 372, 64]	[314.0, 614.0]		|Shared Content
+21	5	StaticText	[72, 670, 448, 40]	[296.0, 690.0]		|Folders
+20	5	StaticText	[144, 726, 332, 64]	[310.0, 758.0]		|English
+19	5	StaticText	[492, 726, 18, 64]	[501.0, 758.0]		|1
+18	5	StaticText	[88, 790, 48, 64]	[112.0, 822.0]		|📚️
+17	5	StaticText	[144, 790, 332, 64]	[310.0, 822.0]		|Learning
+16	5	StaticText	[492, 790, 18, 64]	[501.0, 822.0]		|1
+15	5	StaticText	[88, 854, 48, 64]	[112.0, 886.0]		|👀
+14	5	StaticText	[144, 854, 332, 64]	[310.0, 886.0]		|Personal
+13	5	StaticText	[492, 854, 18, 64]	[501.0, 886.0]		|2
+12	5	StaticText	[88, 918, 48, 64]	[112.0, 950.0]		|✍️
+11	5	StaticText	[144, 918, 332, 64]	[310.0, 950.0]		|Projects
+10	5	StaticText	[492, 918, 18, 64]	[501.0, 950.0]		|1
+9	5	StaticText	[88, 982, 48, 64]	[112.0, 1014.0]		|👋
+8	5	StaticText	[144, 982, 332, 64]	[310.0, 1014.0]		|How to use Craft
+7	5	StaticText	[492, 982, 18, 64]	[501.0, 1014.0]		|3
+6	5	StaticText	[128, 1086, 372, 64]	[314.0, 1118.0]		|Recently Deleted
+3	1	Toolbar	[0, 0, 2048, 104]	[1024.0, 52.0]		
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

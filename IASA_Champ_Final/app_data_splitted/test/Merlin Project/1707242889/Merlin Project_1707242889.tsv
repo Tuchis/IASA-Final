@@ -1,0 +1,19 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1860, 1208]	[930.0, 604.0]		Get Started
+18	1	StaticText	[368, 116, 1124, 90]	[930.0, 161.0]	Welcome to Merlin Project Express	
+17	1	Image	[40, 26, 340, 340]	[210.0, 196.0]		|application icon
+16	1	StaticText	[580, 210, 700, 48]	[930.0, 234.0]	Project management with a bit of magic	
+15	1	Button	[720, 1132, 420, 62]	[930.0, 1163.0]		Continue
+14	1	Image	[160, 418, 96, 96]	[208.0, 466.0]		|
+13	1	StaticText	[312, 472, 1192, 34]	[908.0, 489.0]	Create the flow of your tasks, determine duration and dependencies, and define milestones.	
+12	1	StaticText	[312, 426, 490, 38]	[557.0, 445.0]	Work Breakdown & Gantt Chart	
+11	1	Image	[160, 586, 96, 96]	[208.0, 634.0]		|
+10	1	StaticText	[312, 624, 1392, 68]	[1008.0, 658.0]	Create your team and assign them to your tasks. Optionally, calculate labor costs per activity, phase, or entire project.	
+9	1	StaticText	[312, 578, 412, 38]	[518.0, 597.0]	Resources & Assignments	
+8	1	Image	[160, 756, 96, 96]	[208.0, 804.0]		|
+7	1	StaticText	[312, 810, 1182, 34]	[903.0, 827.0]	Attach any number of files and documents of any kind to tasks or resources in your project.	
+6	1	StaticText	[312, 764, 208, 38]	[416.0, 783.0]	Attachments	
+5	1	Image	[160, 916, 96, 96]	[208.0, 964.0]		|
+4	1	StaticText	[312, 970, 884, 34]	[754.0, 987.0]	Mark activities and design them as you like - individually or by rules.	
+3	1	StaticText	[312, 924, 116, 38]	[370.0, 943.0]	Styling	
+2	1	StaticText	[850, 10, 158, 32]	[929.0, 26.0]	Get Started	

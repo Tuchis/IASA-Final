@@ -1,0 +1,15 @@
+ The UI is divided into 3 parts. Left, middle and right.
+
+Left:
+- Logo of the app
+- Search bar
+- 3 example characters with their description
+
+Middle:
+- Title of the window: "AI Characters"
+- 4 tabs: "Your Characters", "Personal Characters", "Specialized Assistants" and "Language"
+- Search bar
+- List of characters with their description and an "Add" button
+
+Right:
+- Close button

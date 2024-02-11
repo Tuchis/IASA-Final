@@ -1,0 +1,6 @@
+ The UI of the app consists of:
+- A menu bar with the app name "Studies" on the left and a close button on the right
+- A navigation bar with a back button, a forward button, a refresh button, and a search bar
+- A main view that is a scrollable list of study schedules. Each schedule has a title, a date, and a time.
+- A note-taking section on the right that is initially hidden. It consists of a text editor and a save button.
+- A control bar at the bottom with a play button, a pause button, a stop button, and a volume control.

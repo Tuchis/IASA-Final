@@ -1,0 +1,32 @@
+ The UI of the app consists of the following elements:
+
+- A photo of a dog lying on the grass.
+- A set of buttons and sliders on the right side of the photo.
+- A set of buttons on the top of the photo.
+- A set of buttons on the bottom of the photo.
+
+The buttons and sliders on the right side of the photo are:
+
+- A slider that says "Fit" and has a value of "103%".
+- A slider that says "1:1" and has a value of "1:1".
+- A button that says "Object Removal".
+- A button that says "Quick Repair".
+- A button that says "Line Removal".
+- A button that says "Clone Stamp".
+- A button that says "Tone & Color".
+- A button that says "Crop".
+- A button that says "Compare".
+- A button that says "Undo".
+- A button that says "Redo".
+- A button that says "History".
+- A button that says "Export".
+
+The buttons on the top of the photo are:
+
+- A button that says "Open".
+
+The buttons on the bottom of the photo are:
+
+- A button that says "Save".
+- A button that says "Share".
+- A button that says "Print".

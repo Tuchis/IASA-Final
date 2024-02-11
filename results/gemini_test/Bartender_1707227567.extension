@@ -1,0 +1,11 @@
+ The UI is divided into two parts. The left part has a sidebar with 7  items:
+* General
+* Menu Bar Items
+* Menu Bar Style
+* Presets
+* Triggers
+* Hotkeys
+* Advanced
+* About
+
+The right part has a title "Presets" and a description text "Create presets that can be applied to change your menu bar item layout". It also has a large "+" button in the center. Below that, there are two buttons on the right: "Delete Preset" and "Add Preset". At the very bottom, there is a "Settings" button and an "Apply" button.

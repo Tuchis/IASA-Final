@@ -1,0 +1,10 @@
+ The UI interface of the app has the following elements:
+- A header with the text "Set it and forget it."
+- A body with the text "Timing sits in the background, automatically tracking what you do across documents, apps and websites."
+- A list of three checkboxes:
+  - Automatically start background tracking at login
+  - Automatically ask to record time when a video call ends (Requires your permission to send notifications)
+  - Automatically ask what I did whenever I return to my Mac
+- A screenshot of a Mac desktop with the Timing app open. The screenshot shows the app tracking time spent in various applications.
+- A navigation bar with a "Back" button on the left and a "Next" button on the right.
+- A page indicator with three dots, indicating that this is the third page of a multi-page onboarding process.

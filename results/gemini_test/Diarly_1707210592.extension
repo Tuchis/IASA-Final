@@ -1,0 +1,6 @@
+ The UI of the app consists of:
+- A navigation bar at the top with a back button, a title "Tue, 6 February", and a search icon.
+- A segmented control below the navigation bar with three options: "Journal", "Calendar", and "Map".
+- A text field below the segmented control that says "Search".
+- A list of items below the text field. Each item consists of a date, a title, and a short description.
+- A button at the bottom of the screen that says "New Entry".

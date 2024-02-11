@@ -1,0 +1,5 @@
+ The UI of the app consists of the following elements:
+- A text field at the top of the screen that displays the text that the user is currently typing.
+- A keyboard that takes up the majority of the screen. The keyboard has all of the standard keys, as well as some additional keys that are specific to the app.
+- A status bar at the bottom of the screen that displays information about the current typing speed, accuracy, and number of typos.
+- A settings button in the top right corner of the screen that allows the user to change the settings of the app.

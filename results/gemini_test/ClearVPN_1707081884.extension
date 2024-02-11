@@ -1,0 +1,15 @@
+ The UI of the app has a window with a dark translucent background. The window is split into two parts. Left part is a sidebar that has 5 menu items:
+- Account
+- Your devices
+- System settings
+- Shortcuts
+- Stand with Ukraine
+
+The right part is the content area. For the "Account" menu item the content area has the following elements:
+- A label "App language"
+- A dropdown with the currently selected language "English" and a link "How to change app language on Mac" below it.
+- A label "ClearVPN's newsletter"
+- A checkbox "Don't miss updates, tips & special offers" with a toggle on the right
+- A button "Need help?" in the bottom right corner.
+
+In the bottom left corner of the window there is a section with a laptop and a mobile phone icon and a text saying "Are you sure all your devices are protected? 7 of 8 slots remaining"

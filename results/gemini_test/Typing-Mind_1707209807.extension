@@ -1,0 +1,16 @@
+ The UI of the app consists of the following elements:
+
+- A header with the app's logo, a search bar, and a user icon.
+- A navigation bar with the following items:
+ - A button to create a new chat.
+ - A button to open the user's profile.
+ - A button to open the app's settings.
+- A sidebar with the following items:
+ - A list of the user's recent chats.
+ - A list of the user's favorite chats.
+ - A list of the user's blocked chats.
+- A main area where the user can view and interact with their chats.
+- A footer with the following items:
+ - A text field where the user can enter a message.
+ - A button to send the message.
+ - A button to attach a file to the message.

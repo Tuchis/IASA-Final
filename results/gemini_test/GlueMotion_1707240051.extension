@@ -1,0 +1,21 @@
+ The UI is divided into 3 parts. Left, Center and Right.
+Left: There is a back button with an arrow pointing left and text saying 'Go Back'. Below that there is a vertical menu with 6 items:
+- Frames
+- Transforms
+- Adjustments
+- Blending
+- Speed
+- Export
+
+Center: The central part is the preview of the image being edited. It has a play button, a pause button and a progress bar underneath it. At the bottom right of the preview, there is a '1/2' text indicating that this is the second of two images being edited.
+Right: The right part has a panel with a title 'Adjust Colors' and a subtitle 'Adjust colors using keyframes'. Below that there is a list of 9 color adjustment options, each with a slider next to it. The options are:
+- White Balance
+- Motion
+- Noise Reduction
+- Color Controls
+- Light Correction
+- Exposure Correction
+- Gamma Correction
+- Hue Correction
+- Sepia Tone
+At the bottom of the panel, there is a button that says 'Continue'.

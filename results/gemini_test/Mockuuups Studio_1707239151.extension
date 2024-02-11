@@ -1,0 +1,21 @@
+ The UI of the app consists of the following elements:
+
+1. A header with the following elements:
+    - A logo of the app.
+    - A search bar.
+    - A button to open the editor.
+    - A button to create a new mockup.
+    - A button to sign in.
+    - A button to sign up.
+2. A sidebar with the following elements:
+    - A list of all mockups.
+    - A list of customizable mockups.
+    - A list of favorite mockups.
+    - A list of personal mockups.
+3. A main area where the mockups are displayed.
+4. A footer with the following elements:
+    - A link to the home page.
+    - A link to the about page.
+    - A link to the contact page.
+5. A button to go back to the previous page.
+6. A button to go to the next page.

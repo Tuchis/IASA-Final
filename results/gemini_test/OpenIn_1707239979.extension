@@ -1,0 +1,3 @@
+ The UI is divided into two parts. Left part has a navigation bar on the top with "OpenIn Settings" title and 7 buttons: "General", "Browsers", "Mail apps", "Call apps", "Files", "Backups" and "About". Below the navigation bar there is a sidebar with 2 groups: "Groups" and "File types". "Groups" has a button "Add group..." and "File types" has a button "Add file type...". 
+
+Right part has a title "Select file handlers from the sidebar or create a new one" and two buttons below it: "Add group..." and "Add file type...".

@@ -1,0 +1,8 @@
+ The UI of the app consists of:
+1. A navigation bar with a back button, a title "All Items", a search bar and an "Edit" button.
+2. A sidebar with 5 items: Overview, Bills, Income, Reports and Archive.
+3. A main view which shows a list of items. Each item has a name, an amount, a due date and a status. There is also a button "Log payment" and a button "Skip".
+4. A button "View payment history" at the bottom of the main view.
+5. A button "View statistics" at the bottom of the main view.
+6. A button "Click to add notes" at the bottom of the main view.
+7. An "Archive" button at the bottom right corner of the main view.

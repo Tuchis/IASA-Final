@@ -1,0 +1,4 @@
+ The UI of the app is divided into 3 sections. 
+Top section has 3 buttons - English, Layout and QWERTY.
+Middle section has 7 buttons - Lesson 1 to Lesson 6 and Expert. Each button has 5 stars below it.
+Bottom section has a graph and a text field that says "Results for recent activities".

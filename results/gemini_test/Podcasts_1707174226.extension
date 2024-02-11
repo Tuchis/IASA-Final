@@ -1,0 +1,5 @@
+ The UI of the app consists of:
+1. A search bar at the top with a magnifying glass icon on the left and a cross icon on the right.
+2. Below the search bar, there are 5 tabs: All Podcasts, Your Library, Browse, Charts and Recently Updated.
+3. Below the tabs, there is a scrollable list of podcasts. Each podcast has a thumbnail, a title, a subtitle, and an episode count.
+4. At the bottom of the screen, there is a player bar with a play/pause button, a skip forward button, a skip back button, and a volume slider.

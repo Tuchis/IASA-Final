@@ -1,0 +1,25 @@
+ The UI of the app includes the following elements:
+
+- A table with the following columns: Date, Conta, Categ, Tags, Note, Tax in UAH, Net in UAH, Amount in UAH, Tax 20%, Tax 7%
+- A search bar at the top right corner
+- A button "Attach documents" at the bottom left corner
+- A button "Formatted" at the bottom right corner
+- A button "Save as PDF..." at the bottom right corner
+- A button "..." at the bottom right corner
+- A checkbox "Show sums" in the Options section
+- A checkbox "Show + signs" in the Options section
+- A checkbox "Landscape" in the Options section
+- A checkbox "Reference" in the Columns section
+- A checkbox "Date" in the Columns section
+- A checkbox "Paid" in the Columns section
+- A checkbox "Category" in the Columns section
+- A checkbox "Tags" in the Columns section
+- A checkbox "Title" in the Columns section
+- A checkbox "Note" in the Columns section
+- A checkbox "Export File Name" in the Columns section
+- A checkbox "Currency" in the Columns section
+- A checkbox "Tax in UAH" in the Columns section
+- A checkbox "Net in UAH" in the Columns section
+- A checkbox "Amount in UAH" in the Columns section
+- A button "Cancel" at the bottom left corner
+- A button "Print..." at the bottom right corner

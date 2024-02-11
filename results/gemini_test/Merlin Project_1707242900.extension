@@ -1,0 +1,28 @@
+ The UI of the app consists of the following elements:
+
+- A menu bar with the following items:
+    - Merlin Project Express
+    - File
+    - Edit
+    - View
+    - Insert
+    - Format
+    - Tools
+    - Window
+    - Help
+- A toolbar with the following buttons:
+    - New Document
+    - Open Document
+    - Save Document
+    - Print Document
+    - Cut
+    - Copy
+    - Paste
+    - Undo
+    - Redo
+- A sidebar with the following sections:
+    - Recent Documents
+    - Help & Instructions
+    - Templates
+- A main area that displays the current document.
+- A status bar that displays information about the current document.

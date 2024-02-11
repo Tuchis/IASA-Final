@@ -1,0 +1,21 @@
+ The UI of the app has a sidebar on the left and a main view on the right.
+
+The sidebar has a header with the app logo and a close button. Below the header, there is a list of items. The items are:
+- Smart filters
+- Unread items
+- Favorites
+- Subscriptions
+- Blog
+- Machine Learning
+- Machine Learning (The...
+- Machine Learning: natu...
+- Machine Learning Blog
+- Machine Learning Times
+- Machine Learning Tech...
+- MachineLearningMaster...
+
+The main view has a header with the title of the current page, a search bar, and a star button. Below the header, there is a breadcrumb navigation bar. The navigation bar shows the path to the current page. The current page is "Machine Learning Blog / Federated Hyperparameter Tuning".
+
+Below the navigation bar, there is the content of the page. The content is a blog post. The blog post has a title, a date, and a body. The title of the blog post is "On Noisy Evaluation in Federated Hyperparameter Tuning". The date of the blog post is "Friday, 29 December 2023, 18:04". The body of the blog post is a long text that discusses noisy evaluation in federated hyperparameter tuning.
+
+At the bottom of the page, there is a footer. The footer has a copyright notice and a link to the privacy policy.

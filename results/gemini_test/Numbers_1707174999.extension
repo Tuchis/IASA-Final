@@ -1,0 +1,7 @@
+ The UI interface of the app has a clean and modern design. The main screen is divided into three sections: the header, the body, and the footer.
+
+The header contains the app's logo, the title of the current page, and a search bar. The body contains the main content of the page, which in this case is a list of books. The footer contains the app's navigation bar, which provides access to the different sections of the app.
+
+The list of books is divided into two columns. The first column contains the book's title, author, and publication date. The second column contains a button that allows the user to add the book to their reading list.
+
+The app's navigation bar contains five buttons. The first button, which is located in the far left corner, is the home button. The second button, which is located next to the home button, is the explore button. The third button, which is located in the middle of the navigation bar, is the search button. The fourth button, which is located next to the search button, is the library button. The fifth button, which is located in the far right corner, is the profile button.

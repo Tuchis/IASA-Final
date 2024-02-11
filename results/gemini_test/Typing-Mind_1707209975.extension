@@ -1,0 +1,5 @@
+ On the left side of the UI, there is a vertical navigation bar. It has a "New Chat" button at the top, followed by a search bar. Below the search bar, there is a list of chat options. Each chat option has a profile picture, a name, and a message preview.
+
+On the right side of the UI, there is a chat window. The chat window has a text input field at the bottom. Above the text input field, there is a list of messages. Each message has a profile picture, a name, and a timestamp.
+
+At the top of the UI, there is a menu bar. The menu bar has a "File" menu, an "Edit" menu, a "View" menu, and a "Help" menu.

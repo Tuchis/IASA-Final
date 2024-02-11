@@ -2,7 +2,7 @@ import os
 from gpt4v import gpt4v_response
 
 file_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/IASA_Champ_Final/app_data_splitted/test"
-result_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/gpt4_test"
+result_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gpt4_test"
 
 prompt = "You have a photo of UI interface of an app. Describe every element of UI. Include all buttons and text fields. Do not talk about color, style etc"
 max_tokens = 800

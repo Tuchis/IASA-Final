@@ -1,0 +1,13 @@
+ The UI is divided into two main sections. The left section has a sidebar with three items: "All Icons", "Starred", and "Your Icon Sets". The right section is where the icons are displayed.
+
+The "All Icons" section has a search bar at the top and a list of icon sets below. The icon sets are organized into categories, such as "Material Design Icons", "Font Awesome", and "Custom Icons".
+
+The "Starred" section shows the icon sets that have been starred by the user.
+
+The "Your Icon Sets" section shows the icon sets that have been created by the user.
+
+The right section of the UI is where the icons are displayed. The icons are displayed in a grid format, and the user can scroll through the icons to see them all.
+
+At the bottom of the right section, there is a slider that can be used to adjust the size of the icons.
+
+There is a button at the top right corner that says "Export .iconJar".

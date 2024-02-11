@@ -1,0 +1,8 @@
+ The UI interface of the app has a title "Accessibility API Access". Below the title, there is a message explaining why the app needs permission to use the Mac's Accessibility system. It also provides three steps to activate it.
+
+The three steps are:
+1. Open System Preferences and go to Security & Privacy.
+2. Click the Privacy tab and select Accessibility from the list.
+3. Click the lock icon to make changes and check the box next to Timemator.
+
+Below the steps, there are two buttons: "Back" and "Open System Preferences".

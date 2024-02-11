@@ -1,0 +1,5 @@
+ The UI of the app has a dark theme. There is a logo of the app on the left corner. It is an icon of Merlin the wizard. The text "Welcome to Merlin Project Express" is centered at the top of the window. There is a subtitle below it saying "Project management with a bit of magic". 
+
+Below that, there are 5 cards each representing a feature of the app. The first card has an icon of a clipboard with a checkmark. It says "Work Breakdown & Gantt Chart". The second card has an icon of a group of people. It says "Resources & Assignments". The third card has an icon of a paperclip. It says "Attachments". The fourth card has an icon of a paintbrush. It says "Styling".
+
+At the bottom center of the window, there is a blue button that says "Continue".

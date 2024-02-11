@@ -1,0 +1,7 @@
+ The UI of the app is divided into 3 parts. Left side is the navigation pane, center is the content area and right side is the setting pane.
+
+In the navigation pane, there is a search bar on the top. Below that there are 5 buttons: All Notes, Recent, Stacks, Library and Trash.
+
+In the content area, there is a title bar on the top. Below that, there is a note taking area. In the note taking area, there is a text field where you can type your notes. There is a "New Note" button on the top-left corner of the note taking area.
+
+In the setting pane, there are 6 sections. The first section is "New Note Template". In this section, you can select a template for your new note. The second section is "Limit on Due Notes". In this section, you can set a limit on the number of due notes. The third section is "Facet Display Time". In this section, you can set the time for how long a facet will be displayed. The fourth section is "Study Schedule". In this section, you can set a study schedule for your notes. The fifth section is "Include in sync". In this section, you can choose whether to include the note in sync or not. The sixth section is the "Save" button.

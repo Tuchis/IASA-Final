@@ -1,0 +1,10 @@
+ The UI of the app has the following elements:
+
+- A search bar at the top with a magnifying glass icon on the left and a cross icon on the right.
+- Left sidebar with 6 sections: My Explorer, Favorites, On This Mac, Collections, How-tos and App Guides.
+- A breadcrumb trail at the top of the main content area, showing the user's current location in the app.
+- A large preview image of the selected app in the main content area.
+- A set of buttons below the preview image that allow the user to open the app, view its details, or share it.
+- A list of other apps in the main content area, below the preview image and the buttons.
+- A progress bar at the bottom of the window that shows the status of the current operation.
+- A gear icon in the bottom-right corner that opens the app's settings.

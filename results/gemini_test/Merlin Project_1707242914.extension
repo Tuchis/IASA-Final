@@ -1,0 +1,11 @@
+ The UI of the app is divided into 3 parts. Left side is a vertical pane that shows a tree view of the project tasks. Middle part is where you can see the details of the selected task. Right side is a vertical pane that shows general information about the project and allows to change some settings.
+
+In the middle pane, there is a text field at the top that shows the name of the selected task. Below that, there is a text field that shows the description of the selected task. Below that, there is a button that says "Add subtask". Below that, there is a list of all the subtasks of the selected task. Each subtask has a checkbox next to it that can be used to mark the subtask as complete.
+
+In the right pane, there is a section called "Date presets". In this section, there are two dropdowns. The first dropdown is labeled "Direction". The second dropdown is labeled "Start". Below the "Start" dropdown, there is a text field that shows the start date of the project. Below the text field, there is a button that says "Set date".
+
+Below the "Date presets" section, there is a section called "Work & Duration". In this section, there are two text fields. The first text field is labeled "Hours per day". The second text field is labeled "Days per week". Below the text fields, there is a button that says "Calculate".
+
+Below the "Work & Duration" section, there is a section called "Default Values". In this section, there is a checkbox that says "1 day?". Below the checkbox, there is a text field that shows the default duration for tasks. Below the text field, there is a button that says "Set".
+
+Below the "Default Values" section, there is a section called "Status". In this section, there is a text field that shows the status of the project. Below the text field, there is a button that says "Update".

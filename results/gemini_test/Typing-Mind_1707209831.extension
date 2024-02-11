@@ -1,0 +1,15 @@
+ The UI is divided into 3 parts. Left, middle and right.
+
+Left:
+- Logo of the app
+- Search bar
+- 3 example characters with their description
+
+Middle:
+- Title of the modal
+- 5 tabs: Your Characters, Personal Characters, Specialized Assistants, Language
+- Search bar
+- Button "Create Character"
+
+Right:
+- Close button

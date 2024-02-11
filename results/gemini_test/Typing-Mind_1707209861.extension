@@ -1,0 +1,18 @@
+ The UI is divided into 2 parts. Left side is for the list of chatbots and the right side is for the setting of the selected chatbot. 
+
+Left side:
+- Search bar
+- A list of chatbots
+
+Right side:
+- Welcome message
+- A text field to type in the first message that the chatbot will send to the user
+- A button to add conversation starters
+- A list of conversation starters
+- A button to add training examples
+- A list of training examples
+- A dropdown to select the model for the chatbot
+- A checkbox to enforce the selected model
+- A checkbox to enable/disable the text-to-speech for the chatbot
+- A button to save the changes
+- A button to close the window

@@ -1,0 +1,6 @@
+ The UI of the app includes a list of reminders. 
+- At the top, there is a back button, a title "Reminders", and a "+" button to add a new reminder. 
+- Below that, there is a list of 12 completed reminders with a "Clear" button at the top right corner of the list.
+- Each reminder includes a checkbox, a title, and a date and time. 
+- There is also an "i" button on the right side of each reminder, which I assume will show more information about the reminder when clicked. 
+- At the bottom of the screen, there is a text field where you can add a new reminder, and a button to add a date, location, or hashtag to the reminder.

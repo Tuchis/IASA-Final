@@ -1,0 +1,10 @@
+ The UI of the app has the following elements:
+1. A header with the text "Track your time like a pro"
+2. A paragraph of text that reads "Look out for the free email course over the next few days where you will learn how to save even more time with Timing."
+3. An image of an envelope
+4. A text field where the user can enter their email address
+5. A checkbox with the text "When you sign up, we need to store your email address, but we will never spam you."
+6. A "Learn More" link
+7. A "Back" button
+8. A "Send Me The Course" button
+9. A progress indicator with three dots

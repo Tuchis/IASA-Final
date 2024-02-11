@@ -1,0 +1,11 @@
+ The UI is divided into 2 parts. Left part has a sidebar with 7 items: General, Browsers, Mail apps, Call apps, Files, Backups and About. The right part has content that changes based on the selection in the sidebar.
+
+The "Browsers" section is selected in the sidebar. So the right part shows the settings related to browsers. 
+
+There is a search bar on the top-right corner of the window. Below that there is a section for "HTTPS:// scheme handler". It has a toggle button that is enabled and a message saying "OpenIn is not set as default application for https:// URLs". There is a button that says "Fix it".
+
+Below that there is a section for "Applications". It has a list of 5 applications: Firefox (Private), Firefox, Google Chrome, Safari and Safari (Private). There are 2 buttons below the list. One says "Remove all applications" and the other says "Add application...".
+
+Below that there is a section for "Rules". It has a list of 1 rule: "Default". There are 2 buttons below the list. One says "Remove all rules" and the other says "Add rule...".
+
+The last section is for "Shortened URLs". It has a toggle button that is enabled and a label saying "Resolve shortened URLs".

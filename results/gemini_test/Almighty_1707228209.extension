@@ -1,0 +1,20 @@
+ The UI is divided into two parts. The left part has a sidebar with a list of items. The right part has a preview of the selected item.
+
+The sidebar has the following items:
+- All
+- New
+- Popular
+- Random
+- Apps
+- Desktop
+- Display
+- Dock
+- Effect
+- Finder
+- Keyboard
+- Mouse
+- Photos
+
+The preview area shows a preview of the selected item. For example, if the user selects the "Desktop" item, the preview area will show a preview of the desktop.
+
+The preview area also has a search bar at the top. The user can use the search bar to search for specific items.

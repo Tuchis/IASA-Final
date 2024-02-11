@@ -1,0 +1,9 @@
+ The UI of the app consists of a sidebar on the left and a main content area on the right.
+
+The sidebar contains 4  buttons:
+- General
+- Workflows
+- Shortcuts
+- License
+
+The main content area is a list of items. Each item has a star icon, a title, and a description. The title of the first item is "Favorite".

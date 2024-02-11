@@ -1,0 +1,29 @@
+ The UI of the app is divided into 3 main sections:
+
+**Header:**
+- Logo of the app: "Apple Books"
+- Search bar
+- Profile icon
+
+**Navigation:**
+- "Book Store" button
+- "Audiobooks" button
+- "Library" button
+
+**Main Content:**
+consists of 4 sections:
+
+1. **Great Prices**: 
+Contains a heading "Get must-read books by best-selling writers for under £2." and a "Limited-Time Offers" banner with 4 book covers.
+
+
+2. **Discover the excellent new reads February has in store**: 
+Contains a heading with the same text and a green banner with a book cover, title, author and a green "Books" button.
+
+
+3. **New & Trending**: 
+Contains a heading with the same text, a "See All" button and a horizontal scroll of book covers with titles and authors.
+
+
+4. **My Collections**:
+Contains a heading with the same text and a green "+ New Collection" button.

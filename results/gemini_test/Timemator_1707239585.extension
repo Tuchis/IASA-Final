@@ -1,0 +1,3 @@
+ The UI is divided into two parts. Left part contains 4 buttons in a vertical orientation. The buttons are: Tracking, Timeline, Reports and a "+" button. Below these buttons, there is a timer. The timer has a label "00:00:00" and a button next to it that reads "Start timer". Below the timer, there is a sentence that reads "to create the first task or import your existing data". Below this sentence, there is a button that reads "Import data as CSV...".
+
+The right part of the UI has a title "Time Entries" and a subtitle "last 30 days". Below this, there is a message that reads "No time entries found". Below this message, there is a button that reads "Add a time entry or start the timer".

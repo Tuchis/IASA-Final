@@ -1,0 +1,15 @@
+ The UI of the app is divided into two parts. The left part has a navigation bar with 7 buttons: General, Browsers, Mail apps, Call apps, Files, Backups and About. The right part is the content area. It shows the settings for the selected section in the navigation bar.
+
+The General section has 4 subsections: Build, Configuration, Notifications and History.
+
+The Build subsection shows the version of the app and the build number. It also has a button to check for updates.
+
+The Configuration subsection has 3 options: Start at login, Show menu bar icon and Check that OpenIn is a default app in background.
+
+The Notifications subsection has one option: Check that OpenIn is a default app in background.
+
+The History subsection has two options: Store history of opened links and files and a button to clear the history.
+
+The App selection window subsection has 3 options: Always show the Window (even with one app) and  Icon Size with 3 radio buttons: Small, Medium and Large.
+
+The Developer Mode section has one option: Enable Developer Mode.

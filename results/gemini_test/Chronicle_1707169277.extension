@@ -1,0 +1,12 @@
+ The UI of the app consists of the following elements:
+
+- A navigation bar with a back button, a title, and a search field.
+- A segmented control with two segments: "Overview" and "All Items".
+- A table view with two columns: "Name" and "Amount".
+- A button to add a new item.
+- A label showing the total amount of money spent.
+- A label showing the average amount of money spent per month.
+- A bar chart showing the total amount of money spent by month.
+- A table view with two columns: "Date" and "Amount".
+- A button to edit the items.
+- A button to archive the items.

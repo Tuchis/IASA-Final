@@ -1,0 +1,6 @@
+ The UI of the app consists of:
+- A navigation bar at the top with a back button, a search bar, and a three-dot menu button
+- A segmented control below the navigation bar with three options: Overview, Reports, and Archive
+- A list of bills below the segmented control. Each bill has a name, an amount, a due date, and a status.
+- A button at the bottom of the list that says "Add Bill"
+- A "Pay Now" button on the top right corner

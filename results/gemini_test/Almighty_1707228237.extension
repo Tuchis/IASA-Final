@@ -1,0 +1,5 @@
+ The UI is divided into two parts. The left part has a list of items. The right part has a switch and a search bar.
+
+The list of items on the left is divided into 9 sections. Each section has a title and a list of items. The titles of the sections are: Display, Dock, Effect, Finder, Keyboard, Mouse, Photos, Screenshot, Script, Simulator, Status Menu, System and Utility.
+
+The right part has a switch and a search bar. The switch is labeled "Stop Photos" and it is turned off. The search bar is labeled "Search".

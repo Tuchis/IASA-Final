@@ -1,0 +1,8 @@
+ The UI of the app consists of:
+1. A search bar at the top.
+2. A filter section with 5 filter options.
+3. A table with 6 columns: Date, Category, Contact, Tag, Features, and Amount.
+4. A summary section with 3 rows: Subtotal, Tax, and Total.
+5. A chart showing expenses by year.
+6. A section with 3 buttons: Print, Report, and Export.
+7. A button to add a new record.

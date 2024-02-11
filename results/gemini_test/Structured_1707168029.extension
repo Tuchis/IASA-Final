@@ -1,0 +1,9 @@
+ The UI of the app is a calendar. The calendar is a grid of 7 columns and 5 rows. Each column represents a day of the week, and each row represents a time block. The current day is highlighted in blue.
+
+The calendar has a header that contains the month and year. The header also has two buttons: one to go to the previous month, and one to go to the next month.
+
+The calendar also has a footer that contains a button to create a new event.
+
+In the top right corner of the UI is a search bar. The search bar allows the user to search for events.
+
+In the bottom right corner of the UI is a button to add a new event. The button is a plus sign.

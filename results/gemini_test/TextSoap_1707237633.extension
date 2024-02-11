@@ -1,0 +1,5 @@
+ The UI of the app has a sidebar on the left and a main content area on the right.
+
+The sidebar has a search bar at the top, followed by a list of items. The items are divided into two groups: "Cleaner Groups" and "Custom Cleaners".
+
+The main content area has a large text field at the top. The text field is labeled "Export as Cleaner Library". Below the text field, there is a button that says "Export".

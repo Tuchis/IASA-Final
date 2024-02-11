@@ -1,0 +1,8 @@
+ The UI of the App Store app is divided into 5 sections:
+1. The search bar at the top
+2. The navigation bar on the left
+3. The main content area in the middle
+4. The sidebar on the right
+5. The footer at the bottom
+
+The search bar allows you to search for apps, developers, or other content in the App Store. The navigation bar provides access to different categories of apps, such as Discover, Create, Work, Play, and Develop. The main content area displays a list of apps in the selected category. The sidebar provides additional information about the selected app, such as its description, reviews, and ratings. The footer contains links to the App Store's terms of service, privacy policy, and other legal information.

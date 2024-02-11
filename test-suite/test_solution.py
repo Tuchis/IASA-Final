@@ -15,7 +15,7 @@ train_data_file = 'ui_questions_train.tsv'
 
 train_data = pd.read_csv(os.path.join(train_data_path, train_data_file), sep='\t')
 
-image_representations_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gemini_train"
+image_representations_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gpt4_train_small_test_tsv"
 
 # Get screen representation ids from files in the folder
 screen_representations = os.listdir(image_representations_folder)
@@ -70,6 +70,8 @@ for row_ind, row in train_data.iterrows():
 
         model_response = str(model_response) 
 
+        print(app_name, screen_id)
+
         print(f"Question: {question}")
         print(f"Answer: {answer}")
         print(f"Model response: {model_response}")
@@ -87,6 +89,7 @@ for row_ind, row in train_data.iterrows():
                 correct_answers[answer_type] += 1
         
         questions[answer_type] += 1
+
     except Exception as e:
         print(f"Error: {e}")
         continue

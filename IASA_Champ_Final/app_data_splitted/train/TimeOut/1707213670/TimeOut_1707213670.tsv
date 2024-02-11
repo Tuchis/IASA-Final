@@ -1,0 +1,16 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1228, 1152]	[614.0, 576.0]		Welcome
+15	1	StaticText	[320, 40, 588, 76]	[614.0, 78.0]	Welcome to Time Out	
+14	1	StaticText	[40, 156, 1152, 64]	[616.0, 188.0]	Time Out helps you stay or get healthy by taking regular breaks.  It comes with two suggested kinds of breaks.  You can always change them or add more later.	
+13	1	StaticText	[40, 650, 1152, 64]	[616.0, 682.0]	“Micro” breaks are very brief and frequent breaks between Normal breaks.  You should sit back, un-tense your muscles, and look around the room to change your eye focus level.	
+12	1	CheckBox	[40, 384, 332, 36]	[206.0, 402.0]	1	Include a Normal break
+11	1	StaticText	[40, 260, 1152, 96]	[616.0, 308.0]	“Normal” breaks are the main rest opportunities throughout the day.  You should stand up and move around if possible, or at least sit back from your computer; change your eye focus level and relax your muscles.	
+10	1	StaticText	[80, 506, 542, 32]	[351.0, 522.0]	How often do you want the breaks to occur?	
+9	1	CheckBox	[40, 742, 312, 36]	[196.0, 760.0]	1	Include a Micro break
+8	1	StaticText	[80, 806, 498, 32]	[329.0, 822.0]	How long do you want this break to last?	
+7	1	StaticText	[80, 864, 542, 32]	[351.0, 880.0]	How often do you want the breaks to occur?	
+6	1	StaticText	[80, 448, 498, 32]	[329.0, 464.0]	How long do you want this break to last?	
+5	1	StaticText	[40, 936, 1152, 64]	[616.0, 968.0]	Click Skip to close this setup assistant and set things up manually, or Continue the setup.  (You can always come back to this later if you wish.)	
+4	1	StaticText	[80, 554, 1112, 56]	[636.0, 582.0]	(Want less than an hour?  No problem: select the units and use up/down arrows, or type, or click again to show a menu.)	
+3	1	Button	[26, 1062, 178, 64]	[115.0, 1094.0]		Skip
+2	1	Button	[1024, 1062, 178, 64]	[1113.0, 1094.0]		Continue

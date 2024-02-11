@@ -1,0 +1,10 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1128, 1320]	[564.0, 660.0]		Onboarding
+8	1	StaticText	[76, 80, 976, 172]	[564.0, 166.0]	Get a complete picture of your time.	
+7	1	StaticText	[76, 300, 976, 42]	[564.0, 321.0]	Categorize your activities:	
+6	1	StaticText	[428, 480, 624, 76]	[740.0, 518.0]	Use drag and drop to assign times to a project.	
+5	1	StaticText	[428, 682, 624, 152]	[740.0, 758.0]	"Keep the ⌥ key pressed to have Timing automate these assignments for you.
+The more you do this, the more time you’ll save in the future."	
+4	1	StaticText	[428, 960, 624, 76]	[740.0, 998.0]	Create new projects by pressing the ‘+’ button.	
+3	1	Button	[28, 1212, 124, 80]	[90.0, 1252.0]		Back
+2	1	Button	[978, 1212, 122, 80]	[1039.0, 1252.0]		Next

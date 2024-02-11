@@ -1,0 +1,24 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+23	1	Image	[610, 148, 32, 24]	[626.0, 160.0]		|CZ
+22	1	StaticText	[658, 148, 90, 24]	[703.0, 160.0]	Czechia	
+21	1	StaticText	[96, 170, 192, 20]	[192.0, 180.0]	YOU'RE HERE NOW	
+20	1	StaticText	[850, 170, 184, 20]	[942.0, 180.0]	VPN CONNECTION	
+19	1	StaticText	[1380, 168, 34, 24]	[1397.0, 180.0]	Off	
+18	1	StaticText	[604, 188, 146, 24]	[677.0, 200.0]	91.139.84.198	
+17	1	Button	[1440, 156, 64, 48]	[1472.0, 180.0]		|reportFlag
+16	1	Button	[48, 292, 156, 48]	[126.0, 316.0]		|Back
+15	1	StaticText	[624, 350, 162, 28]	[705.0, 364.0]	Pick priority	
+14	1	Image	[62, 404, 240, 240]	[182.0, 524.0]		
+13	1	StaticText	[720, 450, 174, 24]	[807.0, 462.0]	No restrictions	
+12	1	Image	[656, 470, 48, 48]	[680.0, 494.0]		
+11	1	StaticText	[720, 482, 704, 56]	[1072.0, 510.0]	Connects you to countries with the fewest web restrictions. Perfect for accessing blocked websites.	
+10	1	StaticText	[720, 614, 164, 24]	[802.0, 626.0]	Fastest server	
+9	1	Image	[656, 634, 48, 48]	[680.0, 658.0]		
+8	1	StaticText	[720, 646, 698, 56]	[1069.0, 674.0]	Picks an optimal IP address based on your current location. Great for preserving your speed.	
+7	1	StaticText	[62, 698, 302, 36]	[213.0, 716.0]	Smart connection	
+6	1	StaticText	[62, 760, 452, 88]	[288.0, 804.0]	Have your VPN automatically set up in the most efficient way with our smart VPN presets.	
+5	1	StaticText	[720, 778, 176, 24]	[808.0, 790.0]	Top protection	
+4	1	Image	[656, 798, 48, 48]	[680.0, 822.0]		
+3	1	StaticText	[720, 810, 664, 56]	[1052.0, 838.0]	Blocks ads and connects to countries with the strongest privacy protection laws. Your speed might get affected.	
+2	1	Button	[56, 1160, 48, 48]	[80.0, 1184.0]		|settings_icon

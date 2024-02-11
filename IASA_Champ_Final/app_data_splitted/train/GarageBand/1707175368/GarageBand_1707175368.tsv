@@ -1,0 +1,374 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 3024, 1718]	[1512.0, 859.0]		AlarmClock1.band - Tracks
+291	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+290	1	Image	[1316, 10, 32, 32]	[1332.0, 26.0]		AlarmClock1.band
+289	1	StaticText	[1352, 10, 358, 32]	[1531.0, 26.0]	AlarmClock1.band - Tracks	
+263	1	Group	[20, 48, 2984, 116]	[1512.0, 106.0]		|Control Bar
+281	263	Group	[1248, 56, 528, 96]	[1512.0, 104.0]		|Control Bar
+288	281	PopUpButton	[1744, 56, 32, 96]	[1760.0, 104.0]	Beats & Project	Beats & Project|Display Mode
+285	281	Group	[1250, 56, 236, 96]	[1368.0, 104.0]		|Playhead Position
+287	285	Slider	[1284, 70, 110, 54]	[1339.0, 97.0]	1.0	|bar
+286	285	Slider	[1412, 70, 38, 54]	[1431.0, 97.0]	1.0	|beat
+284	281	Slider	[1488, 60, 126, 92]	[1551.0, 106.0]	120.0	|Tempo
+283	281	PopUpButton	[1616, 66, 126, 46]	[1679.0, 89.0]	4/4	|Time Signature
+282	281	PopUpButton	[1616, 106, 126, 46]	[1679.0, 129.0]	C major	|Key Signature
+280	263	CheckBox	[1148, 74, 76, 60]	[1186.0, 104.0]	0	Cycle|Cycle
+279	263	CheckBox	[1074, 74, 74, 60]	[1111.0, 104.0]	0	Record|Record
+278	263	CheckBox	[1000, 74, 74, 60]	[1037.0, 104.0]	0	Play|Play
+277	263	Button	[926, 74, 74, 60]	[963.0, 104.0]	0	Stop|Stop
+276	263	Button	[852, 74, 74, 60]	[889.0, 104.0]	0	Forward|Forward
+275	263	Button	[778, 74, 74, 60]	[815.0, 104.0]	0	Rewind|Rewind
+274	263	CheckBox	[1800, 74, 68, 60]	[1834.0, 104.0]	0	Tuner|Tuner
+273	263	CheckBox	[1916, 74, 66, 60]	[1949.0, 104.0]	1	Count In|Count In
+272	263	CheckBox	[1982, 74, 68, 60]	[2016.0, 104.0]	1	Click|Click
+271	263	CheckBox	[24, 74, 68, 60]	[58.0, 104.0]	0	Library|Library
+270	263	CheckBox	[140, 74, 68, 60]	[174.0, 104.0]	0	Quick Help|Quick Help
+269	263	CheckBox	[256, 74, 66, 60]	[289.0, 104.0]	1	Smart Controls|Smart Controls
+268	263	CheckBox	[322, 74, 68, 60]	[356.0, 104.0]	0	Editors|Editors
+267	263	CheckBox	[2866, 74, 66, 60]	[2899.0, 104.0]	0	Note Pad|Note Pad
+266	263	CheckBox	[2932, 74, 68, 60]	[2966.0, 104.0]	1	Loop Browser|Loop Browser
+264	263	Slider	[2316, 88, 284, 42]	[2458.0, 109.0]	0.7086614370346069	|Master Volume
+265	264	ValueIndicator	[2488, 88, 40, 42]	[2508.0, 109.0]	0.7086614370346069	
+205	1	Group	[0, 174, 2140, 1010]	[1070.0, 679.0]		|Tracks
+208	205	SplitGroup	[0, 174, 2140, 1010]	[1070.0, 679.0]		
+246	208	SplitGroup	[0, 174, 2140, 130]	[1070.0, 239.0]		
+256	246	Group	[0, 174, 650, 130]	[325.0, 239.0]		|Tracks legend
+262	256	Button	[0, 174, 650, 128]	[325.0, 238.0]	0	
+261	256	Button	[0, 250, 650, 54]	[325.0, 277.0]	0	
+260	256	Button	[24, 252, 132, 50]	[90.0, 277.0]	0	
+259	256	Button	[0, 302, 650, 2]	[325.0, 303.0]	0	
+258	256	Button	[18, 190, 70, 46]	[53.0, 213.0]	0	|New Tracks…   ⌥⌘N
+257	256	CheckBox	[562, 190, 70, 46]	[597.0, 213.0]	0	|Catch Playhead   `
+247	246	ScrollArea	[650, 174, 1490, 130]	[1395.0, 239.0]		
+249	247	LayoutArea	[650, 174, 2374, 130]	[1837.0, 239.0]		|Tracks time ruler
+255	249	Button	[650, 302, 2374, 2]	[1837.0, 303.0]	0	
+254	249	Button	[650, 250, 2374, 128]	[1837.0, 314.0]	0	
+253	249	LayoutItem	[668, 174, 386, 40]	[861.0, 194.0]	0	|cycle region
+252	249	ValueIndicator	[658, 214, 20, 38]	[668.0, 233.0]	164926744166400	|Playhead thumb
+250	249	Slider	[1986, 184, 126, 50]	[2049.0, 209.0]	0.09997802972793579	
+251	250	ValueIndicator	[1994, 194, 28, 30]	[2008.0, 209.0]	0.09997802972793579	
+248	247	ScrollBar	[2108, 174, 32, 130]	[2124.0, 239.0]	0.0	
+209	208	SplitGroup	[0, 304, 2140, 880]	[1070.0, 744.0]		
+225	209	ScrollArea	[0, 304, 650, 880]	[325.0, 744.0]		
+227	225	Group	[0, 304, 650, 880]	[325.0, 744.0]		|Tracks header
+237	227	LayoutItem	[0, 304, 650, 258]	[325.0, 433.0]		|Track 1 “v09044g40000cm5bgbvog65h7qsq3dkg”
+245	237	CheckBox	[100, 434, 44, 38]	[122.0, 453.0]	0	|Mute
+244	237	CheckBox	[144, 434, 42, 38]	[165.0, 453.0]	0	|Solo
+243	237	CheckBox	[194, 434, 44, 38]	[216.0, 453.0]	0	|Input Monitoring
+241	237	Slider	[578, 426, 50, 50]	[603.0, 451.0]	64	|
+242	241	ValueIndicator	[590, 396, 66, 66]	[623.0, 429.0]		|0 Pan
+239	237	Slider	[308, 434, 256, 36]	[436.0, 452.0]	173	|Volume
+240	239	ValueIndicator	[470, 434, 36, 36]	[488.0, 452.0]		|Volume
+238	237	TextField	[94, 386, 528, 36]	[358.0, 404.0]	0	|v09044g40000cm5bgbvog65h7qsq3dkg
+228	227	LayoutItem	[0, 562, 650, 258]	[325.0, 691.0]		|Track 2 “Audio 1”
+236	228	CheckBox	[100, 692, 44, 38]	[122.0, 711.0]	0	|Mute
+235	228	CheckBox	[144, 692, 42, 38]	[165.0, 711.0]	0	|Solo
+234	228	CheckBox	[194, 692, 44, 38]	[216.0, 711.0]	0	|Input Monitoring
+232	228	Slider	[578, 684, 50, 50]	[603.0, 709.0]	64	|
+233	232	ValueIndicator	[590, 654, 66, 66]	[623.0, 687.0]		|0 Pan
+230	228	Slider	[308, 692, 256, 36]	[436.0, 710.0]	173	|Volume
+231	230	ValueIndicator	[470, 692, 36, 36]	[488.0, 710.0]		|Volume
+229	228	TextField	[94, 644, 528, 36]	[358.0, 662.0]	0	|Audio 1
+226	225	ScrollBar	[0, 1152, 650, 32]	[325.0, 1168.0]	0.0	
+210	209	ScrollArea	[650, 304, 1490, 880]	[1395.0, 744.0]		
+216	210	Group	[650, 304, 2374, 880]	[1837.0, 744.0]		|Tracks contents
+219	216	LayoutArea	[650, 304, 2374, 258]	[1837.0, 433.0]	0	|Track 1 “v09044g40000cm5bgbvog65h7qsq3dkg”
+220	219	LayoutItem	[668, 306, 1494, 256]	[1415.0, 434.0]		|v09044g40000cm5bgbvog65h7qsq3dkg
+224	220	Button	[672, 314, 1478, 36]	[1411.0, 332.0]		v09044g40000cm5bgbvog65h7qsq3dkg|v09044g40000cm5bgbvog65h7qsq3dkg
+223	220	Handle	[668, 434, 36, 128]	[686.0, 498.0]		|move left border
+222	220	Handle	[2126, 434, 36, 128]	[2144.0, 498.0]		|move right border
+221	220	Handle	[2126, 304, 36, 128]	[2144.0, 368.0]		|loop
+218	216	LayoutArea	[650, 562, 2374, 258]	[1837.0, 691.0]	0	|Track 2 “Audio 1”
+217	216	LayoutArea	[650, 820, 1490, 364]	[1395.0, 1002.0]	0	
+212	210	ScrollBar	[650, 1152, 1490, 32]	[1395.0, 1168.0]	0.0	
+215	212	ValueIndicator	[652, 1160, 712, 24]	[1008.0, 1172.0]	0.0	
+214	212	Button	[1364, 1160, 774, 24]	[1751.0, 1172.0]		
+213	212	Button	[650, 1160, 2, 24]	[651.0, 1172.0]		
+211	210	ScrollBar	[2108, 304, 32, 880]	[2124.0, 744.0]	0.0	
+206	205	Slider	[1986, 184, 126, 50]	[2049.0, 209.0]	0.09997802972793579	
+207	206	ValueIndicator	[1994, 194, 28, 30]	[2008.0, 209.0]	0.09997802972793579	
+168	1	Group	[0, 1188, 2140, 530]	[1070.0, 1453.0]		|Smart Controls
+197	168	Group	[0, 1188, 2140, 74]	[1070.0, 1225.0]		|Smart Controls
+202	197	RadioGroup	[20, 1204, 300, 46]	[170.0, 1227.0]		
+204	202	RadioButton	[20, 1204, 152, 46]	[96.0, 1227.0]	1	|Track
+203	202	RadioButton	[172, 1204, 148, 46]	[246.0, 1227.0]	0	|Master
+201	197	Button	[332, 1204, 150, 46]	[407.0, 1227.0]		Compare|Compare
+198	197	RadioGroup	[880, 1204, 380, 46]	[1070.0, 1227.0]		
+200	198	RadioButton	[880, 1204, 192, 46]	[976.0, 1227.0]	1	|Controls
+199	198	RadioButton	[1072, 1204, 188, 46]	[1166.0, 1227.0]	0	|EQ
+169	168	SplitGroup	[0, 1262, 2140, 456]	[1070.0, 1490.0]		
+170	169	SplitGroup	[0, 1262, 2140, 456]	[1070.0, 1490.0]		
+173	170	ScrollArea	[0, 1262, 650, 456]	[325.0, 1490.0]		
+175	173	Group	[0, 1262, 650, 448]	[325.0, 1486.0]		
+196	175	Group	[0, 1560, 670, 2]	[335.0, 1561.0]		
+195	175	CheckBox	[214, 1500, 70, 46]	[249.0, 1523.0]	0	|input monitoring
+194	175	StaticText	[36, 1502, 174, 38]	[123.0, 1521.0]	Monitoring:	
+193	175	StaticText	[104, 1446, 106, 38]	[157.0, 1465.0]	Input:	
+192	175	StaticText	[250, 1394, 350, 38]	[425.0, 1413.0]	Automatic Level Control	
+191	175	CheckBox	[214, 1394, 36, 36]	[232.0, 1412.0]	0	|Automatic Level Control
+189	175	Slider	[216, 1334, 394, 44]	[413.0, 1356.0]	0.0	
+190	189	ValueIndicator	[216, 1334, 44, 44]	[238.0, 1356.0]	0.0	
+188	175	StaticText	[12, 1340, 198, 38]	[111.0, 1359.0]	Record Level:	
+187	175	Button	[554, 1284, 80, 46]	[594.0, 1307.0]		
+186	175	Button	[36, 1278, 248, 42]	[160.0, 1299.0]		Recording Settings
+185	175	CheckBox	[214, 1444, 70, 46]	[249.0, 1467.0]	0	
+183	175	CheckBox	[296, 1444, 318, 46]	[455.0, 1467.0]	False	
+184	183	MenuButton	[296, 1444, 318, 46]	[455.0, 1467.0]		|No Input
+182	175	Group	[0, 1634, 650, 2]	[325.0, 1635.0]		
+181	175	Button	[552, 1662, 60, 44]	[582.0, 1684.0]		
+179	175	Slider	[274, 1580, 336, 44]	[442.0, 1602.0]	0.0	
+180	179	ValueIndicator	[274, 1580, 44, 44]	[296.0, 1602.0]	0.0	
+178	175	StaticText	[72, 1580, 154, 38]	[149.0, 1599.0]	Noise Gate	
+177	175	CheckBox	[38, 1580, 36, 36]	[56.0, 1598.0]	0	
+176	175	Button	[36, 1652, 232, 42]	[152.0, 1673.0]		Plug-ins
+174	173	ScrollBar	[618, 1262, 32, 456]	[634.0, 1490.0]	0.0	
+171	170	ScrollArea	[650, 1262, 1490, 456]	[1395.0, 1490.0]		
+172	171	LayoutArea	[650, 1262, 1490, 456]	[1395.0, 1490.0]		|Smart Controls
+2	1	Group	[2144, 174, 880, 1544]	[2584.0, 946.0]		|Apple Loops
+3	2	Group	[2144, 174, 880, 1544]	[2584.0, 946.0]		|Apple Loops
+18	3	SplitGroup	[2144, 236, 880, 1408]	[2584.0, 940.0]		
+161	18	Group	[2144, 236, 880, 120]	[2584.0, 296.0]		
+164	161	Group	[2254, 260, 660, 78]	[2584.0, 299.0]		
+167	164	CheckBox	[2254, 260, 222, 78]	[2365.0, 299.0]	0	|Instrument
+166	164	CheckBox	[2476, 260, 220, 78]	[2586.0, 299.0]	0	|Genre
+165	164	CheckBox	[2696, 260, 220, 78]	[2806.0, 299.0]	0	|Descriptors
+163	161	Button	[2918, 260, 82, 78]	[2959.0, 299.0]		Fav
+162	161	Button	[2168, 260, 82, 78]	[2209.0, 299.0]		X
+160	18	Splitter	[2144, 356, 880, 8]	[2584.0, 360.0]	60.0	
+24	18	ScrollArea	[2144, 430, 880, 1214]	[2584.0, 1037.0]		
+29	24	Table	[2144, 494, 880, 1224]	[2584.0, 1106.0]		|Loops
+155	29	Row	[2144, 494, 880, 48]	[2584.0, 518.0]		
+159	155	Image	[2156, 496, 48, 44]	[2180.0, 518.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+158	155	TextField	[2220, 496, 620, 44]	[2530.0, 518.0]	12 Bar Blues Bass	
+157	155	TextField	[2856, 496, 100, 44]	[2906.0, 518.0]	16	
+156	155	CheckBox	[2972, 496, 40, 44]	[2992.0, 518.0]	0	
+150	29	Row	[2144, 542, 880, 48]	[2584.0, 566.0]		
+154	150	Image	[2156, 544, 48, 44]	[2180.0, 566.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+153	150	TextField	[2220, 544, 620, 44]	[2530.0, 566.0]	12-8 Acoustic Strum 01	
+152	150	TextField	[2856, 544, 100, 44]	[2906.0, 566.0]	8	
+151	150	CheckBox	[2972, 544, 40, 44]	[2992.0, 566.0]	0	
+145	29	Row	[2144, 590, 880, 48]	[2584.0, 614.0]		
+149	145	Image	[2156, 592, 48, 44]	[2180.0, 614.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+148	145	TextField	[2220, 592, 620, 44]	[2530.0, 614.0]	12-8 Acoustic Strum 02	
+147	145	TextField	[2856, 592, 100, 44]	[2906.0, 614.0]	8	
+146	145	CheckBox	[2972, 592, 40, 44]	[2992.0, 614.0]	0	
+140	29	Row	[2144, 638, 880, 48]	[2584.0, 662.0]		
+144	140	Image	[2156, 640, 48, 44]	[2180.0, 662.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+143	140	TextField	[2220, 640, 620, 44]	[2530.0, 662.0]	12-8 Acoustic Strum 03	
+142	140	TextField	[2856, 640, 100, 44]	[2906.0, 662.0]	8	
+141	140	CheckBox	[2972, 640, 40, 44]	[2992.0, 662.0]	0	
+135	29	Row	[2144, 686, 880, 48]	[2584.0, 710.0]		
+139	135	Image	[2156, 688, 48, 44]	[2180.0, 710.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+138	135	TextField	[2220, 688, 620, 44]	[2530.0, 710.0]	12-8 Electric Arpeggio 01	
+137	135	TextField	[2856, 688, 100, 44]	[2906.0, 710.0]	4	
+136	135	CheckBox	[2972, 688, 40, 44]	[2992.0, 710.0]	0	
+130	29	Row	[2144, 734, 880, 48]	[2584.0, 758.0]		
+134	130	Image	[2156, 736, 48, 44]	[2180.0, 758.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+133	130	TextField	[2220, 736, 620, 44]	[2530.0, 758.0]	12-8 Electric Arpeggio 06	
+132	130	TextField	[2856, 736, 100, 44]	[2906.0, 758.0]	4	
+131	130	CheckBox	[2972, 736, 40, 44]	[2992.0, 758.0]	0	
+125	29	Row	[2144, 782, 880, 48]	[2584.0, 806.0]		
+129	125	Image	[2156, 784, 48, 44]	[2180.0, 806.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+128	125	TextField	[2220, 784, 620, 44]	[2530.0, 806.0]	12-8 Electric Arpeggio 07	
+127	125	TextField	[2856, 784, 100, 44]	[2906.0, 806.0]	4	
+126	125	CheckBox	[2972, 784, 40, 44]	[2992.0, 806.0]	0	
+120	29	Row	[2144, 830, 880, 48]	[2584.0, 854.0]		
+124	120	Image	[2156, 832, 48, 44]	[2180.0, 854.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+123	120	TextField	[2220, 832, 620, 44]	[2530.0, 854.0]	4th Dimension Beat 01	
+122	120	TextField	[2856, 832, 100, 44]	[2906.0, 854.0]	8	
+121	120	CheckBox	[2972, 832, 40, 44]	[2992.0, 854.0]	0	
+115	29	Row	[2144, 878, 880, 48]	[2584.0, 902.0]		
+119	115	Image	[2156, 880, 48, 44]	[2180.0, 902.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+118	115	TextField	[2220, 880, 620, 44]	[2530.0, 902.0]	4th Dimension Beat 02	
+117	115	TextField	[2856, 880, 100, 44]	[2906.0, 902.0]	8	
+116	115	CheckBox	[2972, 880, 40, 44]	[2992.0, 902.0]	0	
+110	29	Row	[2144, 926, 880, 48]	[2584.0, 950.0]		
+114	110	Image	[2156, 928, 48, 44]	[2180.0, 950.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+113	110	TextField	[2220, 928, 620, 44]	[2530.0, 950.0]	60s Shuffle Drumset 01	
+112	110	TextField	[2856, 928, 100, 44]	[2906.0, 950.0]	8	
+111	110	CheckBox	[2972, 928, 40, 44]	[2992.0, 950.0]	0	
+105	29	Row	[2144, 974, 880, 48]	[2584.0, 998.0]		
+109	105	Image	[2156, 976, 48, 44]	[2180.0, 998.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+108	105	TextField	[2220, 976, 620, 44]	[2530.0, 998.0]	60s Shuffle Drumset 03	
+107	105	TextField	[2856, 976, 100, 44]	[2906.0, 998.0]	8	
+106	105	CheckBox	[2972, 976, 40, 44]	[2992.0, 998.0]	0	
+100	29	Row	[2144, 1022, 880, 48]	[2584.0, 1046.0]		
+104	100	Image	[2156, 1024, 48, 44]	[2180.0, 1046.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+103	100	TextField	[2220, 1024, 620, 44]	[2530.0, 1046.0]	60s Shuffle Drumset 06	
+102	100	TextField	[2856, 1024, 100, 44]	[2906.0, 1046.0]	8	
+101	100	CheckBox	[2972, 1024, 40, 44]	[2992.0, 1046.0]	0	
+95	29	Row	[2144, 1070, 880, 48]	[2584.0, 1094.0]		
+99	95	Image	[2156, 1072, 48, 44]	[2180.0, 1094.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+98	95	TextField	[2220, 1072, 620, 44]	[2530.0, 1094.0]	60s Shuffle Fill 07	
+97	95	TextField	[2856, 1072, 100, 44]	[2906.0, 1094.0]	8	
+96	95	CheckBox	[2972, 1072, 40, 44]	[2992.0, 1094.0]	0	
+90	29	Row	[2144, 1118, 880, 48]	[2584.0, 1142.0]		
+94	90	Image	[2156, 1120, 48, 44]	[2180.0, 1142.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+93	90	TextField	[2220, 1120, 620, 44]	[2530.0, 1142.0]	70s Choral Riff Layers	
+92	90	TextField	[2856, 1120, 100, 44]	[2906.0, 1142.0]	8	
+91	90	CheckBox	[2972, 1120, 40, 44]	[2992.0, 1142.0]	0	
+85	29	Row	[2144, 1166, 880, 48]	[2584.0, 1190.0]		
+89	85	Image	[2156, 1168, 48, 44]	[2180.0, 1190.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+88	85	TextField	[2220, 1168, 620, 44]	[2530.0, 1190.0]	70s Electric Piano 06	
+87	85	TextField	[2856, 1168, 100, 44]	[2906.0, 1190.0]	8	
+86	85	CheckBox	[2972, 1168, 40, 44]	[2992.0, 1190.0]	0	
+80	29	Row	[2144, 1214, 880, 48]	[2584.0, 1238.0]		
+84	80	Image	[2156, 1216, 48, 44]	[2180.0, 1238.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+83	80	TextField	[2220, 1216, 620, 44]	[2530.0, 1238.0]	70s Electric Piano 08	
+82	80	TextField	[2856, 1216, 100, 44]	[2906.0, 1238.0]	8	
+81	80	CheckBox	[2972, 1216, 40, 44]	[2992.0, 1238.0]	0	
+75	29	Row	[2144, 1262, 880, 48]	[2584.0, 1286.0]		
+79	75	Image	[2156, 1264, 48, 44]	[2180.0, 1286.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+78	75	TextField	[2220, 1264, 620, 44]	[2530.0, 1286.0]	70s Electric Piano 11	
+77	75	TextField	[2856, 1264, 100, 44]	[2906.0, 1286.0]	8	
+76	75	CheckBox	[2972, 1264, 40, 44]	[2992.0, 1286.0]	0	
+70	29	Row	[2144, 1310, 880, 48]	[2584.0, 1334.0]		
+74	70	Image	[2156, 1312, 48, 44]	[2180.0, 1334.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+73	70	TextField	[2220, 1312, 620, 44]	[2530.0, 1334.0]	70s Electric Piano 28	
+72	70	TextField	[2856, 1312, 100, 44]	[2906.0, 1334.0]	16	
+71	70	CheckBox	[2972, 1312, 40, 44]	[2992.0, 1334.0]	0	
+65	29	Row	[2144, 1358, 880, 48]	[2584.0, 1382.0]		
+69	65	Image	[2156, 1360, 48, 44]	[2180.0, 1382.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+68	65	TextField	[2220, 1360, 620, 44]	[2530.0, 1382.0]	70s Electric Piano 30	
+67	65	TextField	[2856, 1360, 100, 44]	[2906.0, 1382.0]	16	
+66	65	CheckBox	[2972, 1360, 40, 44]	[2992.0, 1382.0]	0	
+60	29	Row	[2144, 1406, 880, 48]	[2584.0, 1430.0]		
+64	60	Image	[2156, 1408, 48, 44]	[2180.0, 1430.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+63	60	TextField	[2220, 1408, 620, 44]	[2530.0, 1430.0]	70s Electric Piano 52	
+62	60	TextField	[2856, 1408, 100, 44]	[2906.0, 1430.0]	16	
+61	60	CheckBox	[2972, 1408, 40, 44]	[2992.0, 1430.0]	0	
+55	29	Row	[2144, 1454, 880, 48]	[2584.0, 1478.0]		
+59	55	Image	[2156, 1456, 48, 44]	[2180.0, 1478.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+58	55	TextField	[2220, 1456, 620, 44]	[2530.0, 1478.0]	70s Electric Piano 59	
+57	55	TextField	[2856, 1456, 100, 44]	[2906.0, 1478.0]	16	
+56	55	CheckBox	[2972, 1456, 40, 44]	[2992.0, 1478.0]	0	
+50	29	Row	[2144, 1502, 880, 48]	[2584.0, 1526.0]		
+54	50	Image	[2156, 1504, 48, 44]	[2180.0, 1526.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+53	50	TextField	[2220, 1504, 620, 44]	[2530.0, 1526.0]	70s Electric Piano 60	
+52	50	TextField	[2856, 1504, 100, 44]	[2906.0, 1526.0]	8	
+51	50	CheckBox	[2972, 1504, 40, 44]	[2992.0, 1526.0]	0	
+45	29	Row	[2144, 1550, 880, 48]	[2584.0, 1574.0]		
+49	45	Image	[2156, 1552, 48, 44]	[2180.0, 1574.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+48	45	TextField	[2220, 1552, 620, 44]	[2530.0, 1574.0]	70s Electric Piano 71	
+47	45	TextField	[2856, 1552, 100, 44]	[2906.0, 1574.0]	8	
+46	45	CheckBox	[2972, 1552, 40, 44]	[2992.0, 1574.0]	0	
+40	29	Row	[2144, 1598, 880, 48]	[2584.0, 1622.0]		
+44	40	Image	[2156, 1600, 48, 44]	[2180.0, 1622.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+43	40	TextField	[2220, 1600, 620, 44]	[2530.0, 1622.0]	70s Rock Piano 01	
+42	40	TextField	[2856, 1600, 100, 44]	[2906.0, 1622.0]	8	
+41	40	CheckBox	[2972, 1600, 40, 44]	[2992.0, 1622.0]	0	
+35	29	Row	[2144, 1646, 880, 48]	[2584.0, 1670.0]		
+39	35	Image	[2156, 1648, 48, 44]	[2180.0, 1670.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+38	35	TextField	[2220, 1648, 620, 44]	[2530.0, 1670.0]	70s Rock Piano 18	
+37	35	TextField	[2856, 1648, 100, 44]	[2906.0, 1670.0]	16	
+36	35	CheckBox	[2972, 1648, 40, 44]	[2992.0, 1670.0]	0	
+30	29	Row	[2144, 1694, 880, 24]	[2584.0, 1706.0]		
+34	30	Image	[2156, 1696, 48, 22]	[2180.0, 1707.0]	"<NSImage 0x6000032c48c0 Size={19, 19} RepProvider=<NSImageArrayRepProvider: 0x6000001ae230, reps:(
+    ""NSBitmapImageRep 0x600002a3a1b0 Size={19, 19} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=19x19 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb22fa0>"",
+    ""NSBitmapImageRep 0x600002a3a220 Size={38, 38} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=38x38 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb335f0>""
+)>>"	|web loop
+33	30	TextField	[2220, 1696, 620, 22]	[2530.0, 1707.0]	70s Rock Piano 43	
+32	30	TextField	[2856, 1696, 100, 22]	[2906.0, 1707.0]	8	
+31	30	CheckBox	[2972, 1696, 40, 22]	[2992.0, 1707.0]	0	
+25	24	ScrollBar	[2992, 494, 32, 1150]	[3008.0, 1069.0]	0.0	
+28	25	ValueIndicator	[3000, 496, 24, 52]	[3012.0, 522.0]	0.0	
+27	25	Button	[3000, 548, 24, 1096]	[3012.0, 1096.0]		
+26	25	Button	[3000, 494, 24, 2]	[3012.0, 495.0]		
+23	18	StaticText	[2164, 372, 82, 34]	[2205.0, 389.0]	Scale:	
+22	18	Group	[2144, 1642, 880, 2]	[2584.0, 1643.0]		
+21	18	PopUpButton	[2248, 370, 160, 46]	[2328.0, 393.0]	Any	|scale
+19	18	TextField	[2424, 370, 578, 46]	[2713.0, 393.0]		
+20	19	Button	[2432, 372, 50, 44]	[2457.0, 394.0]		
+15	3	RadioGroup	[2168, 190, 130, 46]	[2233.0, 213.0]		
+17	15	RadioButton	[2168, 190, 66, 46]	[2201.0, 213.0]	1	|musical buttons view
+16	15	RadioButton	[2234, 190, 64, 46]	[2266.0, 213.0]	0	|column view
+14	3	PopUpButton	[2568, 190, 192, 44]	[2664.0, 212.0]	All Packs	
+13	3	StaticText	[2428, 192, 160, 34]	[2508.0, 209.0]	Loop Packs:	
+11	3	CheckBox	[2162, 1658, 72, 46]	[2198.0, 1681.0]	False	
+12	11	CheckBox	[2162, 1658, 72, 46]	[2198.0, 1681.0]	0	
+10	3	StaticText	[2802, 1664, 198, 34]	[2901.0, 1681.0]	12823 items	
+5	3	Group	[2438, 1660, 292, 44]	[2584.0, 1682.0]		
+9	5	Image	[2454, 1656, 40, 46]	[2474.0, 1679.0]	"<NSImage 0x6000032f1fe0 Size={14, 14.5} RepProvider=<NSImageArrayRepProvider: 0x600000183600, reps:(
+    ""<NSCGImageSnapshotRep:0x600002306a30 cgImage=<CGImage 0x12fc64460> (DP)\n\t<<CGColorSpace 0x60000277f4e0> (kCGColorSpaceICCBased; kCGColorSpaceModelRGB; Colour LCD)>\n\t\twidth = 28, height = 29, bpc = 16, bpp = 64, row bytes = 256 \n\t\tkCGImageAlphaPremultipliedLast | kCGImageByteOrder16Little  | kCGImagePixelFormatPacked | kCGBitmapFloatComponents \n\t\tis mask? No, has masking color? No, has soft mask? No, has matte? No, should interpolate? Yes>""
+)>>"	|
+8	5	Image	[2678, 1656, 40, 46]	[2698.0, 1679.0]	"<NSImage 0x6000032f2800 Size={22, 15} RepProvider=<NSImageArrayRepProvider: 0x600000183750, reps:(
+    ""NSCustomImageRep 0x600002306f30 Size={22, 15} ColorSpace=Generic RGB colorspace BPS=0 Pixels=0x0 Alpha=NO AppearanceName=(null)""
+)>>"	|
+6	5	Slider	[2460, 1658, 250, 44]	[2585.0, 1680.0]	0.7086614370346069	|Preview Volume
+7	6	ValueIndicator	[2586, 1658, 44, 44]	[2608.0, 1680.0]	0.7086614370346069	
+4	3	Button	[2144, 430, 68, 64]	[2178.0, 462.0]		|Loop Types

@@ -1,0 +1,75 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+3	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+4	3	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+60	4	Group	[0, 0, 440, 1536]	[220.0, 768.0]		
+61	60	Group	[0, 0, 440, 1536]	[220.0, 768.0]		
+62	61	Group	[0, 0, 440, 1536]	[220.0, 768.0]		|Sidebar
+74	62	TextField	[20, 114, 400, 60]	[220.0, 144.0]	ai house podcast	
+73	62	StaticText	[20, 194, 400, 48]	[220.0, 218.0]		|Apple Podcasts
+72	62	StaticText	[20, 242, 400, 56]	[220.0, 270.0]		|Listen Now
+71	62	StaticText	[20, 298, 400, 56]	[220.0, 326.0]		|Browse
+70	62	StaticText	[20, 354, 400, 56]	[220.0, 382.0]		|Charts
+69	62	Button	[20, 430, 400, 48]	[220.0, 454.0]		|Library
+68	62	StaticText	[20, 478, 400, 56]	[220.0, 506.0]		|Recently Updated
+67	62	StaticText	[20, 534, 400, 56]	[220.0, 562.0]		|Shows
+66	62	StaticText	[20, 590, 400, 56]	[220.0, 618.0]		|Channels
+65	62	StaticText	[20, 646, 400, 56]	[220.0, 674.0]		|Saved
+64	62	StaticText	[20, 702, 400, 56]	[220.0, 730.0]		|Downloaded
+63	62	StaticText	[20, 758, 400, 56]	[220.0, 786.0]		|Latest Episodes
+59	4	Splitter	[440, 0, 2, 1536]	[441.0, 768.0]	21.484375	
+5	4	Group	[442, 0, 1606, 1536]	[1245.0, 768.0]		
+46	5	Group	[442, 0, 1606, 104]	[1245.0, 52.0]		|Control Bar
+55	46	Group	[562, 24, 200, 56]	[662.0, 52.0]		
+58	55	Button	[562, 24, 64, 56]	[594.0, 52.0]		
+57	55	Button	[630, 24, 64, 56]	[662.0, 52.0]		|Play
+56	55	Button	[698, 24, 64, 56]	[730.0, 52.0]		
+54	46	Image	[880, 10, 84, 84]	[922.0, 52.0]		|Podcast Artwork
+53	46	Button	[1576, 36, 22, 34]	[1587.0, 53.0]		|Mute
+52	46	Slider	[1594, 36, 148, 34]	[1668.0, 53.0]	1.0	|Volume
+51	46	Button	[1742, 36, 34, 34]	[1759.0, 53.0]		|Full Volume
+50	46	Button	[1830, 20, 64, 58]	[1862.0, 49.0]		|Audio Routing
+47	46	Group	[1898, 26, 120, 52]	[1958.0, 52.0]		
+49	47	Button	[1898, 26, 64, 52]	[1930.0, 52.0]		|Episode Notes
+48	47	Button	[1966, 26, 52, 52]	[1992.0, 52.0]		|List
+6	5	Group	[442, 0, 1606, 1536]	[1245.0, 768.0]		
+7	6	Group	[442, 0, 1606, 1536]	[1245.0, 768.0]		
+45	7	Button	[522, 174, 344, 80]	[694.0, 214.0]	Filter	|Top Charts
+44	7	Button	[1776, 200, 192, 58]	[1872.0, 229.0]		|All Categories
+43	7	Button	[522, 272, 1446, 96]	[1245.0, 320.0]		|Top Shows ￼
+42	7	Button	[522, 368, 330, 462]	[687.0, 599.0]		|1, The Louis Theroux Podcast, The Louis Theroux Podcast, Spotify Studios
+41	7	Button	[892, 368, 330, 462]	[1057.0, 599.0]		|2, The Rest Is History, The Rest Is History, Goalhanger Podcasts
+40	7	Button	[1264, 368, 330, 462]	[1429.0, 599.0]		|3, The Diary Of A CEO with Steven Bartlett, The Diary Of A CEO with Steven Bartlett, DOAC
+39	7	Button	[1634, 368, 330, 462]	[1799.0, 599.0]		|4, The Rest Is Politics, The Rest Is Politics, Goalhanger Podcasts
+38	7	Button	[2006, 368, 42, 462]	[2027.0, 599.0]		|5, Off Menu with Ed Gamble and James Acaster, Off Menu with Ed Gamble and James Acaster, Plosive
+37	7	Button	[522, 894, 1446, 96]	[1245.0, 942.0]		|Top Episodes ￼
+36	7	Button	[442, 990, 80, 546]	[482.0, 1263.0]		|Previous page
+31	7	Group	[522, 990, 702, 228]	[873.0, 1104.0]		|Top Episodes
+35	31	Image	[522, 1010, 188, 188]	[616.0, 1104.0]		|Artwork
+34	31	GenericElement	[782, 1010, 444, 138]	[1004.0, 1079.0]		|4D AGO , 🅴, Question Time: An election in May, combatting homelessness, and investigating think tanks
+33	31	StaticText	[738, 1036, 14, 38]	[745.0, 1055.0]		|1
+32	31	Button	[782, 1150, 444, 52]	[1004.0, 1176.0]		|43 min
+26	7	Group	[522, 1258, 702, 228]	[873.0, 1372.0]		|Top Episodes
+30	26	Image	[522, 1278, 188, 188]	[616.0, 1372.0]		|Artwork
+29	26	GenericElement	[786, 1278, 440, 136]	[1006.0, 1346.0]		|2D AGO , 🅴, Ep 221: Elis James (Live in London)
+28	26	StaticText	[738, 1304, 18, 38]	[747.0, 1323.0]		|2
+27	26	Button	[786, 1414, 440, 52]	[1006.0, 1440.0]		|1h 12m
+25	7	Group	[522, 1526, 702, 10]	[873.0, 1531.0]		|Top Episodes
+20	7	Group	[1264, 990, 702, 228]	[1615.0, 1104.0]		|Top Episodes
+24	20	Image	[1264, 1010, 188, 188]	[1358.0, 1104.0]		|Artwork
+23	20	GenericElement	[1528, 1010, 438, 138]	[1747.0, 1079.0]		|22H AGO , 🅴, A Proper Title Race, United Showing Promise & The Lack Of English Coaches
+22	20	StaticText	[1480, 1036, 20, 38]	[1490.0, 1055.0]		|4
+21	20	Button	[1528, 1150, 438, 52]	[1747.0, 1176.0]		|53 min
+15	7	Group	[1264, 1258, 702, 228]	[1615.0, 1372.0]		|Top Episodes
+19	15	Image	[1264, 1278, 188, 188]	[1358.0, 1372.0]		|Artwork
+18	15	GenericElement	[1528, 1278, 440, 136]	[1748.0, 1346.0]		|3D AGO, Why is it so dangerous to be an MP?
+17	15	StaticText	[1480, 1304, 18, 38]	[1489.0, 1323.0]		|5
+16	15	Button	[1528, 1414, 440, 52]	[1748.0, 1440.0]		|34 min
+14	7	Group	[1264, 1526, 702, 10]	[1615.0, 1531.0]		|Top Episodes
+12	7	Group	[2008, 990, 40, 228]	[2028.0, 1104.0]		|Top Episodes
+13	12	Image	[2008, 1010, 40, 188]	[2028.0, 1104.0]		|Artwork
+10	7	Group	[2008, 1258, 40, 228]	[2028.0, 1372.0]		|Top Episodes
+11	10	Image	[2008, 1278, 40, 188]	[2028.0, 1372.0]		|Artwork
+9	7	Group	[2008, 1526, 40, 10]	[2028.0, 1531.0]		|Top Episodes
+8	7	Button	[1968, 990, 80, 546]	[2008.0, 1263.0]		|Next page
+2	1	Button	[68, 36, 28, 32]	[82.0, 52.0]		

@@ -1,0 +1,219 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 2400, 1632]	[1200.0, 816.0]		|
+212	1	TabGroup	[160, 0, 2240, 82]	[1280.0, 41.0]		|
+217	212	RadioButton	[160, 0, 512, 82]	[416.0, 41.0]	False	|What’s new - Memory usage - 153 MB
+218	217	Button	[588, 12, 56, 56]	[616.0, 40.0]		|Close
+215	212	RadioButton	[636, 0, 512, 82]	[892.0, 41.0]	True	|miyazaki hayao – Пошук Google - Memory usage - 213 MB
+216	215	Button	[1064, 12, 56, 56]	[1092.0, 40.0]		|Close
+214	212	Button	[1136, 0, 56, 82]	[1164.0, 41.0]		|New Tab
+213	212	PopUpButton	[2332, 0, 56, 82]	[2360.0, 41.0]		|Search tabs
+200	1	Toolbar	[0, 80, 2400, 92]	[1200.0, 126.0]		|
+211	200	Button	[10, 92, 68, 68]	[44.0, 126.0]		|Back
+210	200	Button	[82, 92, 68, 68]	[116.0, 126.0]		|Forward
+209	200	Button	[154, 92, 68, 68]	[188.0, 126.0]		|Reload
+205	200	Group	[240, 92, 1812, 68]	[1146.0, 126.0]		|
+208	205	PopUpButton	[250, 102, 48, 48]	[274.0, 126.0]		|View site information
+207	205	TextField	[314, 102, 1662, 48]	[1145.0, 126.0]	google.com/search?sca_esv=e1cf12f9f09085f6&rlz=1C5GCEM_enCZ1096&q=miyazaki+hayao&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjB4NG_-ZaEAxU3gv0HHfXxB5UQ0pQJegQIDRAB&biw=1200&bih=695&dpr=2	|Address and search bar
+206	205	Button	[1980, 102, 48, 48]	[2004.0, 126.0]		|Bookmark this tab
+204	200	PopUpButton	[2070, 92, 68, 68]	[2104.0, 126.0]		|Extensions
+203	200	Button	[2178, 92, 68, 68]	[2212.0, 126.0]		|Side panel
+202	200	Button	[2250, 92, 68, 68]	[2284.0, 126.0]		|You
+201	200	PopUpButton	[2322, 92, 68, 68]	[2356.0, 126.0]		|Chrome
+196	1	Toolbar	[0, 172, 2400, 68]	[1200.0, 206.0]		|Bookmarks
+199	196	Button	[12, 172, 134, 56]	[79.0, 200.0]		|Gmail
+198	196	Button	[162, 172, 164, 56]	[244.0, 200.0]		|YouTube
+197	196	Button	[342, 172, 130, 56]	[407.0, 200.0]		|Maps
+6	1	WebArea	[0, 242, 2400, 1390]	[1200.0, 937.0]		miyazaki hayao – Пошук Google|
+7	6	Group	[0, 242, 2400, 1390]	[1200.0, 937.0]		|
+195	7	Group	[0, 242, 2, 2]	[1.0, 243.0]		|
+164	7	Group	[0, 242, 2400, 150]	[1200.0, 317.0]		|
+193	164	Heading	[0, 276, 2, 4]	[1.0, 278.0]		Посилання для спеціальних можливостей|
+194	193	StaticText	[0, 276, 2, 4]	[1.0, 278.0]	Посилання для спеціальних можливостей	|
+165	164	Group	[0, 282, 2400, 104]	[1200.0, 334.0]		|
+166	165	Group	[0, 294, 2400, 92]	[1200.0, 340.0]		|
+179	166	Group	[0, 294, 1704, 92]	[852.0, 340.0]		|
+180	179	Group	[238, 294, 1466, 92]	[971.0, 340.0]		|
+190	180	Group	[506, 346, 1198, 40]	[1105.0, 366.0]		|
+191	190	Link	[0, 302, 286, 82]	[143.0, 343.0]		|Перейти на домашню сторінку Google
+192	191	Image	[50, 310, 180, 68]	[140.0, 344.0]		|
+189	180	ComboBox	[362, 306, 1068, 68]	[896.0, 340.0]	miyazaki hayao	|Пошук
+186	180	Button	[1430, 296, 88, 88]	[1474.0, 340.0]		|Скористайтеся голосовим пошуком
+187	186	Group	[1454, 316, 48, 48]	[1478.0, 340.0]		|
+188	187	Image	[1454, 316, 48, 48]	[1478.0, 340.0]		|
+184	180	Button	[1518, 296, 88, 88]	[1562.0, 340.0]		|Пошук за зображенням
+185	184	Image	[1542, 316, 48, 48]	[1566.0, 340.0]		|
+181	180	Button	[1614, 296, 88, 88]	[1658.0, 340.0]		|Пошук Google
+182	181	Group	[1622, 316, 48, 48]	[1646.0, 340.0]		|
+183	182	Image	[1622, 316, 48, 48]	[1646.0, 340.0]		|
+175	166	Group	[1980, 300, 96, 80]	[2028.0, 340.0]		|
+176	175	Group	[1980, 300, 80, 80]	[2020.0, 340.0]		|
+177	176	Button	[1980, 300, 80, 80]	[2020.0, 340.0]		|Швидкі налаштування
+178	177	Image	[1996, 316, 48, 48]	[2020.0, 340.0]		|
+167	166	Group	[2008, 292, 392, 96]	[2204.0, 340.0]		|
+168	167	Group	[2072, 292, 320, 96]	[2232.0, 340.0]		|
+171	168	Group	[2072, 292, 96, 96]	[2120.0, 340.0]		|
+172	171	Group	[2080, 300, 80, 80]	[2120.0, 340.0]		|
+173	172	Button	[2080, 300, 80, 80]	[2120.0, 340.0]		|Додатки Google
+174	173	Image	[2096, 316, 48, 48]	[2120.0, 340.0]		|
+169	168	Link	[2184, 304, 192, 72]	[2280.0, 340.0]		|Увійти
+170	169	StaticText	[2236, 322, 90, 36]	[2281.0, 340.0]	Увійти	|
+8	7	Group	[0, 372, 2400, 1260]	[1200.0, 1002.0]		|
+143	8	Group	[0, 386, 1680, 144]	[840.0, 458.0]		|
+146	143	Group	[0, 386, 1334, 144]	[667.0, 458.0]		|
+162	146	Heading	[320, 424, 2, 2]	[321.0, 425.0]		Фільтри й теми|
+163	162	StaticText	[320, 424, 2, 2]	[321.0, 425.0]	Фільтри й теми	|
+159	146	Link	[320, 418, 132, 80]	[386.0, 458.0]		|Усі
+161	159	Image	[340, 440, 38, 36]	[359.0, 458.0]		|
+160	159	StaticText	[386, 440, 38, 36]	[405.0, 458.0]	Усі	|
+157	146	Group	[464, 418, 222, 80]	[575.0, 458.0]		|
+158	157	StaticText	[490, 440, 166, 36]	[573.0, 458.0]	Зображення	|
+155	146	Link	[696, 418, 156, 80]	[774.0, 458.0]		|Новини
+156	155	StaticText	[722, 440, 100, 36]	[772.0, 458.0]	Новини	|
+153	146	Link	[864, 418, 130, 80]	[929.0, 458.0]		|Відео
+154	153	StaticText	[890, 440, 74, 36]	[927.0, 458.0]	Відео	|
+151	146	Link	[1004, 418, 136, 80]	[1072.0, 458.0]		|Карти
+152	151	StaticText	[1030, 440, 80, 36]	[1070.0, 458.0]	Карти	|
+147	146	PopUpButton	[1152, 386, 182, 128]	[1243.0, 450.0]		Більше фільтрів|
+148	147	Group	[1152, 418, 170, 80]	[1237.0, 458.0]		|Більше фільтрів
+150	148	Image	[1170, 442, 32, 32]	[1186.0, 458.0]		|
+149	148	StaticText	[1202, 440, 90, 36]	[1247.0, 458.0]	Більше	|
+144	143	Group	[1462, 398, 202, 120]	[1563.0, 458.0]		|
+145	144	PopUpButton	[1462, 418, 202, 80]	[1563.0, 458.0]		Інструменти|
+137	8	Group	[2066, 386, 310, 144]	[2221.0, 458.0]		|
+138	137	PopUpButton	[2066, 418, 310, 82]	[2221.0, 459.0]		Безпечний пошук|
+139	138	Group	[2086, 434, 282, 50]	[2227.0, 459.0]		|
+140	139	Group	[2086, 434, 280, 50]	[2226.0, 459.0]		|
+142	140	StaticText	[2086, 440, 232, 34]	[2202.0, 457.0]	Безпечний пошук	|
+141	140	Image	[2326, 436, 40, 42]	[2346.0, 457.0]		|
+103	8	Group	[0, 530, 2400, 162]	[1200.0, 611.0]		|
+104	103	Group	[0, 564, 2400, 128]	[1200.0, 628.0]		|
+105	104	Group	[0, 564, 2400, 128]	[1200.0, 628.0]		|
+108	105	Group	[0, 564, 2400, 128]	[1200.0, 628.0]		|
+109	108	Group	[40, 564, 2320, 96]	[1200.0, 612.0]		|
+135	109	Heading	[40, 598, 2, 4]	[41.0, 600.0]		Уточнення|
+136	135	StaticText	[40, 598, 2, 4]	[41.0, 600.0]	Уточнення	|
+110	109	List	[40, 564, 2360, 96]	[1220.0, 612.0]		|
+132	110	Group	[40, 564, 296, 96]	[188.0, 612.0]		|
+133	132	Link	[40, 564, 280, 96]	[180.0, 612.0]		|the heron
+134	133	StaticText	[158, 596, 128, 36]	[222.0, 614.0]	the heron	|
+129	110	Group	[336, 564, 274, 96]	[473.0, 612.0]		|
+130	129	Link	[336, 564, 258, 96]	[465.0, 612.0]		|boy and
+131	130	StaticText	[454, 596, 106, 36]	[507.0, 614.0]	boy and	|
+126	110	Group	[610, 564, 344, 96]	[782.0, 612.0]		|
+127	126	Link	[610, 564, 328, 96]	[774.0, 612.0]		|spirited away
+128	127	StaticText	[728, 596, 176, 36]	[816.0, 614.0]	spirited away	|
+123	110	Group	[954, 564, 250, 96]	[1079.0, 612.0]		|
+124	123	Link	[954, 564, 234, 96]	[1071.0, 612.0]		|studio
+125	124	StaticText	[1072, 596, 82, 36]	[1113.0, 614.0]	studio	|
+120	110	Group	[1204, 564, 312, 96]	[1360.0, 612.0]		|
+121	120	Link	[1204, 564, 296, 96]	[1352.0, 612.0]		|with hayao
+122	121	StaticText	[1322, 596, 144, 36]	[1394.0, 614.0]	with hayao	|
+117	110	Group	[1516, 564, 262, 96]	[1647.0, 612.0]		|
+118	117	Link	[1516, 564, 246, 96]	[1639.0, 612.0]		|movies
+119	118	StaticText	[1634, 596, 94, 36]	[1681.0, 614.0]	movies	|
+114	110	Group	[1776, 564, 278, 96]	[1915.0, 612.0]		|
+115	114	Link	[1776, 564, 262, 96]	[1907.0, 612.0]		|10 years
+116	115	StaticText	[1894, 596, 110, 36]	[1949.0, 614.0]	10 years	|
+111	110	Group	[2054, 564, 346, 96]	[2227.0, 612.0]		|
+112	111	Link	[2054, 564, 336, 96]	[2222.0, 612.0]		|miyazaki films
+113	112	StaticText	[2172, 596, 184, 36]	[2264.0, 614.0]	miyazaki films	|
+106	105	Button	[2328, 550, 72, 144]	[2364.0, 622.0]		|Наступні
+107	106	Image	[2332, 582, 68, 80]	[2366.0, 622.0]		|
+101	8	Heading	[0, 726, 2, 4]	[1.0, 728.0]		Результати пошуку|
+102	101	StaticText	[0, 726, 2, 4]	[1.0, 728.0]	Результати пошуку	|
+9	8	Group	[0, 692, 2400, 940]	[1200.0, 1162.0]		|
+10	9	Group	[0, 708, 2400, 924]	[1200.0, 1170.0]		|
+11	10	Group	[40, 708, 2320, 924]	[1200.0, 1170.0]		|
+12	11	Group	[40, 708, 2320, 924]	[1200.0, 1170.0]		|
+13	12	Group	[40, 708, 2320, 924]	[1200.0, 1170.0]		|
+14	13	Group	[40, 708, 2320, 924]	[1200.0, 1170.0]		|
+15	14	List	[40, 708, 2360, 924]	[1220.0, 1170.0]		|
+99	15	Heading	[40, 740, 2, 4]	[41.0, 742.0]		Результати пошуку зображень|
+100	99	StaticText	[40, 740, 2, 4]	[41.0, 742.0]	Результати пошуку зображень	|
+91	15	Group	[40, 708, 376, 444]	[228.0, 930.0]		|
+97	91	Heading	[40, 738, 2, 4]	[41.0, 740.0]		Hayao Miyazaki - Wikipedia|
+98	97	StaticText	[40, 738, 2, 4]	[41.0, 740.0]	Hayao Miyazaki - Wikipedia	|
+93	91	Button	[40, 708, 376, 360]	[228.0, 888.0]		Hayao Miyazaki - Wikipedia|
+95	93	Group	[44, 708, 368, 360]	[228.0, 888.0]		|
+96	95	Image	[44, 708, 368, 360]	[228.0, 888.0]		|Hayao Miyazaki - Wikipedia
+94	93	Group	[40, 708, 376, 360]	[228.0, 888.0]		|
+92	91	Link	[40, 1080, 376, 72]	[228.0, 1116.0]		|WikipediaHayao Miyazaki - Wikipedia
+80	15	Group	[456, 708, 608, 444]	[760.0, 930.0]		|
+89	80	Heading	[456, 738, 2, 4]	[457.0, 740.0]		Hayao Miyazaki - IMDb|
+90	89	StaticText	[456, 738, 2, 4]	[457.0, 740.0]	Hayao Miyazaki - IMDb	|
+82	80	Button	[456, 708, 608, 360]	[760.0, 888.0]		Hayao Miyazaki - IMDb Натисніть, щоб отримати інформацію про відео|
+87	82	Group	[460, 720, 600, 338]	[760.0, 889.0]		|
+88	87	Image	[460, 720, 600, 338]	[760.0, 889.0]		|Hayao Miyazaki - IMDb
+86	82	Group	[456, 708, 608, 360]	[760.0, 888.0]		|
+83	82	Group	[476, 1012, 42, 40]	[497.0, 1032.0]		|
+84	83	Group	[484, 1020, 26, 24]	[497.0, 1032.0]		|Натисніть, щоб отримати інформацію про відео
+85	84	Image	[478, 1018, 30, 30]	[493.0, 1033.0]		|
+81	80	Link	[456, 1080, 608, 72]	[760.0, 1116.0]		|IMDbHayao Miyazaki - IMDb
+72	15	Group	[1104, 708, 468, 444]	[1338.0, 930.0]		|
+78	72	Heading	[1104, 738, 2, 4]	[1105.0, 740.0]		Miyazaki Hayao | Biography, Movies, & Facts | Britannica|
+79	78	StaticText	[1104, 738, 2, 4]	[1105.0, 740.0]	Miyazaki Hayao | Biography, Movies, & Facts | Britannica	|
+74	72	Button	[1104, 708, 468, 360]	[1338.0, 888.0]		Miyazaki Hayao | Biography, Movies, & Facts | Britannica|
+76	74	Group	[1108, 708, 460, 360]	[1338.0, 888.0]		|
+77	76	Image	[1108, 708, 460, 360]	[1338.0, 888.0]		|Miyazaki Hayao | Biography, Movies, & Facts | Britannica
+75	74	Group	[1104, 708, 468, 360]	[1338.0, 888.0]		|
+73	72	Link	[1104, 1080, 468, 72]	[1338.0, 1116.0]		|BritannicaMiyazaki Hayao | Biography, Movies, & Facts | Britannica
+64	15	Group	[1612, 708, 350, 444]	[1787.0, 930.0]		|
+70	64	Heading	[1612, 738, 2, 4]	[1613.0, 740.0]		Hayao Miyazaki | Rotten Tomatoes|
+71	70	StaticText	[1612, 738, 2, 4]	[1613.0, 740.0]	Hayao Miyazaki | Rotten Tomatoes	|
+66	64	Button	[1612, 708, 350, 360]	[1787.0, 888.0]		Hayao Miyazaki | Rotten Tomatoes|
+68	66	Group	[1616, 708, 342, 360]	[1787.0, 888.0]		|
+69	68	Image	[1616, 708, 342, 360]	[1787.0, 888.0]		|Hayao Miyazaki | Rotten Tomatoes
+67	66	Group	[1612, 708, 350, 360]	[1787.0, 888.0]		|
+65	64	Link	[1612, 1080, 350, 72]	[1787.0, 1116.0]		|Rotten TomatoesHayao Miyazaki | Rotten Tomatoes
+56	15	Group	[2002, 708, 358, 444]	[2181.0, 930.0]		|
+62	56	Heading	[2002, 738, 2, 4]	[2003.0, 740.0]		Hayao Miyazaki - IMDb|
+63	62	StaticText	[2002, 738, 2, 4]	[2003.0, 740.0]	Hayao Miyazaki - IMDb	|
+58	56	Button	[2002, 708, 358, 360]	[2181.0, 888.0]		Hayao Miyazaki - IMDb|
+60	58	Group	[2008, 708, 348, 360]	[2182.0, 888.0]		|
+61	60	Image	[2008, 708, 348, 360]	[2182.0, 888.0]		|Hayao Miyazaki - IMDb
+59	58	Group	[2002, 708, 358, 360]	[2181.0, 888.0]		|
+57	56	Link	[2002, 1080, 358, 72]	[2181.0, 1116.0]		|IMDbHayao Miyazaki - IMDb
+48	15	Group	[40, 1192, 560, 440]	[320.0, 1412.0]		|
+54	48	Heading	[40, 1222, 2, 4]	[41.0, 1224.0]		Hayao Miyazaki - IMDb|
+55	54	StaticText	[40, 1222, 2, 4]	[41.0, 1224.0]	Hayao Miyazaki - IMDb	|
+50	48	Button	[40, 1192, 560, 360]	[320.0, 1372.0]		Hayao Miyazaki - IMDb|
+52	50	Group	[40, 1204, 560, 338]	[320.0, 1373.0]		|
+53	52	Image	[40, 1204, 560, 338]	[320.0, 1373.0]		|Hayao Miyazaki - IMDb
+51	50	Group	[40, 1192, 560, 360]	[320.0, 1372.0]		|
+49	48	Link	[40, 1564, 560, 68]	[320.0, 1598.0]		|IMDbHayao Miyazaki - IMDb
+40	15	Group	[640, 1192, 526, 440]	[903.0, 1412.0]		|
+46	40	Heading	[640, 1222, 2, 4]	[641.0, 1224.0]		Every Studio Ghibli Movie From Hayao Miyazaki in Chronological Order|
+47	46	StaticText	[640, 1222, 2, 4]	[641.0, 1224.0]	Every Studio Ghibli Movie From Hayao Miyazaki in Chronological Order	|
+42	40	Button	[640, 1192, 526, 360]	[903.0, 1372.0]		Every Studio Ghibli Movie From Hayao Miyazaki in Chronological Order|
+44	42	Group	[640, 1204, 526, 338]	[903.0, 1373.0]		|
+45	44	Image	[640, 1204, 526, 338]	[903.0, 1373.0]		|Every Studio Ghibli Movie From Hayao Miyazaki in Chronological Order
+43	42	Group	[640, 1192, 526, 360]	[903.0, 1372.0]		|
+41	40	Link	[640, 1564, 526, 68]	[903.0, 1598.0]		|VarietyEvery Studio Ghibli Movie From Hayao Miyazaki in Chronological Order
+32	15	Group	[1206, 1192, 416, 440]	[1414.0, 1412.0]		|
+38	32	Heading	[1206, 1222, 2, 4]	[1207.0, 1224.0]		LEGEND / Hayao Miyazaki's Anime Works Span Decades, Touch Hearts Worldwide - The Japan News|
+39	38	StaticText	[1206, 1222, 2, 4]	[1207.0, 1224.0]	LEGEND / Hayao Miyazaki's Anime Works Span Decades, Touch Hearts Worldwide - The Japan News	|
+34	32	Button	[1206, 1192, 416, 360]	[1414.0, 1372.0]		LEGEND / Hayao Miyazaki's Anime Works Span Decades, Touch Hearts Worldwide - The Japan News|
+36	34	Group	[1206, 1192, 416, 360]	[1414.0, 1372.0]		|
+37	36	Image	[1206, 1192, 416, 360]	[1414.0, 1372.0]		|LEGEND / Hayao Miyazaki's Anime Works Span Decades, Touch Hearts Worldwide - The Japan News
+35	34	Group	[1206, 1192, 416, 360]	[1414.0, 1372.0]		|
+33	32	Link	[1206, 1564, 416, 68]	[1414.0, 1598.0]		|The Japan NewsLEGEND / Hayao Miyazaki's Anime Works Span Decades, Touch Hearts Worldwide - The Japan News
+24	15	Group	[1662, 1192, 290, 440]	[1807.0, 1412.0]		|
+30	24	Heading	[1662, 1222, 2, 4]	[1663.0, 1224.0]		Hajao Mijazaki – Wikipedie|
+31	30	StaticText	[1662, 1222, 2, 4]	[1663.0, 1224.0]	Hajao Mijazaki – Wikipedie	|
+26	24	Button	[1662, 1192, 290, 360]	[1807.0, 1372.0]		Hajao Mijazaki – Wikipedie|
+28	26	Group	[1666, 1192, 282, 360]	[1807.0, 1372.0]		|
+29	28	Image	[1666, 1192, 282, 360]	[1807.0, 1372.0]		|Hajao Mijazaki – Wikipedie
+27	26	Group	[1662, 1192, 290, 360]	[1807.0, 1372.0]		|
+25	24	Link	[1662, 1564, 290, 68]	[1807.0, 1598.0]		|WikipedieHajao Mijazaki – Wikipedie
+16	15	Group	[1992, 1192, 368, 440]	[2176.0, 1412.0]		|
+22	16	Heading	[1992, 1222, 2, 4]	[1993.0, 1224.0]		I'm really serious this time!': have Hayao Miyazaki and Studio Ghibli made their final masterpiece? | Studio Ghibli | The Guardian|
+23	22	StaticText	[1992, 1222, 2, 4]	[1993.0, 1224.0]	I'm really serious this time!': have Hayao Miyazaki and Studio Ghibli made their final masterpiece? | Studio Ghibli | The Guardian	|
+18	16	Button	[1992, 1192, 368, 360]	[2176.0, 1372.0]		I'm really serious this time!': have Hayao Miyazaki and Studio Ghibli made their final masterpiece? | Studio Ghibli | The Guardian|
+20	18	Group	[1992, 1192, 368, 360]	[2176.0, 1372.0]		|
+21	20	Image	[1992, 1192, 368, 360]	[2176.0, 1372.0]		|I'm really serious this time!': have Hayao Miyazaki and Studio Ghibli made their final masterpiece? | Studio Ghibli | The Guardian
+19	18	Group	[1992, 1192, 368, 360]	[2176.0, 1372.0]		|
+17	16	Link	[1992, 1564, 368, 68]	[2176.0, 1598.0]		|The GuardianI'm really serious this time!': have Hayao Miyazaki and Studio Ghibli made their final masterpiece? | Studio Ghibli | The Guardian
+4	1	PopUpButton	[922, 256, 304, 74]	[1074.0, 293.0]	Bookmarks	|Side panel selector
+5	4	Button	[922, 256, 304, 74]	[1074.0, 293.0]		|
+3	1	Button	[2310, 266, 56, 56]	[2338.0, 294.0]		|Close
+2	1	Splitter	[888, 242, 34, 1390]	[905.0, 937.0]		|

@@ -1,0 +1,58 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1770, 1000]	[885.0, 500.0]		BetterTouchTool Configuration
+52	1	Button	[150, 50, 70, 34]	[185.0, 67.0]		<<<
+51	1	Button	[2, 926, 76, 74]	[40.0, 963.0]		
+50	1	Button	[64, 926, 76, 74]	[102.0, 963.0]		
+39	1	ScrollArea	[0, 94, 370, 836]	[185.0, 512.0]		
+40	39	Table	[0, 94, 370, 836]	[185.0, 512.0]		
+46	40	Row	[0, 94, 370, 52]	[185.0, 120.0]		
+47	46	Cell	[2, 96, 360, 48]	[182.0, 120.0]		
+49	47	Image	[16, 100, 38, 38]	[35.0, 119.0]		|network
+48	47	StaticText	[62, 106, 296, 28]	[210.0, 120.0]	All Apps	
+42	40	Row	[0, 146, 370, 52]	[185.0, 172.0]		
+43	42	Cell	[2, 148, 360, 48]	[182.0, 172.0]		
+45	43	Image	[16, 152, 38, 38]	[35.0, 171.0]		|
+44	43	StaticText	[62, 158, 296, 28]	[210.0, 172.0]	Finder	
+41	40	Column	[0, 94, 366, 836]	[183.0, 512.0]		
+30	1	Group	[370, 0, 1400, 94]	[1070.0, 47.0]		
+38	30	Button	[372, 20, 80, 64]	[412.0, 52.0]		|Back
+37	30	PopUpButton	[438, 28, 476, 50]	[676.0, 53.0]	 ◦ Touch Bar	
+36	30	Button	[1644, 0, 92, 96]	[1690.0, 48.0]		|action
+35	30	CheckBox	[1392, 28, 236, 34]	[1510.0, 45.0]	0	Preset: Default ▾
+34	30	Button	[908, 20, 298, 64]	[1057.0, 52.0]		Touch Bar Settings
+31	30	RadioGroup	[1208, 26, 158, 48]	[1287.0, 50.0]	<AXUIElement 0x137ef2b50> {pid=18369}	
+33	31	RadioButton	[1208, 26, 74, 48]	[1245.0, 50.0]	1	|column view
+32	31	RadioButton	[1282, 26, 72, 48]	[1318.0, 50.0]	0	|list view
+2	1	SplitGroup	[370, 94, 1400, 906]	[1070.0, 547.0]		
+21	2	ScrollArea	[370, 94, 940, 836]	[840.0, 512.0]		
+22	21	Table	[370, 150, 940, 780]	[840.0, 540.0]		
+26	22	Row	[370, 150, 940, 468]	[840.0, 384.0]		
+27	26	Cell	[370, 150, 940, 468]	[840.0, 384.0]		
+29	27	Button	[774, 480, 120, 120]	[834.0, 540.0]		+
+28	27	StaticText	[408, 322, 852, 128]	[834.0, 386.0]	"Add first Touch Bar Button/Widget for
+ Finder"	
+25	22	Column	[370, 150, 940, 780]	[840.0, 540.0]		
+23	22	Group	[370, 94, 940, 56]	[840.0, 122.0]		
+24	23	Button	[370, 94, 940, 56]	[840.0, 122.0]		Groups & Top Level Triggers
+20	2	Button	[388, 940, 56, 56]	[416.0, 968.0]		
+19	2	Image	[1326, 182, 80, 80]	[1366.0, 222.0]		|
+18	2	StaticText	[1422, 114, 298, 96]	[1571.0, 162.0]	"Finder
+(App Specific Settings)"	
+17	2	StaticText	[1422, 212, 326, 120]	[1585.0, 272.0]	Advanced options to override specific BTT functionality for the selected app.	
+16	2	Button	[1636, 98, 128, 34]	[1700.0, 115.0]		
+3	2	ScrollArea	[1310, 352, 460, 648]	[1540.0, 676.0]		
+15	3	StaticText	[1324, 362, 148, 32]	[1398.0, 378.0]	For Finder:	
+14	3	CheckBox	[1326, 410, 422, 56]	[1537.0, 438.0]	0	"Disable Single Finger Scrolling
+(Magic Mouse)"
+13	3	CheckBox	[1326, 482, 422, 56]	[1537.0, 510.0]	0	"Disable Single Finger Horizontal
+Scrolling (Magic Mouse)"
+12	3	CheckBox	[1326, 552, 422, 32]	[1537.0, 568.0]	0	Disable Window Snapping
+11	3	CheckBox	[1326, 596, 422, 32]	[1537.0, 612.0]	0	Disable Drawings / Mouse Gestures
+10	3	CheckBox	[1326, 640, 422, 32]	[1537.0, 656.0]	0	Disable AX Observation (advanced)
+9	3	CheckBox	[1326, 684, 422, 32]	[1537.0, 700.0]	0	Disable Clipboard Manager
+8	3	CheckBox	[1326, 728, 422, 32]	[1537.0, 744.0]	0	Disable BetterTouchTool completely
+7	3	CheckBox	[1326, 774, 422, 56]	[1537.0, 802.0]	0	"Shortcut Sending Compatibility
+Mode"
+6	3	StaticText	[1324, 866, 136, 32]	[1392.0, 882.0]	Touch Bar	
+5	3	StaticText	[1324, 916, 438, 64]	[1543.0, 948.0]	Touch Bar Configuration For:  (Finder)	
+4	3	PopUpButton	[1314, 994, 452, 6]	[1540.0, 997.0]	Default (No Special Handling)	

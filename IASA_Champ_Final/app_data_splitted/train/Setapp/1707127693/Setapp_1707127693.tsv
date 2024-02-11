@@ -1,0 +1,101 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2200, 1280]	[1100.0, 640.0]		
+55	1	Table	[20, 170, 350, 760]	[195.0, 550.0]		|Application categories
+97	55	Row	[20, 170, 350, 80]	[195.0, 210.0]		
+98	97	Cell	[32, 170, 326, 80]	[195.0, 210.0]		
+100	98	Image	[38, 182, 32, 32]	[54.0, 198.0]		|Discover
+99	98	StaticText	[88, 182, 152, 32]	[164.0, 198.0]	My Explorer	
+93	55	Row	[20, 250, 350, 80]	[195.0, 290.0]		
+94	93	Cell	[32, 250, 326, 80]	[195.0, 290.0]		
+96	94	Image	[38, 262, 32, 32]	[54.0, 278.0]		|Favorites
+95	94	StaticText	[88, 262, 118, 32]	[147.0, 278.0]	Favorites	
+89	55	Row	[20, 330, 350, 80]	[195.0, 370.0]		
+90	89	Cell	[32, 330, 326, 80]	[195.0, 370.0]		
+92	90	Image	[38, 342, 32, 32]	[54.0, 358.0]		|OnThisMac
+91	90	StaticText	[88, 342, 160, 32]	[168.0, 358.0]	On This Mac	
+85	55	Row	[20, 410, 350, 80]	[195.0, 450.0]		
+86	85	Cell	[32, 410, 326, 80]	[195.0, 450.0]		
+88	86	Image	[38, 422, 32, 32]	[54.0, 438.0]		|Collections
+87	86	StaticText	[88, 422, 144, 32]	[160.0, 438.0]	Collections	
+81	55	Row	[20, 490, 350, 80]	[195.0, 530.0]		
+82	81	Cell	[32, 490, 326, 80]	[195.0, 530.0]		
+84	82	Image	[38, 502, 32, 32]	[54.0, 518.0]		|How Tos
+83	82	StaticText	[88, 502, 110, 32]	[143.0, 518.0]	How-tos	
+77	55	Row	[20, 570, 350, 80]	[195.0, 610.0]		
+78	77	Cell	[32, 570, 326, 80]	[195.0, 610.0]		
+80	78	Image	[38, 582, 32, 32]	[54.0, 598.0]		|Tutorials
+79	78	StaticText	[88, 582, 148, 32]	[162.0, 598.0]	App Guides	
+73	55	Row	[20, 650, 350, 56]	[195.0, 678.0]		
+74	73	Cell	[32, 650, 326, 56]	[195.0, 678.0]		
+76	74	Image	[38, 662, 32, 32]	[54.0, 678.0]		|AllApps
+75	74	StaticText	[88, 662, 108, 32]	[142.0, 678.0]	All Apps	
+69	55	Row	[20, 706, 350, 56]	[195.0, 734.0]		
+70	69	Cell	[32, 706, 326, 56]	[195.0, 734.0]		
+72	70	Image	[38, 718, 32, 32]	[54.0, 734.0]		|
+71	70	StaticText	[88, 718, 116, 32]	[146.0, 734.0]	Optimize	
+65	55	Row	[20, 762, 350, 56]	[195.0, 790.0]		
+66	65	Cell	[32, 762, 326, 56]	[195.0, 790.0]		
+68	66	Image	[38, 774, 32, 32]	[54.0, 790.0]		|
+67	66	StaticText	[88, 774, 70, 32]	[123.0, 790.0]	Work	
+61	55	Row	[20, 818, 350, 56]	[195.0, 846.0]		
+62	61	Cell	[32, 818, 326, 56]	[195.0, 846.0]		
+64	62	Image	[38, 830, 32, 32]	[54.0, 846.0]		|
+63	62	StaticText	[88, 830, 88, 32]	[132.0, 846.0]	Create	
+57	55	Row	[20, 874, 350, 56]	[195.0, 902.0]		
+58	57	Cell	[32, 874, 326, 56]	[195.0, 902.0]		
+60	58	Image	[38, 886, 32, 32]	[54.0, 902.0]		|
+59	58	StaticText	[88, 886, 106, 32]	[141.0, 902.0]	Develop	
+56	55	Column	[20, 170, 350, 760]	[195.0, 550.0]		
+53	1	Unknown	[332, 38, 28, 32]	[346.0, 54.0]		|Forward
+54	53	Image	[336, 38, 20, 32]	[346.0, 54.0]		|
+51	1	Unknown	[276, 38, 28, 32]	[290.0, 54.0]		|Back
+52	51	Image	[280, 38, 20, 32]	[290.0, 54.0]		|NavigationArrow
+13	1	Group	[390, 10, 1800, 1260]	[1290.0, 640.0]		
+14	13	Group	[390, 152, 1800, 1108]	[1290.0, 706.0]		
+15	14	Group	[390, 152, 1800, 1108]	[1290.0, 706.0]		
+16	15	ScrollArea	[390, 152, 1800, 1108]	[1290.0, 706.0]		|
+18	16	WebArea	[390, 152, 1800, 1128]	[1290.0, 716.0]		|How to test API endpoints with Clobbr
+22	18	Group	[570, 152, 1440, 1128]	[1290.0, 716.0]		|
+47	22	Group	[570, 232, 1440, 80]	[1290.0, 272.0]		|
+49	47	Heading	[570, 232, 168, 80]	[654.0, 272.0]	1	Clobbr|
+50	49	StaticText	[570, 236, 168, 72]	[654.0, 272.0]	Clobbr	|
+48	47	Button	[1814, 240, 198, 64]	[1913.0, 272.0]		Copy link|
+23	22	Group	[570, 344, 1440, 936]	[1290.0, 812.0]		|
+45	23	Group	[570, 344, 1440, 40]	[1290.0, 364.0]		|
+46	45	StaticText	[570, 346, 444, 34]	[792.0, 363.0]	No-nonsense API endpoint testing	|
+43	23	Group	[570, 424, 1440, 120]	[1290.0, 484.0]		|
+44	43	StaticText	[570, 426, 1440, 114]	[1290.0, 483.0]	Our devs at Setapp love this app for a reason. Meet Clobbr, a powerful yet easy-to-use tool to load- and speed-test your API endpoints. Clobbr stores your data locally, doesn't require an account, and looks delightful. What more could we ask for?	|
+33	23	Link	[570, 604, 514, 160]	[827.0, 684.0]		Clobbr Load test API endpoints Clobbr 90 % Mac|
+42	33	Image	[570, 604, 160, 160]	[650.0, 684.0]		|Clobbr
+40	33	Group	[760, 610, 294, 36]	[907.0, 628.0]		|
+41	40	StaticText	[760, 612, 296, 32]	[908.0, 628.0]	Load test API endpoints	|
+38	33	Group	[760, 652, 294, 34]	[907.0, 669.0]		|
+39	38	StaticText	[760, 652, 82, 32]	[801.0, 668.0]	Clobbr	|
+35	33	Group	[800, 716, 72, 36]	[836.0, 734.0]		|
+37	35	StaticText	[800, 718, 32, 32]	[816.0, 734.0]	90	|
+36	35	StaticText	[830, 718, 24, 32]	[842.0, 734.0]	%	|
+34	33	StaticText	[884, 718, 52, 32]	[910.0, 734.0]	Mac	|
+30	23	Link	[1816, 638, 194, 52]	[1913.0, 664.0]		View app|
+31	30	Group	[1856, 646, 114, 36]	[1913.0, 664.0]		|
+32	31	StaticText	[1856, 648, 114, 32]	[1913.0, 664.0]	View app	|
+28	23	Heading	[570, 884, 1440, 56]	[1290.0, 912.0]	5	Paste a URL, configure, go|
+29	28	StaticText	[570, 888, 472, 46]	[806.0, 911.0]	Paste a URL, configure, go	|
+26	23	Group	[570, 960, 1440, 120]	[1290.0, 1020.0]		|
+27	26	StaticText	[570, 962, 1426, 114]	[1283.0, 1019.0]	Whether you're testing REST, GraphQL, or cloud functions, Clobbr will do the job. Simply enter a URL, tweak the options, and start testing. You can quickly switch between parallel and sequence testing, change the HTTP method, set timeouts and the number of iterations.	|
+24	23	Group	[570, 1120, 1440, 160]	[1290.0, 1200.0]		|
+25	24	Group	[570, 1120, 1440, 160]	[1290.0, 1200.0]		|
+19	18	ScrollArea	[390, 152, 2, 2]	[391.0, 153.0]		|
+21	19	WebArea	[390, 152, 2, 16]	[391.0, 160.0]		|
+20	19	ScrollBar	[360, 152, 32, 2]	[376.0, 153.0]	0.0	|
+17	16	ScrollBar	[2158, 152, 32, 1108]	[2174.0, 706.0]	0.0	|
+11	1	Button	[2090, 14, 96, 96]	[2138.0, 62.0]		|Your account picture
+12	11	Image	[2090, 50, 60, 60]	[2120.0, 80.0]		
+9	1	Link	[1704, 64, 220, 32]	[1814.0, 80.0]		|Team member
+10	9	StaticText	[1744, 64, 180, 32]	[1834.0, 80.0]	Team member	
+6	1	Button	[1964, 58, 46, 46]	[1987.0, 81.0]		
+8	6	Image	[1964, 58, 46, 46]	[1987.0, 81.0]		|NotificationsIcon
+7	6	StaticText	[1982, 48, 44, 28]	[2004.0, 62.0]	24	
+4	1	Group	[742, 0, 186, 108]	[835.0, 54.0]		
+5	4	Button	[740, 50, 192, 60]	[836.0, 80.0]		|AI Assistant
+2	1	Group	[490, 36, 190, 88]	[585.0, 80.0]		
+3	2	TextField	[546, 62, 130, 38]	[611.0, 81.0]		|Setapp application search

@@ -1,0 +1,11 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1120, 1360]	[560.0, 680.0]		Welcome
+3	1	ScrollArea	[0, 192, 1120, 764]	[560.0, 574.0]		
+10	3	StaticText	[66, 192, 912, 120]	[522.0, 252.0]	Choose the main purpose of your journal for a personalized experience:	
+9	3	StaticText	[120, 370, 714, 42]	[477.0, 391.0]	🌱 Foster self-improvement and self-discovery.	
+8	3	StaticText	[120, 468, 712, 42]	[476.0, 489.0]	🧘 Practice mindfulness and live in the present.	
+7	3	StaticText	[120, 566, 792, 42]	[516.0, 587.0]	📓 Document your everyday moments and thoughts.	
+6	3	StaticText	[120, 664, 578, 42]	[409.0, 685.0]	😌 Reflect and cultivate mental health.	
+5	3	StaticText	[120, 762, 880, 42]	[560.0, 783.0]	🌍 Capture memories and experiences from your journeys.	
+4	3	StaticText	[120, 860, 634, 42]	[437.0, 881.0]	✅ Set, track, and celebrate your progress.	
+2	1	Button	[808, 1214, 246, 80]	[931.0, 1254.0]		Continue

@@ -1,0 +1,64 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1360]	[800.0, 680.0]		OpenIn Settings
+23	1	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+24	23	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+25	24	ScrollArea	[0, 160, 1600, 1200]	[800.0, 760.0]		
+62	25	Heading	[60, 200, 64, 32]	[92.0, 216.0]		|Build
+58	25	Group	[34, 248, 1532, 84]	[800.0, 290.0]		
+61	58	StaticText	[60, 272, 56, 32]	[88.0, 288.0]	4.1.5	
+60	58	StaticText	[116, 272, 118, 32]	[175.0, 288.0]	 (221064)	
+59	58	StaticText	[236, 272, 160, 32]	[316.0, 288.0]	 Setapp build	
+57	25	Heading	[60, 388, 174, 32]	[147.0, 404.0]		|Configuration
+56	25	Button	[1500, 384, 40, 40]	[1520.0, 404.0]		|Help
+51	25	Group	[34, 440, 1532, 158]	[800.0, 519.0]		
+55	51	StaticText	[60, 464, 156, 32]	[138.0, 480.0]	Start at login	
+54	51	CheckBox	[1488, 466, 52, 30]	[1514.0, 481.0]	0	
+53	51	StaticText	[60, 538, 246, 32]	[183.0, 554.0]	Show menu bar icon	
+52	51	CheckBox	[1488, 540, 52, 30]	[1514.0, 555.0]	1	
+50	25	Heading	[60, 650, 162, 32]	[141.0, 666.0]		|Notifications
+47	25	Group	[34, 698, 1532, 84]	[800.0, 740.0]		
+49	47	StaticText	[60, 722, 598, 32]	[359.0, 738.0]	Check that OpenIn is a default app in background	
+48	47	CheckBox	[1488, 724, 52, 30]	[1514.0, 739.0]	0	
+46	25	Heading	[60, 834, 92, 32]	[106.0, 850.0]		|History
+43	25	Group	[34, 882, 1532, 84]	[800.0, 924.0]		
+45	43	StaticText	[60, 906, 456, 32]	[288.0, 922.0]	Store history of opened links and files	
+44	43	PopUpButton	[1398, 904, 142, 40]	[1469.0, 924.0]	Month	
+42	25	Heading	[60, 1018, 276, 32]	[198.0, 1034.0]		|App selection window
+34	25	Group	[34, 1066, 1532, 158]	[800.0, 1145.0]		
+41	34	StaticText	[60, 1090, 552, 32]	[336.0, 1106.0]	Always show the Window (even with one app)	
+40	34	CheckBox	[1488, 1092, 52, 30]	[1514.0, 1107.0]	0	
+35	34	RadioGroup	[60, 1164, 1480, 32]	[800.0, 1180.0]		
+39	35	StaticText	[60, 1164, 110, 32]	[115.0, 1180.0]	Icon Size	
+38	35	RadioButton	[1130, 1164, 104, 32]	[1182.0, 1180.0]	1	|Small
+37	35	RadioButton	[1266, 1164, 134, 32]	[1333.0, 1180.0]	0	|Medium
+36	35	RadioButton	[1432, 1164, 106, 32]	[1485.0, 1180.0]	0	|Large
+33	25	Heading	[60, 1276, 206, 32]	[163.0, 1292.0]		|Developer Mode
+30	25	Group	[34, 1324, 1532, 36]	[800.0, 1342.0]		
+32	30	StaticText	[60, 1348, 256, 12]	[188.0, 1354.0]	Store JavaScript logs	
+31	30	CheckBox	[1488, 1350, 52, 10]	[1514.0, 1355.0]	0	
+26	25	ScrollBar	[1568, 160, 32, 1200]	[1584.0, 760.0]	0.0	
+29	26	ValueIndicator	[1576, 162, 24, 1120]	[1588.0, 722.0]	0.0	
+28	26	Button	[1576, 1284, 24, 76]	[1588.0, 1322.0]		
+27	26	Button	[1576, 160, 24, 2]	[1588.0, 161.0]		
+15	1	Toolbar	[0, 56, 1600, 104]	[800.0, 108.0]		
+22	15	Button	[388, 56, 110, 104]	[443.0, 108.0]		General
+21	15	Button	[500, 56, 120, 104]	[560.0, 108.0]		Browsers
+20	15	Button	[624, 56, 124, 104]	[686.0, 108.0]		Mail apps
+19	15	Button	[750, 56, 120, 104]	[810.0, 108.0]		Call apps
+18	15	Button	[874, 56, 110, 104]	[929.0, 108.0]		Files
+17	15	Button	[986, 56, 114, 104]	[1043.0, 108.0]		Backups
+16	15	Button	[1102, 56, 110, 104]	[1157.0, 108.0]		About
+13	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+14	13	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+12	1	StaticText	[692, 10, 218, 32]	[801.0, 26.0]	OpenIn Settings	
+2	1	Sheet	[0, 160, 1600, 1200]	[800.0, 760.0]		
+3	2	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+4	3	ScrollArea	[0, 160, 1600, 1200]	[800.0, 760.0]		
+11	4	Heading	[736, 200, 128, 128]	[800.0, 264.0]		|AppIcon
+9	4	Group	[34, 344, 1532, 84]	[800.0, 386.0]		
+10	9	StaticText	[60, 368, 700, 32]	[410.0, 384.0]	OpenIn have found some issues that you might want to fix	
+8	4	Heading	[370, 480, 860, 64]	[800.0, 512.0]		"|There are some handlers that are assigned to a different OpenIn app
+(previous version or Setapp / App Store version)"
+6	4	Group	[34, 560, 1532, 84]	[800.0, 602.0]		
+7	6	StaticText	[60, 584, 202, 32]	[161.0, 600.0]	Scheme https:	
+5	4	Button	[1402, 658, 140, 32]	[1472.0, 674.0]		|Try to fix all

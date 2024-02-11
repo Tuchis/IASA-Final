@@ -1,0 +1,111 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2084, 1400]	[1042.0, 700.0]		Choose a Project
+7	1	SplitGroup	[0, 0, 2084, 1400]	[1042.0, 700.0]		
+68	7	ScrollArea	[0, 56, 440, 1344]	[220.0, 728.0]		
+69	68	Outline	[2, 56, 436, 1342]	[220.0, 727.0]		
+91	69	Row	[2, 56, 436, 8]	[220.0, 60.0]		
+92	91	Cell	[22, 56, 396, 8]	[220.0, 60.0]		
+87	69	Row	[2, 64, 436, 56]	[220.0, 92.0]		
+88	87	Cell	[22, 64, 396, 56]	[220.0, 92.0]		
+90	88	Image	[40, 76, 28, 32]	[54.0, 92.0]	<NSImage 0x60000329e620 Size={14, 16} RepProvider=<NSImageSymbolRepProvider: 0x600000e96400> symbol = doc>	|document
+89	88	StaticText	[78, 76, 328, 32]	[242.0, 92.0]	New Project	
+83	69	Row	[2, 120, 436, 56]	[220.0, 148.0]		
+84	83	Cell	[22, 120, 396, 56]	[220.0, 148.0]		
+86	84	Image	[38, 134, 30, 30]	[53.0, 149.0]	<NSImage 0x60000329c5a0 Size={15, 15} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8960> symbol = clock>	|clock
+85	84	StaticText	[78, 132, 328, 32]	[242.0, 148.0]	Recent	
+79	69	Row	[2, 176, 436, 56]	[220.0, 204.0]		
+80	79	Cell	[22, 176, 396, 56]	[220.0, 204.0]		
+82	80	Image	[38, 190, 30, 28]	[53.0, 204.0]	<NSImage 0x60000329e940 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea9650> symbol = Glyphs/music.note.square>	|
+81	80	StaticText	[78, 188, 328, 32]	[242.0, 204.0]	Learn to Play	
+75	69	Row	[2, 232, 436, 56]	[220.0, 260.0]		
+76	75	Cell	[22, 232, 396, 56]	[220.0, 260.0]		
+78	76	Image	[38, 246, 30, 28]	[53.0, 260.0]	<NSImage 0x60000329f160 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8c00> symbol = star.square>	|favourite
+77	76	StaticText	[78, 244, 328, 32]	[242.0, 260.0]	Lesson Store	
+71	69	Row	[2, 288, 436, 56]	[220.0, 316.0]		
+72	71	Cell	[22, 288, 396, 56]	[220.0, 316.0]		
+74	72	Image	[36, 302, 36, 28]	[54.0, 316.0]	<NSImage 0x60000323a8a0 Size={18, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000eb4270> symbol = folder>	|move
+73	72	StaticText	[78, 300, 328, 32]	[242.0, 316.0]	Project Templates	
+70	69	Column	[22, 56, 396, 1342]	[220.0, 727.0]		
+67	7	Splitter	[440, 56, 2, 1344]	[441.0, 728.0]	220.0	
+8	7	Group	[442, 0, 1642, 1400]	[1263.0, 700.0]		
+26	8	ScrollArea	[442, 56, 1642, 810]	[1263.0, 461.0]		
+27	26	List	[442, 56, 1642, 810]	[1263.0, 461.0]		
+28	27	List	[506, 90, 776, 580]	[894.0, 380.0]		
+61	28	Group	[506, 90, 376, 268]	[694.0, 224.0]		
+66	61	Group	[544, 90, 300, 196]	[694.0, 188.0]		
+63	61	Group	[544, 90, 300, 196]	[694.0, 188.0]		
+65	63	Image	[544, 90, 300, 196]	[694.0, 188.0]	"<NSImage 0x60000323a080 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x6000001b7640, reps:(
+    ""NSBitmapImageRep 0x600006883e20 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x6000004be240"",
+    ""NSBitmapImageRep 0x600006899260 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c736c20> CGImageSource=0x6000004be240""
+)>>"	|
+64	63	Button	[544, 90, 300, 196]	[694.0, 188.0]		
+62	61	StaticText	[556, 310, 276, 32]	[694.0, 326.0]	Keyboard Collection	
+55	28	Group	[906, 90, 376, 268]	[1094.0, 224.0]		
+60	55	Group	[944, 90, 300, 196]	[1094.0, 188.0]		
+57	55	Group	[944, 90, 300, 196]	[1094.0, 188.0]		
+59	57	Image	[944, 90, 300, 196]	[1094.0, 188.0]	"<NSImage 0x60000329f480 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x6000001b1e20, reps:(
+    ""NSBitmapImageRep 0x600002a69e30 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000042c700"",
+    ""NSBitmapImageRep 0x600002a69110 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c7362a0> CGImageSource=0x60000042c700""
+)>>"	|
+58	57	Button	[944, 90, 300, 196]	[1094.0, 188.0]		
+56	55	StaticText	[986, 310, 214, 32]	[1093.0, 326.0]	Amp Collection	
+49	28	Group	[1306, 90, 376, 268]	[1494.0, 224.0]		
+54	49	Group	[1344, 90, 300, 196]	[1494.0, 188.0]		
+51	49	Group	[1344, 90, 300, 196]	[1494.0, 188.0]		
+53	51	Image	[1344, 90, 300, 196]	[1494.0, 188.0]	"<NSImage 0x60000329ce60 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x6000001235b0, reps:(
+    ""NSBitmapImageRep 0x6000068931e0 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x6000003aeb20"",
+    ""NSBitmapImageRep 0x6000068934f0 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c71b230> CGImageSource=0x6000003aeb20""
+)>>"	|
+52	51	Button	[1344, 90, 300, 196]	[1494.0, 188.0]		
+50	49	StaticText	[1450, 310, 86, 32]	[1493.0, 326.0]	Voice	
+43	28	Group	[1706, 90, 376, 268]	[1894.0, 224.0]		
+48	43	Group	[1744, 90, 300, 196]	[1894.0, 188.0]		
+45	43	Group	[1744, 90, 300, 196]	[1894.0, 188.0]		
+47	45	Image	[1744, 90, 300, 196]	[1894.0, 188.0]	"<NSImage 0x6000032b33e0 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x600000109200, reps:(
+    ""NSBitmapImageRep 0x600006893800 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000042cb00"",
+    ""NSBitmapImageRep 0x6000068939c0 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c748680> CGImageSource=0x60000042cb00""
+)>>"	|
+46	45	Button	[1744, 90, 300, 196]	[1894.0, 188.0]		
+44	43	StaticText	[1830, 310, 126, 32]	[1893.0, 326.0]	Hip-Hop	
+37	28	Group	[506, 402, 376, 268]	[694.0, 536.0]		
+42	37	Group	[544, 402, 300, 196]	[694.0, 500.0]		
+39	37	Group	[544, 402, 300, 196]	[694.0, 500.0]		
+41	39	Image	[544, 402, 300, 196]	[694.0, 500.0]	"<NSImage 0x600003292d00 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x600000108850, reps:(
+    ""NSBitmapImageRep 0x600006894150 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000039b3e0"",
+    ""NSBitmapImageRep 0x600006894310 Size={300, 196} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb7baa0> CGImageSource=0x60000039b3e0""
+)>>"	|
+40	39	Button	[544, 402, 300, 196]	[694.0, 500.0]		
+38	37	StaticText	[620, 622, 146, 32]	[693.0, 638.0]	Electronic	
+29	28	Group	[906, 402, 376, 268]	[1094.0, 536.0]		
+36	29	Group	[944, 402, 300, 196]	[1094.0, 500.0]		
+33	29	Group	[944, 402, 300, 196]	[1094.0, 500.0]		
+35	33	Image	[944, 402, 300, 196]	[1094.0, 500.0]	"<NSImage 0x60000326f840 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x600000108730, reps:(
+    ""NSBitmapImageRep 0x600006895030 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x6000004902e0"",
+    ""NSBitmapImageRep 0x600006894e70 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb77610> CGImageSource=0x6000004902e0""
+)>>"	|
+34	33	Button	[944, 402, 300, 196]	[1094.0, 500.0]		
+32	29	Group	[944, 402, 300, 196]	[1094.0, 500.0]		
+31	29	Group	[1008, 620, 172, 36]	[1094.0, 638.0]		
+30	29	StaticText	[1014, 622, 160, 32]	[1094.0, 638.0]	Songwriter	
+25	8	StaticText	[1254, 416, 16, 32]	[1262.0, 432.0]		
+24	8	DisclosureTriangle	[462, 892, 26, 26]	[475.0, 905.0]	1	
+23	8	StaticText	[504, 888, 92, 32]	[550.0, 904.0]	Details	
+22	8	StaticText	[868, 888, 788, 32]	[1262.0, 904.0]	An ideal writing studio with drums, guitar amps and vocal tracks	
+20	8	Group	[888, 990, 96, 36]	[936.0, 1008.0]	96	
+21	20	Slider	[918, 990, 32, 36]	[934.0, 1008.0]	96.0	
+19	8	Button	[1032, 978, 202, 64]	[1133.0, 1010.0]		Tap Tempo
+18	8	PopUpButton	[846, 1042, 182, 50]	[937.0, 1067.0]	C	|Key Signature
+17	8	RadioButton	[1042, 1044, 120, 36]	[1102.0, 1062.0]	1	Major
+16	8	RadioButton	[1186, 1044, 122, 36]	[1247.0, 1062.0]	0	Minor
+13	8	Group	[888, 1102, 96, 36]	[936.0, 1120.0]	4/4	|4/4, Time Signature
+15	13	Slider	[914, 1102, 16, 36]	[922.0, 1120.0]	1028.0	|Segment 0
+14	13	Slider	[938, 1102, 16, 36]	[946.0, 1120.0]	1028.0	|Segment 1
+12	8	PopUpButton	[846, 1174, 414, 50]	[1053.0, 1199.0]	System Setting	|Audio Input
+11	8	PopUpButton	[1472, 1174, 414, 50]	[1679.0, 1199.0]	System Setting	|Audio Output
+10	8	Button	[468, 1308, 402, 64]	[669.0, 1340.0]		Open an existing project…
+9	8	Button	[1860, 1308, 198, 64]	[1959.0, 1340.0]		Choose
+4	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+6	5	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+3	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+2	1	StaticText	[1148, 10, 228, 32]	[1262.0, 26.0]	Choose a Project	

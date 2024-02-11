@@ -1,0 +1,57 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Audiobook Store
+3	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+4	3	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+37	4	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+38	37	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+40	38	Group	[0, 104, 400, 1264]	[200.0, 736.0]		|Sidebar
+55	40	Group	[20, 104, 360, 78]	[200.0, 143.0]		
+56	55	TextField	[18, 108, 364, 60]	[200.0, 138.0]		|Search
+54	40	Heading	[20, 202, 360, 52]	[200.0, 228.0]		|Apple Books
+53	40	StaticText	[20, 254, 360, 56]	[200.0, 282.0]		|Read Now
+52	40	StaticText	[20, 310, 360, 56]	[200.0, 338.0]		|Book Store
+51	40	StaticText	[20, 366, 360, 56]	[200.0, 394.0]		|Audiobook Store
+50	40	Heading	[20, 442, 360, 52]	[200.0, 468.0]	Expanded	|Library
+49	40	StaticText	[20, 494, 360, 56]	[200.0, 522.0]		|All
+48	40	StaticText	[20, 550, 360, 56]	[200.0, 578.0]		|Want to Read
+47	40	StaticText	[20, 606, 360, 56]	[200.0, 634.0]		|Finished
+46	40	StaticText	[20, 662, 360, 56]	[200.0, 690.0]		|Books
+45	40	StaticText	[20, 718, 360, 56]	[200.0, 746.0]		|Audiobooks
+44	40	StaticText	[20, 774, 360, 56]	[200.0, 802.0]		|PDFs
+43	40	StaticText	[20, 830, 360, 56]	[200.0, 858.0]		|My Samples
+42	40	Heading	[20, 906, 360, 52]	[200.0, 932.0]	Expanded	|My Collections
+41	40	Button	[20, 958, 360, 56]	[200.0, 986.0]		|New Collection
+39	38	Button	[40, 1424, 248, 72]	[164.0, 1460.0]	Mariya Hirna	|Account
+5	4	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+6	5	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+36	6	Group	[426, 0, 1598, 104]	[1225.0, 52.0]		
+7	6	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+8	7	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+35	8	Heading	[482, 104, 1200, 108]	[1082.0, 158.0]		|Audiobook Store
+34	8	Button	[1684, 130, 282, 56]	[1825.0, 158.0]		|Browse Sections ￼
+33	8	Button	[482, 294, 718, 636]	[841.0, 612.0]		|LIMITED-TIME OFFER, Try a great listen for just £4.99.
+32	8	Button	[1248, 294, 718, 636]	[1607.0, 612.0]		|LIMITED-TIME OFFERS, This eclectic mix of £4.99 listens has something for all.
+31	8	Button	[2016, 294, 32, 636]	[2032.0, 612.0]		|STAFF PICKS, We’re feeling bold. Tap here for good listens guaranteed.
+9	8	Group	[402, 1010, 1646, 526]	[1225.0, 1273.0]		|New & Trending
+30	9	Heading	[482, 1090, 296, 26]	[630.0, 1103.0]		|New & Trending
+29	9	Button	[1882, 1098, 84, 18]	[1924.0, 1107.0]		|See All
+28	9	Heading	[482, 1116, 1486, 42]	[1225.0, 1137.0]		|The audiobooks everyone’s talking about.
+27	9	Button	[482, 1208, 142, 142]	[553.0, 1279.0]		|Charity Shop Sue's Tools for Management and Success by Charity Shop Sue
+26	9	Button	[482, 1398, 142, 138]	[553.0, 1467.0]		|The Fury by Alex Michaelides
+25	9	Button	[672, 1208, 142, 142]	[743.0, 1279.0]		|Anna O by Matthew Blake & Christine Rendel
+24	9	Button	[672, 1398, 142, 138]	[743.0, 1467.0]		|Infectious Generosity by Chris Anderson
+23	9	Button	[864, 1208, 142, 142]	[935.0, 1279.0]		|Only Say Good Things by Crystal Hefner
+22	9	Button	[864, 1398, 142, 138]	[935.0, 1467.0]		|Piglet by Lottie Hazell
+21	9	Button	[1056, 1208, 142, 142]	[1127.0, 1279.0]		|Empireworld by Sathnam Sanghera
+20	9	Button	[1056, 1398, 142, 138]	[1127.0, 1467.0]		|The Emotion Trap by Siri Helle
+19	9	Button	[1248, 1208, 142, 142]	[1319.0, 1279.0]		|The Queen of Poisons by Robert Thorogood
+18	9	Button	[1248, 1398, 142, 138]	[1319.0, 1467.0]		|The Mystery Guest by Nita Prose
+17	9	Button	[1440, 1208, 142, 142]	[1511.0, 1279.0]		|The Actor by Chris MacDonald
+16	9	Button	[1440, 1398, 142, 138]	[1511.0, 1467.0]		|The Wedding of the Year by Jill Mansell
+15	9	Button	[1632, 1208, 142, 142]	[1703.0, 1279.0]		|Charles III by Robert Hardman
+14	9	Button	[1632, 1398, 142, 138]	[1703.0, 1467.0]		|Faebound by Saara El-Arifi
+13	9	Button	[1824, 1208, 142, 142]	[1895.0, 1279.0]		|Rabbit Hole (Unabridged) by Kate Brody
+12	9	Button	[1824, 1398, 142, 138]	[1895.0, 1467.0]		|Quarterlife by Satya Doyle Byock
+11	9	Button	[2016, 1208, 32, 142]	[2032.0, 1279.0]		|How to Eat (And Still Lose Weight) by Dr Andrew Jenkinson
+10	9	Button	[2016, 1398, 32, 138]	[2032.0, 1467.0]		|One Last Breath by P S Cunliffe
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

@@ -1,0 +1,31 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1400]	[800.0, 700.0]		Session Pomodoro Focus Timer
+2	1	Group	[0, 0, 1600, 1400]	[800.0, 700.0]		
+30	2	StaticText	[564, 80, 14, 30]	[571.0, 95.0]	?	
+29	2	Button	[364, 80, 216, 48]	[472.0, 104.0]		|General
+28	2	StaticText	[912, 56, 108, 50]	[966.0, 81.0]	Notes	
+27	2	Button	[412, 144, 134, 98]	[479.0, 193.0]		|work, Edit Session, ?
+26	2	Button	[0, 200, 94, 96]	[47.0, 248.0]		|clock
+25	2	Button	[0, 296, 94, 96]	[47.0, 344.0]		|bar-chart-2
+24	2	Button	[0, 392, 94, 96]	[47.0, 440.0]		|user
+23	2	Button	[0, 488, 94, 96]	[47.0, 536.0]		|book-open
+21	2	ScrollArea	[880, 134, 688, 594]	[1224.0, 431.0]		
+22	21	TextArea	[880, 134, 688, 594]	[1224.0, 431.0]		
+20	2	StaticText	[896, 748, 162, 30]	[977.0, 763.0]	Recent Notes	
+19	2	Image	[1246, 754, 18, 18]	[1255.0, 763.0]		|check
+18	2	StaticText	[1280, 748, 246, 30]	[1403.0, 763.0]	Current category only	
+17	2	StaticText	[416, 878, 112, 50]	[472.0, 903.0]	29:13	
+16	2	Button	[192, 930, 72, 72]	[228.0, 966.0]		|-5
+15	2	StaticText	[588, 944, 14, 30]	[595.0, 959.0]	?	
+14	2	Button	[340, 944, 262, 44]	[471.0, 966.0]		|23:58 → Pause
+13	2	Button	[680, 930, 72, 72]	[716.0, 966.0]		|+5
+12	2	StaticText	[924, 1040, 598, 68]	[1223.0, 1074.0]	No recent notes found. If there's any, it will be shown here.	
+11	2	Button	[540, 1152, 616, 88]	[848.0, 1196.0]		|Finish Session
+10	2	Button	[0, 1224, 94, 96]	[47.0, 1272.0]		|settings
+9	2	Button	[96, 0, 1504, 1400]	[848.0, 700.0]		
+8	2	Button	[294, 1212, 98, 98]	[343.0, 1261.0]		|headphones
+7	2	Button	[414, 1204, 116, 116]	[472.0, 1262.0]		|play
+6	2	Button	[550, 1212, 98, 98]	[599.0, 1261.0]		|square
+5	2	Button	[540, 1240, 616, 88]	[848.0, 1284.0]		|Abandon Session
+4	2	Button	[1160, 1288, 64, 88]	[1192.0, 1332.0]		|edit
+3	2	Button	[1224, 1288, 64, 88]	[1256.0, 1332.0]		|calendar

@@ -1,0 +1,19 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+17	1	Button	[1488, 76, 64, 64]	[1520.0, 108.0]		|settings-close-button
+16	1	StaticText	[448, 132, 496, 48]	[696.0, 156.0]	Stand with Ukraine 🇺🇦	
+15	1	StaticText	[48, 224, 320, 68]	[208.0, 258.0]	Account	
+14	1	StaticText	[448, 272, 574, 24]	[735.0, 284.0]	HELP US TAKE CARE OF THOSE WHO PROTECT US	
+13	1	StaticText	[48, 292, 320, 68]	[208.0, 326.0]	Your devices	
+12	1	StaticText	[448, 326, 170, 28]	[533.0, 340.0]	Make impact	
+11	1	StaticText	[48, 360, 320, 68]	[208.0, 394.0]	System settings	
+10	1	StaticText	[448, 368, 1020, 56]	[958.0, 396.0]	Donate to help us defend peace in Ukraine and protect the universal values of a free and democraric world.	
+9	1	StaticText	[48, 428, 320, 68]	[208.0, 462.0]	Shortcuts	
+8	1	Button	[448, 460, 226, 64]	[561.0, 492.0]		|Learn more
+7	1	Button	[690, 460, 320, 64]	[850.0, 492.0]		|Donate
+6	1	StaticText	[48, 496, 320, 104]	[208.0, 548.0]	Stand with Ukraine 🇺🇦	
+5	1	StaticText	[48, 600, 320, 68]	[208.0, 634.0]	Need help?	
+4	1	Image	[82, 870, 252, 148]	[208.0, 944.0]		|banner-devices
+3	1	StaticText	[114, 1044, 188, 80]	[208.0, 1084.0]	"Are you sure 
+all your devices are protected?"	
+2	1	Button	[80, 1150, 256, 44]	[208.0, 1172.0]		|7 of 8 slots remaining

@@ -1,0 +1,23 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1400]	[800.0, 700.0]		Session Pomodoro Focus Timer
+2	1	Group	[0, 0, 1600, 1400]	[800.0, 700.0]		
+22	2	Button	[0, 200, 94, 96]	[47.0, 248.0]		|00:39
+21	2	Button	[0, 296, 94, 96]	[47.0, 344.0]		|bar-chart-2
+20	2	Button	[0, 392, 94, 96]	[47.0, 440.0]		|user
+19	2	Button	[0, 488, 94, 96]	[47.0, 536.0]		|book-open
+18	2	Button	[0, 1224, 94, 96]	[47.0, 1272.0]		|settings
+3	2	ScrollArea	[360, 88, 976, 1312]	[848.0, 744.0]		
+17	3	StaticText	[408, 136, 790, 138]	[803.0, 205.0]	Session helps you manage your time and keep you in the zone. Here's what you can do to get the most out of Session!	
+16	3	StaticText	[432, 426, 306, 34]	[585.0, 443.0]	Create Session account	
+15	3	StaticText	[1218, 442, 46, 38]	[1241.0, 461.0]	☑️	
+14	3	StaticText	[432, 530, 436, 34]	[650.0, 547.0]	Complete your first Session today	
+13	3	StaticText	[1218, 546, 46, 38]	[1241.0, 565.0]	☑️	
+12	3	StaticText	[432, 572, 424, 28]	[644.0, 586.0]	Start your Session to kickstart your flow.	
+11	3	StaticText	[432, 634, 470, 34]	[667.0, 651.0]	Integrate Session with your calendar	
+10	3	StaticText	[432, 676, 608, 56]	[736.0, 704.0]	See your day at a glance. You can integrate from Settings after creating an account.	
+9	3	StaticText	[1218, 664, 46, 38]	[1241.0, 683.0]	☑️	
+8	3	StaticText	[432, 766, 422, 34]	[643.0, 783.0]	Get Started with Session on Mac	
+7	3	StaticText	[1218, 782, 46, 38]	[1241.0, 801.0]	☑️	
+6	3	StaticText	[432, 808, 638, 28]	[751.0, 822.0]	Learn how setting up Session can kickstart your productivity.	
+5	3	Button	[416, 860, 864, 66]	[848.0, 893.0]		|Learn more
+4	3	Button	[416, 1078, 864, 72]	[848.0, 1114.0]		|SKIP / FINISH TUTORIAL

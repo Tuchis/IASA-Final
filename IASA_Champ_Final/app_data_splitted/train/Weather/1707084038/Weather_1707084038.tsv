@@ -1,0 +1,193 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 3024, 1740]	[1512.0, 870.0]		
+8	1	Group	[0, 0, 3024, 1740]	[1512.0, 870.0]		
+9	8	Group	[0, 0, 3024, 1740]	[1512.0, 870.0]		
+175	9	Group	[0, 0, 400, 1740]	[200.0, 870.0]		
+176	175	Group	[0, 0, 400, 1740]	[200.0, 870.0]		
+177	176	Group	[0, 0, 400, 1740]	[200.0, 870.0]		
+178	177	Group	[0, 0, 400, 1740]	[200.0, 870.0]		|Location List
+191	178	Group	[32, 120, 336, 120]	[200.0, 180.0]		
+192	191	Button	[32, 120, 336, 120]	[200.0, 180.0]		|My Location, Prague 7, 9°, Windy, High: 10°, Low: 7°
+189	178	Group	[32, 240, 336, 120]	[200.0, 300.0]		
+190	189	Button	[32, 240, 336, 120]	[200.0, 300.0]		|Київ, 00:00, 3°, Cloudy, High: 7°, Low: 2°
+187	178	Group	[32, 360, 336, 120]	[200.0, 420.0]		
+188	187	Button	[32, 360, 336, 120]	[200.0, 420.0]		|Одеса, 00:00, 5°, Warmer on Tuesday, with a high of 13°, High: 11°, Low: 5°
+185	178	Group	[32, 480, 336, 120]	[200.0, 540.0]		
+186	185	Button	[32, 480, 336, 120]	[200.0, 540.0]		|Донецьк, 00:00, 2°, Cloudy, High: 6°, Low: 1°
+183	178	Group	[32, 600, 336, 120]	[200.0, 660.0]		
+184	183	Button	[32, 600, 336, 120]	[200.0, 660.0]		|Львів, 00:00, 5°, Windy, High: 7°, Low: 5°
+181	178	Group	[32, 720, 336, 120]	[200.0, 780.0]		
+182	181	Button	[32, 720, 336, 120]	[200.0, 780.0]		|Edinburgh, 22:00, 10°, Light rain for the next hour, High: 10°, Low: 6°
+179	178	Group	[32, 840, 336, 120]	[200.0, 900.0]		
+180	179	Button	[32, 840, 336, 120]	[200.0, 900.0]		|Prague, 23:00, 9°, Windy, High: 10°, Low: 7°
+10	9	Group	[400, 0, 2622, 1740]	[1711.0, 870.0]		
+11	10	Group	[400, 0, 2622, 1740]	[1711.0, 870.0]		
+12	11	Group	[400, 0, 2622, 1740]	[1711.0, 870.0]		
+96	12	Group	[412, 144, 1328, 1596]	[1076.0, 942.0]		
+97	96	Group	[412, 144, 1328, 1596]	[1076.0, 942.0]		
+174	97	GenericElement	[452, 144, 1248, 398]	[1076.0, 343.0]		|My Location, PRAGUE 7, 9°, Feels like 5°, Windy, High 10°, Low 7°
+142	97	Group	[422, 542, 1308, 288]	[1076.0, 686.0]		
+143	142	Group	[452, 542, 1248, 288]	[1076.0, 686.0]		|
+173	143	Image	[478, 566, 20, 20]	[488.0, 576.0]		|CLOCK
+172	143	StaticText	[512, 564, 198, 26]	[611.0, 577.0]		|HOURLY FORECAST
+171	143	StaticText	[472, 564, 612, 28]	[778.0, 578.0]		|Windy conditions tonight, continuing through the morning.
+144	143	Group	[452, 630, 1248, 180]	[1076.0, 720.0]		
+145	144	Group	[452, 630, 2572, 180]	[1738.0, 720.0]		
+146	145	Group	[472, 630, 2488, 180]	[1716.0, 720.0]		
+170	146	Button	[472, 630, 48, 180]	[496.0, 720.0]		|Now, Windy, 9°
+169	146	Button	[584, 630, 32, 180]	[600.0, 720.0]		|23, Windy, 9°
+168	146	Button	[686, 630, 32, 180]	[702.0, 720.0]		|00, Windy, 9°
+167	146	Button	[786, 630, 32, 180]	[802.0, 720.0]		|01, Windy, 9°
+166	146	Button	[888, 630, 32, 180]	[904.0, 720.0]		|02, Windy, 9°
+165	146	Button	[988, 630, 32, 180]	[1004.0, 720.0]		|03, Windy, 9°
+164	146	Button	[1090, 630, 32, 180]	[1106.0, 720.0]		|04, Windy, 9°
+163	146	Button	[1190, 630, 32, 180]	[1206.0, 720.0]		|05, Windy, 9°
+162	146	Button	[1292, 630, 32, 180]	[1308.0, 720.0]		|06, Windy, 9°
+161	146	Button	[1392, 630, 32, 180]	[1408.0, 720.0]		|07, Windy, 9°
+160	146	Button	[1488, 630, 106, 180]	[1541.0, 720.0]		|07:31, Sunrise
+159	146	Button	[1654, 630, 34, 180]	[1671.0, 720.0]		|08, Windy, 8°
+158	146	Button	[1756, 630, 32, 180]	[1772.0, 720.0]		|09, Windy, 9°
+157	146	Button	[1858, 630, 32, 180]	[1874.0, 720.0]		|10, Windy, 9°
+156	146	Button	[1952, 630, 46, 180]	[1975.0, 720.0]		|11, Windy, 10°
+155	146	Button	[2056, 630, 46, 180]	[2079.0, 720.0]		|12, Windy, 10°
+154	146	Button	[2162, 630, 42, 180]	[2183.0, 720.0]		|13, Windy, 11°
+153	146	Button	[2262, 630, 42, 180]	[2283.0, 720.0]		|14, Windy, 11°
+152	146	Button	[2364, 630, 42, 180]	[2385.0, 720.0]		|15, Windy, 11°
+151	146	Button	[2464, 630, 42, 180]	[2485.0, 720.0]		|16, Windy, 11°
+150	146	Button	[2564, 630, 46, 180]	[2587.0, 720.0]		|17, Windy, 10°
+149	146	Button	[2668, 630, 98, 180]	[2717.0, 720.0]		|17:02, Sunset
+148	146	Button	[2828, 630, 32, 180]	[2844.0, 720.0]		|18, Windy, 9°
+147	146	Button	[2930, 630, 32, 180]	[2946.0, 720.0]		|19, Windy, 9°
+128	97	Group	[452, 862, 608, 878]	[756.0, 1301.0]		
+129	128	Group	[452, 862, 608, 878]	[756.0, 1301.0]		|10-Day Forecast
+141	129	Image	[478, 888, 20, 18]	[488.0, 897.0]		|CALENDAR
+140	129	StaticText	[512, 884, 188, 26]	[606.0, 897.0]		|10-DAY FORECAST
+139	129	GenericElement	[452, 934, 608, 84]	[756.0, 976.0]		|Today, Windy, high of 10, low of 7
+138	129	GenericElement	[452, 1020, 608, 84]	[756.0, 1062.0]		|Monday, Windy, high of 11, low of 7
+137	129	GenericElement	[452, 1106, 608, 84]	[756.0, 1148.0]		|Tuesday, Windy, high of 9, low of 6
+136	129	GenericElement	[452, 1190, 608, 84]	[756.0, 1232.0]		|Wednesday, 55% chance of rain, high of 10, low of 3
+135	129	GenericElement	[452, 1276, 608, 84]	[756.0, 1318.0]		|Thursday, Drizzle, 70% chance of rain, high of 9, low of 2
+134	129	GenericElement	[452, 1362, 608, 84]	[756.0, 1404.0]		|Friday, Cloudy, high of 11, low of 7
+133	129	GenericElement	[452, 1448, 608, 84]	[756.0, 1490.0]		|Saturday, Mostly Cloudy, high of 12, low of 5
+132	129	GenericElement	[452, 1534, 608, 84]	[756.0, 1576.0]		|Sunday, Cloudy, high of 11, low of 4
+131	129	GenericElement	[452, 1620, 608, 84]	[756.0, 1662.0]		|Monday, 60% chance of rain, high of 7, low of 3
+130	129	GenericElement	[452, 1706, 608, 34]	[756.0, 1723.0]		|Tuesday, Mostly Cloudy, high of 5, low of 1
+123	97	Group	[1092, 862, 288, 288]	[1236.0, 1006.0]		
+124	123	Group	[1092, 862, 288, 288]	[1236.0, 1006.0]		|UV Index
+127	124	Image	[1118, 886, 22, 22]	[1129.0, 897.0]		|BRIGHTNESS HIGHER
+126	124	StaticText	[1152, 884, 98, 26]	[1201.0, 897.0]		|UV INDEX
+125	124	GenericElement	[1112, 932, 248, 198]	[1236.0, 1031.0]		|0, Low, Low for the rest of the day., Minimum value: 1; maximum value: 11+
+118	97	Group	[1392, 862, 328, 288]	[1556.0, 1006.0]		
+119	118	Group	[1392, 862, 328, 288]	[1556.0, 1006.0]		|Sunrise
+122	119	Image	[1436, 888, 26, 20]	[1449.0, 898.0]		|SUNRISE
+121	119	StaticText	[1472, 884, 88, 26]	[1516.0, 897.0]		|SUNRISE
+120	119	GenericElement	[1392, 932, 328, 198]	[1556.0, 1031.0]		|07:30, Sunset: 17:02
+113	97	Group	[1092, 1182, 288, 288]	[1236.0, 1326.0]		
+114	113	Group	[1092, 1182, 288, 288]	[1236.0, 1326.0]		|Wind
+117	114	Image	[1118, 1208, 20, 18]	[1128.0, 1217.0]		|BREEZY
+116	114	StaticText	[1152, 1204, 56, 26]	[1180.0, 1217.0]		|WIND
+115	114	GenericElement	[1136, 1252, 198, 198]	[1235.0, 1351.0]		|Winds from the West at 21 miles per hour, gusts up to 39 miles per hour
+108	97	Group	[1412, 1182, 288, 288]	[1556.0, 1326.0]		
+109	108	Group	[1412, 1182, 288, 288]	[1556.0, 1326.0]		|Precipitation
+112	109	Image	[1442, 1208, 14, 20]	[1449.0, 1218.0]		|WATER DROP
+111	109	StaticText	[1472, 1204, 154, 26]	[1549.0, 1217.0]		|PRECIPITATION
+110	109	GenericElement	[1432, 1252, 240, 198]	[1552.0, 1351.0]		|<1 millimetre, in last 6h, Next expected is less than 1 mm rain on Sun.
+103	97	Group	[1092, 1502, 288, 238]	[1236.0, 1621.0]		
+104	103	Group	[1092, 1502, 288, 238]	[1236.0, 1621.0]		|Visibility
+107	104	Image	[1116, 1530, 26, 16]	[1129.0, 1538.0]		|SHOW
+106	104	StaticText	[1152, 1524, 104, 26]	[1204.0, 1537.0]		|VISIBILITY
+105	104	StaticText	[1112, 1572, 212, 168]	[1218.0, 1656.0]		|13 miles, Perfectly clear view.
+98	97	Group	[1412, 1502, 288, 238]	[1556.0, 1621.0]		
+99	98	Group	[1412, 1502, 288, 238]	[1556.0, 1621.0]		|Moon, Waning Crescent
+102	99	Image	[1438, 1528, 20, 20]	[1448.0, 1538.0]		|MOONPHASE.WANING.CRESCENT
+101	99	StaticText	[1472, 1524, 200, 26]	[1572.0, 1537.0]		|WANING CRESCENT
+100	99	GenericElement	[1432, 1538, 240, 202]	[1552.0, 1639.0]		|Next Moonrise: 04:03
+13	12	Group	[1728, 124, 1246, 1568]	[2351.0, 908.0]		
+95	13	Group	[1728, 124, 1246, 4]	[2351.0, 126.0]	0 per cent	|Weather map loading
+80	13	Group	[1728, 124, 1246, 1568]	[2351.0, 908.0]		
+93	80	Group	[1748, 140, 46, 56]	[1771.0, 168.0]		
+94	93	Button	[1748, 140, 46, 56]	[1771.0, 168.0]		|Done
+91	80	Group	[2898, 140, 58, 56]	[2927.0, 168.0]		
+92	91	Button	[2898, 140, 58, 56]	[2927.0, 168.0]		|Current location
+89	80	Group	[2898, 216, 58, 56]	[2927.0, 244.0]		
+90	89	Button	[2898, 216, 58, 56]	[2927.0, 244.0]		|Overlay menu
+83	80	Group	[1748, 216, 176, 338]	[1836.0, 385.0]		|Map overlay scale
+88	83	StaticText	[1768, 236, 136, 30]	[1836.0, 251.0]		|Wind (mph)
+87	83	GenericElement	[1788, 304, 116, 30]	[1846.0, 319.0]	black	|75
+86	83	GenericElement	[1788, 370, 116, 30]	[1846.0, 385.0]	black	|50
+85	83	GenericElement	[1788, 438, 116, 30]	[1846.0, 453.0]	black	|25
+84	83	GenericElement	[1788, 504, 116, 30]	[1846.0, 519.0]	black	|0
+82	80	Button	[2900, 292, 56, 56]	[2928.0, 320.0]		|Zoom in
+81	80	Button	[2900, 348, 56, 56]	[2928.0, 376.0]		|Zoom out
+75	13	Group	[1748, 1480, 1208, 162]	[2352.0, 1561.0]		|Forecast playback controls
+79	75	Button	[1768, 1498, 66, 64]	[1801.0, 1530.0]	Paused	|Animation Playback
+78	75	Button	[2274, 1500, 154, 32]	[2351.0, 1516.0]		|Wind Speed
+77	75	StaticText	[2210, 1532, 286, 30]	[2353.0, 1547.0]		|Sunday, 4 February 2024
+76	75	Slider	[1768, 1578, 1168, 40]	[2352.0, 1598.0]	Now	|Playback position
+14	13	Group	[1728, 124, 1246, 1568]	[2351.0, 908.0]		|Weather map: wind
+74	14	GenericElement	[2296, 754, 112, 112]	[2352.0, 810.0]	21 miles per hour	|My Location
+73	14	StaticText	[2290, 912, 124, 34]	[2352.0, 929.0]		|My Location
+72	14	StaticText	[2328, 780, 48, 52]	[2352.0, 806.0]		|21
+71	14	StaticText	[2296, 758, 112, 34]	[2352.0, 775.0]		|W
+70	14	StaticText	[2296, 820, 112, 42]	[2352.0, 841.0]		|MPH
+69	14	GenericElement	[710, 0, 104, 74]	[762.0, 37.0]		|Edinburgh
+68	14	StaticText	[742, 10, 38, 38]	[761.0, 29.0]		|24
+67	14	StaticText	[710, 60, 106, 32]	[763.0, 76.0]		|Edinburgh
+66	14	GenericElement	[2312, 866, 74, 88]	[2349.0, 910.0]		|Prague
+65	14	StaticText	[2332, 892, 34, 38]	[2349.0, 911.0]		|21
+64	14	StaticText	[2312, 940, 76, 32]	[2350.0, 956.0]		|Prague
+21	14	Image	[1728, 124, 1246, 1568]	[2351.0, 908.0]		|Map
+63	21	GenericElement	[2866, 196, 60, 60]	[2896.0, 226.0]		|Kaliningrad
+62	21	GenericElement	[2700, 252, 60, 60]	[2730.0, 282.0]		|Gdańsk
+61	21	GenericElement	[1920, 374, 60, 60]	[1950.0, 404.0]		|Hamburg
+60	21	GenericElement	[2330, 392, 60, 60]	[2360.0, 422.0]		|Szczecin
+59	21	GenericElement	[2642, 440, 60, 60]	[2672.0, 470.0]		|Bydgoszcz
+58	21	GenericElement	[2696, 456, 60, 60]	[2726.0, 486.0]		|Toruń
+57	21	GenericElement	[2228, 530, 60, 60]	[2258.0, 560.0]		|Berlin
+56	21	GenericElement	[2546, 546, 60, 60]	[2576.0, 576.0]		|Poznań
+55	21	GenericElement	[1896, 552, 60, 60]	[1926.0, 582.0]		|Hannover
+54	21	GenericElement	[2912, 570, 60, 60]	[2942.0, 600.0]		|Warsaw
+53	21	GenericElement	[2704, 572, 60, 60]	[2734.0, 602.0]		|Poland
+52	21	GenericElement	[2772, 640, 60, 60]	[2802.0, 670.0]		|Łódź
+51	21	GenericElement	[2134, 702, 60, 60]	[2164.0, 732.0]		|Leipzig
+50	21	GenericElement	[2554, 734, 60, 60]	[2584.0, 764.0]		|Wrocław
+49	21	GenericElement	[1958, 736, 60, 60]	[1988.0, 766.0]		|Germany
+48	21	GenericElement	[2258, 744, 60, 60]	[2288.0, 774.0]		|Dresden
+47	21	GenericElement	[2732, 856, 60, 60]	[2762.0, 886.0]		|Katowice
+46	21	GenericElement	[1802, 876, 60, 60]	[1832.0, 906.0]		|Frankfurt
+45	21	GenericElement	[2322, 878, 60, 60]	[2352.0, 908.0]		|My Location
+44	21	GenericElement	[2816, 884, 60, 60]	[2846.0, 914.0]		|Kraków
+43	21	GenericElement	[2668, 914, 60, 60]	[2698.0, 944.0]		|Ostrava
+42	21	GenericElement	[2402, 930, 60, 60]	[2432.0, 960.0]		|Czechia
+41	21	GenericElement	[2018, 968, 60, 60]	[2048.0, 998.0]		|Nuremberg
+40	21	GenericElement	[2516, 1004, 60, 60]	[2546.0, 1034.0]		|Brno
+39	21	GenericElement	[2792, 1066, 60, 60]	[2822.0, 1096.0]		|Slovakia
+38	21	GenericElement	[2934, 1068, 60, 60]	[2964.0, 1098.0]		|Košice
+37	21	GenericElement	[1718, 1088, 60, 60]	[1748.0, 1118.0]		|Strasbourg
+36	21	GenericElement	[2306, 1124, 60, 60]	[2336.0, 1154.0]		|Linz
+35	21	GenericElement	[2496, 1136, 60, 60]	[2526.0, 1166.0]		|Vienna
+34	21	GenericElement	[2560, 1146, 60, 60]	[2590.0, 1176.0]		|Bratislava
+33	21	GenericElement	[2062, 1148, 60, 60]	[2092.0, 1178.0]		|Munich
+32	21	GenericElement	[2194, 1192, 60, 60]	[2224.0, 1222.0]		|Salzburg
+31	21	GenericElement	[2356, 1214, 60, 60]	[2386.0, 1244.0]		|Austria
+30	21	GenericElement	[2736, 1234, 60, 60]	[2766.0, 1264.0]		|Budapest
+29	21	GenericElement	[1790, 1250, 60, 60]	[1820.0, 1280.0]		|Zürich
+28	21	GenericElement	[2410, 1290, 60, 60]	[2440.0, 1320.0]		|Graz
+27	21	GenericElement	[2766, 1294, 60, 60]	[2796.0, 1324.0]		|Hungary
+26	21	GenericElement	[1778, 1312, 60, 60]	[1808.0, 1342.0]		|Switzerland
+25	21	GenericElement	[2370, 1412, 60, 60]	[2400.0, 1442.0]		|Slovenia
+24	21	GenericElement	[2932, 1462, 60, 60]	[2962.0, 1492.0]		|Timișoara
+23	21	GenericElement	[1712, 1550, 60, 60]	[1742.0, 1580.0]		|Turin
+22	21	GenericElement	[2042, 1624, 60, 60]	[2072.0, 1654.0]		|Bologna
+20	14	GenericElement	[2296, 754, 112, 112]	[2352.0, 810.0]	21 miles per hour	|My Location
+19	14	StaticText	[2296, 758, 112, 34]	[2352.0, 775.0]		|W
+18	14	StaticText	[2328, 780, 48, 52]	[2352.0, 806.0]		|21
+17	14	StaticText	[2296, 820, 112, 42]	[2352.0, 841.0]		|MPH
+16	14	GenericElement	[2312, 866, 74, 88]	[2349.0, 910.0]		|Prague
+15	14	Link	[1748, 1650, 94, 22]	[1795.0, 1661.0]		|Map Data
+3	1	Toolbar	[0, 0, 3024, 104]	[1512.0, 52.0]		
+7	3	Button	[174, 0, 84, 104]	[216.0, 52.0]		|Sidebar
+4	3	Group	[2592, 0, 416, 104]	[2800.0, 52.0]		
+5	4	TextField	[2598, 22, 404, 62]	[2800.0, 53.0]		
+6	5	Button	[2602, 30, 50, 44]	[2627.0, 52.0]		|Search
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

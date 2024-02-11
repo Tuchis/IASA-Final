@@ -1,0 +1,127 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2326, 1386]	[1163.0, 693.0]		Machine Learning Blog | ML@CMU | Carnegie Mellon University – 1 article
+14	1	SplitGroup	[0, 0, 2326, 1386]	[1163.0, 693.0]		
+53	14	ScrollArea	[0, 104, 476, 1210]	[238.0, 709.0]		
+54	53	Outline	[0, 104, 476, 1210]	[238.0, 709.0]		
+124	54	Row	[0, 104, 476, 38]	[238.0, 123.0]		
+125	124	Cell	[20, 104, 436, 38]	[238.0, 123.0]		|Smart Filters
+126	125	StaticText	[28, 108, 372, 28]	[214.0, 122.0]	Smart Filters	
+119	54	Row	[0, 142, 476, 56]	[238.0, 170.0]		
+120	119	Cell	[20, 142, 436, 56]	[238.0, 170.0]		|Latest News
+123	120	Image	[32, 150, 40, 40]	[52.0, 170.0]		|today selection
+122	120	StaticText	[76, 154, 320, 32]	[236.0, 170.0]	Latest News	
+121	120	StaticText	[396, 154, 52, 30]	[422.0, 169.0]	1	
+114	54	Row	[0, 198, 476, 56]	[238.0, 226.0]		
+115	114	Cell	[20, 198, 436, 56]	[238.0, 226.0]		|Unread Items
+118	115	Image	[32, 206, 40, 40]	[52.0, 226.0]		|unread selection
+117	115	StaticText	[76, 210, 320, 32]	[236.0, 226.0]	Unread Items	
+116	115	StaticText	[396, 210, 52, 30]	[422.0, 225.0]	99	
+110	54	Row	[0, 254, 476, 56]	[238.0, 282.0]		
+111	110	Cell	[20, 254, 436, 56]	[238.0, 282.0]		
+113	111	Image	[32, 262, 40, 40]	[52.0, 282.0]		|favorite selection
+112	111	StaticText	[76, 266, 368, 32]	[260.0, 282.0]	Favorites	
+107	54	Row	[0, 336, 476, 38]	[238.0, 355.0]		
+108	107	Cell	[20, 336, 436, 38]	[238.0, 355.0]		|Subscriptions
+109	108	StaticText	[28, 340, 372, 28]	[214.0, 354.0]	Subscriptions	
+102	54	Row	[0, 374, 476, 56]	[238.0, 402.0]		
+103	102	Cell	[20, 374, 436, 56]	[238.0, 402.0]		"|""machine learning"" - Google News"
+106	103	Image	[32, 382, 40, 40]	[52.0, 402.0]		|A3AAC1958952CCE213E3A99604258E
+105	103	StaticText	[76, 386, 320, 32]	[236.0, 402.0]	"""machine learning"" - Google News"	
+104	103	StaticText	[396, 386, 52, 30]	[422.0, 401.0]	27	
+98	54	Row	[0, 430, 476, 56]	[238.0, 458.0]		
+99	98	Cell	[20, 430, 436, 56]	[238.0, 458.0]		|Blog
+101	99	Image	[32, 438, 40, 40]	[52.0, 458.0]		|6BECB11E9ADBE43B0A15F67C68E81C
+100	99	StaticText	[76, 442, 368, 32]	[260.0, 458.0]	Blog	
+93	54	Row	[0, 486, 476, 56]	[238.0, 514.0]		
+94	93	Cell	[20, 486, 436, 56]	[238.0, 514.0]		|Machine Learning
+97	94	Image	[32, 494, 40, 40]	[52.0, 514.0]		|06481ED9438C8A9F427F01198E7977
+96	94	StaticText	[76, 498, 320, 32]	[236.0, 514.0]	Machine Learning	
+95	94	StaticText	[396, 498, 52, 30]	[422.0, 513.0]	4	
+89	54	Row	[0, 542, 476, 56]	[238.0, 570.0]		
+90	89	Cell	[20, 542, 436, 56]	[238.0, 570.0]		|Machine Learning
+92	90	Image	[32, 550, 40, 40]	[52.0, 570.0]		|1A2A0995BC4E5BEFC0597E04C0BB66
+91	90	StaticText	[76, 554, 368, 32]	[260.0, 570.0]	Machine Learning	
+84	54	Row	[0, 598, 476, 56]	[238.0, 626.0]		
+85	84	Cell	[20, 598, 436, 56]	[238.0, 626.0]		|Machine Learning (Theory)
+88	85	Image	[32, 606, 40, 40]	[52.0, 626.0]		|0D7F7592C8886465D045C93B3E9FD4
+87	85	StaticText	[76, 610, 320, 32]	[236.0, 626.0]	Machine Learning (Theory)	
+86	85	StaticText	[396, 610, 52, 30]	[422.0, 625.0]	9	
+79	54	Row	[0, 654, 476, 56]	[238.0, 682.0]		
+80	79	Cell	[20, 654, 436, 56]	[238.0, 682.0]		|Machine learning : nature.com subject feeds
+83	80	Image	[32, 662, 40, 40]	[52.0, 682.0]		|3A08FAF071AE3B08A7858464A494A9
+82	80	StaticText	[76, 666, 320, 32]	[236.0, 682.0]	Machine learning : nature.com subject feeds	
+81	80	StaticText	[396, 666, 52, 30]	[422.0, 681.0]	24	
+75	54	Row	[0, 710, 476, 56]	[238.0, 738.0]		
+76	75	Cell	[20, 710, 436, 56]	[238.0, 738.0]		|Machine Learning Blog
+78	76	Image	[32, 718, 40, 40]	[52.0, 738.0]		|06B425838EB0C9AFE51860D6C69C5A
+77	76	StaticText	[76, 722, 368, 32]	[260.0, 738.0]	Machine Learning Blog	
+71	54	Row	[0, 766, 476, 56]	[238.0, 794.0]		
+72	71	Cell	[20, 766, 436, 56]	[238.0, 794.0]		|Machine Learning Blog | ML@CMU | Carnegie Mellon University
+74	72	Image	[32, 774, 40, 40]	[52.0, 794.0]		|4685CDF8E55440EB938CF416F91C0B
+73	72	StaticText	[76, 778, 368, 32]	[260.0, 794.0]	Machine Learning Blog | ML@CMU | Carnegie Mellon University	
+66	54	Row	[0, 822, 476, 56]	[238.0, 850.0]		
+67	66	Cell	[20, 822, 436, 56]	[238.0, 850.0]		|Machine Learning Times
+70	67	Image	[32, 830, 40, 40]	[52.0, 850.0]		|23B110929664670359A372CF7001AE
+69	67	StaticText	[76, 834, 320, 32]	[236.0, 850.0]	Machine Learning Times	
+68	67	StaticText	[396, 834, 52, 30]	[422.0, 849.0]	6	
+61	54	Row	[0, 878, 476, 56]	[238.0, 906.0]		
+62	61	Cell	[20, 878, 436, 56]	[238.0, 906.0]		|machine learning | TechCrunch
+65	62	Image	[32, 886, 40, 40]	[52.0, 906.0]		|0AD22675FA9B5A9063ABC5E1D8959C
+64	62	StaticText	[76, 890, 320, 32]	[236.0, 906.0]	machine learning | TechCrunch	
+63	62	StaticText	[396, 890, 52, 30]	[422.0, 905.0]	20	
+56	54	Row	[0, 934, 476, 56]	[238.0, 962.0]		
+57	56	Cell	[20, 934, 436, 56]	[238.0, 962.0]		|MachineLearningMastery.com
+60	57	Image	[32, 942, 40, 40]	[52.0, 962.0]		|EA6A09D80696442FCE237C20DFFAC3
+59	57	StaticText	[76, 946, 320, 32]	[236.0, 962.0]	MachineLearningMastery.com	
+58	57	StaticText	[396, 946, 52, 30]	[422.0, 961.0]	9	
+55	54	Column	[20, 104, 436, 1210]	[238.0, 709.0]		
+52	14	Button	[22, 1342, 32, 32]	[38.0, 1358.0]		
+51	14	CheckBox	[314, 1342, 32, 32]	[330.0, 1358.0]	1	
+50	14	CheckBox	[368, 1342, 32, 32]	[384.0, 1358.0]	0	
+49	14	CheckBox	[418, 1342, 32, 32]	[434.0, 1358.0]	0	
+48	14	Button	[68, 1340, 40, 40]	[88.0, 1360.0]		
+47	14	Splitter	[478, 104, 2, 1282]	[479.0, 745.0]	239.0	
+34	14	ScrollArea	[480, 104, 600, 1282]	[780.0, 745.0]		
+35	34	Table	[480, 104, 600, 1282]	[780.0, 745.0]		
+44	35	Row	[480, 124, 600, 46]	[780.0, 147.0]		
+45	44	Cell	[480, 124, 600, 46]	[780.0, 147.0]		
+46	45	StaticText	[508, 110, 142, 34]	[579.0, 127.0]	1 month ago	
+37	35	Row	[480, 170, 600, 254]	[780.0, 297.0]		
+38	37	Cell	[512, 170, 536, 254]	[780.0, 297.0]		
+43	38	StaticText	[662, 378, 184, 28]	[754.0, 392.0]	Machine Learning Blog | ML@CMU | Carnegie Mellon University	
+42	38	StaticText	[662, 188, 384, 96]	[854.0, 236.0]	On Noisy Evaluation in Federated Hyperparameter Tuning	
+41	38	StaticText	[662, 286, 384, 90]	[854.0, 331.0]	Evaluating models in federated networks is challenging due to factors such as client subsampling, data heterogeneity, and privacy. These factors introduce noise that can affect hyperparameter tuning algorithms and lead to suboptimal model selection. Hyperparameter tuning is critical to the success of cross-device federated learning applications. Unfortunately, federated networks face issues of scale, heterogeneity, and privacy, which introduce noise in the tuning process and make it difficult to faithfully evaluate the performance of various hyperparameters. Our work (MLSys’23) explores key sources of noise and surprisingly shows that even small amounts of noise can have a significant impact on tuning methods—reducing the performance of state-of-the-art approaches to that of naive baselines. To address noisy evaluation in such scenarios, we propose a simple and effective approach that leverages public proxy data to boost the evaluation signal. Our work establishes general challenges, baselines, and best practices for future work in federated hyperparameter tuning. Federated Learning: An Overview Cross-device federated learning (FL) is a machine learning setting that considers training a model over a large heterogeneous network of devices such as mobile phones or wearables. Three key factors differentiate FL from traditional centralized learning and distributed learning: Scale. Cross-device refers to FL settings with […]	
+40	38	Image	[518, 188, 128, 128]	[582.0, 252.0]		|
+39	38	StaticText	[846, 378, 200, 28]	[946.0, 392.0]	29/12/2023, 18:04	
+36	35	Column	[500, 104, 560, 1282]	[780.0, 745.0]		
+33	14	Splitter	[1080, 104, 2, 1282]	[1081.0, 745.0]	300.0	
+15	14	Group	[1082, 0, 1244, 1386]	[1704.0, 693.0]		
+16	15	Group	[1082, 0, 1244, 1386]	[1704.0, 693.0]		
+17	16	ScrollArea	[1082, 104, 1244, 1282]	[1704.0, 745.0]		|
+19	17	WebArea	[1082, 104, 1244, 1282]	[1704.0, 745.0]		|
+26	19	Link	[1120, 142, 1168, 256]	[1704.0, 270.0]		Machine Learning Blog | ML@CMU | Carnegie Mellon University ­– Kevin Kuo On Noisy Evaluation in Federated Hyperparameter Tuning Friday, 29 December 2023, 18:04|
+31	26	Group	[1120, 142, 1168, 50]	[1704.0, 167.0]		|
+32	31	StaticText	[1120, 148, 986, 36]	[1613.0, 166.0]	Machine Learning Blog | ML@CMU | Carnegie Mellon University ­– Kevin Kuo	|
+29	26	Group	[1120, 190, 1168, 144]	[1704.0, 262.0]		|
+30	29	StaticText	[1120, 190, 980, 144]	[1610.0, 262.0]	On Noisy Evaluation in Federated Hyperparameter Tuning	|
+27	26	Group	[1120, 348, 1168, 50]	[1704.0, 373.0]		|
+28	27	StaticText	[1120, 354, 438, 36]	[1339.0, 372.0]	Friday, 29 December 2023, 18:04	|
+24	19	Group	[1120, 396, 1168, 718]	[1704.0, 755.0]		|
+25	24	Image	[1120, 396, 1168, 696]	[1704.0, 744.0]		|
+22	19	Group	[1120, 1144, 1168, 194]	[1704.0, 1241.0]		|
+23	22	StaticText	[1120, 1150, 1126, 182]	[1683.0, 1241.0]	Evaluating models in federated networks is challenging due to factors such as client subsampling, data heterogeneity, and privacy. These factors introduce noise that can affect hyperparameter tuning algorithms and lead to suboptimal model selection.	|
+20	19	Group	[1120, 1368, 1168, 18]	[1704.0, 1377.0]		|
+21	20	StaticText	[1120, 1374, 1130, 12]	[1685.0, 1380.0]	Hyperparameter tuning is critical to the success of cross-device federated learning applications. Unfortunately, federated networks face issues of scale, heterogeneity, and privacy, which introduce noise in the tuning process and make it difficult to faithfully evaluate the performance of various hyperparameters. 	|
+18	17	ScrollBar	[2294, 208, 32, 1178]	[2310.0, 797.0]	0.0	|
+4	1	Toolbar	[0, 0, 2326, 104]	[1163.0, 52.0]		
+13	4	CheckBox	[362, 0, 100, 104]	[412.0, 52.0]	0	|View
+12	4	Button	[970, 0, 94, 104]	[1017.0, 52.0]		|Check
+11	4	CheckBox	[1098, 0, 100, 104]	[1148.0, 52.0]	0	|Reader
+10	4	Button	[1198, 0, 100, 104]	[1248.0, 52.0]		|Slidehsow
+9	4	CheckBox	[1654, 0, 100, 104]	[1704.0, 52.0]	0	|Star
+8	4	Button	[1754, 0, 100, 104]	[1804.0, 52.0]		|Share
+5	4	Group	[1854, 0, 456, 104]	[2082.0, 52.0]		
+6	5	TextField	[1860, 22, 444, 62]	[2082.0, 53.0]		
+7	6	Button	[1864, 30, 50, 44]	[1889.0, 52.0]		|search
+3	1	StaticText	[496, 0, 426, 104]	[709.0, 52.0]	Machine Learning Blog | ML@CMU | Carnegie Mellon University	
+2	1	StaticText	[496, 0, 426, 104]	[709.0, 52.0]	1 article	

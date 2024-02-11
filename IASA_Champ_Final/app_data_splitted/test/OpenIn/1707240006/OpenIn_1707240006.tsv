@@ -1,0 +1,33 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1360]	[800.0, 680.0]		OpenIn Settings
+14	1	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+15	14	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+16	15	ScrollArea	[0, 160, 1600, 1200]	[800.0, 760.0]		
+32	16	Heading	[60, 200, 76, 32]	[98.0, 216.0]		|About
+18	16	Group	[34, 248, 1532, 848]	[800.0, 672.0]		
+31	18	StaticText	[60, 272, 1414, 64]	[767.0, 304.0]	👋 Hello, I am Denis Gladkikh, author of OpenIn. I built this app to help organize the applications that I use daily, and decided to share it with you.	
+30	18	StaticText	[60, 356, 1480, 64]	[800.0, 388.0]	I am an Indie Developer. This application is not built by large IT corporation. It gives some benefits to both of us, when you post a review or send me a support email, it will be me, who will answer.	
+29	18	StaticText	[60, 440, 1320, 32]	[720.0, 456.0]	I have built this app, I know how to use it, I can help you to configure it, and help fix the bugs if you find them.	
+28	18	StaticText	[60, 492, 1402, 32]	[761.0, 508.0]	If you have a question or what to know more about the application, please check the FAQ section at OpenIn website:	
+27	18	Link	[60, 544, 268, 32]	[194.0, 560.0]		|loshadki.app/openin4/
+26	18	StaticText	[60, 618, 544, 32]	[332.0, 634.0]	If you cannot find an answer to your question	
+25	18	StaticText	[60, 670, 246, 32]	[183.0, 686.0]	Start a discussion at	
+24	18	Link	[60, 722, 98, 32]	[109.0, 738.0]		|r/openin
+23	18	StaticText	[60, 774, 218, 32]	[169.0, 790.0]	Or send me email:	
+22	18	Link	[60, 826, 272, 32]	[196.0, 842.0]		|support@loshadki.app
+21	18	StaticText	[60, 878, 1022, 32]	[571.0, 894.0]	Do you have an idea or a suggestion how to improve the application? Send me email.	
+20	18	StaticText	[60, 952, 1390, 64]	[755.0, 984.0]	Do you want to stay in touch with me, learn first when the new version of OpenIn will be out, or participate in Beta? Subscribe to our newsletter. I send only handcrafted emails, and will never give your email to anybody else.	
+19	18	Link	[60, 1036, 288, 32]	[204.0, 1052.0]		|Subscribe to newsletter
+17	16	Button	[1326, 1146, 188, 30]	[1420.0, 1161.0]		|Export logs...
+6	1	Toolbar	[0, 56, 1600, 104]	[800.0, 108.0]		
+13	6	Button	[388, 56, 110, 104]	[443.0, 108.0]		General
+12	6	Button	[500, 56, 120, 104]	[560.0, 108.0]		Browsers
+11	6	Button	[624, 56, 124, 104]	[686.0, 108.0]		Mail apps
+10	6	Button	[750, 56, 120, 104]	[810.0, 108.0]		Call apps
+9	6	Button	[874, 56, 110, 104]	[929.0, 108.0]		Files
+8	6	Button	[986, 56, 114, 104]	[1043.0, 108.0]		Backups
+7	6	Button	[1102, 56, 110, 104]	[1157.0, 108.0]		About
+3	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+4	3	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+2	1	StaticText	[692, 10, 218, 32]	[801.0, 26.0]	OpenIn Settings	

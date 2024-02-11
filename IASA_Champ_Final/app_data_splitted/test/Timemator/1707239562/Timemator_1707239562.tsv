@@ -1,0 +1,16 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1540, 1332]	[770.0, 666.0]		Welcome
+13	1	StaticText	[450, 86, 638, 66]	[769.0, 119.0]	Accessibility API Access	
+12	1	StaticText	[166, 192, 1208, 130]	[770.0, 257.0]	In order to run Auto-tracking or activity tracking, Timemator needs your permission to use your Mac’s Accessibility system. Please follow these steps to activate it.	
+11	1	StaticText	[86, 1032, 590, 130]	[381.0, 1097.0]	Click the lock icon to make changes and check the box next to Timemator	
+10	1	Image	[672, 376, 868, 836]	[1106.0, 794.0]		|welcome screen activation
+9	1	StaticText	[100, 952, 38, 42]	[119.0, 973.0]	3	
+8	1	StaticText	[86, 754, 590, 130]	[381.0, 819.0]	"Click the Privacy tab and
+select Accessibility from the list"	
+7	1	StaticText	[100, 674, 38, 42]	[119.0, 695.0]	2	
+6	1	StaticText	[86, 480, 590, 130]	[381.0, 545.0]	"Open System Preferences and
+go to Security & Privacy"	
+5	1	StaticText	[104, 400, 32, 42]	[120.0, 421.0]	1	
+4	1	Button	[1130, 1242, 384, 64]	[1322.0, 1274.0]		Open System Preferences
+3	1	Button	[26, 1242, 128, 64]	[90.0, 1274.0]		Back
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		

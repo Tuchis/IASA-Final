@@ -1,0 +1,12 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1428, 1246]	[714.0, 623.0]		Permute
+3	1	ScrollArea	[0, 0, 1428, 1246]	[714.0, 623.0]		Drop zone. There are currently no files in the queue.
+11	3	ScrollArea	[0, 0, 1428, 1246]	[714.0, 623.0]		Drop zone. There are currently no items in the queue.
+10	3	ScrollArea	[0, 44, 1428, 1146]	[714.0, 617.0]		
+9	3	Button	[1336, 1202, 30, 30]	[1351.0, 1217.0]		|Show History
+8	3	StaticText	[642, 1206, 146, 22]	[715.0, 1217.0]	No Conversions	
+7	3	Button	[1290, 1202, 30, 30]	[1305.0, 1217.0]		|Clear Finished Conversions
+6	3	Button	[1382, 1202, 30, 30]	[1397.0, 1217.0]		|Contact Support
+5	3	Button	[16, 1200, 28, 32]	[30.0, 1216.0]		|Open
+4	3	Button	[58, 1204, 28, 28]	[72.0, 1218.0]		|Permute's Workshop
+2	1	StaticText	[654, 10, 118, 32]	[713.0, 26.0]	Permute	

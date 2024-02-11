@@ -1,0 +1,120 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		AAPL   187,68   +1,83
+7	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+8	7	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+67	8	Group	[0, 0, 660, 1536]	[330.0, 768.0]		
+72	67	Group	[0, 0, 660, 1536]	[330.0, 768.0]		
+73	72	Group	[0, 0, 660, 1536]	[330.0, 768.0]		
+117	73	Group	[0, 104, 660, 88]	[330.0, 148.0]		
+118	117	TextField	[20, 118, 620, 60]	[330.0, 148.0]	apple	
+74	73	Group	[0, 0, 660, 1536]	[330.0, 768.0]		
+75	74	Group	[0, 0, 660, 1536]	[330.0, 768.0]		
+97	75	Group	[0, 0, 660, 1536]	[330.0, 768.0]		
+116	97	Button	[12, 220, 240, 62]	[132.0, 251.0]		|My Symbols
+114	97	Group	[12, 304, 636, 128]	[330.0, 368.0]		
+115	114	GenericElement	[12, 304, 636, 128]	[330.0, 368.0]	Apple Inc., NASDAQ · USD, 187,68, up 1,83 points	|AAPL
+112	97	Group	[12, 432, 636, 128]	[330.0, 496.0]		
+113	112	GenericElement	[12, 432, 636, 128]	[330.0, 496.0]	Apple Inc., Vienna · EUR, 174,66, up 1,74 points	|AAPL.VI
+110	97	Group	[12, 560, 636, 156]	[330.0, 638.0]		
+111	110	GenericElement	[12, 560, 636, 156]	[330.0, 638.0]	Apple Inc, Dusseldorf · EUR, 175,46, up 3,16 points	|APC.DU
+108	97	Group	[12, 716, 636, 128]	[330.0, 780.0]		
+109	108	GenericElement	[12, 716, 636, 128]	[330.0, 780.0]	Leverage Shares -1x Apple ETP Scs, London · EUR, 5,76, up 0,13 points	|SAPE.L
+106	97	Group	[12, 844, 636, 156]	[330.0, 922.0]		
+107	106	GenericElement	[12, 844, 636, 156]	[330.0, 922.0]	Leverage Shares 3x Short Apple (AAPL) ETP Securities, London · EUR, 2,364, down 0,02 points	|SALE.L
+104	97	Group	[12, 1000, 636, 156]	[330.0, 1078.0]		
+105	104	GenericElement	[12, 1000, 636, 156]	[330.0, 1078.0]	Kurv Yield Premium Strategy Apple (AAPL) ETF, NYSE MKT · USD, 25,92, up 0,20 points	|AAPY
+102	97	Group	[12, 1156, 636, 184]	[330.0, 1248.0]		
+103	102	GenericElement	[12, 1156, 636, 184]	[330.0, 1248.0]	FNB ETN on APPLEQ SEP25, Johannesburg Stock Exchange · ZAc, 1 563,00, up 26,00 points	|APETNQ.JO
+100	97	Group	[12, 1340, 636, 156]	[330.0, 1418.0]		
+101	100	GenericElement	[12, 1340, 636, 156]	[330.0, 1418.0]	GraniteShares 3x Short Apple Daily ETP, London · USD, 22,63, down 0,10 points	|3SAP.L
+98	97	Group	[12, 1496, 636, 40]	[330.0, 1516.0]		
+99	98	GenericElement	[12, 1496, 636, 40]	[330.0, 1516.0]	Hanwha Arirang Apple Balanced Fn Etf, Korea · KRW, 11 110,00, down 45,00 points	|447660.KS
+76	75	Group	[0, 0, 660, 1536]	[330.0, 768.0]		|Stock list
+96	76	GenericElement	[20, 218, 620, 120]	[330.0, 278.0]		"|Business News
+From Yahoo Finance"
+95	76	Button	[32, 370, 240, 62]	[152.0, 401.0]		|My Symbols
+93	76	Group	[20, 448, 620, 122]	[330.0, 509.0]		
+94	93	GenericElement	[20, 448, 620, 122]	[330.0, 509.0]	38 380,12, change, down 274,30 points	|Dow Jones Industrial Average, Dow Jones
+91	76	Group	[20, 570, 620, 122]	[330.0, 631.0]		
+92	91	GenericElement	[20, 570, 620, 122]	[330.0, 631.0]	4 942,81, change, down 15,80 points	|Standard and Poor’s 500, S&P 500
+89	76	Group	[20, 692, 620, 122]	[330.0, 753.0]		
+90	89	GenericElement	[20, 692, 620, 122]	[330.0, 753.0]	187,68, change, up 1,83 points	|Apple Inc., AAPL
+87	76	Group	[20, 814, 620, 122]	[330.0, 875.0]		
+88	87	GenericElement	[20, 814, 620, 122]	[330.0, 875.0]	206,63, change, down 2,75 points	|The Boeing Company, BA
+85	76	Group	[20, 936, 620, 122]	[330.0, 997.0]		
+86	85	GenericElement	[20, 936, 620, 122]	[330.0, 997.0]	390,76, change, up 0,01 points	|Berkshire Hathaway Inc., BRK-B
+83	76	Group	[20, 1058, 620, 122]	[330.0, 1119.0]		
+84	83	GenericElement	[20, 1058, 620, 122]	[330.0, 1119.0]	96,65, change, down 0,48 points	|The Walt Disney Company, DIS
+81	76	Group	[20, 1180, 620, 122]	[330.0, 1241.0]		
+82	81	GenericElement	[20, 1180, 620, 122]	[330.0, 1241.0]	137,71, change, up 1,17 points	|General Electric Company, GE
+79	76	Group	[20, 1302, 620, 122]	[330.0, 1363.0]		
+80	79	GenericElement	[20, 1302, 620, 122]	[330.0, 1363.0]	355,14, change, down 2,09 points	|The Home Depot, Inc., HD
+77	76	Group	[20, 1424, 620, 112]	[330.0, 1480.0]		
+78	77	GenericElement	[20, 1424, 620, 112]	[330.0, 1480.0]	99,68, change, down 1,03 points	|NIKE, Inc., NKE
+68	67	Group	[0, 1460, 660, 76]	[330.0, 1498.0]		|Toolbar
+69	68	Group	[0, 1460, 628, 76]	[314.0, 1498.0]		
+71	69	Button	[0, 1460, 208, 76]	[104.0, 1498.0]		|Yahoo Finance
+70	69	StaticText	[464, 1484, 164, 30]	[546.0, 1499.0]		|Market Closed
+66	8	Splitter	[660, 0, 2, 1536]	[661.0, 768.0]	32.2265625	
+9	8	Group	[662, 0, 1386, 1536]	[1355.0, 768.0]		
+10	9	Group	[662, 0, 1386, 1536]	[1355.0, 768.0]		
+11	10	Group	[674, 0, 1360, 1536]	[1354.0, 768.0]		|Apple Inc.
+65	11	Heading	[714, 206, 162, 72]	[795.0, 242.0]		|AAPL
+64	11	StaticText	[1598, 210, 88, 32]	[1642.0, 226.0]	187,68, change, up 1,83 points	|price at close
+63	11	StaticText	[1816, 210, 86, 32]	[1859.0, 226.0]	187,76, change, up 0,08 points	|after hours price
+62	11	StaticText	[902, 238, 130, 34]	[967.0, 255.0]		|Apple Inc.
+61	11	StaticText	[714, 286, 188, 34]	[808.0, 303.0]		|NASDAQ · USD
+38	11	Group	[674, 348, 1360, 548]	[1354.0, 622.0]		
+49	38	ScrollArea	[674, 348, 1360, 88]	[1354.0, 392.0]	1 day	|Reporting period
+60	49	Button	[704, 360, 72, 64]	[740.0, 392.0]	selected	|1 day
+59	49	Button	[826, 360, 72, 64]	[862.0, 392.0]		|1 week
+58	49	Button	[948, 360, 72, 64]	[984.0, 392.0]		|1 month
+57	49	Button	[1070, 360, 72, 64]	[1106.0, 392.0]		|3 months
+56	49	Button	[1192, 360, 72, 64]	[1228.0, 392.0]		|6 months
+55	49	Button	[1314, 360, 76, 64]	[1352.0, 392.0]		|year to date
+54	49	Button	[1440, 360, 72, 64]	[1476.0, 392.0]		|1 year
+53	49	Button	[1562, 360, 72, 64]	[1598.0, 392.0]		|2 years
+52	49	Button	[1684, 360, 72, 64]	[1720.0, 392.0]		|5 years
+51	49	Button	[1806, 360, 76, 64]	[1844.0, 392.0]		|10 years
+50	49	Button	[1932, 360, 72, 64]	[1968.0, 392.0]		|ALL
+48	38	GenericElement	[714, 436, 116, 384]	[772.0, 628.0]	187,15	
+47	38	GenericElement	[830, 436, 116, 384]	[888.0, 628.0]	187,11	
+46	38	GenericElement	[946, 436, 116, 384]	[1004.0, 628.0]	186,28	
+45	38	GenericElement	[1064, 436, 116, 384]	[1122.0, 628.0]	187,40	
+44	38	GenericElement	[1180, 436, 116, 384]	[1238.0, 628.0]	188,09	
+43	38	GenericElement	[1296, 436, 116, 384]	[1354.0, 628.0]	189,04	
+42	38	GenericElement	[1414, 436, 116, 384]	[1472.0, 628.0]	188,78	
+41	38	GenericElement	[1530, 436, 116, 384]	[1588.0, 628.0]	188,62	
+40	38	GenericElement	[1646, 436, 116, 384]	[1704.0, 628.0]	188,73	
+39	38	GenericElement	[1764, 436, 116, 384]	[1822.0, 628.0]	188,15	
+20	11	Group	[674, 896, 1360, 260]	[1354.0, 1026.0]		
+34	20	Group	[674, 896, 1360, 180]	[1354.0, 986.0]		
+37	34	GenericElement	[714, 926, 276, 32]	[852.0, 942.0]	188,15	|Open
+36	34	GenericElement	[714, 970, 276, 32]	[852.0, 986.0]	189,25	|High
+35	34	GenericElement	[714, 1014, 276, 32]	[852.0, 1030.0]	185,84	|Low
+30	20	Group	[674, 896, 1360, 180]	[1354.0, 986.0]		
+33	30	GenericElement	[1048, 926, 276, 32]	[1186.0, 942.0]	68,86 million	|Volume
+32	30	GenericElement	[1048, 970, 276, 32]	[1186.0, 986.0]	29,19	|Price-to-earnings ratio
+31	30	GenericElement	[1048, 1014, 276, 32]	[1186.0, 1030.0]	2,898 trillion	|Market Capitalisation
+26	20	Group	[674, 896, 1360, 180]	[1354.0, 986.0]		
+29	26	GenericElement	[1384, 926, 276, 32]	[1522.0, 942.0]	199,62	|52-Week High
+28	26	GenericElement	[1384, 970, 276, 32]	[1522.0, 986.0]	143,90	|52-Week Low
+27	26	GenericElement	[1384, 1014, 276, 32]	[1522.0, 1030.0]	54,15 million	|Average Volume
+22	20	Group	[674, 896, 1360, 180]	[1354.0, 986.0]		
+25	22	GenericElement	[1718, 926, 278, 32]	[1857.0, 942.0]	0,52%	|Yield
+24	22	GenericElement	[1718, 970, 278, 32]	[1857.0, 986.0]	1,31	|Beta
+23	22	GenericElement	[1718, 1014, 278, 32]	[1857.0, 1030.0]	6,43	|Earnings-per-share
+21	20	Button	[714, 1088, 454, 32]	[941.0, 1104.0]		|See More Data from Yahoo Finance
+18	11	Group	[714, 1184, 622, 198]	[1025.0, 1283.0]		
+19	18	GenericElement	[714, 1184, 622, 198]	[1025.0, 1283.0]	Spotify will report quarterly results before the bell on Wednesday. Here's what to expect.	|Yahoo Finance, Spotify earnings preview: Investors eye margin improvements amid podcast pivots, 46 minutes ago
+16	11	Group	[1372, 1184, 622, 198]	[1683.0, 1283.0]		
+17	16	GenericElement	[1372, 1184, 622, 198]	[1683.0, 1283.0]	The first weekend of availability for Apple Vision Pro saw consumers lined up at Apple retail stores to try out the new spatial computing headset.	|Investor's Business Daily, Apple Vision Pro Wows Consumers, But High Price To Limit Demand, 1 hour ago
+14	11	Group	[714, 1410, 622, 126]	[1025.0, 1473.0]		
+15	14	GenericElement	[714, 1410, 622, 126]	[1025.0, 1473.0]	Among the Magnificent Seven stocks to buy and watch, Apple, Nvidia and Tesla stock are in new buy areas.	|Investor's Business Daily, Magnificent Seven Stocks To Buy And Watch: Tesla Dives, Nvidia Rallies To Record Highs, 1 hour ago
+12	11	Group	[1372, 1410, 622, 126]	[1683.0, 1473.0]		
+13	12	GenericElement	[1372, 1410, 622, 126]	[1683.0, 1473.0]		|Benzinga, Meta's Ad Business Continues To Rebound, Its Metaverse Efforts Continue to Advance But Its Moral Integrity Remains Questionable, 4 hours ago
+3	1	Toolbar	[0, 0, 2048, 104]	[1024.0, 52.0]		
+6	3	Button	[678, 0, 72, 104]	[714.0, 52.0]		|Go back
+5	3	Button	[1886, 0, 74, 104]	[1923.0, 52.0]		|Share
+4	3	Button	[1960, 0, 72, 104]	[1996.0, 52.0]		|selected
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

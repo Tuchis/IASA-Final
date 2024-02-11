@@ -1,0 +1,25 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1360]	[800.0, 680.0]		OpenIn Settings
+14	1	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+15	14	Group	[0, 160, 1600, 1200]	[800.0, 760.0]		
+16	15	ScrollArea	[0, 160, 1600, 1200]	[800.0, 760.0]		
+24	16	StaticText	[62, 204, 160, 32]	[142.0, 220.0]	Backups	
+23	16	Button	[1500, 200, 40, 40]	[1520.0, 220.0]		|Help
+20	16	Group	[34, 256, 1532, 84]	[800.0, 298.0]		
+21	20	ScrollArea	[40, 260, 1520, 72]	[800.0, 296.0]		
+22	21	Table	[40, 260, 1520, 72]	[800.0, 296.0]		
+19	16	StaticText	[40, 352, 1520, 52]	[800.0, 378.0]	OpenIn can create a backup of the configurations and history. You can export backups, move to another Mac, import them and restore. If iCloud is enabled on system, all backups will be synced with your iCloud account.	
+18	16	Button	[1312, 418, 80, 32]	[1352.0, 434.0]		|Create
+17	16	Button	[1440, 418, 102, 32]	[1491.0, 434.0]		|Import...
+6	1	Toolbar	[0, 56, 1600, 104]	[800.0, 108.0]		
+13	6	Button	[388, 56, 110, 104]	[443.0, 108.0]		General
+12	6	Button	[500, 56, 120, 104]	[560.0, 108.0]		Browsers
+11	6	Button	[624, 56, 124, 104]	[686.0, 108.0]		Mail apps
+10	6	Button	[750, 56, 120, 104]	[810.0, 108.0]		Call apps
+9	6	Button	[874, 56, 110, 104]	[929.0, 108.0]		Files
+8	6	Button	[986, 56, 114, 104]	[1043.0, 108.0]		Backups
+7	6	Button	[1102, 56, 110, 104]	[1157.0, 108.0]		About
+3	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+4	3	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+2	1	StaticText	[692, 10, 218, 32]	[801.0, 26.0]	OpenIn Settings	

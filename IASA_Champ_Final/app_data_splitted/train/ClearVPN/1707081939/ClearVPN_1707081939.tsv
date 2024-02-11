@@ -1,0 +1,26 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+23	1	Button	[1488, 76, 64, 64]	[1520.0, 108.0]		|settings-close-button
+22	1	StaticText	[448, 132, 252, 48]	[574.0, 156.0]	Need help?	
+21	1	StaticText	[48, 224, 320, 68]	[208.0, 258.0]	Account	
+20	1	StaticText	[448, 278, 480, 28]	[688.0, 292.0]	Send us your questions or feedback	
+19	1	StaticText	[48, 292, 320, 68]	[208.0, 326.0]	Your devices	
+18	1	StaticText	[448, 320, 654, 24]	[775.0, 332.0]	Our Support representative will reply as soon as possible	
+17	1	Button	[1268, 276, 284, 64]	[1410.0, 308.0]		|Send a message
+16	1	StaticText	[48, 360, 320, 68]	[208.0, 394.0]	System settings	
+15	1	StaticText	[48, 428, 320, 68]	[208.0, 462.0]	Shortcuts	
+14	1	StaticText	[448, 424, 126, 28]	[511.0, 438.0]	More info	
+13	1	StaticText	[48, 496, 320, 104]	[208.0, 548.0]	Stand with Ukraine 🇺🇦	
+12	1	Button	[448, 494, 126, 64]	[511.0, 526.0]		|FAQ
+11	1	Button	[590, 494, 240, 64]	[710.0, 526.0]		|Privacy Policy
+10	1	Button	[848, 494, 228, 64]	[962.0, 526.0]		|Terms of Use
+9	1	StaticText	[48, 600, 320, 68]	[208.0, 634.0]	Need help?	
+8	1	StaticText	[448, 644, 198, 60]	[547.0, 674.0]	"VERSION 2.6.0
+(202401.29.1738)"	
+7	1	Button	[654, 650, 48, 48]	[678.0, 674.0]		|copy
+6	1	StaticText	[1276, 662, 124, 24]	[1338.0, 674.0]	Crafted by	
+5	1	Image	[1416, 662, 134, 24]	[1483.0, 674.0]		|macPawLogoSmall
+4	1	Image	[82, 870, 252, 148]	[208.0, 944.0]		|banner-devices
+3	1	StaticText	[114, 1044, 188, 80]	[208.0, 1084.0]	"Are you sure 
+all your devices are protected?"	
+2	1	Button	[80, 1150, 256, 44]	[208.0, 1172.0]		|7 of 8 slots remaining

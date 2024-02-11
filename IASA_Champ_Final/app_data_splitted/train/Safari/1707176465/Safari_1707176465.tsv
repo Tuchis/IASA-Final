@@ -1,0 +1,157 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2648, 1718]	[1324.0, 859.0]		iasa champ - Google Search
+23	1	SplitGroup	[0, 0, 2648, 1718]	[1324.0, 859.0]		
+24	23	TabGroup	[0, 0, 2648, 1718]	[1324.0, 859.0]		
+25	24	Group	[0, 0, 2648, 1718]	[1324.0, 859.0]		
+26	25	Group	[0, 0, 2648, 1718]	[1324.0, 859.0]		
+27	26	ScrollArea	[0, 104, 2648, 1614]	[1324.0, 911.0]		|
+29	27	WebArea	[0, 104, 2648, 1614]	[1324.0, 911.0]		|iasa champ - Google Search
+155	29	Heading	[0, 104, 2, 2]	[1.0, 105.0]	2	Accessibility links|
+156	155	StaticText	[0, 104, 366, 46]	[183.0, 127.0]	Accessibility links	|
+153	29	Link	[22, 220, 220, 88]	[132.0, 264.0]		Skip to main content|
+154	153	StaticText	[54, 228, 156, 72]	[132.0, 264.0]	Skip to main content	|
+151	29	Link	[22, 200, 220, 128]	[132.0, 264.0]		Turn off continuous scrolling|
+152	151	StaticText	[64, 208, 136, 112]	[132.0, 264.0]	Turn off continuous scrolling	|
+149	29	Link	[22, 220, 220, 88]	[132.0, 264.0]		Accessibility help|
+150	149	StaticText	[54, 228, 156, 72]	[132.0, 264.0]	Accessibility help	|
+147	29	Link	[22, 276, 220, 88]	[132.0, 320.0]		Accessibility feedback|
+148	147	StaticText	[54, 284, 156, 72]	[132.0, 320.0]	Accessibility feedback	|
+146	29	Group	[0, 116, 2648, 138]	[1324.0, 185.0]		|
+137	29	Group	[0, 154, 1704, 94]	[852.0, 201.0]		|
+144	137	Link	[48, 176, 184, 66]	[140.0, 209.0]		Google|
+145	144	Image	[48, 176, 184, 60]	[140.0, 206.0]		|Google
+141	137	ComboBox	[362, 180, 1058, 50]	[891.0, 205.0]	iasa champ	|Search
+142	141	Group	[362, 180, 1058, 44]	[891.0, 202.0]		|
+143	142	StaticText	[362, 184, 164, 34]	[444.0, 201.0]	iasa champ	|
+140	137	Button	[1420, 158, 96, 88]	[1468.0, 202.0]		|Clear
+139	137	Button	[1526, 158, 80, 88]	[1566.0, 202.0]		|Search by image
+138	137	Button	[1614, 158, 88, 88]	[1658.0, 202.0]		|Search
+136	29	Button	[2140, 164, 208, 140]	[2244.0, 234.0]		|Settings
+131	29	Group	[2288, 156, 320, 96]	[2448.0, 204.0]		|
+134	131	Group	[2288, 156, 96, 96]	[2336.0, 204.0]		|
+135	134	Button	[2288, 156, 96, 96]	[2336.0, 204.0]		|Google apps
+132	131	Link	[2400, 168, 192, 72]	[2496.0, 204.0]		|Sign in
+133	132	StaticText	[2452, 186, 88, 36]	[2496.0, 204.0]	Sign in	|
+130	29	Group	[0, 144, 2648, 136]	[1324.0, 212.0]		|
+107	29	Group	[0, 280, 2648, 112]	[1324.0, 336.0]		|
+113	107	Group	[320, 280, 1742, 112]	[1191.0, 336.0]		|
+128	113	Heading	[320, 280, 2, 2]	[321.0, 281.0]	1	Filters and topics|
+129	128	StaticText	[320, 280, 232, 32]	[436.0, 296.0]	Filters and topics	|
+126	113	Link	[320, 280, 152, 80]	[396.0, 320.0]		Images|
+127	126	StaticText	[350, 302, 92, 36]	[396.0, 320.0]	Images	|
+124	113	Link	[482, 280, 148, 80]	[556.0, 320.0]		Videos|
+125	124	StaticText	[512, 302, 88, 36]	[556.0, 320.0]	Videos	|
+122	113	Link	[640, 280, 144, 80]	[712.0, 320.0]		|Add Places
+123	122	StaticText	[670, 302, 84, 36]	[712.0, 320.0]	Places	|
+120	113	Link	[794, 280, 132, 80]	[860.0, 320.0]		News|
+121	120	StaticText	[824, 302, 72, 36]	[860.0, 320.0]	News	|
+118	113	Link	[936, 280, 208, 80]	[1040.0, 320.0]		|Add Places sites
+119	118	StaticText	[966, 302, 148, 36]	[1040.0, 320.0]	Places sites	|
+116	113	Link	[1154, 280, 138, 80]	[1223.0, 320.0]		Books|
+117	116	StaticText	[1184, 302, 78, 36]	[1223.0, 320.0]	Books	|
+114	113	Link	[1302, 280, 160, 80]	[1382.0, 320.0]		Finance|
+115	114	StaticText	[1332, 302, 100, 36]	[1382.0, 320.0]	Finance	|
+112	107	PopUpButton	[2052, 280, 200, 96]	[2152.0, 328.0]		All filters|
+111	107	Group	[2256, 300, 4, 40]	[2258.0, 320.0]		|
+110	107	Button	[2264, 280, 104, 80]	[2316.0, 320.0]		Tools|
+108	107	Group	[2396, 280, 230, 96]	[2511.0, 328.0]		|
+109	108	PopUpButton	[2396, 280, 230, 96]	[2511.0, 328.0]		SafeSearch|
+103	29	Group	[360, 394, 2288, 86]	[1504.0, 437.0]		|
+104	103	Group	[360, 394, 498, 86]	[609.0, 437.0]		|
+106	104	StaticText	[360, 418, 284, 36]	[502.0, 436.0]	About 248,000 results	|
+105	104	StaticText	[642, 418, 200, 36]	[742.0, 436.0]	 (0.23 seconds) 	|
+30	29	Group	[360, 492, 1344, 1226]	[1032.0, 1105.0]		|
+101	30	Heading	[360, 492, 2, 2]	[361.0, 493.0]	1	Search Results|
+102	101	StaticText	[360, 492, 204, 32]	[462.0, 508.0]	Search Results	|
+90	30	Group	[360, 492, 1200, 146]	[960.0, 565.0]		|
+95	90	Link	[360, 492, 368, 140]	[544.0, 562.0]		IASA DS Champ IASA DS Champ http://ds-champ.iasa.kpi.ua|
+99	95	Heading	[360, 568, 326, 64]	[523.0, 600.0]	3	IASA DS Champ|
+100	99	StaticText	[360, 580, 326, 50]	[523.0, 605.0]	IASA DS Champ	|
+98	95	StaticText	[440, 496, 208, 32]	[544.0, 512.0]	IASA DS Champ	|
+96	95	Group	[440, 532, 288, 36]	[584.0, 550.0]		|
+97	96	StaticText	[440, 536, 288, 28]	[584.0, 550.0]	http://ds-champ.iasa.kpi.ua	|
+94	90	StaticText	[734, 534, 10, 30]	[739.0, 549.0]	·	|
+92	90	Link	[754, 532, 204, 36]	[856.0, 550.0]		Translate this page|
+93	92	StaticText	[754, 536, 206, 28]	[857.0, 550.0]	Translate this page	|
+91	90	Button	[974, 528, 82, 44]	[1015.0, 550.0]		About this result|
+89	30	StaticText	[360, 644, 68, 32]	[394.0, 660.0]	IASA	|
+88	30	StaticText	[426, 644, 56, 32]	[454.0, 660.0]	 DS 	|
+87	30	StaticText	[480, 644, 98, 32]	[529.0, 660.0]	Champ	|
+86	30	StaticText	[576, 644, 378, 32]	[765.0, 660.0]	 official website (landing page)	|
+75	30	Group	[360, 742, 1200, 146]	[960.0, 815.0]		|
+80	75	Link	[360, 742, 390, 140]	[555.0, 812.0]		IASA Champ '24 Kyiv Polytechnic Institute http://champ.iasa.kpi.ua|
+84	80	Heading	[360, 818, 322, 64]	[521.0, 850.0]	3	IASA Champ '24|
+85	84	StaticText	[360, 830, 322, 50]	[521.0, 855.0]	IASA Champ '24	|
+83	80	StaticText	[440, 746, 310, 32]	[595.0, 762.0]	Kyiv Polytechnic Institute	|
+81	80	Group	[440, 782, 254, 36]	[567.0, 800.0]		|
+82	81	StaticText	[440, 786, 254, 28]	[567.0, 800.0]	http://champ.iasa.kpi.ua	|
+79	75	StaticText	[700, 784, 10, 30]	[705.0, 799.0]	·	|
+77	75	Link	[720, 782, 206, 36]	[823.0, 800.0]		Translate this page|
+78	77	StaticText	[720, 786, 206, 28]	[823.0, 800.0]	Translate this page	|
+76	75	Button	[940, 778, 82, 44]	[981.0, 800.0]		About this result|
+74	30	StaticText	[360, 894, 1076, 76]	[898.0, 932.0]	Head of Project Management and System Analysis Unit at lifecell. Понад 13 років в IT. Пройшла кар'єрний шлях від бізнес-аналітикині до проджект-менеджерки.	|
+62	30	Group	[360, 1036, 1200, 146]	[960.0, 1109.0]		|
+67	62	Link	[360, 1036, 468, 140]	[594.0, 1106.0]		IASA Champ '24 stud-point https://stud-point.com › opportunities|
+72	67	Heading	[360, 1112, 322, 64]	[521.0, 1144.0]	3	IASA Champ '24|
+73	72	StaticText	[360, 1124, 322, 50]	[521.0, 1149.0]	IASA Champ '24	|
+71	67	StaticText	[440, 1040, 124, 32]	[502.0, 1056.0]	stud-point	|
+68	67	Group	[440, 1076, 388, 36]	[634.0, 1094.0]		|
+70	68	StaticText	[440, 1080, 230, 28]	[555.0, 1094.0]	https://stud-point.com	|
+69	68	StaticText	[668, 1080, 162, 28]	[749.0, 1094.0]	 › opportunities	|
+66	62	StaticText	[836, 1078, 10, 30]	[841.0, 1093.0]	·	|
+64	62	Link	[856, 1076, 204, 36]	[958.0, 1094.0]		Translate this page|
+65	64	StaticText	[856, 1080, 204, 28]	[958.0, 1094.0]	Translate this page	|
+63	62	Button	[1074, 1072, 82, 44]	[1115.0, 1094.0]		About this result|
+61	30	StaticText	[360, 1188, 162, 32]	[441.0, 1204.0]	Jan 19, 2024	|
+60	30	StaticText	[520, 1188, 46, 32]	[543.0, 1204.0]	 — 	|
+59	30	StaticText	[564, 1188, 748, 32]	[938.0, 1204.0]	Студрада ІПСА в партнерстві з ІТ-компаніями проводить 	|
+58	30	StaticText	[1310, 1188, 172, 32]	[1396.0, 1204.0]	IASA Champ	|
+57	30	StaticText	[360, 1188, 1174, 76]	[947.0, 1226.0]	 '24, онлайн-змагання для студентів, за двома напрямами: Data Science і ...	|
+48	30	Group	[360, 1330, 1200, 146]	[960.0, 1403.0]		|
+50	48	Link	[360, 1330, 470, 140]	[595.0, 1400.0]		Membership IASA https://www.iasa.org › member-value|
+55	50	Heading	[360, 1406, 242, 64]	[481.0, 1438.0]	3	Membership|
+56	55	StaticText	[360, 1418, 244, 50]	[482.0, 1443.0]	Membership	|
+54	50	StaticText	[440, 1334, 64, 32]	[472.0, 1350.0]	IASA	|
+51	50	Group	[440, 1370, 390, 36]	[635.0, 1388.0]		|
+53	51	StaticText	[440, 1374, 216, 28]	[548.0, 1388.0]	https://www.iasa.org	|
+52	51	StaticText	[654, 1374, 176, 28]	[742.0, 1388.0]	 › member-value	|
+49	48	Button	[844, 1366, 82, 44]	[885.0, 1388.0]		About this result|
+47	30	StaticText	[360, 1482, 32, 32]	[376.0, 1498.0]	... 	|
+46	30	StaticText	[390, 1482, 150, 32]	[465.0, 1498.0]	champions	|
+45	30	StaticText	[538, 1482, 838, 32]	[957.0, 1498.0]	, national speakers, published authors, and stars of their own story. 	|
+44	30	StaticText	[1374, 1482, 70, 32]	[1409.0, 1498.0]	IASA	|
+43	30	StaticText	[360, 1526, 942, 32]	[831.0, 1542.0]	members give their clients hope when times are tough, provide resources ...	|
+41	30	Link	[360, 1652, 156, 66]	[438.0, 1685.0]		Images|
+42	41	StaticText	[360, 1666, 158, 52]	[439.0, 1692.0]	Images	|
+40	30	Button	[516, 1678, 82, 40]	[557.0, 1698.0]		|About this result
+38	30	Heading	[616, 1652, 4, 2]	[618.0, 1653.0]	3	Guided Search Filters|
+39	38	StaticText	[616, 1652, 428, 50]	[830.0, 1677.0]	Guided Search Filters	|
+31	30	Group	[616, 1652, 1050, 66]	[1141.0, 1685.0]		|
+32	31	Group	[616, 1652, 1050, 66]	[1141.0, 1685.0]		|
+37	32	Button	[1592, 1658, 72, 60]	[1628.0, 1688.0]		|Filter by feature
+33	32	Group	[616, 1646, 978, 72]	[1105.0, 1682.0]		|
+36	33	Button	[844, 1646, 300, 72]	[994.0, 1682.0]		arabian studies|
+35	33	Button	[1154, 1646, 268, 72]	[1288.0, 1682.0]		data science|
+34	33	Button	[1432, 1646, 150, 72]	[1507.0, 1682.0]		seminar|
+28	27	ScrollBar	[2616, 208, 32, 1510]	[2632.0, 963.0]	0.0	|
+3	1	Toolbar	[0, 0, 2648, 104]	[1324.0, 52.0]		
+20	3	Group	[174, 0, 124, 104]	[236.0, 52.0]		
+22	20	Button	[170, 12, 90, 80]	[215.0, 52.0]		|show sidebar
+21	20	MenuButton	[236, 12, 64, 80]	[268.0, 52.0]		|Tab Group picker
+16	3	Group	[298, 0, 150, 104]	[373.0, 52.0]		
+17	16	Group	[294, 12, 158, 80]	[373.0, 52.0]		
+19	17	Button	[294, 12, 80, 80]	[334.0, 52.0]		|Go back
+18	17	Button	[374, 12, 78, 80]	[413.0, 52.0]		|Go forward
+9	3	Group	[780, 0, 1086, 104]	[1323.0, 52.0]		
+15	9	Button	[790, 24, 44, 56]	[812.0, 52.0]		Add page to Reading List|Add page to Reading List
+14	9	Button	[1216, 24, 44, 56]	[1238.0, 52.0]		Show Search Menu|Show Search Menu
+13	9	Button	[1262, 38, 28, 30]	[1276.0, 53.0]		secure site certificate|secure site certificate
+12	9	TextField	[832, 36, 922, 56]	[1293.0, 64.0]	iasa champ	|smart search field showing a secure address
+11	9	Button	[1768, 24, 44, 56]	[1790.0, 52.0]		Translation Available|Translation Available
+10	9	Button	[1812, 24, 44, 56]	[1834.0, 52.0]		Reload this page|Reload this page
+8	3	Button	[2406, 0, 74, 104]	[2443.0, 52.0]		|Share
+5	3	Button	[2480, 0, 72, 104]	[2516.0, 52.0]		|New Tab
+6	5	Button	[2476, 12, 80, 80]	[2516.0, 52.0]		|new tab
+7	6	Button	[2476, 12, 80, 80]	[2516.0, 52.0]		|add
+4	3	Button	[2552, 0, 80, 104]	[2592.0, 52.0]		|Tab Overview
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

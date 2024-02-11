@@ -1,0 +1,47 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2326, 1386]	[1163.0, 693.0]		Latest News – 1 unread
+16	1	ScrollArea	[0, 0, 2326, 1386]	[1163.0, 693.0]		
+21	16	List	[0, 0, 2326, 1386]	[1163.0, 693.0]		
+22	21	List	[0, 0, 2326, 1386]	[1163.0, 693.0]		|Today
+44	22	Group	[0, 0, 2326, 184]	[1163.0, 92.0]		
+46	44	StaticText	[52, 124, 98, 40]	[101.0, 144.0]	Today	
+45	44	StaticText	[2160, 130, 114, 32]	[2217.0, 146.0]	95 items	
+37	22	Group	[38, 194, 1122, 960]	[599.0, 674.0]		
+43	37	Group	[38, 194, 1122, 960]	[599.0, 674.0]		
+42	37	Image	[1116, 1116, 24, 24]	[1128.0, 1128.0]		|unwatched
+41	37	StaticText	[54, 230, 1090, 52]	[599.0, 256.0]	Seeking ideas for my final year project [P]	
+40	37	StaticText	[54, 1110, 194, 28]	[151.0, 1124.0]	Machine Learning	
+39	37	StaticText	[982, 1110, 138, 28]	[1051.0, 1124.0]	Today, 18:13	
+38	37	StaticText	[54, 290, 1090, 128]	[599.0, 354.0]	Currently brainstorming ideas for my final year project and looking for an inspiration! Mainly intrested in ai ml projects Need a suggestion for a project I''m majoring in AI and Machine Learning. Some ideas I gathered but can't pursue due to complexity:- Automotive Car Police Simulation dating app Handwriting recognition and generator	
+31	22	Group	[1160, 194, 1122, 960]	[1721.0, 674.0]		
+36	31	Image	[1180, 214, 1082, 600]	[1721.0, 514.0]		|
+35	31	StaticText	[1176, 830, 1090, 38]	[1721.0, 849.0]	DPG: a model to build feature subspace against adversarial patch attack	
+34	31	StaticText	[1176, 1110, 194, 28]	[1273.0, 1124.0]	Machine Learning	
+33	31	StaticText	[2134, 1110, 134, 28]	[2201.0, 1124.0]	Today, 18:11	
+32	31	StaticText	[1176, 876, 1090, 218]	[1721.0, 985.0]	Abstract Adversarial patch attacks in the physical world are a major threat to the application of deep learning. However, current research on adversarial patch defense algorithms focuses on image pre-processing defenses, it has been demonstrated that this defense reduces the classification accuracy of clean images and is unable to defend against physically realizable attacks. In this paper, we propose a defense patch GNN (DPG), using a new perspective for defending against adversarial patch attacks. First, we extract the input image features with the feature extraction to obtain a feature set. Then downsampling the feature set by applying the global average pooling layer to reduce the perturbation of the features by the adversarial patch. Finally, this paper proposes a graph-structured feature subspace to robust the feature performance. In addition, we design an optimization algorithm based on stochastic gradient descent (SGD), which can significantly increase the mode’s generalization ability. We demonstrate empirically the superior robustness of the DPG model on existing adversarial patch attacks. DPG shows without any accuracy loss in the prediction of clean images.	
+29	22	Group	[38, 1174, 560, 212]	[318.0, 1280.0]		
+30	29	Image	[58, 1194, 522, 192]	[319.0, 1290.0]		|
+27	22	Group	[600, 1174, 560, 212]	[880.0, 1280.0]		
+28	27	Image	[620, 1194, 522, 192]	[881.0, 1290.0]		|
+25	22	Group	[1160, 1174, 560, 212]	[1440.0, 1280.0]		
+26	25	Image	[1180, 1194, 522, 192]	[1441.0, 1290.0]		|
+23	22	Group	[1722, 1174, 560, 212]	[2002.0, 1280.0]		
+24	23	Image	[1742, 1194, 522, 192]	[2003.0, 1290.0]		|
+17	16	ScrollBar	[2294, 0, 32, 1386]	[2310.0, 693.0]	0.0	
+20	17	ValueIndicator	[2302, 2, 24, 52]	[2314.0, 28.0]	0.0	
+19	17	Button	[2302, 54, 24, 1332]	[2314.0, 720.0]		
+18	17	Button	[2302, 0, 24, 2]	[2314.0, 1.0]		
+2	1	Toolbar	[0, 0, 2326, 104]	[1163.0, 52.0]		
+13	2	Group	[174, 0, 70, 104]	[209.0, 52.0]		
+15	13	Button	[184, 28, 54, 46]	[211.0, 51.0]		|Refresh
+14	13	Button	[182, 28, 54, 46]	[209.0, 51.0]		|Refresh
+12	2	CheckBox	[244, 0, 100, 104]	[294.0, 52.0]	1	|View
+11	2	Button	[344, 0, 100, 104]	[394.0, 52.0]		|Check
+10	2	CheckBox	[444, 0, 100, 104]	[494.0, 52.0]	0	|Reader
+9	2	Button	[544, 0, 100, 104]	[594.0, 52.0]		|Slidehsow
+7	2	Group	[724, 0, 1308, 104]	[1378.0, 52.0]		
+8	7	PopUpButton	[1272, 36, 200, 32]	[1372.0, 52.0]	Latest News	|ChannelList
+6	2	CheckBox	[2032, 0, 100, 104]	[2082.0, 52.0]	0	|Star
+5	2	Button	[2132, 0, 100, 104]	[2182.0, 52.0]		|Share
+3	2	Group	[2232, 0, 78, 104]	[2271.0, 52.0]		
+4	3	Button	[2228, 12, 84, 80]	[2270.0, 52.0]		|Search

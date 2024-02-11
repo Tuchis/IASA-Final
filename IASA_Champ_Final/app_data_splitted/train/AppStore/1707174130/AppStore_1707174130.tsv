@@ -1,0 +1,97 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2360, 1448]	[1180.0, 724.0]		App Store
+3	1	SplitGroup	[0, 0, 2360, 1448]	[1180.0, 724.0]		
+81	3	Group	[20, 104, 400, 56]	[220.0, 132.0]		
+82	81	TextField	[80, 104, 288, 56]	[224.0, 132.0]		|search field
+55	3	Outline	[0, 176, 440, 1160]	[220.0, 756.0]		
+78	55	Row	[0, 196, 440, 72]	[220.0, 232.0]		
+79	78	Cell	[20, 196, 400, 72]	[220.0, 232.0]		|Discover
+80	79	Button	[0, 196, 440, 72]	[220.0, 232.0]		|Discover
+75	55	Row	[0, 268, 440, 72]	[220.0, 304.0]		
+76	75	Cell	[20, 268, 400, 72]	[220.0, 304.0]		|Arcade
+77	76	Button	[0, 268, 440, 72]	[220.0, 304.0]		|Arcade
+72	55	Row	[0, 340, 440, 72]	[220.0, 376.0]		
+73	72	Cell	[20, 340, 400, 72]	[220.0, 376.0]		|Create
+74	73	Button	[0, 340, 440, 72]	[220.0, 376.0]		|Create
+69	55	Row	[0, 412, 440, 72]	[220.0, 448.0]		
+70	69	Cell	[20, 412, 400, 72]	[220.0, 448.0]		|Work
+71	70	Button	[0, 412, 440, 72]	[220.0, 448.0]		|Work
+66	55	Row	[0, 484, 440, 72]	[220.0, 520.0]		
+67	66	Cell	[20, 484, 400, 72]	[220.0, 520.0]		|Play
+68	67	Button	[0, 484, 440, 72]	[220.0, 520.0]		|Play
+63	55	Row	[0, 556, 440, 72]	[220.0, 592.0]		
+64	63	Cell	[20, 556, 400, 72]	[220.0, 592.0]		|Develop
+65	64	Button	[0, 556, 440, 72]	[220.0, 592.0]		|Develop
+60	55	Row	[0, 628, 440, 72]	[220.0, 664.0]		
+61	60	Cell	[20, 628, 400, 72]	[220.0, 664.0]		|Categories
+62	61	Button	[0, 628, 440, 72]	[220.0, 664.0]		|Categories
+57	55	Row	[0, 700, 440, 72]	[220.0, 736.0]		
+58	57	Cell	[20, 700, 400, 72]	[220.0, 736.0]		|Updates, 5 available
+59	58	Button	[0, 700, 440, 72]	[220.0, 736.0]		|Updates, 5 available
+56	55	Column	[20, 176, 400, 1160]	[220.0, 756.0]		
+52	3	Button	[0, 1336, 440, 112]	[220.0, 1392.0]		Mariya Hirna|Mariya Hirna
+54	52	Image	[20, 1356, 72, 72]	[56.0, 1392.0]		|
+53	52	StaticText	[104, 1376, 168, 32]	[188.0, 1392.0]	Mariya Hirna	
+7	3	ScrollArea	[442, 218, 1918, 1230]	[1401.0, 833.0]		
+9	7	List	[442, 218, 1918, 1230]	[1401.0, 833.0]		|Details
+10	9	List	[442, 218, 1918, 902]	[1401.0, 669.0]		|Available
+51	10	StaticText	[442, 218, 1918, 106]	[1401.0, 271.0]		|Available
+43	10	Group	[522, 324, 858, 216]	[951.0, 432.0]		
+50	43	Image	[522, 326, 100, 100]	[572.0, 376.0]		|Artwork
+49	43	StaticText	[646, 338, 168, 34]	[730.0, 355.0]	GarageBand	
+48	43	StaticText	[646, 378, 142, 30]	[717.0, 393.0]	5 Dec 2023	
+47	43	Button	[1244, 324, 136, 104]	[1312.0, 376.0]		Update|Update
+45	43	StaticText	[522, 464, 858, 38]	[951.0, 483.0]	This update includes stability improvements and bug fixes	
+46	45	StaticText	[522, 464, 858, 38]	[951.0, 483.0]	This update includes stability improvements and bug fixes	
+44	43	StaticText	[522, 538, 858, 38]	[951.0, 557.0]	5 Dec 2023	
+35	10	Group	[1422, 324, 858, 216]	[1851.0, 432.0]		
+42	35	Image	[1422, 326, 100, 100]	[1472.0, 376.0]		|Artwork
+41	35	StaticText	[1546, 338, 92, 34]	[1592.0, 355.0]	iMovie	
+40	35	StaticText	[1546, 378, 156, 30]	[1624.0, 393.0]	30 Nov 2023	
+39	35	Button	[2144, 324, 136, 104]	[2212.0, 376.0]		Update|Update
+37	35	StaticText	[1422, 464, 858, 76]	[1851.0, 502.0]	• Export HEVC and H.264 files faster by simultaneously processing video segments across available media engines (requires macOS Sonoma or later and a Mac with Apple M1 Max, M1 Ultra, M2 Max, M2 Ultra or M3 Max).	
+38	37	StaticText	[1422, 464, 858, 76]	[1851.0, 502.0]	• Export HEVC and H.264 files faster by simultaneously processing video segments across available media engines (requires macOS Sonoma or later and a Mac with Apple M1 Max, M1 Ultra, M2 Max, M2 Ultra or M3 Max).	
+36	35	StaticText	[1422, 576, 858, 38]	[1851.0, 595.0]	30 Nov 2023	
+27	10	Group	[522, 614, 858, 216]	[951.0, 722.0]		
+34	27	Image	[522, 616, 100, 100]	[572.0, 666.0]		|Artwork
+33	27	StaticText	[646, 628, 114, 34]	[703.0, 645.0]	Keynote	
+32	27	StaticText	[646, 668, 150, 30]	[721.0, 683.0]	21 Sep 2023	
+31	27	Button	[1244, 614, 136, 104]	[1312.0, 666.0]		Update|Update
+29	27	StaticText	[522, 754, 858, 76]	[951.0, 792.0]	"• Bring new dimension to your presentations with 3D objects in USDZ format
+• Play embedded animations within USDZ files or use Magic Move to animate 3D objects across slides 
+• Add motion to your presentation with new dynamic themes and live video slide layouts
+• Remove external borders on charts imported from Microsoft Office files"	
+30	29	StaticText	[522, 754, 858, 76]	[951.0, 792.0]	"• Bring new dimension to your presentations with 3D objects in USDZ format
+• Play embedded animations within USDZ files or use Magic Move to animate 3D objects across slides 
+• Add motion to your presentation with new dynamic themes and live video slide layouts
+• Remove external borders on charts imported from Microsoft Office files"	
+28	27	StaticText	[522, 866, 858, 38]	[951.0, 885.0]	21 Sep 2023	
+19	10	Group	[1422, 614, 858, 216]	[1851.0, 722.0]		
+26	19	Image	[1422, 616, 100, 100]	[1472.0, 666.0]		|Artwork
+25	19	StaticText	[1546, 628, 126, 34]	[1609.0, 645.0]	Numbers	
+24	19	StaticText	[1546, 668, 150, 30]	[1621.0, 683.0]	21 Sep 2023	
+23	19	Button	[2144, 614, 136, 104]	[2212.0, 666.0]		Update|Update
+21	19	StaticText	[1422, 754, 858, 76]	[1851.0, 792.0]	"• Bring new dimension to your spreadsheets with 3D objects in USDZ format
+• Remove external borders on charts imported from Microsoft Office files"	
+22	21	StaticText	[1422, 754, 858, 76]	[1851.0, 792.0]	"• Bring new dimension to your spreadsheets with 3D objects in USDZ format
+• Remove external borders on charts imported from Microsoft Office files"	
+20	19	StaticText	[1422, 866, 858, 38]	[1851.0, 885.0]	21 Sep 2023	
+11	10	Group	[522, 904, 858, 216]	[951.0, 1012.0]		
+18	11	Image	[522, 906, 100, 100]	[572.0, 956.0]		|Artwork
+17	11	StaticText	[646, 918, 88, 34]	[690.0, 935.0]	Pages	
+16	11	StaticText	[646, 958, 150, 30]	[721.0, 973.0]	21 Sep 2023	
+15	11	Button	[1244, 904, 136, 104]	[1312.0, 956.0]		Update|Update
+13	11	StaticText	[522, 1044, 858, 76]	[951.0, 1082.0]	"• Bring new dimension to your documents with 3D objects in USDZ format
+• Use the new Minimalist Report template featuring elegant typography, colours and layout
+• Style paragraphs with new options for borders
+• Remove external borders on charts imported from Microsoft Office files"	
+14	13	StaticText	[522, 1044, 858, 76]	[951.0, 1082.0]	"• Bring new dimension to your documents with 3D objects in USDZ format
+• Use the new Minimalist Report template featuring elegant typography, colours and layout
+• Style paragraphs with new options for borders
+• Remove external borders on charts imported from Microsoft Office files"	
+12	11	StaticText	[522, 1156, 858, 38]	[951.0, 1175.0]	21 Sep 2023	
+8	7	ScrollBar	[2328, 0, 32, 1448]	[2344.0, 724.0]	0.0	
+4	3	Toolbar	[442, 0, 1918, 218]	[1401.0, 109.0]		
+6	4	StaticText	[522, 118, 270, 80]	[657.0, 158.0]	Updates	
+5	4	Button	[2120, 154, 160, 38]	[2200.0, 173.0]		Update All
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

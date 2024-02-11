@@ -1,0 +1,91 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Search
+3	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+4	3	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+51	4	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+52	51	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+54	52	Group	[0, 104, 400, 1264]	[200.0, 736.0]		|Sidebar
+69	54	Group	[20, 104, 360, 78]	[200.0, 143.0]		
+70	69	TextField	[18, 108, 364, 60]	[200.0, 138.0]	lord of the rings	
+68	54	Heading	[20, 202, 360, 52]	[200.0, 228.0]		|Apple Books
+67	54	StaticText	[20, 254, 360, 56]	[200.0, 282.0]		|Read Now
+66	54	StaticText	[20, 310, 360, 56]	[200.0, 338.0]		|Book Store
+65	54	StaticText	[20, 366, 360, 56]	[200.0, 394.0]		|Audiobook Store
+64	54	Heading	[20, 442, 360, 52]	[200.0, 468.0]	Expanded	|Library
+63	54	StaticText	[20, 494, 360, 56]	[200.0, 522.0]		|All
+62	54	StaticText	[20, 550, 360, 56]	[200.0, 578.0]		|Want to Read
+61	54	StaticText	[20, 606, 360, 56]	[200.0, 634.0]		|Finished
+60	54	StaticText	[20, 662, 360, 56]	[200.0, 690.0]		|Books
+59	54	StaticText	[20, 718, 360, 56]	[200.0, 746.0]		|Audiobooks
+58	54	StaticText	[20, 774, 360, 56]	[200.0, 802.0]		|PDFs
+57	54	StaticText	[20, 830, 360, 56]	[200.0, 858.0]		|My Samples
+56	54	Heading	[20, 906, 360, 52]	[200.0, 932.0]	Expanded	|My Collections
+55	54	Button	[20, 958, 360, 56]	[200.0, 986.0]		|New Collection
+53	52	Button	[40, 1424, 248, 72]	[164.0, 1460.0]	Mariya Hirna	|Account
+5	4	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+6	5	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+50	6	Group	[426, 0, 1598, 104]	[1225.0, 52.0]		
+49	6	Button	[512, 128, 34, 32]	[529.0, 144.0]		|Close
+8	6	Group	[482, 104, 1486, 1432]	[1225.0, 820.0]		
+9	8	Group	[482, 104, 1486, 1432]	[1225.0, 820.0]		
+35	9	Group	[482, 104, 1486, 736]	[1225.0, 472.0]		
+48	35	Image	[562, 184, 326, 326]	[725.0, 347.0]		|Cover
+47	35	Button	[952, 184, 936, 26]	[1420.0, 197.0]		|Audiobook 1, The Lord of the Rings
+46	35	Heading	[952, 258, 936, 36]	[1420.0, 276.0]		|The Fellowship of the Ring
+45	35	Button	[952, 328, 936, 18]	[1420.0, 337.0]		|J. R. R. Tolkien
+44	35	StaticText	[952, 370, 296, 18]	[1100.0, 379.0]		|Narrated by Andy Serkis
+43	35	Button	[952, 420, 190, 62]	[1047.0, 451.0]		|4.6 stars, 416 ratings
+42	35	Button	[1760, 424, 56, 56]	[1788.0, 452.0]		|Share
+41	35	Button	[1832, 424, 56, 56]	[1860.0, 452.0]		|More actions
+40	35	Button	[952, 570, 300, 56]	[1102.0, 598.0]		|Buy for £14.99
+39	35	Button	[1268, 570, 300, 56]	[1418.0, 598.0]	Off	|Want to Read
+38	35	Button	[1586, 570, 300, 56]	[1736.0, 598.0]		|Preview
+37	35	GenericElement	[562, 676, 1326, 150]	[1225.0, 751.0]		|Listen to a Free Preview, Preview any audiobook and purchase when you are ready.
+36	35	Button	[588, 724, 28, 26]	[602.0, 737.0]		
+31	9	Group	[482, 842, 1486, 346]	[1225.0, 1015.0]		|Publisher Description
+34	31	Heading	[562, 906, 1326, 20]	[1225.0, 916.0]		|Publisher Description
+33	31	StaticText	[562, 976, 1326, 150]	[1225.0, 1051.0]		"|This brand-new unabridged audio book of The Fellowship of the Ring, the first part of J. R. R. Tolkien’s epic adventure, The Lord of the Rings, is read by the BAFTA award-winning actor, director and author, Andy Serkis.
+
+In a sleepy village in the Shire, a young hobbit is entrusted with an immense task. He must make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ruling Ring of Power – the only thing that prevents the Dark Lord Sauron’s evil dominion.
+
+Thus begins J. R. R. Tolkien’s classic tale of adventure, which continues in The Two Towers and The Return of the King.
+
+Reviews
+
+‘The English-speaking world is divided into those who have read The Lord of the Rings and The Hobbit and those who are going to read them.’ Sunday Times
+
+‘A story magnificently told, with every kind of colour and movement and greatness.’ New Statesman
+
+‘Masterpiece? Oh yes, I’ve no doubt about that.’ Evening Standard
+
+‘Among the greatest works of imaginative fiction of the twentieth century.’ Sunday Telegraph
+
+‘Here are beauties which pierce like swords or burn like cold iron.’ C.S. Lewis
+
+About the author
+
+J.R.R.Tolkien (1892-1973) was a distinguished academic, though he is best known for writing The Hobbit, The Lord of the Rings, The Silmarillion and The Children of Hurin, plus other stories and essays. His books have been translated into over 50 languages and have sold many millions of copies worldwide."
+32	31	Button	[1750, 1108, 66, 18]	[1783.0, 1117.0]		|More
+13	9	Group	[482, 1190, 1486, 276]	[1225.0, 1328.0]		
+30	13	StaticText	[628, 1256, 84, 14]	[670.0, 1263.0]		|GENRE
+29	13	StaticText	[584, 1354, 176, 46]	[672.0, 1377.0]		|Sci-Fi & Fantasy
+28	13	StaticText	[822, 1256, 138, 14]	[891.0, 1263.0]		|LANGUAGE
+27	13	StaticText	[798, 1302, 188, 26]	[892.0, 1315.0]		|EN
+26	13	StaticText	[812, 1346, 158, 16]	[891.0, 1354.0]		|English
+25	13	StaticText	[1062, 1256, 102, 14]	[1113.0, 1263.0]		|LENGTH
+24	13	StaticText	[1004, 1302, 220, 26]	[1114.0, 1315.0]		|22:38
+23	13	StaticText	[1066, 1346, 40, 16]	[1086.0, 1354.0]		|hr
+22	13	StaticText	[1114, 1346, 46, 16]	[1137.0, 1354.0]		|min
+21	13	StaticText	[1270, 1256, 130, 14]	[1335.0, 1263.0]		|RELEASED
+20	13	StaticText	[1240, 1302, 188, 26]	[1334.0, 1315.0]		|2021
+19	13	StaticText	[1246, 1346, 176, 16]	[1334.0, 1354.0]		|16 September
+18	13	StaticText	[1484, 1256, 142, 14]	[1555.0, 1263.0]		|PUBLISHER
+17	13	StaticText	[1464, 1302, 182, 16]	[1555.0, 1310.0]		|HarperCollins
+16	13	StaticText	[1748, 1256, 58, 14]	[1777.0, 1263.0]		|SIZE
+15	13	StaticText	[1682, 1302, 188, 26]	[1776.0, 1315.0]		|1.3
+14	13	StaticText	[1718, 1346, 116, 16]	[1776.0, 1354.0]		|GB
+10	9	Group	[482, 1466, 1486, 70]	[1225.0, 1501.0]		|Customer Reviews
+12	10	Heading	[562, 1530, 274, 6]	[699.0, 1533.0]		|Customer Reviews
+11	10	Button	[1802, 1532, 84, 4]	[1844.0, 1534.0]		|See All
+7	6	Button	[1984, 104, 64, 1432]	[2016.0, 820.0]		|Next
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

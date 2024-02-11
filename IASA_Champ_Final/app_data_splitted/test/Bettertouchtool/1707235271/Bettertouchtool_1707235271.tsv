@@ -1,0 +1,97 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1988, 1306]	[994.0, 653.0]		BetterTouchTool Settings
+20	1	ScrollArea	[0, 56, 340, 1250]	[170.0, 681.0]		
+25	20	Table	[2, 58, 336, 1248]	[170.0, 682.0]		
+94	25	Row	[2, 58, 336, 76]	[170.0, 96.0]		
+95	94	Cell	[14, 60, 312, 72]	[170.0, 96.0]		
+96	95	StaticText	[26, 90, 286, 32]	[169.0, 106.0]	Standard Settings	
+90	25	Row	[2, 134, 336, 64]	[170.0, 166.0]		
+91	90	Cell	[14, 136, 312, 60]	[170.0, 166.0]		
+93	91	Image	[28, 128, 50, 72]	[53.0, 164.0]		|action
+92	91	StaticText	[88, 152, 224, 28]	[200.0, 166.0]	Basic	
+86	25	Row	[2, 198, 336, 64]	[170.0, 230.0]		
+87	86	Cell	[14, 200, 312, 60]	[170.0, 230.0]		
+89	87	Image	[28, 196, 50, 68]	[53.0, 230.0]		|sidebar
+88	87	StaticText	[88, 216, 224, 28]	[200.0, 230.0]	User Interface	
+82	25	Row	[2, 262, 336, 64]	[170.0, 294.0]		
+83	82	Cell	[14, 264, 312, 60]	[170.0, 294.0]		
+85	83	Image	[28, 268, 50, 50]	[53.0, 293.0]		|touchbar pop
+84	83	StaticText	[88, 280, 224, 28]	[200.0, 294.0]	Touch Bar	
+78	25	Row	[2, 326, 336, 64]	[170.0, 358.0]		
+79	78	Cell	[14, 328, 312, 60]	[170.0, 358.0]		
+81	79	Image	[28, 332, 50, 50]	[53.0, 357.0]		|streamdeck pop
+80	79	StaticText	[88, 344, 224, 28]	[200.0, 358.0]	Stream Deck	
+74	25	Row	[2, 390, 336, 92]	[170.0, 436.0]		
+75	74	Cell	[14, 392, 312, 88]	[170.0, 436.0]		
+77	75	Image	[28, 410, 50, 50]	[53.0, 435.0]		|floating bar pop
+76	75	StaticText	[88, 408, 224, 56]	[200.0, 436.0]	Notch / Action Menu Bar	
+70	25	Row	[2, 482, 336, 92]	[170.0, 528.0]		
+71	70	Cell	[14, 484, 312, 88]	[170.0, 528.0]		
+73	71	Image	[28, 502, 50, 50]	[53.0, 527.0]		|BSTMenubarIcon
+72	71	StaticText	[88, 500, 224, 56]	[200.0, 528.0]	Window Snapping & Moving	
+66	25	Row	[2, 574, 336, 64]	[170.0, 606.0]		
+67	66	Cell	[14, 576, 312, 60]	[170.0, 606.0]		
+69	67	Image	[28, 580, 50, 50]	[53.0, 605.0]		|btt pop
+68	67	StaticText	[88, 592, 224, 28]	[200.0, 606.0]	BTT Remote	
+63	25	Row	[2, 638, 336, 76]	[170.0, 676.0]		
+64	63	Cell	[14, 640, 312, 72]	[170.0, 676.0]		
+65	64	StaticText	[26, 670, 286, 32]	[169.0, 686.0]	Advanced Settings	
+59	25	Row	[2, 714, 336, 64]	[170.0, 746.0]		
+60	59	Cell	[14, 716, 312, 60]	[170.0, 746.0]		
+62	60	Image	[28, 708, 50, 72]	[53.0, 744.0]		|action
+61	60	StaticText	[88, 732, 224, 28]	[200.0, 746.0]	General	
+55	25	Row	[2, 778, 336, 64]	[170.0, 810.0]		
+56	55	Cell	[14, 780, 312, 60]	[170.0, 810.0]		
+58	56	Image	[28, 784, 50, 50]	[53.0, 809.0]		|trackpad pop
+57	56	StaticText	[88, 796, 224, 28]	[200.0, 810.0]	Trackpad	
+51	25	Row	[2, 842, 336, 64]	[170.0, 874.0]		
+52	51	Cell	[14, 844, 312, 60]	[170.0, 874.0]		
+54	52	Image	[28, 848, 50, 50]	[53.0, 873.0]		|magicmouse pop
+53	52	StaticText	[88, 860, 224, 28]	[200.0, 874.0]	Magic Mouse	
+47	25	Row	[2, 906, 336, 64]	[170.0, 938.0]		
+48	47	Cell	[14, 908, 312, 60]	[170.0, 938.0]		
+50	48	Image	[28, 912, 50, 50]	[53.0, 937.0]		|keyboard pop
+49	48	StaticText	[88, 924, 224, 28]	[200.0, 938.0]	Keyboard	
+43	25	Row	[2, 970, 336, 92]	[170.0, 1016.0]		
+44	43	Cell	[14, 972, 312, 88]	[170.0, 1016.0]		
+46	44	Image	[28, 990, 50, 50]	[53.0, 1015.0]		|drawings pop
+45	44	StaticText	[88, 988, 224, 56]	[200.0, 1016.0]	Drawings / Mouse Gestures	
+39	25	Row	[2, 1062, 336, 64]	[170.0, 1094.0]		
+40	39	Cell	[14, 1064, 312, 60]	[170.0, 1094.0]		
+42	40	Image	[28, 1068, 50, 50]	[53.0, 1093.0]		|midi pop
+41	40	StaticText	[88, 1080, 224, 28]	[200.0, 1094.0]	MIDI Settings	
+35	25	Row	[2, 1126, 336, 64]	[170.0, 1158.0]		
+36	35	Cell	[14, 1128, 312, 60]	[170.0, 1158.0]		
+38	36	Image	[28, 1132, 50, 50]	[53.0, 1157.0]		|script
+37	36	StaticText	[88, 1144, 224, 28]	[200.0, 1158.0]	Scripting BTT	
+31	25	Row	[2, 1190, 336, 64]	[170.0, 1222.0]		
+32	31	Cell	[14, 1192, 312, 60]	[170.0, 1222.0]		
+34	32	Image	[28, 1196, 50, 50]	[53.0, 1221.0]		|network
+33	32	StaticText	[88, 1208, 224, 28]	[200.0, 1222.0]	Web Server	
+27	25	Row	[2, 1254, 336, 52]	[170.0, 1280.0]		
+28	27	Cell	[14, 1256, 312, 50]	[170.0, 1281.0]		
+30	28	Image	[28, 1260, 50, 46]	[53.0, 1283.0]		|normal mouse pop
+29	28	StaticText	[88, 1272, 224, 28]	[200.0, 1286.0]	Normal Mouse	
+26	25	Column	[2, 58, 336, 1248]	[170.0, 682.0]		
+21	20	ScrollBar	[306, 58, 32, 1246]	[322.0, 681.0]	0.0	
+24	21	ValueIndicator	[314, 60, 24, 1168]	[326.0, 644.0]	0.0	
+23	21	Button	[314, 1228, 24, 74]	[326.0, 1265.0]		
+22	21	Button	[314, 58, 24, 2]	[326.0, 59.0]		
+19	1	CheckBox	[374, 92, 970, 36]	[859.0, 110.0]	1	Enable Notch / Custom Action Bar Support (requires macOS 12 or later)
+5	1	TabGroup	[364, 272, 1596, 928]	[1162.0, 736.0]	<AXUIElement 0x11706b790> {pid=18369}	
+18	5	RadioButton	[958, 282, 246, 48]	[1081.0, 306.0]	1	General Settings
+17	5	RadioButton	[1204, 282, 164, 48]	[1286.0, 306.0]	0	Advanced
+16	5	CheckBox	[416, 354, 528, 32]	[680.0, 370.0]	1	Also show on Standard Screens without Notch
+15	5	CheckBox	[416, 408, 1000, 32]	[916.0, 424.0]	0	Show mini menubar and mini status items on top edge of Notch Bar instead of bottom edge
+14	5	StaticText	[444, 706, 1034, 32]	[961.0, 722.0]	Documentation is available on: https://docs.folivora.ai/docs/1200_notch_bar.html	
+13	5	Image	[444, 734, 1166, 156]	[1027.0, 812.0]		|notchbar container overview to
+12	5	CheckBox	[416, 466, 522, 32]	[677.0, 482.0]	0	Use desktop background image for Notch Bar
+11	5	StaticText	[414, 514, 1248, 70]	[1038.0, 549.0]	You can also use a completely custom background by modifying the BTTNotchBarUser.css in the template folder. See the documentation for more info on this.	
+10	5	StaticText	[416, 600, 204, 32]	[518.0, 616.0]	Notch Bar width	
+8	5	Slider	[628, 596, 286, 40]	[771.0, 616.0]	1.0	
+9	8	ValueIndicator	[890, 596, 24, 40]	[902.0, 616.0]	1.0	
+7	5	TextField	[926, 596, 414, 32]	[1133.0, 612.0]	100% of screen width	
+6	5	Button	[1222, 588, 184, 54]	[1314.0, 615.0]		Apply Width
+4	1	StaticText	[416, 198, 1220, 42]	[1026.0, 219.0]	"Alternatively use the predefined action ""Toggle Bar Mode"" which you can assign to any BTT trigger."	
+3	1	CheckBox	[374, 158, 978, 36]	[863.0, 176.0]	1	Toggle between Menu Bar and Widget mode by scrolling up/down on the Bar
+2	1	StaticText	[826, 10, 334, 32]	[993.0, 26.0]	BetterTouchTool Settings	

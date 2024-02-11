@@ -1,0 +1,31 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1428, 1246]	[714.0, 623.0]		Permute
+3	1	ScrollArea	[0, 0, 1428, 1246]	[714.0, 623.0]		Drop zone. There are files in the queue.
+10	3	ScrollArea	[0, 44, 1428, 1146]	[714.0, 617.0]		
+11	10	Unknown	[24, 68, 1380, 428]	[714.0, 282.0]		
+19	11	ScrollArea	[40, 68, 1348, 428]	[714.0, 282.0]		
+20	19	List	[40, 68, 1348, 428]	[714.0, 282.0]		
+21	20	List	[40, 124, 1348, 316]	[714.0, 282.0]		
+22	21	Group	[40, 124, 1348, 316]	[714.0, 282.0]		
+30	22	StaticText	[64, 148, 1254, 30]	[691.0, 163.0]	alarm	
+29	22	Button	[1322, 150, 40, 30]	[1342.0, 165.0]		|Cancel
+28	22	StaticText	[64, 186, 1304, 28]	[716.0, 200.0]	MP3 • 256 kbps • 1 MB	
+27	22	Button	[64, 386, 28, 28]	[78.0, 400.0]		|Start
+26	22	StaticText	[710, 388, 8, 24]	[714.0, 400.0]		
+25	22	Button	[1280, 386, 46, 28]	[1303.0, 400.0]		|Audio Track
+24	22	Button	[1322, 384, 42, 32]	[1343.0, 400.0]		|Actions
+23	22	Button	[1224, 386, 58, 28]	[1253.0, 400.0]		|Trim
+18	11	StaticText	[36, 80, 78, 32]	[75.0, 96.0]	Audio	
+17	11	StaticText	[122, 80, 30, 32]	[137.0, 96.0]	—	
+16	11	PopUpButton	[142, 74, 276, 50]	[280.0, 99.0]	MP3	
+15	11	Button	[1354, 80, 34, 32]	[1371.0, 96.0]		|Customize Group Settings
+14	11	StaticText	[654, 456, 120, 22]	[714.0, 467.0]	1 Conversion	
+13	11	Button	[40, 454, 24, 26]	[52.0, 467.0]		|Start
+12	11	Button	[1358, 452, 30, 30]	[1373.0, 467.0]		|Clear Finished Conversions
+9	3	Button	[1336, 1202, 30, 30]	[1351.0, 1217.0]		|Show History
+8	3	StaticText	[656, 1206, 120, 22]	[716.0, 1217.0]	1 Conversion	
+7	3	Button	[1290, 1202, 30, 30]	[1305.0, 1217.0]		|Clear Finished Conversions
+6	3	Button	[1382, 1202, 30, 30]	[1397.0, 1217.0]		|Contact Support
+5	3	Button	[16, 1200, 28, 32]	[30.0, 1216.0]		|Open
+4	3	Button	[58, 1204, 28, 28]	[72.0, 1218.0]		|Permute's Workshop
+2	1	StaticText	[654, 10, 118, 32]	[713.0, 26.0]	Permute	

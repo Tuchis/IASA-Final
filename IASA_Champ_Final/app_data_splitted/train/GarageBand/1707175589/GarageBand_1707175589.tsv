@@ -1,0 +1,89 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2084, 1068]	[1042.0, 534.0]		Choose a Project
+7	1	SplitGroup	[0, 0, 2084, 1068]	[1042.0, 534.0]		
+61	7	ScrollArea	[0, 56, 440, 1012]	[220.0, 562.0]		
+62	61	Outline	[2, 56, 436, 1010]	[220.0, 561.0]		
+84	62	Row	[2, 56, 436, 8]	[220.0, 60.0]		
+85	84	Cell	[22, 56, 396, 8]	[220.0, 60.0]		
+80	62	Row	[2, 64, 436, 56]	[220.0, 92.0]		
+81	80	Cell	[22, 64, 396, 56]	[220.0, 92.0]		
+83	81	Image	[40, 76, 28, 32]	[54.0, 92.0]	<NSImage 0x60000329e620 Size={14, 16} RepProvider=<NSImageSymbolRepProvider: 0x600000e96400> symbol = doc>	|document
+82	81	StaticText	[78, 76, 328, 32]	[242.0, 92.0]	New Project	
+76	62	Row	[2, 120, 436, 56]	[220.0, 148.0]		
+77	76	Cell	[22, 120, 396, 56]	[220.0, 148.0]		
+79	77	Image	[38, 134, 30, 30]	[53.0, 149.0]	<NSImage 0x60000329c5a0 Size={15, 15} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8960> symbol = clock>	|clock
+78	77	StaticText	[78, 132, 328, 32]	[242.0, 148.0]	Recent	
+72	62	Row	[2, 176, 436, 56]	[220.0, 204.0]		
+73	72	Cell	[22, 176, 396, 56]	[220.0, 204.0]		
+75	73	Image	[38, 190, 30, 28]	[53.0, 204.0]	<NSImage 0x60000329e940 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea9650> symbol = Glyphs/music.note.square>	|
+74	73	StaticText	[78, 188, 328, 32]	[242.0, 204.0]	Learn to Play	
+68	62	Row	[2, 232, 436, 56]	[220.0, 260.0]		
+69	68	Cell	[22, 232, 396, 56]	[220.0, 260.0]		
+71	69	Image	[38, 246, 30, 28]	[53.0, 260.0]	<NSImage 0x60000329f160 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8c00> symbol = star.square>	|favourite
+70	69	StaticText	[78, 244, 328, 32]	[242.0, 260.0]	Lesson Store	
+64	62	Row	[2, 288, 436, 56]	[220.0, 316.0]		
+65	64	Cell	[22, 288, 396, 56]	[220.0, 316.0]		
+67	65	Image	[36, 302, 36, 28]	[54.0, 316.0]	<NSImage 0x60000323a8a0 Size={18, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000eb4270> symbol = folder>	|move
+66	65	StaticText	[78, 300, 328, 32]	[242.0, 316.0]	Project Templates	
+63	62	Column	[22, 56, 396, 1010]	[220.0, 561.0]		
+60	7	Splitter	[440, 56, 2, 1012]	[441.0, 562.0]	220.0	
+8	7	Group	[442, 0, 1642, 1068]	[1263.0, 534.0]		
+12	8	ScrollArea	[442, 56, 1642, 810]	[1263.0, 461.0]		
+13	12	WebArea	[442, 56, 1642, 826]	[1263.0, 469.0]		|Artist Lessons
+38	13	Group	[442, 82, 1642, 40]	[1263.0, 102.0]		|
+39	38	List	[442, 80, 1642, 42]	[1263.0, 101.0]		|
+40	39	List	[442, 80, 1642, 36]	[1263.0, 98.0]		|
+58	40	Group	[462, 84, 22, 32]	[473.0, 100.0]		|
+59	58	Button	[462, 84, 22, 26]	[473.0, 97.0]		|Submit
+55	40	Group	[852, 78, 84, 38]	[894.0, 97.0]		|
+56	55	Link	[852, 80, 84, 36]	[894.0, 98.0]		Home|
+57	56	StaticText	[850, 80, 86, 36]	[893.0, 98.0]	Home 	|
+53	40	Group	[934, 82, 50, 34]	[959.0, 99.0]		|
+54	53	StaticText	[934, 84, 50, 32]	[959.0, 100.0]	       	|
+50	40	Group	[990, 78, 200, 38]	[1090.0, 97.0]		|
+51	50	Link	[990, 80, 200, 36]	[1090.0, 98.0]		Guitar Lessons|
+52	51	StaticText	[988, 80, 202, 36]	[1089.0, 98.0]	Guitar Lessons 	|
+48	40	Group	[1188, 82, 50, 34]	[1213.0, 99.0]		|
+49	48	StaticText	[1188, 84, 50, 32]	[1213.0, 100.0]	       	|
+46	40	Group	[1244, 78, 192, 38]	[1340.0, 97.0]		|
+47	46	StaticText	[1244, 80, 194, 36]	[1341.0, 98.0]	Piano Lessons 	|
+44	40	Group	[1436, 82, 48, 34]	[1460.0, 99.0]		|
+45	44	StaticText	[1436, 84, 50, 32]	[1461.0, 100.0]	       	|
+41	40	Group	[1490, 78, 184, 38]	[1582.0, 97.0]		|
+42	41	Link	[1490, 80, 184, 36]	[1582.0, 98.0]		Artist Lessons|
+43	42	StaticText	[1490, 80, 186, 36]	[1583.0, 98.0]	Artist Lessons	|
+36	13	Heading	[482, 162, 1602, 102]	[1283.0, 213.0]	1	Piano Lessons|
+37	36	StaticText	[482, 162, 280, 50]	[622.0, 187.0]	Piano Lessons	|
+23	13	Group	[402, 298, 888, 240]	[846.0, 418.0]		|
+32	23	Group	[482, 298, 248, 210]	[606.0, 403.0]		|
+33	32	Link	[482, 298, 236, 264]	[600.0, 430.0]		"Basic Piano
+8-Lesson Series|"
+35	33	StaticText	[494, 310, 128, 30]	[558.0, 325.0]	Basic Piano	|
+34	33	StaticText	[494, 400, 182, 30]	[585.0, 415.0]	8-Lesson Series	|
+28	23	Group	[762, 298, 248, 210]	[886.0, 403.0]		|
+29	28	Link	[762, 298, 236, 264]	[880.0, 430.0]		"Pop Piano
+6-Lesson Series|"
+31	29	StaticText	[774, 310, 112, 30]	[830.0, 325.0]	Pop Piano	|
+30	29	StaticText	[774, 400, 182, 30]	[865.0, 415.0]	6-Lesson Series	|
+24	23	Group	[1042, 298, 248, 210]	[1166.0, 403.0]		|
+25	24	Link	[1042, 298, 190, 264]	[1137.0, 430.0]		"Classical Piano
+4-Lesson Series|"
+27	25	StaticText	[1054, 310, 166, 30]	[1137.0, 325.0]	Classical Piano	|
+26	25	StaticText	[1054, 400, 106, 60]	[1107.0, 430.0]	4-Lesson Series	|
+14	13	Group	[442, 804, 1642, 62]	[1263.0, 835.0]		|
+21	14	Group	[442, 816, 842, 50]	[863.0, 841.0]		|
+22	21	StaticText	[462, 816, 394, 26]	[659.0, 829.0]	© 2018 Apple Inc. All rights reserved.	|
+15	14	Group	[1282, 816, 790, 50]	[1677.0, 841.0]		|
+19	15	Link	[1758, 816, 152, 26]	[1834.0, 829.0]		Privacy Policy|
+20	19	StaticText	[1758, 816, 154, 26]	[1835.0, 829.0]	Privacy Policy 	|
+18	15	StaticText	[1910, 816, 12, 26]	[1916.0, 829.0]	| 	|
+16	15	Link	[1922, 816, 150, 26]	[1997.0, 829.0]		Terms of Use|
+17	16	StaticText	[1920, 816, 142, 26]	[1991.0, 829.0]	Terms of Use	|
+11	8	StaticText	[1254, 888, 16, 32]	[1262.0, 904.0]		
+10	8	Button	[468, 976, 402, 64]	[669.0, 1008.0]		Open an existing project…
+9	8	Button	[1860, 976, 198, 64]	[1959.0, 1008.0]		Choose
+4	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+6	5	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+3	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+2	1	StaticText	[1148, 10, 228, 32]	[1262.0, 26.0]	Choose a Project	

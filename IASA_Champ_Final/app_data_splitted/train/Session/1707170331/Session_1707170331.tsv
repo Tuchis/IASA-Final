@@ -1,0 +1,12 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1600, 1400]	[800.0, 700.0]		Session Pomodoro Focus Timer
+2	1	Group	[0, 0, 1600, 1400]	[800.0, 700.0]		
+11	2	StaticText	[694, 104, 212, 50]	[800.0, 129.0]	Breathe out	
+10	2	Button	[0, 200, 94, 96]	[47.0, 248.0]		|clock
+9	2	Button	[0, 296, 94, 96]	[47.0, 344.0]		|bar-chart-2
+8	2	Button	[0, 392, 94, 96]	[47.0, 440.0]		|user
+7	2	Button	[0, 488, 94, 96]	[47.0, 536.0]		|book-open
+6	2	Button	[560, 1092, 480, 72]	[800.0, 1128.0]		|Skip breathe
+5	2	Button	[560, 1180, 480, 72]	[800.0, 1216.0]		|Cancel Session
+4	2	Button	[0, 1224, 94, 96]	[47.0, 1272.0]		|settings
+3	2	StaticText	[624, 1306, 348, 30]	[798.0, 1321.0]	"Prepare for working on: ""work"""	

@@ -1,0 +1,127 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1988, 1306]	[994.0, 653.0]		BetterTouchTool Settings
+50	1	ScrollArea	[0, 56, 340, 1250]	[170.0, 681.0]		
+55	50	Table	[2, 58, 336, 1248]	[170.0, 682.0]		
+124	55	Row	[2, 58, 336, 76]	[170.0, 96.0]		
+125	124	Cell	[14, 60, 312, 72]	[170.0, 96.0]		
+126	125	StaticText	[26, 90, 286, 32]	[169.0, 106.0]	Standard Settings	
+120	55	Row	[2, 134, 336, 64]	[170.0, 166.0]		
+121	120	Cell	[14, 136, 312, 60]	[170.0, 166.0]		
+123	121	Image	[28, 128, 50, 72]	[53.0, 164.0]		|action
+122	121	StaticText	[88, 152, 224, 28]	[200.0, 166.0]	Basic	
+116	55	Row	[2, 198, 336, 64]	[170.0, 230.0]		
+117	116	Cell	[14, 200, 312, 60]	[170.0, 230.0]		
+119	117	Image	[28, 196, 50, 68]	[53.0, 230.0]		|sidebar
+118	117	StaticText	[88, 216, 224, 28]	[200.0, 230.0]	User Interface	
+112	55	Row	[2, 262, 336, 64]	[170.0, 294.0]		
+113	112	Cell	[14, 264, 312, 60]	[170.0, 294.0]		
+115	113	Image	[28, 268, 50, 50]	[53.0, 293.0]		|touchbar pop
+114	113	StaticText	[88, 280, 224, 28]	[200.0, 294.0]	Touch Bar	
+108	55	Row	[2, 326, 336, 64]	[170.0, 358.0]		
+109	108	Cell	[14, 328, 312, 60]	[170.0, 358.0]		
+111	109	Image	[28, 332, 50, 50]	[53.0, 357.0]		|streamdeck pop
+110	109	StaticText	[88, 344, 224, 28]	[200.0, 358.0]	Stream Deck	
+104	55	Row	[2, 390, 336, 92]	[170.0, 436.0]		
+105	104	Cell	[14, 392, 312, 88]	[170.0, 436.0]		
+107	105	Image	[28, 410, 50, 50]	[53.0, 435.0]		|floating bar pop
+106	105	StaticText	[88, 408, 224, 56]	[200.0, 436.0]	Notch / Action Menu Bar	
+100	55	Row	[2, 482, 336, 92]	[170.0, 528.0]		
+101	100	Cell	[14, 484, 312, 88]	[170.0, 528.0]		
+103	101	Image	[28, 502, 50, 50]	[53.0, 527.0]		|BSTMenubarIcon
+102	101	StaticText	[88, 500, 224, 56]	[200.0, 528.0]	Window Snapping & Moving	
+96	55	Row	[2, 574, 336, 64]	[170.0, 606.0]		
+97	96	Cell	[14, 576, 312, 60]	[170.0, 606.0]		
+99	97	Image	[28, 580, 50, 50]	[53.0, 605.0]		|btt pop
+98	97	StaticText	[88, 592, 224, 28]	[200.0, 606.0]	BTT Remote	
+93	55	Row	[2, 638, 336, 76]	[170.0, 676.0]		
+94	93	Cell	[14, 640, 312, 72]	[170.0, 676.0]		
+95	94	StaticText	[26, 670, 286, 32]	[169.0, 686.0]	Advanced Settings	
+89	55	Row	[2, 714, 336, 64]	[170.0, 746.0]		
+90	89	Cell	[14, 716, 312, 60]	[170.0, 746.0]		
+92	90	Image	[28, 708, 50, 72]	[53.0, 744.0]		|action
+91	90	StaticText	[88, 732, 224, 28]	[200.0, 746.0]	General	
+85	55	Row	[2, 778, 336, 64]	[170.0, 810.0]		
+86	85	Cell	[14, 780, 312, 60]	[170.0, 810.0]		
+88	86	Image	[28, 784, 50, 50]	[53.0, 809.0]		|trackpad pop
+87	86	StaticText	[88, 796, 224, 28]	[200.0, 810.0]	Trackpad	
+81	55	Row	[2, 842, 336, 64]	[170.0, 874.0]		
+82	81	Cell	[14, 844, 312, 60]	[170.0, 874.0]		
+84	82	Image	[28, 848, 50, 50]	[53.0, 873.0]		|magicmouse pop
+83	82	StaticText	[88, 860, 224, 28]	[200.0, 874.0]	Magic Mouse	
+77	55	Row	[2, 906, 336, 64]	[170.0, 938.0]		
+78	77	Cell	[14, 908, 312, 60]	[170.0, 938.0]		
+80	78	Image	[28, 912, 50, 50]	[53.0, 937.0]		|keyboard pop
+79	78	StaticText	[88, 924, 224, 28]	[200.0, 938.0]	Keyboard	
+73	55	Row	[2, 970, 336, 92]	[170.0, 1016.0]		
+74	73	Cell	[14, 972, 312, 88]	[170.0, 1016.0]		
+76	74	Image	[28, 990, 50, 50]	[53.0, 1015.0]		|drawings pop
+75	74	StaticText	[88, 988, 224, 56]	[200.0, 1016.0]	Drawings / Mouse Gestures	
+69	55	Row	[2, 1062, 336, 64]	[170.0, 1094.0]		
+70	69	Cell	[14, 1064, 312, 60]	[170.0, 1094.0]		
+72	70	Image	[28, 1068, 50, 50]	[53.0, 1093.0]		|midi pop
+71	70	StaticText	[88, 1080, 224, 28]	[200.0, 1094.0]	MIDI Settings	
+65	55	Row	[2, 1126, 336, 64]	[170.0, 1158.0]		
+66	65	Cell	[14, 1128, 312, 60]	[170.0, 1158.0]		
+68	66	Image	[28, 1132, 50, 50]	[53.0, 1157.0]		|script
+67	66	StaticText	[88, 1144, 224, 28]	[200.0, 1158.0]	Scripting BTT	
+61	55	Row	[2, 1190, 336, 64]	[170.0, 1222.0]		
+62	61	Cell	[14, 1192, 312, 60]	[170.0, 1222.0]		
+64	62	Image	[28, 1196, 50, 50]	[53.0, 1221.0]		|network
+63	62	StaticText	[88, 1208, 224, 28]	[200.0, 1222.0]	Web Server	
+57	55	Row	[2, 1254, 336, 52]	[170.0, 1280.0]		
+58	57	Cell	[14, 1256, 312, 50]	[170.0, 1281.0]		
+60	58	Image	[28, 1260, 50, 46]	[53.0, 1283.0]		|normal mouse pop
+59	58	StaticText	[88, 1272, 224, 28]	[200.0, 1286.0]	Normal Mouse	
+56	55	Column	[2, 58, 336, 1248]	[170.0, 682.0]		
+51	50	ScrollBar	[306, 58, 32, 1246]	[322.0, 681.0]	0.0	
+54	51	ValueIndicator	[314, 60, 24, 1168]	[326.0, 644.0]	0.0	
+53	51	Button	[314, 1228, 24, 74]	[326.0, 1265.0]		
+52	51	Button	[314, 58, 24, 2]	[326.0, 59.0]		
+45	1	Group	[366, 82, 1608, 192]	[1170.0, 178.0]		
+49	45	CheckBox	[526, 130, 504, 36]	[778.0, 148.0]	0	Launch BetterTouchTool on startup
+48	45	Image	[394, 132, 120, 106]	[454.0, 185.0]		|preferences
+47	45	CheckBox	[1076, 130, 708, 36]	[1430.0, 148.0]	0	Allow crash log and anonymized usage data collection
+46	45	StaticText	[388, 82, 98, 28]	[437.0, 96.0]	General	
+31	1	Group	[368, 292, 1604, 278]	[1170.0, 431.0]		
+44	31	Image	[566, 336, 1388, 156]	[1260.0, 414.0]		|background
+43	31	Image	[392, 364, 158, 156]	[471.0, 442.0]		|Mouse
+41	31	Slider	[988, 362, 744, 40]	[1360.0, 382.0]	3.0	
+42	41	ValueIndicator	[1348, 362, 24, 40]	[1360.0, 382.0]	3.0	
+40	31	StaticText	[582, 368, 210, 28]	[687.0, 382.0]	Gesture sensitivity:	
+39	31	StaticText	[966, 420, 790, 72]	[1361.0, 456.0]	This slider will change the settings you made in the advanced preferences!	
+38	31	StaticText	[794, 368, 188, 28]	[888.0, 382.0]	Easier to trigger	
+37	31	StaticText	[562, 508, 200, 24]	[662.0, 520.0]	Set mouse speed	
+35	31	Slider	[770, 500, 842, 40]	[1191.0, 520.0]	0.0	
+36	35	ValueIndicator	[770, 500, 24, 40]	[782.0, 520.0]	0.0	
+34	31	StaticText	[1740, 368, 196, 28]	[1838.0, 382.0]	Harder to trigger	
+33	31	StaticText	[1620, 506, 8, 28]	[1624.0, 520.0]		
+32	31	StaticText	[390, 292, 156, 28]	[468.0, 306.0]	Magic Mouse	
+15	1	Group	[370, 588, 1600, 450]	[1170.0, 813.0]		
+30	15	Image	[582, 634, 1364, 144]	[1264.0, 706.0]		|background
+29	15	Image	[392, 744, 158, 156]	[471.0, 822.0]		|Touchpad
+28	15	StaticText	[598, 682, 216, 28]	[706.0, 696.0]	Gesture sensitivity: 	
+26	15	Slider	[1008, 670, 706, 52]	[1361.0, 696.0]	3.0	
+27	26	ValueIndicator	[1350, 676, 24, 40]	[1362.0, 696.0]	3.0	
+25	15	StaticText	[966, 736, 790, 28]	[1361.0, 750.0]	This slider will change the settings you made in the advanced preferences!	
+24	15	StaticText	[812, 682, 188, 28]	[906.0, 696.0]	Easier to trigger	
+23	15	StaticText	[578, 962, 226, 28]	[691.0, 976.0]	Set trackpad speed	
+21	15	Slider	[814, 956, 940, 40]	[1284.0, 976.0]	5.0	
+22	21	ValueIndicator	[1140, 956, 24, 40]	[1152.0, 976.0]	5.0	
+20	15	StaticText	[1762, 962, 8, 28]	[1766.0, 976.0]		
+19	15	Image	[582, 828, 64, 64]	[614.0, 860.0]		|info
+18	15	StaticText	[650, 796, 1068, 130]	[1184.0, 861.0]	Force Touch sensitivity & feedback can be changed in the Advanced Trackpad Settings.	
+17	15	StaticText	[1728, 682, 196, 28]	[1826.0, 696.0]	Harder to trigger	
+16	15	StaticText	[392, 588, 308, 28]	[546.0, 602.0]	Trackpad & Magic Trackpad	
+11	1	Group	[372, 1048, 818, 246]	[781.0, 1171.0]		
+14	11	Image	[380, 1066, 254, 230]	[507.0, 1181.0]		|iconwin
+13	11	CheckBox	[682, 1162, 484, 36]	[924.0, 1180.0]	1	Enable window snapping
+12	11	StaticText	[394, 1048, 204, 28]	[496.0, 1062.0]	Window Snapping	
+3	1	Group	[1194, 1048, 786, 246]	[1587.0, 1171.0]		
+10	3	PopUpButton	[1366, 1102, 452, 50]	[1592.0, 1127.0]	System Language (if available)	
+9	3	StaticText	[1226, 1108, 134, 32]	[1293.0, 1124.0]	Language:	
+8	3	PopUpButton	[1430, 1154, 388, 50]	[1624.0, 1179.0]		
+7	3	StaticText	[1226, 1160, 198, 32]	[1325.0, 1176.0]	Region Settings	
+6	3	StaticText	[1226, 1226, 302, 32]	[1377.0, 1242.0]	Changes require restart:	
+5	3	Button	[1526, 1212, 214, 64]	[1633.0, 1244.0]		Restart BTT
+4	3	StaticText	[1216, 1048, 220, 28]	[1326.0, 1062.0]	Language & Region	
+2	1	StaticText	[826, 10, 334, 32]	[993.0, 26.0]	BetterTouchTool Settings	

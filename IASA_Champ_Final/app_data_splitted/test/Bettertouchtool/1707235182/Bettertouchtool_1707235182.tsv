@@ -1,0 +1,116 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1988, 1306]	[994.0, 653.0]		BetterTouchTool Settings
+39	1	ScrollArea	[0, 56, 340, 1250]	[170.0, 681.0]		
+44	39	Table	[2, 58, 336, 1248]	[170.0, 682.0]		
+113	44	Row	[2, 58, 336, 76]	[170.0, 96.0]		
+114	113	Cell	[14, 60, 312, 72]	[170.0, 96.0]		
+115	114	StaticText	[26, 90, 286, 32]	[169.0, 106.0]	Standard Settings	
+109	44	Row	[2, 134, 336, 64]	[170.0, 166.0]		
+110	109	Cell	[14, 136, 312, 60]	[170.0, 166.0]		
+112	110	Image	[28, 128, 50, 72]	[53.0, 164.0]		|action
+111	110	StaticText	[88, 152, 224, 28]	[200.0, 166.0]	Basic	
+105	44	Row	[2, 198, 336, 64]	[170.0, 230.0]		
+106	105	Cell	[14, 200, 312, 60]	[170.0, 230.0]		
+108	106	Image	[28, 196, 50, 68]	[53.0, 230.0]		|sidebar
+107	106	StaticText	[88, 216, 224, 28]	[200.0, 230.0]	User Interface	
+101	44	Row	[2, 262, 336, 64]	[170.0, 294.0]		
+102	101	Cell	[14, 264, 312, 60]	[170.0, 294.0]		
+104	102	Image	[28, 268, 50, 50]	[53.0, 293.0]		|touchbar pop
+103	102	StaticText	[88, 280, 224, 28]	[200.0, 294.0]	Touch Bar	
+97	44	Row	[2, 326, 336, 64]	[170.0, 358.0]		
+98	97	Cell	[14, 328, 312, 60]	[170.0, 358.0]		
+100	98	Image	[28, 332, 50, 50]	[53.0, 357.0]		|streamdeck pop
+99	98	StaticText	[88, 344, 224, 28]	[200.0, 358.0]	Stream Deck	
+93	44	Row	[2, 390, 336, 92]	[170.0, 436.0]		
+94	93	Cell	[14, 392, 312, 88]	[170.0, 436.0]		
+96	94	Image	[28, 410, 50, 50]	[53.0, 435.0]		|floating bar pop
+95	94	StaticText	[88, 408, 224, 56]	[200.0, 436.0]	Notch / Action Menu Bar	
+89	44	Row	[2, 482, 336, 92]	[170.0, 528.0]		
+90	89	Cell	[14, 484, 312, 88]	[170.0, 528.0]		
+92	90	Image	[28, 502, 50, 50]	[53.0, 527.0]		|BSTMenubarIcon
+91	90	StaticText	[88, 500, 224, 56]	[200.0, 528.0]	Window Snapping & Moving	
+85	44	Row	[2, 574, 336, 64]	[170.0, 606.0]		
+86	85	Cell	[14, 576, 312, 60]	[170.0, 606.0]		
+88	86	Image	[28, 580, 50, 50]	[53.0, 605.0]		|btt pop
+87	86	StaticText	[88, 592, 224, 28]	[200.0, 606.0]	BTT Remote	
+82	44	Row	[2, 638, 336, 76]	[170.0, 676.0]		
+83	82	Cell	[14, 640, 312, 72]	[170.0, 676.0]		
+84	83	StaticText	[26, 670, 286, 32]	[169.0, 686.0]	Advanced Settings	
+78	44	Row	[2, 714, 336, 64]	[170.0, 746.0]		
+79	78	Cell	[14, 716, 312, 60]	[170.0, 746.0]		
+81	79	Image	[28, 708, 50, 72]	[53.0, 744.0]		|action
+80	79	StaticText	[88, 732, 224, 28]	[200.0, 746.0]	General	
+74	44	Row	[2, 778, 336, 64]	[170.0, 810.0]		
+75	74	Cell	[14, 780, 312, 60]	[170.0, 810.0]		
+77	75	Image	[28, 784, 50, 50]	[53.0, 809.0]		|trackpad pop
+76	75	StaticText	[88, 796, 224, 28]	[200.0, 810.0]	Trackpad	
+70	44	Row	[2, 842, 336, 64]	[170.0, 874.0]		
+71	70	Cell	[14, 844, 312, 60]	[170.0, 874.0]		
+73	71	Image	[28, 848, 50, 50]	[53.0, 873.0]		|magicmouse pop
+72	71	StaticText	[88, 860, 224, 28]	[200.0, 874.0]	Magic Mouse	
+66	44	Row	[2, 906, 336, 64]	[170.0, 938.0]		
+67	66	Cell	[14, 908, 312, 60]	[170.0, 938.0]		
+69	67	Image	[28, 912, 50, 50]	[53.0, 937.0]		|keyboard pop
+68	67	StaticText	[88, 924, 224, 28]	[200.0, 938.0]	Keyboard	
+62	44	Row	[2, 970, 336, 92]	[170.0, 1016.0]		
+63	62	Cell	[14, 972, 312, 88]	[170.0, 1016.0]		
+65	63	Image	[28, 990, 50, 50]	[53.0, 1015.0]		|drawings pop
+64	63	StaticText	[88, 988, 224, 56]	[200.0, 1016.0]	Drawings / Mouse Gestures	
+58	44	Row	[2, 1062, 336, 64]	[170.0, 1094.0]		
+59	58	Cell	[14, 1064, 312, 60]	[170.0, 1094.0]		
+61	59	Image	[28, 1068, 50, 50]	[53.0, 1093.0]		|midi pop
+60	59	StaticText	[88, 1080, 224, 28]	[200.0, 1094.0]	MIDI Settings	
+54	44	Row	[2, 1126, 336, 64]	[170.0, 1158.0]		
+55	54	Cell	[14, 1128, 312, 60]	[170.0, 1158.0]		
+57	55	Image	[28, 1132, 50, 50]	[53.0, 1157.0]		|script
+56	55	StaticText	[88, 1144, 224, 28]	[200.0, 1158.0]	Scripting BTT	
+50	44	Row	[2, 1190, 336, 64]	[170.0, 1222.0]		
+51	50	Cell	[14, 1192, 312, 60]	[170.0, 1222.0]		
+53	51	Image	[28, 1196, 50, 50]	[53.0, 1221.0]		|network
+52	51	StaticText	[88, 1208, 224, 28]	[200.0, 1222.0]	Web Server	
+46	44	Row	[2, 1254, 336, 52]	[170.0, 1280.0]		
+47	46	Cell	[14, 1256, 312, 50]	[170.0, 1281.0]		
+49	47	Image	[28, 1260, 50, 46]	[53.0, 1283.0]		|normal mouse pop
+48	47	StaticText	[88, 1272, 224, 28]	[200.0, 1286.0]	Normal Mouse	
+45	44	Column	[2, 58, 336, 1248]	[170.0, 682.0]		
+40	39	ScrollBar	[306, 58, 32, 1246]	[322.0, 681.0]	0.0	
+43	40	ValueIndicator	[314, 60, 24, 1168]	[326.0, 644.0]	0.0	
+42	40	Button	[314, 1228, 24, 74]	[326.0, 1265.0]		
+41	40	Button	[314, 58, 24, 2]	[326.0, 59.0]		
+38	1	StaticText	[374, 264, 476, 32]	[612.0, 280.0]	Increase / Decrease Base Font Size by:	
+37	1	TextField	[862, 258, 146, 42]	[935.0, 279.0]		
+36	1	PopUpButton	[372, 422, 684, 50]	[714.0, 447.0]	Use Default Dark Translucent Side-Bar	
+35	1	StaticText	[374, 216, 490, 32]	[619.0, 232.0]	Font Sizes in the Main User Interface:	
+34	1	StaticText	[374, 376, 190, 32]	[469.0, 392.0]	App Side-Bar:	
+33	1	StaticText	[1282, 216, 330, 32]	[1447.0, 232.0]	Hidden Trigger Sections:	
+32	1	StaticText	[374, 506, 256, 32]	[502.0, 522.0]	Language & Region	
+31	1	StaticText	[374, 814, 202, 32]	[475.0, 830.0]	Various things:	
+30	1	StaticText	[1024, 264, 34, 32]	[1041.0, 280.0]	pt	
+29	1	CheckBox	[374, 92, 300, 36]	[524.0, 110.0]	1	Show Menu Bar Icon
+28	1	CheckBox	[374, 140, 672, 36]	[710.0, 158.0]	0	Show Dock Icon while running (may require restart)
+22	1	Group	[372, 550, 786, 232]	[765.0, 666.0]		
+27	22	PopUpButton	[544, 580, 464, 50]	[776.0, 605.0]	System Language (if available)	
+26	22	StaticText	[404, 586, 134, 32]	[471.0, 602.0]	Language:	
+25	22	PopUpButton	[608, 632, 400, 50]	[808.0, 657.0]		
+24	22	StaticText	[404, 638, 198, 32]	[503.0, 654.0]	Region Settings	
+23	22	Button	[396, 684, 374, 54]	[583.0, 711.0]		Restart BTT to Apply Changes
+21	1	StaticText	[690, 96, 842, 28]	[1111.0, 110.0]	(If you hide the icon you can access the preferences by starting BTT again)	
+20	1	CheckBox	[374, 860, 848, 36]	[798.0, 878.0]	0	Only show recently used colors in side-bar color picker dropdown
+19	1	Button	[366, 304, 374, 54]	[553.0, 331.0]		Restart BTT to Apply Changes
+18	1	CheckBox	[1282, 266, 174, 36]	[1369.0, 284.0]	0	Touch Bar
+17	1	CheckBox	[1282, 308, 208, 36]	[1386.0, 326.0]	0	Stream Deck
+16	1	CheckBox	[1282, 352, 214, 36]	[1389.0, 370.0]	0	Magic Mouse
+15	1	CheckBox	[1282, 396, 166, 36]	[1365.0, 414.0]	0	Trackpad
+14	1	CheckBox	[1282, 440, 292, 36]	[1428.0, 458.0]	0	Keyboard Shortcuts
+13	1	CheckBox	[1282, 484, 420, 36]	[1492.0, 502.0]	0	Key Sequences / Typed Words
+12	1	CheckBox	[1282, 528, 228, 36]	[1396.0, 546.0]	0	Normal Mouse
+11	1	CheckBox	[1282, 572, 192, 36]	[1378.0, 590.0]	0	Siri Remote
+10	1	CheckBox	[1282, 616, 202, 36]	[1383.0, 634.0]	0	BTT Remote
+9	1	CheckBox	[1282, 660, 514, 36]	[1539.0, 678.0]	0	Automations, Named & Other Triggers
+8	1	CheckBox	[1282, 704, 214, 36]	[1389.0, 722.0]	0	MIDI Triggers
+7	1	CheckBox	[1282, 748, 384, 36]	[1474.0, 766.0]	0	Drawings / Mouse Gestures
+6	1	CheckBox	[1282, 792, 476, 36]	[1520.0, 810.0]	0	Notch Bar / Menu Bar Replacement
+5	1	Button	[1274, 924, 374, 54]	[1461.0, 951.0]		Restart BTT to Apply Changes
+4	1	CheckBox	[1282, 836, 250, 36]	[1407.0, 854.0]	0	Generic Devices
+3	1	CheckBox	[1282, 882, 238, 36]	[1401.0, 900.0]	0	Floating Menus
+2	1	StaticText	[826, 10, 334, 32]	[993.0, 26.0]	BetterTouchTool Settings	

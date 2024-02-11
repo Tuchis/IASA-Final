@@ -1,0 +1,84 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1560, 948]	[780.0, 474.0]		Swish
+5	1	SplitGroup	[0, 0, 1560, 948]	[780.0, 474.0]		
+53	5	ScrollArea	[0, 104, 300, 844]	[150.0, 526.0]		
+54	53	Table	[0, 104, 300, 844]	[150.0, 526.0]		
+80	54	Row	[0, 104, 300, 72]	[150.0, 140.0]		
+81	80	Cell	[32, 104, 236, 72]	[150.0, 140.0]		
+83	81	Image	[42, 122, 34, 34]	[59.0, 139.0]		|General
+82	81	StaticText	[92, 122, 180, 36]	[182.0, 140.0]	General	
+76	54	Row	[0, 176, 300, 72]	[150.0, 212.0]		
+77	76	Cell	[32, 176, 236, 72]	[150.0, 212.0]		
+79	77	Image	[40, 196, 42, 32]	[61.0, 212.0]		|Windows
+78	77	StaticText	[92, 194, 180, 36]	[182.0, 212.0]	Windows	
+72	54	Row	[0, 248, 300, 72]	[150.0, 284.0]		
+73	72	Cell	[32, 248, 236, 72]	[150.0, 284.0]		
+75	73	Image	[40, 268, 40, 30]	[60.0, 283.0]		|Snapping
+74	73	StaticText	[92, 266, 180, 36]	[182.0, 284.0]	Snapping	
+68	54	Row	[0, 320, 300, 72]	[150.0, 356.0]		
+69	68	Cell	[32, 320, 236, 72]	[150.0, 356.0]		
+71	69	Image	[40, 340, 40, 30]	[60.0, 355.0]		|Apps
+70	69	StaticText	[92, 338, 180, 36]	[182.0, 356.0]	Apps	
+64	54	Row	[0, 392, 300, 72]	[150.0, 428.0]		
+65	64	Cell	[32, 392, 236, 72]	[150.0, 428.0]		
+67	65	Image	[40, 412, 40, 30]	[60.0, 427.0]		|Menubar
+66	65	StaticText	[92, 410, 180, 36]	[182.0, 428.0]	Menubar	
+60	54	Row	[0, 464, 300, 72]	[150.0, 500.0]		
+61	60	Cell	[32, 464, 236, 72]	[150.0, 500.0]		
+63	61	Image	[38, 482, 42, 34]	[59.0, 499.0]		|Advanced
+62	61	StaticText	[92, 482, 180, 36]	[182.0, 500.0]	Advanced	
+56	54	Row	[0, 536, 300, 72]	[150.0, 572.0]		
+57	56	Cell	[32, 536, 236, 72]	[150.0, 572.0]		
+59	57	Image	[44, 556, 32, 32]	[60.0, 572.0]		|About
+58	57	StaticText	[92, 554, 180, 36]	[182.0, 572.0]	About	
+55	54	Column	[20, 104, 260, 844]	[150.0, 526.0]		
+52	5	Splitter	[300, 104, 2, 844]	[301.0, 526.0]	150.0	
+6	5	ScrollArea	[302, 104, 1258, 844]	[931.0, 526.0]		
+51	6	StaticText	[322, 128, 208, 58]	[426.0, 157.0]	Menubar	
+50	6	StaticText	[322, 210, 744, 32]	[694.0, 226.0]	Invoke global convenience functions on the empty menubar area.	
+49	6	StaticText	[322, 282, 262, 34]	[453.0, 299.0]	Secondary Modifier	
+48	6	Button	[590, 276, 66, 48]	[623.0, 300.0]		⇧
+47	6	StaticText	[710, 282, 228, 34]	[824.0, 299.0]	Screens Modifier	
+46	6	Button	[944, 276, 66, 48]	[977.0, 300.0]		⌘
+45	6	Image	[326, 356, 48, 48]	[350.0, 380.0]		|ActionApp
+44	6	StaticText	[386, 362, 188, 34]	[480.0, 379.0]	App Switcher	
+43	6	Image	[586, 370, 20, 24]	[596.0, 382.0]		|GestureHold
+42	6	Image	[698, 370, 24, 24]	[710.0, 382.0]		|GestureRight
+41	6	Image	[674, 370, 24, 24]	[686.0, 382.0]		|GestureLeft
+40	6	StaticText	[770, 364, 770, 64]	[1155.0, 396.0]	Tap, hold and scroll to invoke the ⌘-tab app switcher or swipe left/right to directly activate the previous/next app.	
+39	6	Image	[326, 444, 48, 48]	[350.0, 468.0]		|ActionSnapUnsnap
+38	6	StaticText	[386, 452, 188, 34]	[480.0, 469.0]	Unsnap	
+37	6	Image	[586, 458, 24, 24]	[598.0, 470.0]		|GestureTap
+36	6	Image	[700, 458, 24, 24]	[712.0, 470.0]		|GestureTap
+35	6	Image	[674, 458, 26, 24]	[687.0, 470.0]		|GestureMod2
+34	6	StaticText	[770, 454, 770, 64]	[1155.0, 486.0]	Double tap to unsnap all windows on the current screen. Use the secondary modifier for all screens.	
+33	6	Image	[326, 534, 48, 48]	[350.0, 558.0]		|ActionMinus
+32	6	StaticText	[386, 540, 188, 34]	[480.0, 557.0]	Minimize	
+31	6	Image	[586, 548, 22, 24]	[597.0, 560.0]		|GestureDown
+30	6	Image	[700, 548, 22, 24]	[711.0, 560.0]		|GestureDown
+29	6	Image	[674, 548, 26, 24]	[687.0, 560.0]		|GestureMod2
+28	6	StaticText	[770, 542, 770, 64]	[1155.0, 574.0]	Swipe down to minimize all windows. Once for the current screen, twice or with the secondary modifier for all.	
+27	6	Image	[326, 622, 48, 48]	[350.0, 646.0]		|ActionPlus
+26	6	StaticText	[386, 630, 188, 34]	[480.0, 647.0]	Unminimize	
+25	6	Image	[586, 636, 22, 24]	[597.0, 648.0]		|GestureUp
+24	6	Image	[700, 636, 22, 24]	[711.0, 648.0]		|GestureUp
+23	6	Image	[674, 636, 26, 24]	[687.0, 648.0]		|GestureMod2
+22	6	StaticText	[770, 632, 770, 64]	[1155.0, 664.0]	Swipe up to unminimize all windows. Once for the current screen, twice or with the secondary modifier for all.	
+21	6	Image	[326, 712, 48, 48]	[350.0, 736.0]		|ActionScreens
+20	6	StaticText	[386, 718, 188, 34]	[480.0, 735.0]	Screens	
+19	6	Image	[680, 726, 24, 24]	[692.0, 738.0]		|GestureRight
+18	6	Image	[658, 726, 22, 24]	[669.0, 738.0]		|GestureDown
+17	6	Image	[636, 726, 22, 24]	[647.0, 738.0]		|GestureUp
+16	6	Image	[612, 726, 24, 24]	[624.0, 738.0]		|GestureLeft
+15	6	Image	[586, 726, 26, 24]	[599.0, 738.0]		|GestureModS
+14	6	StaticText	[770, 720, 770, 64]	[1155.0, 752.0]	Swipe up, down, left or right to move all snapped windows to the next screen in that direction.	
+13	6	StaticText	[322, 850, 358, 58]	[501.0, 879.0]	Mission Control	
+12	6	StaticText	[322, 932, 700, 16]	[672.0, 940.0]	Invoke this gesture on the Spaces preview in Mission Control.	
+11	6	ScrollBar	[302, 916, 1258, 32]	[931.0, 932.0]	0.0	
+7	6	ScrollBar	[1528, 104, 32, 844]	[1544.0, 526.0]	0.0	
+10	7	ValueIndicator	[1536, 106, 24, 722]	[1548.0, 467.0]	0.0	
+9	7	Button	[1536, 828, 24, 118]	[1548.0, 887.0]		
+8	7	Button	[1536, 104, 24, 2]	[1548.0, 105.0]		
+3	1	Toolbar	[0, 0, 1560, 104]	[780.0, 52.0]		
+4	3	Button	[1448, 0, 96, 104]	[1496.0, 52.0]		|Quit
+2	1	StaticText	[318, 0, 1130, 104]	[883.0, 52.0]	Swish	

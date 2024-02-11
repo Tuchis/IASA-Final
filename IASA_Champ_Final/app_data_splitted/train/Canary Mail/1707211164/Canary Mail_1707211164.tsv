@@ -1,0 +1,12 @@
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 752, 1390]	[376.0, 695.0]		Window
+10	1	StaticText	[96, 144, 560, 160]	[376.0, 224.0]	"Welcome to
+Canary"	
+9	1	Image	[256, 434, 240, 240]	[376.0, 554.0]		|icon3
+8	1	StaticText	[96, 802, 560, 130]	[376.0, 867.0]	Use the power of AI to craft your emails, surface the important ones, and kill your spam.	
+7	1	Button	[100, 1098, 552, 100]	[376.0, 1148.0]		Continue
+6	1	StaticText	[126, 1226, 498, 34]	[375.0, 1243.0]	By continuing you agree to accept our	
+5	1	Button	[142, 1262, 218, 34]	[251.0, 1279.0]		terms of service
+4	1	StaticText	[364, 1262, 56, 34]	[392.0, 1279.0]	and	
+3	1	Button	[424, 1262, 186, 34]	[517.0, 1279.0]		privacy policy
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		

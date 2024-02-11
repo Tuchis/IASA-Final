@@ -1,0 +1,4 @@
+ The UI is divided into 3 parts. Left, middle and right.
+Left part has 3 buttons. One is a purple button that says "Open Project" and two grey buttons with "+" and three horizontal lines. Below these buttons, there is a heading that says "My Project" and a search bar below it. Right next to the search bar, there is a button with three horizontal lines.
+The middle part has a heading that says "Create Project" and 6  buttons below it. Each button has a different aspect ratio of a video. The aspect ratios are 16:9, 9:16, 1:1, 4:3 and 21:9.
+The right part is empty and has a message saying "No Project Files at Present". There is a video icon, a music icon and a play icon in the middle of the empty space.

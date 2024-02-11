@@ -1,0 +1,18 @@
+ The UI is divided into 3 sections. Left section shows a list of created alarms. Middle section shows details of the selected alarm on the left. Right section allows to edit the alarm details.
+
+Left section:
+- has a list of 2 alarms
+ - each alarm shows its time, repeat settings and sound
+ - one of the alarms is selected, showing a blue dot on the left
+
+Middle section:
+- shows time of the selected alarm
+- has a label "Alarm"
+- shows repeat settings of the selected alarm
+- has a slider to enable/disable snooze
+
+Right section:
+- has a text field to edit the alarm label
+- has a drop-down to select the alarm sound
+- has a save button to save the changes
+- has a cancel button to discard the changes

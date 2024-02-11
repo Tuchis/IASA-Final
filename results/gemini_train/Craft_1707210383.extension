@@ -1,0 +1,7 @@
+ The UI of the app consists of:
+- A search bar at the top
+- A "New" button to the right of the search bar
+- A "Templates" button to the right of the "New" button
+- A "+" button in the far right corner
+- A left sidebar that is partially visible. The sidebar contains a "Recent searches" section and a "Craft for Self-Improvement" section
+- The main area of the window is a grid of templates. Each template has a title, a description, and a preview image.

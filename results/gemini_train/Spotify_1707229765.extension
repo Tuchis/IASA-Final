@@ -1,0 +1,8 @@
+ The UI of the app consists of the following elements:
+
+1. A search bar at the top of the screen with a magnifying glass icon on the left and a microphone icon on the right.
+2. A row of 5 buttons below the search bar: "All", "Artists", "Songs", "Albums", and "Playlists".
+3. A section called "Top result" below the buttons. It has an image of a musical group called Dakh Daughters, a play button, and a heart icon.
+4. A scrollable list of artists below the "Top result" section. Each item in the list has an image of the artist, the artist's name, and a follow button.
+5. A scrollable list of songs below the list of artists. Each item in the list has an image of the album cover, the song title, the artist's name, and the song's duration.
+6. A media player bar at the bottom of the screen. It has a play/pause button, a previous track button, a next track button, a shuffle button, and a repeat button.

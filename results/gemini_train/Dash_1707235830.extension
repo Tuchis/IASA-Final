@@ -1,0 +1,7 @@
+ The UI is divided into two parts. The left part has a sidebar with 5 buttons: General, Downloads, Docsets, Web Search and Integration. The right part has the content area.
+
+In the content area, there is a checkbox that says "Enable" and a text field below it that says "Snippet library location". The text field shows the path to the snippet library. Below the text field, there are two buttons: "Save As" and "Open".
+
+Below the buttons, there is a text field that says "Placeholder delimiter". The text field contains a single underscore. Below the text field, there is a label that says "Example placeholder:" and a text field that shows "_VAR".
+
+Below the example placeholder text field, there is a section that says "Special placeholders". In this section, there is a text field that says "@time format:" and a text field that shows "hh:mm:ss". Below the time format text field, there is a text field that says "@date format:" and a text field that shows "MM.dd.yyyy".

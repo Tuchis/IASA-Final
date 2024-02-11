@@ -1,0 +1,8 @@
+ The UI interface of the app consists of the following elements:
+
+- A search bar with a magnifying glass icon on the left and a cross icon on the right.
+- A menu bar with three icons: a clock icon, a bell icon, and a document icon.
+- A title that says "Due cannot remind you".
+- A message that says "You have turned off notifications for Due."
+- A button that says "System Preferences".
+- A plus icon in a purple circle in the bottom right corner.

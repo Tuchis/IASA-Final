@@ -1,0 +1,9 @@
+ The UI is divided into two parts. The left part has a navigation menu with 5 sections: General, Workflows, Shortcuts, License and Settings. The right part has a list of options for the selected section.
+
+The General section has 5 options:
+- Launch at login
+- Show in status menu bar
+- Hide main window at launch
+- Play sound effect
+
+The Workflows section has a list of workflows. The Shortcuts section has a list of shortcuts. The License section has information about the license. The Settings section has a list of settings.

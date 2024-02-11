@@ -15,7 +15,7 @@ train_data_file = 'ui_questions_train.tsv'
 
 train_data = pd.read_csv(os.path.join(train_data_path, train_data_file), sep='\t')
 
-image_representations_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gpt4_train"
+image_representations_folder = "/home/kuzhum/IASA/IASA-Final-Vlad/results/gemini_train"
 
 # Get screen representation ids from files in the folder
 screen_representations = os.listdir(image_representations_folder)

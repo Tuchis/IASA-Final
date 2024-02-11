@@ -1,0 +1,5 @@
+ The app has a search bar at the top. Below the search bar, there is a list of stocks. Each stock has a name, a price, and a change in price. The stocks are listed in order of their price, with the highest price first.
+
+Below the list of stocks, there is a news section. The news section has a list of articles about stocks. Each article has a title, a summary, and a link to the full article.
+
+At the bottom of the app, there is a menu bar. The menu bar has three icons: a home icon, a search icon, and a settings icon.

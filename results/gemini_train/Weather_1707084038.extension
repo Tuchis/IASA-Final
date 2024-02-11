@@ -1,0 +1,15 @@
+ The UI of the app is divided into two parts. The left part is the main part which shows the weather information. The right part is a map which shows the wind direction and speed.
+
+In the left part, there is a search bar at the top. Below the search bar, there is a list of cities. The user can select a city from the list to see the weather information for that city.
+
+The weather information is divided into three sections. The first section shows the current weather conditions. The second section shows the 10-day forecast. The third section shows the UV index and the wind speed.
+
+In the current weather conditions section, there is a large number that shows the current temperature. There is also a smaller number that shows the low and high temperatures for the day. The current weather conditions are also described in words, such as "cloudy" or "rainy".
+
+In the 10-day forecast section, there is a list of the next 10 days. For each day, there is a small icon that shows the weather conditions for that day. There is also a number that shows the high and low temperatures for that day.
+
+In the UV index section, there is a number that shows the UV index for the day. The UV index is a measure of how strong the sun's UV rays are.
+
+In the wind speed section, there is a number that shows the wind speed. There is also a compass that shows the direction of the wind.
+
+In the right part of the app, there is a map. The map shows the wind direction and speed. The user can zoom in and out of the map. The user can also pan the map to see different areas.

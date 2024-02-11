@@ -1,0 +1,41 @@
+The image displays a user interface from a study or note-taking application named Studies, which seems to be designed for organizing study materials and notes. The window is showing a settings or preferences panel for note stacks within the application. Here's a detailed breakdown of the UI elements:
+
+1. **Top Bar:**
+   - **Stack Management Buttons:** From left to right, "New Stack," "New Note," "Study All Due," "Study Session," "Continue Session," "Info," and "Sync" buttons.
+   - **Search Field:** A search input field labeled "Filter Notes" for searching through notes.
+
+2. **Library Section (Left Sidebar):**
+   - A section titled "LIBRARY" with categories such as "All Notes," "Due for Study," "Flagged," "Loose Notes," "Trash," and a "RECENT" section with lists like "Recently Studied," "Recently Correct," and "Last Import."
+   - Below, there are items listed under a "STACKS" heading, indicating grouped or categorized notes, but the specific stack names are not visible.
+
+3. **Title of Stack:**
+   - A text input field with the label "Title of Stack:" which has the text "UI Representation" already entered.
+
+4. **New Note Template:**
+   - A dropdown menu labeled "New Note Template:" currently set to "Question and Answer."
+
+5. **Limit on Due Notes:**
+   - A dropdown menu labeled "Limit on Due Notes:" with the option "100 Notes" selected.
+
+6. **Facet Display Time:**
+   - A dropdown menu labeled "Facet Display Time:" with the chosen duration of "5 seconds."
+
+7. **Created and Modified Information:**
+   - Text displaying the creation date as "6 February 2024 at 19:04" and the modification date "6 February 2024 at 19:04."
+
+8. **Include in Sync Checkbox:**
+   - A checkbox marked "Include in sync" which is currently checked.
+
+9. **Study Schedule Section:**
+   - A subheading titled "Study Schedule" followed by various radio button options for study planning including:
+       - "Do not schedule notes for study"
+       - "Long-term learning (Spaced Repetition)"
+       - "Target a deadline (e.g. Exam)"
+       - "Short-term cramming (Leitner System)"
+       - "Regular time intervals"
+   - There is also an information icon (?) which likely provides more details or help regarding the Study Schedule options.
+
+10. **Action Buttons:**
+    - Two buttons are at the bottom of the window: "Cancel," which presumably closes the panel or discards changes, and "Save," which likely saves the settings made by the user.
+
+This UI is designed to customize the way a stack of notes is handled within the application, allowing for personalized study methods and organizing the syncing of notes across devices.

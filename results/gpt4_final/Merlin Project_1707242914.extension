@@ -1,0 +1,28 @@
+The provided image showcases the user interface of a project management application with a focus on planning and scheduling. The UI is split into three principal areas: the task list on the left, the Gantt chart in the middle, and the settings or details panel on the right.
+
+Left Panel (Task List):
+- The top bar includes traffic light control buttons (close, minimize, maximize), a search input field, and a few unidentified icons for additional functionalities.
+- The task list is named "Work Breakdown" and it outlines tasks under the project titled "Big birthday".
+- Each task or group of tasks has columns for "#," "Traits," "Title," "Given Work," "Earliest Start," and "Resources."
+- The list consists of multiple tasks such as "Set date," "Preparation," "Guest list," "Location," "Invitation," "Catering," and "Overnight accommodation."
+- Each task has subtasks, for example, "Guest list" contains "Create guest list," and "Location" has subtasks like "Make location inquiries and compare," "Negotiate terms," and "Book location."
+- Some tasks have indented subtasks, depicting a hierarchy and the breakdown of tasks into smaller components.
+- There's a timeline on the left indicating the task has a scheduled start date, for example, "Big birthday" is scheduled to start on "7 Feb 2024."
+- Resources associated with each task or subtask are listed, such as "Person celebrating the birthday," "Friend with design expertise," "Printer," and "Partner of person celebrating the birthday."
+
+Middle Panel (Gantt Chart):
+- The Gantt chart visually represents the project timeline and task durations from "WK 6, 5 February" through "WK 17, 28 April" with subdivisions showing individual dates.
+- Each task from the task list is represented as a bar on the timeline.
+- The bars are connected with arrows indicating dependencies or the sequence in which tasks should be completed.
+- Some tasks have call-out boxes with text, likely identifying the task, such as "Person celebrating big birthday."
+
+Right Panel (Settings/Details):
+- The panel is titled "Big birthday: General" and has buttons for calendar view, print, and other unidentified functionalities.
+- The settings in this panel have various collapsible sections, including "Date Presets," "Work & Duration," "Default Values," and "Resources."
+- "Date Presets" contain fields for "Direction" (set to Forward), "Start" (listing "7 Feb 2024 at 00:00"), and "First day of week" (set to Monday).
+- "Work & Duration" includes fields for "Hours per day" (set to 8), "Hours per week" (set to 40), "Days per month" (set to 20), and "Calculation Unit" (set to Dynamically).
+- "Default Values" has fields for "Work" (set to "1 day?") and "Duration."
+- "Status Date" shows "6 Feb 2024 at 19:08" and "Actual Start/End" set to Automatic.
+- "Resources" indicates a "Currency Symbol" with pound sterling selected (£1).
+
+Overall, this screenshot provides a comprehensive view of the project management tool's UI, detailing how tasks are organized, scheduled, and related to resources and project settings.

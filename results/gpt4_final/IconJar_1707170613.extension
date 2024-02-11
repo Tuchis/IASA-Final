@@ -1,0 +1,26 @@
+The image shows a user interface of what appears to be an icon management application. The UI is divided into three main columns, and features various interactive elements:
+
+**Leftmost Column**:
+- At the top, there are three circular buttons that seem to be the common window control buttons for closing, minimizing, and expanding the window.
+- Below these window controls, there are four vertical navigation options: All Icons, Starred, Recently Used, and Your Icon Sets (with "Material Design Icons" as a subset).
+- The 'All Icons' option is highlighted, suggesting it is the currently selected view.
+- There is an input field at the bottom with a placeholder text "Filter Icon Sets".
+
+**Middle Column**:
+- The header of this column displays the word "regular" and, beneath it, "Material Design Icons > maps", indicating the current category or selection of icons.
+- Below the title, there's a vast whitespace, which is likely where icons would be displayed when selected or searched for.
+- A search bar is present in the top right corner with a placeholder text "Find in All Sets", accompanied by a magnifying glass icon.
+
+**Rightmost Column**:
+- The top right corner features a bell icon, denoting notifications.
+- Below the notifications icon, there are two tabs: "Icon Set" and "Selection", where "Selection" appears to be active but both have no visual content in this screenshot.
+- There is a section below with input fields for "Multiple Names" and "Description", both of which are empty.
+- A non-editable field labeled "No License" suggests where license information would be displayed if available.
+- Below this, there is a section with details about the current selection:
+  - "Icon Count: 7737 Icons"
+  - "Import Date: 06 Feb 2024"
+  - "File Size: 3,7 MB"
+  - "Selection: 85 Sets"
+- Finally, at the very bottom, there is a button labeled "Export | IconJar...", indicating a feature to export icons.
+
+The UI appears clean and favors a minimalist design, utilizing a neutral color palette of grays and blues. Elements such as the search functionality and filters suggest the app is designed for organizing and finding icons easily.

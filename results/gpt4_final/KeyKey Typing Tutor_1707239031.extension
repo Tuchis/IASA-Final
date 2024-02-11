@@ -1,0 +1,22 @@
+The image shows a User Interface for a progress and speed records app, specifically designed for typing practice or similar learning activity. Here's a detailed description of all UI elements:
+
+Title:
+- "Progress and speed records" prominently displayed at the top in a larger white font.
+
+Language and Layout Selection:
+- Below the title, there is a label "for" followed by two dropdown menus. The first is set to "English" and the second to "QWERTY" layout, indicating the language and keyboard layout for which the progress is being tracked.
+
+Progress Section:
+- Under the selection menus, we have a row of labeled sections: "Lesson 1," "Lesson 2," "Lesson 3," "Lesson 4," "Lesson 5," "Lesson 6," "Expert," "Numbers," "Capitals," "Punctuation." Each section has a status bar below the label.
+- Each section has a number (currently all set to "0") and a star rating scale with 5 stars. Apart from "Lesson 1," which seems to be in a state called "learning," all other sections have a salmon-colored bar indicating unachieved status, with "0" rating and all stars empty.
+
+Graph Section:
+- Below the progress section, there's a large area dedicated to a bar graph with the title "Results for recent activities" at the bottom.
+- The graph appears to represent two sets of data points, possibly "Speed" and "Typos," indicated at the bottom right. "Speed" is further clarified with the numbers "150" and "75" on the right side, presumably units of measurement.
+- Bars are clustered in groups, likely indicating individual sessions or attempts. There are two shades of gray, darker bars might represent speed and lighter bars could represent typographical errors.
+
+UI Controls and Indicators:
+- At the top left of the window, standard window control buttons for minimizing, maximizing, and closing the window in macOS are visible (colored circles in red, yellow, and green).
+- At the top right corner of the app, there's a 'close' button indicated by an "x" which would close this interface or window.
+
+The UI is minimalistic, with a dark color scheme that emphasizes the content. The use of stars suggests a gamified aspect to the progress tracking, where the user likely earns stars for completing lessons or improving their performance. The graph provides a visual history of the user's performance over time, intended to easily track improvement trends in speed and accuracy.

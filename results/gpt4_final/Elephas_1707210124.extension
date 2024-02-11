@@ -1,0 +1,26 @@
+The UI interface shown in the image is for an application called Elephas, and the screen seems to be an onboarding or introductory slide explaining the features of the app. The elements of the interface are as follows:
+
+1. Top Bar:
+  - Three dots representing the window control buttons for macOS (red, yellow, green).
+  - The title of the window is "Elephas Onboarding."
+
+2. Main Heading:
+  - A large, bold, centered text stating "Welcome to Elephas".
+
+3. Feature Sections:
+Each feature is described with an accompanying icon and a brief description of the functionality.
+
+  - Across Apps: Icon resembling a grid of squares. Text below states "Elephas consistently works across all applications."
+  - Super Brain: Icon looks like a cloud or brain. Text below says "Load your own data from popular data sources to let Elephas help you with your day-to-day writing tasks."
+  - Never Feel Stuck: Icon with circular arrows. Text below says "Our smart AI assistant can help with everything from proposals and cover letters to blogs."
+  - Fix Grammar: Icon with a spark symbol. Text below says "Good grammar reflects your credibility. Elephas fixes your grammar mistakes across your applications."
+  - Smart Reply: Icon that suggests sending a message. Text below says "Reply to your emails, social media, and messages with just a click. Use Super Brain in conjunction."
+  - Rewrite: Pencil icon. Text below says "Rewrite in different modes, from Professional mode to Viral modes."
+  - Super Chat: Quotation marks icon. Text below says "Run any task with the super-command bar, from filling out your Google Sheets to summarizing articles for you."
+  - Snippets: Star or asterisk icon. Text below says "Define any tasks you need to do repeatedly. Invoke with the super command."
+  - iOS Keyboard: Icon resembling a keyboard. Text below says "Write across apps with the smart AI keyboard."
+
+4. Continue Button:
+  - A prominent button at the bottom center labeled "Continue," likely used to advance to the next screen in the onboarding process.
+
+The background of the screen is white, and the text and icons are primarily blue, creating a clean and minimalistic design that looks modern and is likely intended to be user-friendly. The descriptions provided for each feature give users an overview of what the application offers in terms of functionality and convenience.

@@ -1,0 +1,26 @@
+The image depicts a user interface of an email application for adding accounts, likely on an iOS device. Here's a detailed description of each UI element:
+
+1. At the top left, there's a "Back" button, typically used to return to the previous screen.
+
+2. In the top right corner, there's a button labeled "Restore," which suggests a functionality to restore previously added accounts or settings.
+
+3. Below the navigation bar, in bold, large letters, the title "Add Account" denotes the purpose of the interface.
+
+4. Below the title, there's an input field with a placeholder text "Type in your email," which indicates that a user should enter their email address to add an email account.
+
+5. Beneath the email input field, there is a large blue button with the text "Add Account," which, when pressed, likely attempts to add the account with the information entered in the input field above.
+
+6. Below the "Add Account" button, there are icons representing different email providers and account types:
+   - Gmail (a red 'M' on a white background with Google's 'G' above it)
+   - iCloud (a blue cloud icon)
+   - Outlook (a white 'O' with blue background)
+   - Exchange (an 'E' with a pattern of lines on a blue background)
+   - Office365 (a red box with what appears to be a white '365' or a document icon)
+   - Yahoo (the purple Yahoo! envelope logo)
+   - Other (a cloud icon with a question mark, implying other miscellaneous or less common email services)
+
+7. Below the icons, each service is labeled with its name: Gmail, iCloud, Outlook, Exchange, Office365, Yahoo, and Other. This section suggests that users can select any of these service icons to begin the process of adding that specific type of email account to the application.
+
+8. At the bottom of the interface, there is a short descriptive statement: "Connect and sync all your email accounts with Canary." This text explains the core functionality of the app in relation to the add account feature and mentions 'Canary,' which is likely the name of the email application.
+
+The UI is designed with a clean and modern aesthetic, standard for contemporary iOS apps, and the elements are laid out logically for a user-friendly experience.

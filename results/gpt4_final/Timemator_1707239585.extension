@@ -1,0 +1,31 @@
+The UI interface of the app seems to be divided into two main panels with various UI elements:
+
+Left Panel:
+
+1. Menu Bar at the top - Contains three colored dots indicative of a Mac application window, red, yellow, and green from left to right, which are typically used for closing, minimizing, and maximizing the window respectively.
+
+2. Navigation Menu - Below the menu bar, there is a vertical menu bar with three items:
+    - Tracking (currently selected, indicated by the blue highlight): An icon with a play symbol inside what appears to be a document, suggesting it may be for starting or tracking time for activities or tasks.
+    - Timeline: An icon suggesting a timeline or schedule that could allow users to view time tracked across a timeline.
+    - Reports: An icon with bars that likely indicates a section for viewing reports or statistics related to time tracking.
+
+3. Timer Area - At the bottom of the left panel is a large timer display showing "00:00:00", which suggests that it is ready to start timing. Next to it is a button or field with "No Task" suggesting that you can select or describe the task you are timing.
+
+Right Panel:
+
+1. Tabs - There are three tabs at the top: "All Tasks," "Recent," and "Archive." "All Tasks" is currently selected. These tabs suggest filtering options for tasks or activity records.
+
+2. Dropdown/Settings Button - To the right of the tabs, there's a button with a "+" icon and a downward arrow which might be used to add new tasks or access additional settings or options.
+
+3. Time Entries Section Heading - This is labeled as "Time Entries" with subtitle text "last 30 days," implying this section is for viewing recorded time entries from the past month.
+
+4. No Data Message - A prominent message "No time entries found" indicating that no time-tracking records are available for the selected period.
+
+5. Call to Action and Import Options:
+    - A button or link with the text "Start timer" suggesting an action to begin timing.
+    - A description beneath it which says, "to create the first task or import your existing data."
+    - Below the description is a button labeled "Import data as CSV..." indicating an option to import data from a CSV file into the app.
+
+6. Additional Button - At the bottom right of the right panel, there's a "+" icon followed by an icon resembling a light bulb or tips. This could potentially be for adding a new time entry manually or accessing help/tips.
+
+The plus buttons (+) in both the left and right panels likely offer a function to add new items relevant to their context (e.g., tasks or time entries). The overall design and layout suggest a time-tracking application designed for task management and productivity analysis.

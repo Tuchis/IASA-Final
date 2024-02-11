@@ -1,0 +1,43 @@
+The image displays the user interface (UI) for the "Apple Books" app. The interface is divided into several distinguishable sections with multiple elements:
+
+1. **Top Menu Bar:**
+   - Three colored circles (red, yellow, green) positioned on the top left corner, standard on macOS windows for closing, minimizing, and expanding the window, respectively.
+   - A search field is located on the upper left side, indicated by a magnifying glass icon and labeled "Search".
+   - On the top right, there is a dropdown menu labeled "Browse Sections" with a downward pointing arrow, suggesting it can be clicked to reveal more options.
+
+2. **Side Menu (Sidebar):**
+   - The sidebar is on the left part of the interface, starting with the label "Apple Books" at the top.
+   - Below the label are the following menu items:
+     - "Read Now" icon (a bookmark ribbon).
+     - "Book Store" icon (currently selected, highlighted with blue color), indicating the main view being displayed is the Book Store.
+     - "Audiobook Store" icon.
+   - A "Library" section header followed by library categories:
+     - "All" icon (a stack of books).
+     - "Want to Read" icon (a heart symbol).
+     - "Finished" icon (a check mark).
+     - "Books" icon.
+     - "Audiobooks" icon.
+     - "PDFs" icon.
+     - "My Samples" icon.
+   - A "My Collections" section includes a "New Collection" option with a plus (+) sign to its left, likely used to create new collections.
+
+3. **Main Content Area:**
+   - The header "Book Store" indicates the current section of the app being viewed.
+   - Below the header are two promotional panels:
+     
+     - **Left Panel (Limited-Time Offers):**
+       - Two featured books with cover images, titles "The Searcher" by Tana French and "The No-Show" by Beth O'Leary.
+     
+     - **Right Panel (Books We Love):**
+       - Titled "Discover the excellent new reads February has in store" followed by an illustration and the text "FEBRUARY PICKS" next to a symbol that represents the Apple Books brand.
+
+4. **Section Below Promotional Panels:**
+   - Titled "New & Trending" with a subtitle "Recently released and notable books."
+   - A selection of book covers displayed in a horizontal scroll layout, including titles such as "Fury" by Alex Michaelides, "House of Sky and Breath" by Sarah J. Maas, "First Lie" by Wynne Channing, etc.
+   - A "See All" link at the top right of this section, likely allowing the user to view more in this category.
+   - A right arrow on the edge of the horizontal scroll bar to navigate through more books in the selection.
+
+5. **Footer:**
+   - The footer of the side menu has the icon of a person and "Mariya Hirna," suggesting the name of the current user or account holder logged into the app.
+
+The UI uses a clean design with a focus on usability and content discovery. The selected area ("Book Store") is highlighted, and there's a balance between graphics and textual information. The color scheme and layout are consistent with Apple's design language.

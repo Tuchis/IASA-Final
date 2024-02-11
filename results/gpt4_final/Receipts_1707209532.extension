@@ -1,0 +1,35 @@
+The user interface in the photo displays a software application presumably for managing financial records or receipts. The application window contains multiple sections, each with various UI elements targeted at user interaction.
+
+1. Window Title:
+   - The window title at the very top left corner reads "Receipts.receipts," indicating that the current view or document that is open is related to receipts.
+
+2. Menu Bar:
+   - Just below the window title, there is a menu bar with the usual drop-down options such as "File," "Edit," "View," "Go," "Help," and others which are not fully visible due to the crop. Each menu likely contains additional actions or settings related to the application.
+
+3. Toolbar:
+   - Below the menu bar, there is a toolbar with button icons for various actions such as adding a new entry (indicated by a '+' icon), syncing or refreshing data, and other actions that are not fully identifiable due to lack of visible labels or being partly cropped out.
+
+4. Search Field:
+   - On the top right corner, there's a 'Search' field with a magnifying glass icon, allowing users to search through the records.
+
+5. Receipt Table:
+   - The main area on the left side displays a tabular list of receipt records. The table headers include "Date," "Contact," "Category," "Tags," "Note," "Tax in UAH," "Net in UAH," "Amount in UAH," "Tax 20%," and "Tax 7%". Several rows of data are visible, with dates ranging from 19.10.2022 to 29.12.2023. Monetary values are listed on the right side of each entry, with tax breakdowns and net amounts in UAH (Ukrainian Hryvnia).
+
+6. Right Sidebar:
+   - The right sidebar is divided into various sections:
+      - Title: A text field labeled "Title" allows users to enter a title for something, possibly the report being generated or viewed.
+      - Options: A section with checkboxes labeled "Show sums," "Show +/- signs," and "Landscape" suggests customization for display or printing preferences.
+      - Columns: This section contains a list with checkboxes, likely for choosing which columns to display or print in the report. Options include "Reference," "Date," "Paid," "Contact," "Category," "Tags," "Title," "Export File Name," "Note," "Currency," "Tax," "Amount," "Tax in UAH," "Net in UAH." Some items already have their checkboxes checked, indicating they are currently selected to be visible.
+
+7. Bottom Bar:
+   - On the bottom right, there is an "Export" button, presumably to export the data.
+   - There's a "Save as PDF..." button and a "Print..." button, both for saving the document in PDF format or printing it accordingly.
+   - Checkbox options labeled "Attach documents" and "Formatted" which probably toggle additional settings for the export or printout.
+
+8. Bottom Left Buttons:
+   - The very bottom left corner shows two buttons. "Cancel" appears to be selected, and another button partially visible likely for confirming or saving the current action or changes being made.
+
+9. Scroll Bars:
+   - There are standard vertical scroll bars on both the main table section and the right sidebar, enabling the user to navigate longer lists or content that extends beyond the visible window.
+
+From the UI design, the app seems to be tailored towards creating and managing financial reports, with a focus on customization of the report layout and content. The exact features and functionality of each UI element would become clearer through interaction or by accessing the corresponding help menu or user manual.

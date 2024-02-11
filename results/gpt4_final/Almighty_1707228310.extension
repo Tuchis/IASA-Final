@@ -1,0 +1,19 @@
+The image displays a user interface (UI) of an application with the title "Almighty" visible in the window's title bar. The UI is split into two parts: a sidebar on the left and a main content area on the right.
+
+In the sidebar, four menu items are listed vertically:
+
+1. "General" - This option has an icon with two gears next to it.
+2. "Workflows" - This is highlighted in blue, indicating that it is currently selected. It has an icon with a play symbol and two circular arrows next to it, resembling a looping or workflow process.
+3. "Shortcuts" - Accompanied by an icon resembling a lightning bolt, possibly indicating a place for keyboard shortcuts or quick actions.
+4. "License" - Accompanied by a checkmark icon within a circle, suggesting it may relate to the verification or status of a software license.
+
+There are also three colored dots at the top left corner of the window (red, yellow, green), typically found in macOS applications, used to close, minimize, and maximize the window, respectively. Next to these dots is a square icon with a dot in the center, representing the window controls for macOS.
+
+In the main content area:
+
+- There is a heading titled "Workflows" towards the top. This corresponds with the currently selected sidebar option, indicating that this section of the UI is dedicated to managing workflows.
+- Just below the "Workflows" heading, there's a box labeled "Favorite" with a gold star icon to the left. It implies that this area is designated for favorite or frequently used workflows.
+- On the right side of this section, there is a '+' button, which likely functions to add a new workflow.
+- At the bottom of the main content area, there's a descriptive text "Organize tweaks with workflows," giving a hint about the functionality or purpose of the workflows within the application.
+
+The UI appears to be clean and uses a minimalistic design typical of modern application interfaces, focusing on ease of navigation and clarity of options.

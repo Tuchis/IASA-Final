@@ -1,0 +1,38 @@
+This image depicts a finance or expense tracking app's user interface. The UI is divided into several sections, with various elements present:
+
+**Title Bar:**
+- In the very top left corner, there are the typical three dots that represent the option to minimize, maximize, or close the window.
+- The window title is "Receipts.receipts," which gives an idea of the current view or section of the app where we're looking at financial receipts.
+
+**Left Sidebar:**
+- At the top left is an 'All' category, which likely shows all items regardless of filters.
+- Below that, there are different categories for receipts including "Unconfirmed" (6), "Not Paid" (6), "Starred," "Without Attachment," "Recent Imports" (6), and "Trash." The numbers in parentheses might indicate the number of items in each category.
+- A section titled 'JOURNAL' with entries for 2023 and 2022.
+- A "CONTACTS" section with an entry for "Unassigned."
+- A "CATEGORIES" section with entries like "Car," "Communication," "Food," "Gifts," and "Goods."
+- At the bottom, a "+" icon suggests the option to add new entries or categories.
+- The highlighted category in this sidebar is "All," which probably means all receipts are currently being displayed.
+
+**Toolbar:**
+- There's a series of dropdown filters labeled "Period," "Category," "Contact," "Tag," and "Features" on the upper right of the main content area, suggesting you can filter the list of receipts based on these criteria.
+- Printer icon, likely for printing the current view or report.
+- A stacked bar chart icon that may toggle the view or configure settings related to display or data visualization.
+- A magnifying glass within a search bar, for searching through receipts.
+- A slider button at the far right, possibly for additional settings or display options.
+
+**Central List Area:**
+- A list of dates and amounts with color-coded status indicators (red downwards arrows), suggesting these are expenses or payments that are categorized negatively, perhaps due to being overdue or unpaid.
+- Dates listed are 29.12.2023, 22.12.2023, 20.12.2023, 19.09.2023, 10.11.2022, and 19.10.2022, with associated amounts next to each.
+
+**Right Summary Pane:**
+- Displays a date range "19.10.2022 - 29.12.2023," which suggests the period for which the summary is being displayed.
+- Under the date range, there's a monetary summary with subheadings: "Subtotal," "Tax," and "Total," all with an amount of "12 587,96" listed which could likely be in Ukrainian hryvnia (UAH) as indicated by the minus sign in front of the total at the bottom of this section. The fact that the summary has negative values might indicate these are expenses or payments owed.
+- A bar graph labeled "Years" is at the bottom of the summary pane. However, specific graph details are not visible.
+
+**Bottom Toolbar:**
+- "Net amounts" toggle, which probably allows the user to show either net amounts or some other value, like gross amounts, in the data views.
+- "Print" button, likely for printing documents, the list, or summaries.
+- "Report" button, perhaps for creating detailed reports based on the current data.
+- "Export" button is indicating the ability to export data to different formats or applications.
+
+This user interface appears to be a comprehensive tool for managing financial transactions such as receipts, with the ability to categorize, search, filter, and report on financial data.

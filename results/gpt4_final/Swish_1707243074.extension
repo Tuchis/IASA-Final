@@ -1,0 +1,40 @@
+The UI interface displayed is likely from a macOS application, and it's dedicated to managing applications by using touchpad or mouse gestures. The interface is divided into a sidebar on the left and a main panel on the right.
+
+**Sidebar**: 
+1. **General**: A cogwheel icon representing general settings.
+2. **Windows**: An icon depicting a window, likely for window-related settings.
+3. **Snapping**: An icon with arrows pointing to the corners of a box, likely for window snapping options.
+4. **Apps** (currently selected): An icon resembling monitors or windows with various pages, for app-related settings.
+5. **Menubar**: An icon that seems to represent menu-bar related settings.
+6. **Advanced**: A cogwheel with a gear, indicating more complex settings.
+7. **About**: An information icon, typically for information about the application.
+
+**Main Panel**:
+- The main panel title “Swish” suggests the name of the application being configured.
+  
+- **Apps**: A heading suggesting the settings below are related to applications.
+  
+- The description text: "Control running applications by swiping and pinching on their dock icon."
+
+- **Application Menu**: A checkbox (unchecked) with the label "Application Menu," alongside the information: "You can also invoke gestures on the app's menu, right next to the ⚙️ symbol."
+
+- **General Modifier**: A dropdown menu with a caret symbol (^) selected, titled “General Modifier”.
+
+- **Secondary Modifier**: Another dropdown menu with a caret symbol (^) selected, titled “Secondary Modifier”.
+
+The section below provides specific gesture-related settings:
+1. **Activate**: A radio button deselect, with text explaining tap and hold to activate and chain an app's frontmost window to apply any window gesture afterwards.
+
+2. **Cycle**: Two arrows pointing left and right with a cycle icon between them; text explaining you can swipe left or right to activate and chain windows of an app in forward or backward order.
+
+3. **Quit**: A red icon with an "x" and instruction to pinch in to quit an application.
+
+4. **Minimize**: A yellow icon with a downward arrow, and the instruction to swipe down to minimize the frontmost window, with a secondary modifier minimizing all windows.
+
+5. **Unminimize**: A green icon with two arrows pointed upward, indicating swiping up to unminimize and chain the last window, with a secondary modifier to unminimize all windows.
+
+6. **Hide**: A simple circle with text suggesting to double-tap to hide all windows of an application, with a secondary modifier detailed.
+
+At the top right of the window, there is a "Quit" button, providing the user with the option to exit the application.
+
+The interface is clean, with a focus on minimalism and user accessibility, and it is tailored to managing window and application interactions via trackpad gestures.

@@ -1,0 +1,40 @@
+In the screenshot provided, you're looking at a user interface of a reminder or task management application named "Reminders". Here is a detailed description of all the visible elements:
+
+1. **Top UI Elements**:
+   - **Three dots** in green, yellow, and red at the top left: These typically represent window controls for minimizing, expanding/restoring, and closing the window on a MacOS.
+   - **Title**: "Reminders" is prominently displayed in red-orange, indicating the name of the app.
+   - **Completed Tasks Indicator**: "12 Completed" is shown in light text, suggesting that there are 12 finished tasks, with a "Clear" button next to it which presumably allows the user to clear or remove the completed tasks from the list.
+  
+2. **Task List**:
+   There are several tasks listed:
+   - **Put liquid for contact lenses** - Date: 04/04/2021, 08:00
+   - **The same time two app** - No date or time provided.
+   - **Make a form** - Date: 08/05/2021, 19:00
+   - **Get a general practitioner** - Date: 12/12/2022, 15:00
+   - **Cauliflower** - Date: 03/07/2023, 17:39
+   - **Turn off the rice** - Date: 05/07/2023, 20:32
+   - **Recall learning techniques** - Date: 29/08/2023, 19:40
+   - **water plants** - Date: 06/01/2024, 11:00
+   - One empty task entry below the last item where a user can presumably enter a new task.
+
+Each task is preceded by an empty circle, which is usually a user interface element that allows you to mark the task as completed. One task, "The same time two app", does not have a date and time assigned to it, unlike the others.
+
+3. **Bottom UI Elements**:
+   - **Text Field**: Below the listed tasks, there is a text field that can be used to add a new reminder. Squared icons and the words "Notes" and "Add Tags" prompt the user to enter more information about the new reminder.
+   - **Add Date Button**: There is a button with a calendar icon and the text "Add Date," which the user would presumably use to assign a date and time to a new reminder.
+   - **Add Location Button**: A button with an outline of a location marker, indicating the option to add a location to the reminder.
+   - **Tag Button**: A button with a hashtag symbol, which is typically used to add tags or categories to an item.
+   - **Attachment Button**: An icon resembling a paper clip, which is commonly used to indicate an attachment feature. It would allow adding files or photos to a reminder.
+
+4. **Right-side UI Elements**: 
+   - **List Options Button**: Top right corner displays a button with a bulleted list icon, which probably opens a menu for managing lists or viewing options for the reminders.
+   - **Add Task Button**: A "+" symbol is visible, which is a universal icon for adding a new item or task.
+   - **Show/Hide Sidebar Button**: Three horizontal lines with dots indicate a button for showing or hiding the sidebar, which could contain additional navigation or categories for tasks.
+
+5. **Banner with Warning Symbol**:
+   An orange banner at the bottom right with an "i" within a circle is a common design for an information or warning message, which might be alerting the user to some issue or notification related to the app.
+
+6. **Number '8' Floating on a Circle**:
+   Above the Show/Hide Sidebar Button at the top right, there's the number "8" enclosed in a circle, which could indicate the number of pending or important tasks, or possibly notifications within the app.
+
+In summary, the interface has a clean, minimalistic design common for productivity applications, with clear options for adding and managing tasks, and an indication of how many tasks have been completed and potentially how many have yet to be attended to.

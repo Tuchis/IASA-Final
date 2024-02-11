@@ -1,0 +1,34 @@
+The image displays the user interface for the settings of an application named "OpenIn." This seems to be a macOS application based on the look and design of the window and controls. Here’s a detailed description of all the UI elements present in the settings window:
+
+At the very top of the window, there are three standard macOS control buttons on the left side: Close (red), Minimize (yellow), and Expand (green).
+
+Next, on the top bar, there is a gear icon followed by "OpenIn Settings" text, suggesting that this is the settings screen for the OpenIn app. The top bar also contains sections titled "General," "Browsers," "Mail apps," "Call apps," "Files," "Backups," "About," which appear to be different settings categories the user can navigate to.
+
+Under the General category, there are several sections divided by thin lines, presumably acting as separators:
+
+1. Build:
+   - This section shows a version number "4.1.5 (221064) Setapp build," indicating the current version of the software and its build identifier.
+
+2. Configuration:
+   - "Start at login" with a toggle switch to the right; the switch is off.
+   - "Show menu bar icon" with a toggle switch that is turned on as indicated by the blue coloring.
+
+3. Notifications:
+   - "Check that OpenIn is a default app in background" with a toggle switch beside it, which is turned off.
+
+4. History:
+   - "Store history of opened links and files" with a toggle switch set to off.
+   - Below the toggle, there is a dropdown menu with the option "Month" and a down-arrow, likely allowing the user to select the duration for which history should be stored.
+
+5. App selection window:
+   - A standalone statement "Always show the Window (even with one app)" accompanied by a toggle, which is in the off position.
+
+6. Icon Size:
+   - A label "Icon Size" followed by three choices "Small," "Medium," and "Large" next to three radio buttons. The "Small" option is selected.
+
+7. Developer Mode:
+   - A toggle switch for Developer Mode which is turned off. There is no additional text or description visible for this option.
+
+In the bottom right corner of the window, opposite the list of settings categories, there is a question mark icon, which presumably provides help or information about the settings.
+
+This image provides a comprehensive look at the "General" settings tab of the OpenIn app, indicating choices for startup behavior, notifications, history, app selection window appearance, and icon size as well as offering a developer mode. The UI is clean and minimalistic, typical for modern macOS applications.

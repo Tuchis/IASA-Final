@@ -1,0 +1,42 @@
+This image shows the user interface of a digital journaling app. Here's the detailed breakdown of the UI elements:
+
+**Left sidebar:**
+- On the top, there appear to be three small circles (red, yellow, green) likely for window control (close, minimize, maximize/resize).
+- Below that is a magnifying glass icon, indicating a search functionality with a search bar.
+- Next, there is a section titled "Journals" where "My Journal" is highlighted with a smiley face icon next to it.
+- Under that is a section titled "View" with the following options:
+  - "List" with an icon that resembles a list.
+  - "Calendar" with a calendar icon.
+  - "Map" with an icon that suggests mapping functionality.
+  - "Gallery" with an icon that appears to be for viewing images.
+  - "Stats" with a bar chart icon, likely for statistics or analysis of journal entries.
+- The bottom of the sidebar has a "Settings" option indicated by a gear icon.
+
+**Central section (Calendar view):**
+- At the very top, there is a left-pointing arrow, a label saying "2024", and a right-pointing arrow. This suggests navigation between years in the calendar.
+- Below is a calendar with three months visible: January, February, and March 2024. Each month is labeled and followed by a grid showing the days of the week from Monday to Sunday. Dates are numbered, and the current date, February 6, is highlighted with a red circle.
+- The calendar days are shaded in different ways, with past dates in one color and future dates in a lighter shade. Today's date is differentiated by the red highlight.
+
+**Right Section (Journal entry view):**
+- On the top right, there are icons for sharing/exporting the entry, setting a reminder/alarm, and displaying battery status (24%).
+- There is a vertical ellipsis button indicating more options or a menu.
+- The date "Tue, 6 February" is displayed at the top, suggesting that the entry below corresponds to this date.
+- The entry contains headings and placeholder text prompts such as:
+  - "Three small things I'm grateful for:" followed by a bullet point for the user to fill in.
+  - "What is my positive intention for the day?" followed by a heading style prompt.
+  - "How did I feel today and what patterns or triggers" followed by another heading style prompt.
+- Below the prompts is metadata about the location "Kyiv, Antonovycha Street" with icons indicating weather conditions (a cloud with snow indicating 2°C) and a building symbol, possibly indicating urban location or indoor entry.
+- At the bottom of the entry, there are two hash-tagged items "#StartingOut" and "#Welcome to Diarly" which are likely tags associated with the entry.
+- Highlighted at the bottom is an emoji waving hand, probably indicating the tutorial or welcome note of the app.
+
+**Sidebar (Statistics & Metadata):**
+- A side section on the right displays stats about the current entry:
+  - "49 WORDS"
+  - "365 CHARACTERS"
+  - "13 PARAGRAPHS"
+- There is a progress bar underneath with "32%" visible, suggesting that the user has reached 32% of a word count target ("49 words from 150 you planned").
+- Below this is information regarding the entry's modification and creation:
+  - "LAST MODIFIED ON 6 Feb 2024, 11:08"
+  - "CREATED ON 6 Feb 2024, 11:07"
+
+The UI is clearly designed for digital journaling with prompts for reflective writing, tagging for organization, statistical tracking, and a calendar view for historical navigation of entries. The interface uses a clean design with neutral colors for minimal distractions.

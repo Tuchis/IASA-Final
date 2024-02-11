@@ -1,0 +1,31 @@
+The image you've provided shows a user interface of an application named "Almighty." Here's a detailed description of the elements visible in the UI:
+
+1. Window Title Bar:
+   - Three colored dots on the far left, typically representing close (red), minimize (yellow), and maximize (green) in macOS.
+   - Title of the app "Almighty" in the center.
+   - A search text field on the top right with a magnifying glass icon indicating search functionality. The text field is empty.
+
+2. Sidebar (left section):
+   - At the top of the sidebar, there's a menu icon (three horizontal lines), which may open additional menu options.
+   - Below that, there are several categories with icons next to each representing different groups or functions within the app:
+       - All (icon with four squares forming a larger square)
+       - New (icon with a star)
+       - Popular (icon with a thumbs up)
+       - Random (icon with shuffled lines)
+   - The word "Apps" separates the above categories from the following list, possibly indicating a different section or type of categories:
+       - Desktop (icon with a desktop computer)
+       - Display (icon with a monitor)
+       - Dock (icon with some sort of panel)
+       - Effect (icon with a water droplet, highlighted blue, indicating it's selected)
+       - Finder (icon with a face, resembling the macOS file management tool)
+       - Keyboard (icon with a keyboard)
+       - Mouse (icon with a mouse)
+       - Photos (icon with a flower, resembling macOS photos app)
+       - Screenshot (icon with a camera)
+
+3. Main Content Area (right section):
+   - Two panels, each featuring an "effect," as indicated by the highlighted "Effect" section in the sidebar.
+   - The first panel is titled "Confetti" with a subtitle "Show confetti effect" and has an icon representing confetti. There's also a toggle button with a lightning bolt symbol powered on, suggesting the effect is active or ready to be activated.
+   - The second panel is titled "Rain" with a subtitle "Rain effect" and has an icon representing rain. There's a toggle off to the right which is in the off position, suggesting this effect is inactive.
+
+Each panel seems to represent an option or feature that the application can perform. The toggles suggest that these features can be turned on or off. The icons next to each option provide a visual cue about the function of the effect. The water droplet icon next to each "Effect" label possibly suggests customization options for visual effects provided by this application.

@@ -1,0 +1,27 @@
+The image shows a user interface of an application named "Typing Mind," which is described as "A better UI for ChatGPT." The layout is presented with a menu bar on the left and the main content on the right. The interface elements are as follows:
+
+**Menu Bar (Left Side):**
+1. At the top, there are three horizontal lines indicating a menu button, followed by the application logo with the text "Typing Mind."
+2. Below that, there is a "New Chat" button with three dots and gear icon to its left, indicating possible additional options or settings.
+3. A search bar with a placeholder text "Search chats..." for finding previous chats or content within the app.
+4. A collection of icons representing what appears to be chat or file management options: a "+" sign, presumably for creating a new item; a pencil, possibly for editing; an arrow pointing downwards with a line underneath, likely for downloading or syncing; a trash can, for deleting; and an eye, possibly for viewing or privacy settings.
+5. A list of example conversations or features each with a flag or icon and title:
+   - **(Example) Learn English** (Flag of the United Kingdom) - With subtitle text: "Here's a breakdown of the word cactus..."
+   - **(Example) Writing Content** (AI logo) - With subtitle text: "Here is a draft tech article on how to ..."
+   - **(Example) Web Search** (Magnifying glass icon) - With subtitle text: "The top stories being discussed on Hacker News are..."
+   - **(Example) Coding Help** (Brackets icon) - With subtitle text: "To send a HTTP request in Python, you would typically..."
+6. At the bottom of the menu bar, there's a text field labeled "API Key" with placeholder text "Enter API Key." This suggests that users can enter their own API key for some functionality related to the application.
+7. The bottom of the menu includes a copyright statement "Typing Mind © 2024" and links titled "Privacy | Terms | FAQs | Contact." There's also a "Feedback" button with speech bubble icon, and beside it, multiple social or sharing icons: a flag (possibly indicating language settings), a smiley face, a camera, and a chat bubble with three dots.
+
+**Main Content (Right Side):**
+1. At the top right are a series of icons: a hamburger menu, an icon with two arrows forming a circle (possibly refresh or sync), a bell for notifications (with a badge showing "0"), and a drop-down menu currently set to "GPT-4."
+2. The large title "Typing Mind" with the tagline underneath "A better UI for ChatGPT."
+3. A welcome message that states "Thank you for using Typing Mind via Setapp 👋".
+4. Bullet points with the following information:
+   - Users have "Free Access to GPT-3.5/GPT-4 models provided by Setapp (See Limitations)."
+   - There is an option to use one's own API keys or custom models via a "Model Settings menu."
+   - A link to "Frequently Asked Questions" for users having issues.
+5. A large blue button labeled "Select Character" with a subtext "0 AI characters" which suggests the user can choose from different AI characters for interaction.
+6. At the very bottom, aligned to the center, there is a chat bubble icon with the text "Type '/' to open menu" indicating a command to activate a feature or help menu.
+
+The overall design seems to be for an application that enhances the experience of interacting with GPT models, affording users the ability to manage conversations, customize settings, and get assistance or support as needed. The interface is clear and divided into two main sections for ease of use.

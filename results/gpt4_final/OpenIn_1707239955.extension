@@ -1,0 +1,30 @@
+The image you have provided shows a user interface of the "OpenIn Settings" window presumably on a macOS system, with several sections for customizing how URLs are handled by different applications.
+
+At the top of the window, there are three colored buttons typical for a macOS application window: red, amber, and green, which close the window, minimize the app, and expand the app, respectively. To the right, there are seven icons serving as tabs for different categories within the settings: General, Browsers, Mail apps, Call apps, Files, Backups, and About. The "Browsers" tab is currently selected.
+
+Below the tabs, centered at the top of the Browsers section, there is a header that reads "https:// scheme handler" with a toggle switch next to it labeled with a question mark. The switch is in the "ON" position.
+
+Directly below this header, you have a notification with a warning icon stating:
+"OpenIn is not set as default application for https:// URLs" and a "Fix it" button to presumably address this issue.
+
+Next, we have an "Applications" section that lists web browsers which can be assigned to handle HTTP/HTTPS URLs:
+
+- Firefox (Private) with a lines icon on the left and the purple Firefox logo.
+- Firefox with the same lines icon and the red-orange-yellow Firefox logo.
+- Google Chrome with the lines icon and the multicolored Google Chrome icon.
+- Safari with the lines icon and the blue compass Safari icon.
+- Safari (Private) with the lines icon and the blue compass Safari icon with a mask.
+
+Below this list, there are two buttons: "Remove all applications" and "Add application...".
+
+The "Rules" section comes next, with a single entry listed:
+
+- An entry named "Default" with the lines icon to the left.
+
+Beneurth the Rules section, there is a button labeled "Add rule...".
+
+The final section at the bottom of the window is labeled "Shortened URLs" with a single setting:
+
+- "Resolve Shortened URLs" with a toggle switch currently in the "ON" position.
+
+The overall layout suggests that this UI is for setting default applications and rules for opening different types of links and handling shortened URLs. The toggle switches imply binary settings that can be turned on or off, while the buttons are actionable items that can change or update settings within the app. The lines icon may indicate drag-and-drop functionality to reorder or customize the list of applications and rules.

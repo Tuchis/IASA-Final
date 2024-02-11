@@ -36,6 +36,14 @@ Each individual software update entry is separated by horizontal lines.
 Overall, the user interface appears to be clean, well-organized, and uses a combination of icons, text descriptions, and buttons to guide the user through updating their installed applications.
 
 Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+the following file have the following structure, and columns representations that stores a valuable information about each object
+    :id - identifier for the components
+    :pid - id of the parent in the hierarhy
+    :role - class of the element (as Button, String, Checkbox, Cell, etc.)
+    :vissible_bbox - the coordinates for the bounding boxes of the elements
+    :center - coordinates of the center for the component (x, y) format should be used for the answering coordinate related questions
+    :value - strores the value of component, for example if it is inputfield, the value printed in it, for the slider it's value,  for checkboxes its status (1 if cheked 0 otherwise), for string the text of the String component, etc
+    :description - contains an addition valuable information, for what it is used(for example search for Button), or what it contains
 id	pid	role	visible_bbox	center	value	description
 1	0	Window	[0, 0, 2360, 1448]	[1180.0, 724.0]		App Store
 3	1	SplitGroup	[0, 0, 2360, 1448]	[1180.0, 724.0]		

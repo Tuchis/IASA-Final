@@ -1,0 +1,65 @@
+This image depicts the user interface settings of an application named BetterTouchTool. Here is a detailed breakdown of each UI element shown in the screenshot:
+
+### Left Sidebar:
+
+1. **Standard Settings** (selected category)
+   - Basic (indicated by a gear icon)
+   - **User Interface** (highlighted and selected)
+   - Touch Bar (indicated by a keyboard icon)
+   - Stream Deck (indicated by a grid icon)
+   - Notch / Action Menu Bar (indicated by a rectangle with a notch)
+   - Window Snapping & Moving (indicated by overlapping squares)
+   - BTT Remote (indicated by a network icon)
+
+### Advanced Settings (below Standard Settings in the sidebar):
+   - General (indicated by ellipsis "...")
+   - Trackpad (indicated by a trackpad icon)
+   - Magic Mouse (indicated by a mouse icon)
+   - Keyboard (indicated by a keyboard icon)
+   - Drawings / Mouse Gestures (indicated by a cursor and line icon)
+   - MIDI Settings (indicated by a MIDI port icon)
+   - Scripting BTT (indicated by a script icon)
+   - Web Server (indicated by a globe icon)
+   - Normal Mouse (indicated by a mouse icon)
+
+### Main UI Panel:
+The main panel is divided into two columns:
+
+**Left Column:**
+- **Show Menu Bar Icon** (checked)
+  The text next to it says: "If you hide the icon you can access the preferences by starting BTT again"
+- Show Dock Icon while running (may require restart) (not checked)
+- **Font Sizes in the Main User Interface:**
+  - "Increase / Decrease Base Font Size by:" followed by a text field with "pt" indicating font size in points. The text field is empty.
+  - Button: "Restart BTT to Apply Changes"
+- **App Side-Bar:**
+  - "Use Default Dark Translucent Side-Bar" (with a toggle switch that is enabled)
+- **Language & Region:**
+  - "Language: System Language (if available)" (with a refresher icon)
+  - "Region Settings" (with a refresher icon)
+  - Button: "Restart BTT to Apply Changes"
+- **Various things:**
+  - Only show recently used colors in side-bar color picker dropdown (not checked)
+
+**Right Column:**
+- **Hidden Trigger Sections:**
+  - Touch Bar (checkbox not checked)
+  - Stream Deck (checkbox not checked)
+  - Magic Mouse (checkbox not checked)
+  - Trackpad (checkbox not checked)
+  - Keyboard Shortcuts (checkbox not checked)
+  - Key Sequences / Typed Words (checkbox not checked)
+  - Normal Mouse (checkbox not checked)
+  - Siri Remote (checkbox not checked)
+  - BTT Remote (checkbox not checked)
+  - Automations, Named & Other Triggers (checkbox not checked)
+  - MIDI Triggers (checkbox not checked)
+  - Drawings / Mouse Gestures (checkbox not checked)
+  - Notch Bar / Menu Bar Replacement (checkbox not checked)
+  - Generic Devices (checkbox not checked)
+  - Floating Menus (checkbox not checked)
+- Button: **"Restart BTT to Apply Changes"**
+
+Additionally, there are three small icons near the top of the window, likely representing controls for closing or minimizing the window - red, yellow, and green dots.
+
+The information provided covers all visible elements and settings in the BetterTouchTool UI preference pane in the screenshot provided.

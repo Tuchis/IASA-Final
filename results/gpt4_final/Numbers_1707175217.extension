@@ -1,0 +1,39 @@
+The image displays the user interface of a spreadsheet application, specifically Numbers for macOS. There are multiple elements visible on the screen, which are part of the UI of the Numbers app, from menu options to spreadsheet content and sidebar settings.
+
+On the top left corner, there's the Numbers application toolbar with the following options:
+
+- A back button (triangle pointing to the left)
+- '125%' indicating the current zoom level, with "-" and "+" buttons to decrease or increase the zoom level, respectively.
+- 'View' dropdown menu for changing view settings.
+- 'Sort' button for sorting options.
+- 'Add Category' button to add categories to the data.
+- 'Pivot Table' button to create a pivot table.
+
+A set of tabs in the center top portion of the UI indicates different sheets within the spreadsheet, with "Sheet 1" being the current active sheet.
+
+Looking at the core spreadsheet area, we see two columns labeled A and B. The following entries are visible in these columns:
+
+- Row 2: "query" and "cluster"
+- Rows 3 through 29 are filled with various text entries related to anti-virus and malware protection.
+
+In the B column, all the rows from 3 to 29 have the same text, which is "Real-time malware detection (viruses, worms, Trojans, spyware)."
+
+To the right side of the spreadsheet, there is a sidebar with several formatting and tool options:
+
+- The top of the sidebar has a 'Format' button enabled, as indicated by its blue color, alongside 'Organise' and 'Arrange' tabs which are not currently selected.
+- Below those tabs, there's a dropdown menu with 'Table Style 1' selected, which likely refers to the current style applied to the table in the spreadsheet.
+- Underneath that, the sidebar is divided into tabs for 'Style,' 'Layout,' and 'Text,' with 'Text' currently opened.
+- For font options under 'Text' we have:
+  - Font family currently set to "Helvetica Neue".
+  - Font style options include bold (B), italic (I), underline (U), and strikethrough (S).
+  - Character styles and text color selections with a visual representation of the color palette.
+  - Text alignment options (left, center, right, justified) and list formatting buttons.
+  - Font size adjustment options with "-" and "+" signs for decreasing or increasing the font size.
+  - A checkbox for 'Wrap text in cell.'
+  - A slider for adjusting spacing, currently set to '1.0 - Single.'
+
+Moreover, above the toolbar, the title bar of the window shows the document name 'clustered_queries_06.numbers.'
+
+Lastly, the application menu bar is visible at the very top with standard macOS options like 'Numbers,' 'File,' 'Edit,' 'Insert,' 'Table,' 'Chart,' 'Text,' 'Shape,' 'Media,' and 'Comment.'
+
+This detailed description should cover the visible UI components and provide sufficient context for any Q&A regarding this interface.

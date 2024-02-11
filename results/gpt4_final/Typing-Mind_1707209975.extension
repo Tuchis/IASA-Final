@@ -1,0 +1,30 @@
+The image displays a user interface of a chat or messaging application with an overlay window for selecting a language preference.
+
+Starting from the background layer and moving to the foreground:
+
+1. On the left side there is a dark-themed sidebar with multiple elements:
+   - Three horizontal lines at the top left corner which typically indicates a menu can be accessed by clicking it.
+   - Following the menu icon are the words "New Chat" accompanied by a page icon with a plus sign, which suggests the option to start a new chat.
+   - Below the "New Chat" option is a search bar with the placeholder text "Search chats...", indicating that users can search through their chats.
+   - A series of chat previews are listed below with titles like "Interview for the '{position}'...", "(Example) Learn English", "(Example) Writing Content", "(Example) Web Search", and "(Example) Coding Help", suggesting these are either templates or examples of chat types.
+   - The flags next to some chats indicate language preferences or regions associated with the chat.
+   
+2. The bottom left corner has fields and buttons:
+   - An "API Key" text box with the placeholder text "Enter API Key", indicating where a user might input an API key for some functionality related to the application.
+   - Below that, there is a trademark mentioning "Typing Mind © 2024" followed by links for "Privacy | Terms | FAQs | Contact".
+   - A "Feedback" button accompanied by icons which are likely for different functionalities within the app, although their specific functions are not fully visible.
+
+3. The right section shows the UI of an active chat window:
+   - The top bar of this section has a service name "Setapp GPT-3.5" and a dropdown caret alongside various icons, one of which displays a bell with a "0" indicating no notifications.
+   - Below the service name is a section with the words "Typing Mind".
+   - The central part of the chat window shows the dialogue, with messages indicating an interview simulation. The text in the chat suggests a conversation between an interviewee and interviewer, with a user typing "Hi" as a response to instructions.
+   - At the bottom of the chat section, there are icons for various functionalities, like sharing the chat, clearing the chat context, starting a new chat, with the messages being part of a larger dialogue (cut off at the bottom).
+
+4. A pop-up window titled "Select Language" overlays the central part of the interface:
+   - The header of the pop-up window is "Select Language".
+   - There are two sections within the pop-up: "Approved Languages" with a checkmark icon and "Auto-Translated Languages" with a magic wand icon.
+   - "Approved Languages" currently has "English" checked, which likely means translations are vetted or "approved by human."
+   - "Auto-Translated Languages" consists of a list of language options such as German, Mandarin, Vietnamese, Greek, French, Italian, Russian, Ukrainian, Spanish, Portuguese, and Luxembourgish, with a prompt to "Click here to help with translation," implying these translations might be AI-generated and less reliable.
+   - There is a "Close" button at the bottom of the pop-up, probably to dismiss the pop-up window and return to the main interface.
+
+This interface is designed to interact with an artificial intelligence presumably, enabling conversations in different languages. The focus seems to be on language selection and chatting functionality, with other standard app tools available for user interaction and customization.

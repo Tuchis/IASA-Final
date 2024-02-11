@@ -1,0 +1,22 @@
+The image shows a user interface (UI) of an application designed for a desktop environment with a layout that includes various panels and buttons. Starting from the left side:
+
+1. At the very top left corner, there are three colored dots, which are typically used on macOS applications to close (red), minimize (yellow), and expand or fullscreen (green) the window.
+
+2. Below the window controls is a sidebar that contains a search input field labeled "Filter." This field likely allows a user to search or filter through the items listed in the sidebar.
+
+3. The sidebar is divided into sections labeled "LIBRARY" and "CLEANER GROUPS," with the "CUSTOM CLEANERS" section appearing to be part of the "CLEANER GROUPS" or a separate section below it. The items it contains are:
+
+   - Start
+   - Import
+   - Export (currently selected, as indicated by the blue highlight)
+   - Remove
+
+   Below these items are two icons—a plus sign and a settings gear icon. These icons likely allow the user to add new items or access settings relevant to the sidebar's context.
+
+4. Moving to the main area on the right, the window's top bar displays the word "Export," indicating that the current view or action pertains to exporting something from the application.
+
+5. The main area includes two headers "CLEANER GROUPS" and "CUSTOM CLEANERS," but no items are listed under them, indicated by the multiple blank lines which suggest where items would normally be listed.
+
+6. At the bottom of the main area, there are a checkbox labeled "Export as Cleaner Library," a search input field with the placeholder text "Filter" which is presumably used to filter through the items in the "CLEANER GROUPS" and "CUSTOM CLEANERS" lists, and a button labeled "Export."
+
+The interface appears to be for an app related to managing or exporting items, possibly for cleaning or organizing digital files or data, given the context hinted by the names "CLEANER GROUPS" and "CUSTOM CLEANERS." The "Export as Cleaner Library" option suggests that the user can export a collection of these cleaners or settings as a library file. The app's design suggests it is a utility styled with a macOS aesthetic.

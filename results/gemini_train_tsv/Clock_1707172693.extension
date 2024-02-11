@@ -1,0 +1,70 @@
+ The UI is divided into 3 sections. Left section shows a list of created alarms. Middle section shows details of the selected alarm on the left. Right section allows to edit the alarm details.
+
+Left section:
+- has a list of 2 alarms
+ - each alarm shows its time, repeat settings and sound
+ - one of the alarms is selected, showing a blue dot on the left
+
+Middle section:
+- shows time of the selected alarm
+- has a label "Alarm"
+- shows repeat settings of the selected alarm
+- has a slider to enable/disable snooze
+
+Right section:
+- has a text field to edit the alarm label
+- has a drop-down to select the alarm sound
+- has a save button to save the changes
+- has a cancel button to discard the changes
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Clock
+33	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+34	33	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+35	34	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+36	35	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+37	36	Group	[0, 104, 2048, 1432]	[1024.0, 820.0]		|Alarms
+44	37	Button	[30, 134, 372, 360]	[216.0, 314.0]		|08:35, Alarm, On
+49	44	StaticText	[78, 184, 208, 94]	[182.0, 231.0]		|08:35
+48	44	StaticText	[78, 282, 70, 32]	[113.0, 298.0]		|Alarm
+47	44	StaticText	[78, 322, 172, 32]	[164.0, 338.0]		|Repeat: Never
+46	44	StaticText	[78, 362, 206, 32]	[181.0, 378.0]		|Sound: Daybreak
+45	44	CheckBox	[74, 404, 84, 50]	[116.0, 429.0]	1	
+38	37	Button	[434, 134, 372, 360]	[620.0, 314.0]		|11:30, Alarm, On
+43	38	StaticText	[482, 184, 180, 94]	[572.0, 231.0]		|11:30
+42	38	StaticText	[482, 282, 70, 32]	[517.0, 298.0]		|Alarm
+41	38	StaticText	[482, 322, 292, 32]	[628.0, 338.0]		|Repeat: Mon, Tue and Wed
+40	38	StaticText	[482, 362, 206, 32]	[585.0, 378.0]		|Sound: Daybreak
+39	38	CheckBox	[478, 404, 84, 50]	[520.0, 429.0]	1	
+24	1	Toolbar	[0, 0, 2048, 104]	[1024.0, 52.0]		
+27	24	Group	[652, 0, 742, 104]	[1023.0, 52.0]		
+28	27	RadioGroup	[648, 12, 750, 80]	[1023.0, 52.0]	<AXUIElement 0x13c642c40> {pid=92889}	
+32	28	RadioButton	[648, 12, 194, 80]	[745.0, 52.0]	0	|World Clock
+31	28	RadioButton	[842, 12, 182, 80]	[933.0, 52.0]	1	|Alarms
+30	28	RadioButton	[1024, 12, 182, 80]	[1115.0, 52.0]	0	|Stopwatch
+29	28	RadioButton	[1206, 12, 192, 80]	[1302.0, 52.0]	0	|Timers
+25	24	MenuButton	[1960, 0, 72, 104]	[1996.0, 52.0]		|Add an alarm
+26	25	MenuButton	[1956, 12, 80, 80]	[1996.0, 52.0]		
+21	1	Button	[118, 36, 28, 32]	[132.0, 52.0]		
+22	21	Group	[118, 36, 28, 32]	[132.0, 52.0]		
+23	22	Group	[118, 36, 28, 32]	[132.0, 52.0]		
+20	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		
+2	1	Sheet	[660, 416, 730, 702]	[1025.0, 767.0]		
+18	2	Group	[904, 476, 242, 118]	[1025.0, 535.0]		
+19	18	DateTimeArea	[914, 484, 224, 104]	[1026.0, 536.0]	2000-01-01 22:38:42 +0000	
+17	2	CheckBox	[788, 660, 102, 32]	[839.0, 676.0]	1	Repeat:
+16	2	CheckBox	[898, 638, 72, 80]	[934.0, 678.0]	0	M
+15	2	CheckBox	[950, 638, 72, 80]	[986.0, 678.0]	0	T
+14	2	CheckBox	[1002, 638, 72, 80]	[1038.0, 678.0]	0	W
+13	2	CheckBox	[1054, 638, 72, 80]	[1090.0, 678.0]	0	T
+12	2	CheckBox	[1106, 638, 72, 80]	[1142.0, 678.0]	0	F
+11	2	CheckBox	[1158, 638, 72, 80]	[1194.0, 678.0]	0	S
+10	2	CheckBox	[1210, 638, 72, 80]	[1246.0, 678.0]	0	S
+9	2	StaticText	[812, 828, 82, 32]	[853.0, 844.0]	Label:	
+8	2	TextField	[910, 822, 360, 44]	[1090.0, 844.0]		
+7	2	StaticText	[800, 886, 94, 32]	[847.0, 902.0]	Sound:	
+6	2	PopUpButton	[904, 880, 374, 54]	[1091.0, 907.0]	Daybreak	
+5	2	CheckBox	[906, 940, 142, 36]	[977.0, 958.0]	1	Snooze
+4	2	Button	[1212, 1028, 152, 64]	[1288.0, 1060.0]		Save
+3	2	Button	[1064, 1028, 152, 64]	[1140.0, 1060.0]		Cancel

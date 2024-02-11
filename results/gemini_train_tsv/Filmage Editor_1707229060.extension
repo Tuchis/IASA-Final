@@ -1,0 +1,35 @@
+ The UI is divided into 3 parts. Left, middle and right.
+Left part has 3 buttons. One is a purple button that says "Open Project" and two grey buttons with "+" and three horizontal lines. Below these buttons, there is a heading that says "My Project" and a search bar below it. Right next to the search bar, there is a button with three horizontal lines.
+The middle part has a heading that says "Create Project" and 6  buttons below it. Each button has a different aspect ratio of a video. The aspect ratios are 16:9, 9:16, 1:1, 4:3 and 21:9.
+The right part is empty and has a message saying "No Project Files at Present". There is a video icon, a music icon and a play icon in the middle of the empty space.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2024, 1280]	[1012.0, 640.0]		
+28	1	Button	[60, 240, 260, 52]	[190.0, 266.0]		Open Project
+27	1	Image	[50, 96, 80, 80]	[90.0, 136.0]		|APP LOGO
+26	1	StaticText	[146, 116, 222, 40]	[257.0, 136.0]	Filmage Editor	
+25	1	StaticText	[456, 96, 188, 30]	[550.0, 111.0]	Create Project	
+24	1	Image	[460, 160, 224, 224]	[572.0, 272.0]		|pic tianjia project
+23	1	Image	[542, 242, 60, 60]	[572.0, 272.0]		|ic pm add
+22	1	Button	[460, 160, 224, 224]	[572.0, 272.0]		
+21	1	Image	[768, 212, 120, 120]	[828.0, 272.0]		|ic pm 169 nor
+20	1	Button	[716, 160, 224, 224]	[828.0, 272.0]		
+19	1	Image	[1024, 212, 120, 120]	[1084.0, 272.0]		|ic pm 916 nor
+18	1	Button	[972, 160, 224, 224]	[1084.0, 272.0]		
+17	1	Image	[1280, 212, 120, 120]	[1340.0, 272.0]		|ic pm 11 nor
+16	1	Button	[1228, 160, 224, 224]	[1340.0, 272.0]		
+15	1	Image	[1536, 212, 120, 120]	[1596.0, 272.0]		|ic pm 43 nor
+14	1	Button	[1484, 160, 224, 224]	[1596.0, 272.0]		
+13	1	Image	[1792, 212, 120, 120]	[1852.0, 272.0]		|ic pm 219 nor
+12	1	Button	[1740, 160, 224, 224]	[1852.0, 272.0]		
+11	1	StaticText	[456, 464, 142, 30]	[527.0, 479.0]	My Project	
+10	1	Button	[1924, 460, 40, 40]	[1944.0, 480.0]		
+9	1	Button	[1836, 460, 40, 40]	[1856.0, 480.0]		
+8	1	TextField	[1504, 462, 336, 30]	[1672.0, 477.0]		
+7	1	Image	[1012, 712, 400, 240]	[1212.0, 832.0]		|pic myproject default
+6	1	StaticText	[1042, 978, 340, 30]	[1212.0, 993.0]	No Project Files at Present	
+5	1	StaticText	[160, 10, 1704, 36]	[1012.0, 28.0]		
+3	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+4	3	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+2	1	StaticText	[1002, 10, 20, 32]	[1012.0, 26.0]		

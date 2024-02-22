@@ -1,0 +1,32 @@
+This image shows the user interface of a music production application with various elements intended for recording and editing audio. In the center of the image, there is a pop-up window with the title "Choose a track type" that displays three options:
+
+1. Software Instrument:
+   - Icon: A keyboard with green highlights.
+   - Description: "Plug in a USB MIDI keyboard to play and record using a wide variety of instruments like piano, organ and synths."
+   
+2. Audio:
+   - Icon: A microphone.
+   - Description: "Record using a microphone or line input – or drag and drop audio files."
+
+3. Drummer:
+   - Icon: A drum kit.
+   - Description: "Add a drummer that automatically plays along with your song."
+    
+Below these options is a "Details" section with selections specific to audio input:
+   - "Input:" with an option for "Input 1" as a radio button.
+   - A statement indicating "My instrument is connected with: MacBook Pro Microphone" with a checked checkbox.
+   - Another statement saying, "I want to hear my instrument as I play and record" with a checked checkbox.
+   - A third statement indicating "I heard sound from: MacBook Pro Speakers" with a checked checkbox.
+
+At the bottom of the pop-up window, there is a gray "Cancel" button on the left and an active blue "Create" button on the right.
+
+Below this pop-up window, we see a part of the main interface with some additional elements:
+
+- A sidebar to the left with track information, showing "Movie" and "Audio 1", each with mute and solo buttons.
+- Below the track headers, tabs labeled "Track", "Master", and "Compare" are visible.
+- A section called "Recording Settings" with a "Record Level" slider and options for "Automatic Level Control", "Input" settings (selected as "No Input"), "Monitoring", and a "Noise Gate" feature.
+- An equalizer section with sliders and knobs for adjusting levels, including "HIGH", "MID FREQ", "LOW CUT", and "REVERB".
+
+The background elements show various other controls specific to the application, such as transport controls (play, pause, record, rewind, fast-forward), a timeline labeled with bars and beats, tempo, time signature, and a search field labeled "Search Loops" in the top right corner.
+
+The entire interface suggests that the user is in the process of setting up a new track in a digital audio workstation (DAW) and has multiple options for input sources and manipulation of the sound.

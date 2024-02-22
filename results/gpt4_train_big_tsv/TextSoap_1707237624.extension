@@ -1,0 +1,23 @@
+This image shows a computer interface of an application with a focus on an import functionality. The UI is divided into three main columns: a sidebar, main content area, and a side information panel.
+
+Starting from the top left, the interface features the standard window control buttons for closing, minimizing, and full-screening the window. They are colored red, yellow, and green respectively. Below these control buttons is a search bar, labeled with a magnifying glass icon and the placeholder text "Filter."
+
+Below the search bar is the sidebar menu with the following sections and options, highlighted in various shades of gray and blue:
+- LIBRARY (in capital letters, indicating a section header)
+  - Start (button)
+  - Import (button, currently highlighted in blue to indicate it is selected)
+  - Export (button)
+  - Remove (button)
+- CLEANER GROUPS (section header)
+- CUSTOM CLEANERS (section header)
+At the bottom of the sidebar, there are two icons: a "+" (plus) sign and a grid-like icon, which could be for adding new items or accessing additional settings.
+
+The main content area is titled "Import" at the top and contains instructions for the user: "Select the files to import. Review the cleaners contained within the files. Select desired cleaners and click 'Import Selected'." It also includes a "Select Files..." button in the upper right corner, presumably to begin the import process by selecting files from the user's computer.
+
+Below the instructions is a large, empty list area with horizontal lines suggesting where listed items would appear once files are selected for import. This space likely populates with details about the files chosen by a user.
+
+On the right side of the interface is a side information panel with a checkbox option saying "Replace existing cleaners without prompts" indicating a setting related to the import process where existing items may be overwritten without additional warnings or confirmations.
+
+At the bottom of this panel there is a button labeled "Import Selected," which is likely used to finalize the import of the selected cleaners once they have been reviewed.
+
+The UI's color scheme includes a mix of grays, whites, and blues, indicating different states of the interface elements, such as the currently active tab or button. The design is clean and suggests a minimalistic and straightforward user experience.

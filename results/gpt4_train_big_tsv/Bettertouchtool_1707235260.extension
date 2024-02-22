@@ -1,0 +1,157 @@
+This image shows the "BetterTouchTool Settings" user interface within an application that allows users to customize Touch Bar settings on a MacOS device.
+
+At the top of the window, we see the window controls for minimize, maximize, and close, specific to MacOS applications.
+
+On the left side of the window is a vertical navigation pane, divided into two sections: "Standard Settings" and "Advanced Settings". Under "Standard Settings," we see the following options:
+- Basic
+- User Interface
+- Touch Bar (highlighted indicating the current selection)
+- Stream Deck
+- Notch / Action Menu Bar
+- Window Snapping & Moving
+- BTT Remote
+
+Under "Advanced Settings," we see these options:
+- General
+- Trackpad
+- Magic Mouse
+- Keyboard
+- Drawings / Mouse Gestures
+- MIDI Settings
+- Scripting BTT
+- Web Server
+- Normal Mouse
+
+On the right side of the window, we see the area dedicated to the Touch Bar settings, with a heading "BetterTouchTool Settings". Below the heading are tabs for Default Settings and Advanced. The Default Settings tab is currently active.
+
+Within the Default Settings tab, there are a series of checkboxes and text areas that represent different settings the user can customize for their Touch Bar:
+
+1. "Enable Touch Bar support (disabling requires you to restart BTT)" - this option is checked, indicating that Touch Bar support is currently enabled.
+
+2. "Show macOS Control Strip" - this option is checked, indicating that the macOS Control Strip should be shown. Next to it, there's another option "Hide left close / X button (requires BTT restart)" which is not checked.
+
+3. "Show BetterTouchTool Icon in Control Strip" - this option is checked, indicating that the BetterTouchTool icon should be displayed in the macOS Control Strip.
+
+4. "Show BetterTouchTool Icon on the left side (only if not showing macOS Control Strip)" followed by a text input field that says "Free space after BTT Icon: 20 px" - this option is checked, and it seems you can specify the space after the BTT icon if it's displayed on the left side.
+
+5. "Show ESC Button on the left side of the Touch Bar" followed by another text input field that says "Free space after ESC button: 10 px" - this option is also checked, allowing users to control the appearance of the ESC button and the space after it.
+
+6. A checkbox for "Hide global actions if app specific actions are configured in BTT" is unmarked, suggesting that global actions will be shown unless this is checked.
+
+7. "Hide BetterTouchTool Touch Bar if nothing to show (no actions configured)" - this option is checked, which means the BetterTouchTool Touch Bar will be hidden if there are no actions configured.
+
+Below these settings, there is a text section labeled "Some tips" which provides the following points:
+- Disabling the system Touch Bar.
+- How to show/hide the BTT Touch Bar.
+- Deciding per-app Touch Bar settings.
+- A link to community-shared Touch Bar presets.
+
+Overall, the UI provides basic configurations related to the macOS Touch Bar via BetterTouchTool, enabling users to tailor the functionality and display to their preferences.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1988, 1306]	[994.0, 653.0]		BetterTouchTool Settings
+23	1	ScrollArea	[0, 56, 340, 1250]	[170.0, 681.0]		
+28	23	Table	[2, 58, 336, 1248]	[170.0, 682.0]		
+97	28	Row	[2, 58, 336, 76]	[170.0, 96.0]		
+98	97	Cell	[14, 60, 312, 72]	[170.0, 96.0]		
+99	98	StaticText	[26, 90, 286, 32]	[169.0, 106.0]	Standard Settings	
+93	28	Row	[2, 134, 336, 64]	[170.0, 166.0]		
+94	93	Cell	[14, 136, 312, 60]	[170.0, 166.0]		
+96	94	Image	[28, 128, 50, 72]	[53.0, 164.0]		|action
+95	94	StaticText	[88, 152, 224, 28]	[200.0, 166.0]	Basic	
+89	28	Row	[2, 198, 336, 64]	[170.0, 230.0]		
+90	89	Cell	[14, 200, 312, 60]	[170.0, 230.0]		
+92	90	Image	[28, 196, 50, 68]	[53.0, 230.0]		|sidebar
+91	90	StaticText	[88, 216, 224, 28]	[200.0, 230.0]	User Interface	
+85	28	Row	[2, 262, 336, 64]	[170.0, 294.0]		
+86	85	Cell	[14, 264, 312, 60]	[170.0, 294.0]		
+88	86	Image	[28, 268, 50, 50]	[53.0, 293.0]		|touchbar pop
+87	86	StaticText	[88, 280, 224, 28]	[200.0, 294.0]	Touch Bar	
+81	28	Row	[2, 326, 336, 64]	[170.0, 358.0]		
+82	81	Cell	[14, 328, 312, 60]	[170.0, 358.0]		
+84	82	Image	[28, 332, 50, 50]	[53.0, 357.0]		|streamdeck pop
+83	82	StaticText	[88, 344, 224, 28]	[200.0, 358.0]	Stream Deck	
+77	28	Row	[2, 390, 336, 92]	[170.0, 436.0]		
+78	77	Cell	[14, 392, 312, 88]	[170.0, 436.0]		
+80	78	Image	[28, 410, 50, 50]	[53.0, 435.0]		|floating bar pop
+79	78	StaticText	[88, 408, 224, 56]	[200.0, 436.0]	Notch / Action Menu Bar	
+73	28	Row	[2, 482, 336, 92]	[170.0, 528.0]		
+74	73	Cell	[14, 484, 312, 88]	[170.0, 528.0]		
+76	74	Image	[28, 502, 50, 50]	[53.0, 527.0]		|BSTMenubarIcon
+75	74	StaticText	[88, 500, 224, 56]	[200.0, 528.0]	Window Snapping & Moving	
+69	28	Row	[2, 574, 336, 64]	[170.0, 606.0]		
+70	69	Cell	[14, 576, 312, 60]	[170.0, 606.0]		
+72	70	Image	[28, 580, 50, 50]	[53.0, 605.0]		|btt pop
+71	70	StaticText	[88, 592, 224, 28]	[200.0, 606.0]	BTT Remote	
+66	28	Row	[2, 638, 336, 76]	[170.0, 676.0]		
+67	66	Cell	[14, 640, 312, 72]	[170.0, 676.0]		
+68	67	StaticText	[26, 670, 286, 32]	[169.0, 686.0]	Advanced Settings	
+62	28	Row	[2, 714, 336, 64]	[170.0, 746.0]		
+63	62	Cell	[14, 716, 312, 60]	[170.0, 746.0]		
+65	63	Image	[28, 708, 50, 72]	[53.0, 744.0]		|action
+64	63	StaticText	[88, 732, 224, 28]	[200.0, 746.0]	General	
+58	28	Row	[2, 778, 336, 64]	[170.0, 810.0]		
+59	58	Cell	[14, 780, 312, 60]	[170.0, 810.0]		
+61	59	Image	[28, 784, 50, 50]	[53.0, 809.0]		|trackpad pop
+60	59	StaticText	[88, 796, 224, 28]	[200.0, 810.0]	Trackpad	
+54	28	Row	[2, 842, 336, 64]	[170.0, 874.0]		
+55	54	Cell	[14, 844, 312, 60]	[170.0, 874.0]		
+57	55	Image	[28, 848, 50, 50]	[53.0, 873.0]		|magicmouse pop
+56	55	StaticText	[88, 860, 224, 28]	[200.0, 874.0]	Magic Mouse	
+50	28	Row	[2, 906, 336, 64]	[170.0, 938.0]		
+51	50	Cell	[14, 908, 312, 60]	[170.0, 938.0]		
+53	51	Image	[28, 912, 50, 50]	[53.0, 937.0]		|keyboard pop
+52	51	StaticText	[88, 924, 224, 28]	[200.0, 938.0]	Keyboard	
+46	28	Row	[2, 970, 336, 92]	[170.0, 1016.0]		
+47	46	Cell	[14, 972, 312, 88]	[170.0, 1016.0]		
+49	47	Image	[28, 990, 50, 50]	[53.0, 1015.0]		|drawings pop
+48	47	StaticText	[88, 988, 224, 56]	[200.0, 1016.0]	Drawings / Mouse Gestures	
+42	28	Row	[2, 1062, 336, 64]	[170.0, 1094.0]		
+43	42	Cell	[14, 1064, 312, 60]	[170.0, 1094.0]		
+45	43	Image	[28, 1068, 50, 50]	[53.0, 1093.0]		|midi pop
+44	43	StaticText	[88, 1080, 224, 28]	[200.0, 1094.0]	MIDI Settings	
+38	28	Row	[2, 1126, 336, 64]	[170.0, 1158.0]		
+39	38	Cell	[14, 1128, 312, 60]	[170.0, 1158.0]		
+41	39	Image	[28, 1132, 50, 50]	[53.0, 1157.0]		|script
+40	39	StaticText	[88, 1144, 224, 28]	[200.0, 1158.0]	Scripting BTT	
+34	28	Row	[2, 1190, 336, 64]	[170.0, 1222.0]		
+35	34	Cell	[14, 1192, 312, 60]	[170.0, 1222.0]		
+37	35	Image	[28, 1196, 50, 50]	[53.0, 1221.0]		|network
+36	35	StaticText	[88, 1208, 224, 28]	[200.0, 1222.0]	Web Server	
+30	28	Row	[2, 1254, 336, 52]	[170.0, 1280.0]		
+31	30	Cell	[14, 1256, 312, 50]	[170.0, 1281.0]		
+33	31	Image	[28, 1260, 50, 46]	[53.0, 1283.0]		|normal mouse pop
+32	31	StaticText	[88, 1272, 224, 28]	[200.0, 1286.0]	Normal Mouse	
+29	28	Column	[2, 58, 336, 1248]	[170.0, 682.0]		
+24	23	ScrollBar	[306, 58, 32, 1246]	[322.0, 681.0]	0.0	
+27	24	ValueIndicator	[314, 60, 24, 1168]	[326.0, 644.0]	0.0	
+26	24	Button	[314, 1228, 24, 74]	[326.0, 1265.0]		
+25	24	Button	[314, 58, 24, 2]	[326.0, 59.0]		
+22	1	CheckBox	[374, 76, 824, 36]	[786.0, 94.0]	1	Enable Touch Bar support (disabling requires you to restart BTT)
+3	1	TabGroup	[364, 118, 1556, 1166]	[1142.0, 701.0]	<AXUIElement 0x12b635840> {pid=18369}	
+21	3	RadioButton	[940, 128, 240, 48]	[1060.0, 152.0]	1	Default Settings
+20	3	RadioButton	[1180, 128, 164, 48]	[1262.0, 152.0]	0	Advanced
+6	3	Group	[396, 174, 1474, 726]	[1133.0, 537.0]		
+19	6	CheckBox	[456, 582, 826, 36]	[869.0, 600.0]	0	Hide global actions if app specific actions are configured in BTT
+18	6	TextField	[824, 514, 192, 38]	[920.0, 533.0]	10 px	
+17	6	CheckBox	[456, 698, 954, 36]	[933.0, 716.0]	1	Hide BetterTouchTool Touch Bar if nothing to show (no actions configured)
+16	6	CheckBox	[456, 210, 394, 36]	[653.0, 228.0]	1	Show macOS Control Strip
+15	6	StaticText	[526, 424, 286, 28]	[669.0, 438.0]	Free space after BTT Icon:	
+14	6	CheckBox	[456, 380, 1078, 36]	[995.0, 398.0]	1	Show BetterTouchTool Icon on the left side (only if not showing macOS Control Strip)
+13	6	TextField	[824, 418, 192, 38]	[920.0, 437.0]	20 px	
+12	6	CheckBox	[456, 472, 658, 36]	[785.0, 490.0]	1	Show ESC Button on the left side of the Touch Bar
+11	6	StaticText	[500, 520, 310, 28]	[655.0, 534.0]	Free space after ESC button:	
+10	6	CheckBox	[456, 266, 570, 36]	[741.0, 284.0]	1	Show BetterTouchTool Icon in Control Strip
+9	6	StaticText	[456, 630, 1400, 56]	[1156.0, 658.0]	You can set a display order for every trigger. This allows you to specify whether global triggers should show before or after app specific ones.	
+8	6	CheckBox	[878, 210, 630, 36]	[1193.0, 228.0]	0	Hide left close / X button  (requires BTT restart)
+7	6	StaticText	[418, 174, 16, 28]	[426.0, 188.0]		
+5	3	StaticText	[414, 958, 1456, 288]	[1142.0, 1102.0]	"🔶 To completely disable the system Touch Bar uncheck ""Show macOS Control Strip"" on the top. Then only the BTT Touch Bar will be shown. This will also get rid of the ""X button"" on the left side of the Touch Bar.
+
+🔶 You can easily show/hide the BTT Touch Bar using the predefined action ""Toggle BetterTouchTool Touch Bar""
+
+🔶 You can decide per-app whether you want the BTT TouchBar to show up. This can be done by clicking on an app in the left side-bar in the BTT Preferences.
+
+🔶 Users have shared great Touch Bar presets on https://community.folivora.ai, you should definitely check them out!"	
+4	3	StaticText	[414, 908, 146, 32]	[487.0, 924.0]	Some tips:	
+2	1	StaticText	[826, 10, 334, 32]	[993.0, 26.0]	BetterTouchTool Settings	

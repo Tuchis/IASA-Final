@@ -1,0 +1,35 @@
+This image shows a user interface of a map application. Here are the details of various UI elements visible in the screenshot:
+
+1. At the top-left corner, there's a search field with the placeholder text "Search Maps." Next to the search field are three colored dots indicating browser window controls (red, yellow, green), which suggest this application is open on a Mac.
+
+2. Right below the search field, there's a sidebar which is divided into two main sections:
+   - The first section titled "Favourites" includes two items:
+     - A "Home" link represented by a house icon followed by the text "Add."
+     - A "Work" link represented by a briefcase icon followed by the text "Add."
+   - The second section titled "My Guides" has a collapsible link "Add Guide."
+
+3. The main area of the UI presents the map itself, showing various geographical features and places in and around the city of "Lviv – Lviv Oblast" as indicated in the top-right corner of the map area. Roads, parks, buildings, and other landmarks are visible.
+
+4. On the map, there are various labels such as:
+   - Hotel names like "Готель Замок Лева."
+   - Public squares named, for example, "Ivan Franko Square."
+   - Universities like the "Ukrainian Catholic University."
+   - Parks like "Striyskiy Park" and "Парк культури ім. Богдана Хмельницкого."
+   - Streets like "Striyska Street," "Ivana Franka Street," "Vulvyk Honey Restaurant," and others.
+   - Other labels like "Стадіон" indicating a stadium.
+
+5. In the lower-left corner of the screen, there's a link to "Terms & Conditions."
+
+6. At the bottom of the screen, the scale is indicated as "0.125 mi" for reference on distances.
+
+7. In the bottom right corner, there are interface controls:
+   - A "+" button to zoom in.
+   - A "-" button to zoom out.
+   - A button with three arrows forming a triangle, likely to rotate or reorient the map to the north.
+   - A button with "3D" text, suggesting a feature to view the map in a three-dimensional perspective.
+
+8. The scale and orientation aid is seen in the lower-right corner with a compass arrow indicating north.
+
+9. In the lower right corner, next to the scale and orientation aid, the buttons "+" and "-" are for zooming in and out, respectively. There is also an icon suggesting a 3D view and a compass feature.
+
+Each of these UI elements interacts with the map service, allowing the user to search for locations, save favorite places, receive guidance, examine map details, and navigate the map area through zooming and orienting features.

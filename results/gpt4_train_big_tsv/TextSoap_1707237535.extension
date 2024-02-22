@@ -1,0 +1,180 @@
+The image shows a text editor user interface with various elements on the screen:
+
+1. At the very top, there is a menu bar with the following items from left to right:
+   - Clipboard Workspace (selected)
+   - Helvetica Neue (font selection dropdown)
+   - Regular (font style dropdown)
+   - 20 (font size selection)
+   - A symbol representing a clipboard with a turned page, which is likely a button related to cut/copy/paste functions.
+   - Bold, Italic, Underline, and Strike-through formatting buttons.
+   - Text color and highlight color selection tools (represented as 'A' with color).
+   - Left align, center align, right align, and justify align text buttons.
+   - A numbered list and a bulleted list formatting buttons.
+   - Decrease indent and increase indent buttons.
+   - Two buttons with lines and arrows, possibly for line spacing adjustments.
+
+2. Below the menu bar, there is a toolbar with different tabs namely "MyScrub" and "MyLibrary," with "MyScrub" currently open.
+   - Below "MyScrub," you have the buttons for "Copy," "Paste," "Copy All," "Paste Over," and a dropdown menu with other options for text manipulation.
+   - On the right side, you have another dropdown menu set to "Standard," which seems to be a set of predefined formatting or editing presets.
+3. To the far right, there is a side panel with a search bar and a list of functions under the "MyScrub" tab, such as:
+   - Scrub
+   - Remove Extra Spaces
+   - Remove Forwarding (>)
+   - Remove All Tabs
+   - Make Paragraphs
+   - Remove Extra Returns
+   ...and so on, with other functions focusing on text case changes, quote adjustments, text extraction, text rewrapping, and custom formatting options.
+4. The rest of the interface is occupied by a text editing area with paragraphs of text. The text seems to be a scholarly or research-type document, discussing something about "Mobile task automation" and its applications in voice-based user interactions, limitations in existing approaches, and introduces something called "AutoDroid," which seems to be a kind of model or system.
+5. At the very bottom of the screen, there is a status bar showing "100%" which seems to be a zoom level indicator, page navigation controls, document view settings, and word count or other document statistics not fully visible in the image.
+
+The text in the document is partially obscured by the tool menus, but it provides an insight into the nature of the document being edited. The interface resembles a sophisticated word processing or text editing software, possibly with additional features for text cleanup and formatting, given the side panel options. The user is likely able to interact with these controls to manipulate the text according to their needs, be it for formatting, structuring, or content editing purposes.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1560]	[1024.0, 780.0]		Clipboard Workspace
+118	1	CheckBox	[1994, 200, 44, 44]	[2016.0, 222.0]	1	|Cleaners
+117	1	CheckBox	[1994, 268, 44, 44]	[2016.0, 290.0]	0	|Search
+116	1	PopUpButton	[30, 1512, 120, 32]	[90.0, 1528.0]	100%	|text zoom
+115	1	CheckBox	[166, 1508, 44, 40]	[188.0, 1528.0]	0	|show line numbers
+114	1	CheckBox	[210, 1508, 40, 40]	[230.0, 1528.0]	1	|wrap text lines
+113	1	CheckBox	[250, 1508, 50, 40]	[275.0, 1528.0]	1	|show invisible characters
+112	1	CheckBox	[300, 1508, 40, 40]	[320.0, 1528.0]	0	|show word count
+111	1	StaticText	[352, 1510, 8, 34]	[356.0, 1527.0]		
+31	1	SplitGroup	[0, 160, 1984, 1336]	[992.0, 828.0]		
+101	31	ScrollArea	[0, 160, 1404, 1336]	[702.0, 828.0]		
+110	101	TextArea	[0, 194, 1402, 1366]	[701.0, 877.0]	"ABSTRACT
+Mobile task automation is an attractive technique that aims
+to enable voice-based hands-free user interaction with smart-
+phones. However, existing approaches suffer from poor scala-
+bility due to the limited language understanding ability and
+the non-trivial manual efforts required from developers or end-
+users. The recent advance of large language models (LLMs)
+in language understanding and reasoning inspires us to re-
+think the problem from a model-centric perspective, where
+task preparation, comprehension, and execution are handled
+by a unified language model. In this work, we introduce Auto-
+Droid, a mobile task automation system that can handle arbi-
+trary tasks on any Android application without manual efforts.
+The key insight is to combine the commonsense knowledge
+of LLMs and domain-specific knowledge of apps through
+automated dynamic analysis. The main components include a
+functionality-aware UI representation method that bridges the
+UI with the LLM, exploration-based memory injection tech-
+niques that augment the app-specific domain knowledge of
+LLM, and a multi-granularity query optimization module that
+reduces the cost of model inference. We integrate AutoDroid
+with off-the-shelf LLMs including online GPT-4/GPT-3.5 and
+on-device Vicuna, and evaluate its performance on a new
+benchmark for memory-augmented Android task automation
+with 158 common tasks. The results demonstrated that Auto-
+Droid is able to precisely generate actions with an accuracy
+of 90.9%, and complete tasks with a success rate of 71.3%,
+outperforming the GPT-4-powered baselines by 36.4% and
+39.7%. The demo, benchmark suites, and source code of
+AutoDroid will be released at https://autodroid-sys.github.io/"	
+106	101	ScrollBar	[1372, 224, 32, 1272]	[1388.0, 860.0]	0.1485148514851485	
+109	106	ValueIndicator	[1380, 252, 24, 1094]	[1392.0, 799.0]	0.1485148514851485	
+108	106	Button	[1380, 1346, 24, 148]	[1392.0, 1420.0]		
+107	106	Button	[1380, 224, 24, 26]	[1392.0, 237.0]		
+102	101	Ruler	[0, 160, 1404, 64]	[702.0, 192.0]		
+105	102	RulerMarker	[32, 178, 18, 12]	[41.0, 184.0]	0.0	
+104	102	RulerMarker	[1324, 178, 18, 12]	[1333.0, 184.0]	22.786596119929452	
+103	102	RulerMarker	[32, 170, 18, 20]	[41.0, 180.0]	0.0	
+100	31	Splitter	[1404, 160, 2, 1336]	[1405.0, 828.0]	702.0	
+99	31	MenuButton	[1440, 178, 512, 50]	[1696.0, 203.0]		Standard|Select Group
+97	31	TextField	[1446, 236, 498, 44]	[1695.0, 258.0]		
+98	97	Button	[1450, 236, 50, 44]	[1475.0, 258.0]		|search
+32	31	ScrollArea	[1406, 298, 576, 1198]	[1694.0, 897.0]		
+33	32	Table	[1406, 298, 576, 1198]	[1694.0, 897.0]		|Cleaner List
+94	33	Row	[1406, 318, 576, 50]	[1694.0, 343.0]		
+95	94	Cell	[1438, 318, 512, 50]	[1694.0, 343.0]		
+96	95	Button	[1478, 320, 432, 46]	[1694.0, 343.0]		Scrub
+91	33	Row	[1406, 368, 576, 50]	[1694.0, 393.0]		
+92	91	Cell	[1438, 368, 512, 50]	[1694.0, 393.0]		
+93	92	Button	[1478, 370, 432, 46]	[1694.0, 393.0]		MyScrub
+88	33	Row	[1406, 420, 576, 50]	[1694.0, 445.0]		
+89	88	Cell	[1438, 420, 512, 50]	[1694.0, 445.0]		
+90	89	Button	[1478, 422, 432, 46]	[1694.0, 445.0]		Remove Extra Spaces
+85	33	Row	[1406, 472, 576, 50]	[1694.0, 497.0]		
+86	85	Cell	[1438, 472, 512, 50]	[1694.0, 497.0]		
+87	86	Button	[1478, 474, 432, 46]	[1694.0, 497.0]		Remove Forwarding (>) Characters
+82	33	Row	[1406, 524, 576, 50]	[1694.0, 549.0]		
+83	82	Cell	[1438, 524, 512, 50]	[1694.0, 549.0]		
+84	83	Button	[1478, 526, 432, 46]	[1694.0, 549.0]		Remove All Tabs
+79	33	Row	[1406, 574, 576, 50]	[1694.0, 599.0]		
+80	79	Cell	[1438, 574, 512, 50]	[1694.0, 599.0]		
+81	80	Button	[1478, 576, 432, 46]	[1694.0, 599.0]		Make Paragraphs
+76	33	Row	[1406, 626, 576, 50]	[1694.0, 651.0]		
+77	76	Cell	[1438, 626, 512, 50]	[1694.0, 651.0]		
+78	77	Button	[1478, 628, 432, 46]	[1694.0, 651.0]		Remove Extra Returns
+73	33	Row	[1406, 678, 576, 50]	[1694.0, 703.0]		
+74	73	Cell	[1438, 678, 512, 50]	[1694.0, 703.0]		
+75	74	Button	[1478, 680, 432, 46]	[1694.0, 703.0]		Uppercase
+70	33	Row	[1406, 730, 576, 50]	[1694.0, 755.0]		
+71	70	Cell	[1438, 730, 512, 50]	[1694.0, 755.0]		
+72	71	Button	[1478, 732, 432, 46]	[1694.0, 755.0]		Lowercase
+67	33	Row	[1406, 780, 576, 50]	[1694.0, 805.0]		
+68	67	Cell	[1438, 780, 512, 50]	[1694.0, 805.0]		
+69	68	Button	[1478, 782, 432, 46]	[1694.0, 805.0]		Capitalize Sentences
+64	33	Row	[1406, 832, 576, 50]	[1694.0, 857.0]		
+65	64	Cell	[1438, 832, 512, 50]	[1694.0, 857.0]		
+66	65	Button	[1478, 834, 432, 46]	[1694.0, 857.0]		Capitalize with Title Case
+61	33	Row	[1406, 884, 576, 50]	[1694.0, 909.0]		
+62	61	Cell	[1438, 884, 512, 50]	[1694.0, 909.0]		
+63	62	Button	[1478, 886, 432, 46]	[1694.0, 909.0]		Capitalize Words
+58	33	Row	[1406, 936, 576, 50]	[1694.0, 961.0]		
+59	58	Cell	[1438, 936, 512, 50]	[1694.0, 961.0]		
+60	59	Button	[1478, 938, 432, 46]	[1694.0, 961.0]		Capitalize Common Tech Names
+56	33	Row	[1406, 986, 576, 20]	[1694.0, 996.0]		
+57	56	Cell	[1438, 986, 512, 20]	[1694.0, 996.0]		
+53	33	Row	[1406, 1008, 576, 50]	[1694.0, 1033.0]		
+54	53	Cell	[1438, 1008, 512, 50]	[1694.0, 1033.0]		
+55	54	Button	[1478, 1010, 432, 46]	[1694.0, 1033.0]		Straighten Quotes
+50	33	Row	[1406, 1060, 576, 50]	[1694.0, 1085.0]		
+51	50	Cell	[1438, 1060, 512, 50]	[1694.0, 1085.0]		
+52	51	Button	[1478, 1062, 432, 46]	[1694.0, 1085.0]		Smarten Quotes
+47	33	Row	[1406, 1112, 576, 50]	[1694.0, 1137.0]		
+48	47	Cell	[1438, 1112, 512, 50]	[1694.0, 1137.0]		
+49	48	Button	[1478, 1114, 432, 46]	[1694.0, 1137.0]		Extract Text from HTML Source
+44	33	Row	[1406, 1162, 576, 50]	[1694.0, 1187.0]		
+45	44	Cell	[1438, 1162, 512, 50]	[1694.0, 1187.0]		
+46	45	Button	[1478, 1164, 432, 46]	[1694.0, 1187.0]		Rewrap Text
+41	33	Row	[1406, 1214, 576, 50]	[1694.0, 1239.0]		
+42	41	Cell	[1438, 1214, 512, 50]	[1694.0, 1239.0]		
+43	42	Button	[1478, 1216, 432, 46]	[1694.0, 1239.0]		Quote Text
+38	33	Row	[1406, 1266, 576, 50]	[1694.0, 1291.0]		
+39	38	Cell	[1438, 1266, 512, 50]	[1694.0, 1291.0]		
+40	39	Button	[1478, 1268, 432, 46]	[1694.0, 1291.0]		Internet Friendly Text
+35	33	Row	[1406, 1358, 576, 50]	[1694.0, 1383.0]		
+36	35	Cell	[1406, 1358, 576, 50]	[1694.0, 1383.0]		
+37	36	StaticText	[1454, 1366, 460, 32]	[1684.0, 1382.0]	CUSTOM	
+34	33	Column	[1426, 298, 536, 1198]	[1694.0, 897.0]		
+10	1	Toolbar	[0, 104, 2048, 56]	[1024.0, 132.0]		
+30	10	MenuButton	[14, 112, 68, 42]	[48.0, 133.0]		¶|paragraph style
+29	10	PopUpButton	[112, 112, 200, 42]	[212.0, 133.0]	Helvetica Neue	|typeface
+28	10	PopUpButton	[322, 112, 200, 42]	[422.0, 133.0]	Regular	|style
+26	10	ComboBox	[532, 112, 90, 42]	[577.0, 133.0]	20	|font size
+27	26	Button	[584, 112, 42, 42]	[605.0, 133.0]		
+24	10	ColorWell	[652, 112, 44, 42]	[674.0, 133.0]	rgb 0.28235 0.28235 0.28235 1	|text color
+25	24	Button	[652, 112, 44, 42]	[674.0, 133.0]		
+22	10	ColorWell	[706, 112, 44, 42]	[728.0, 133.0]	rgb 0 0 0 0	|text background color
+23	22	Button	[706, 112, 44, 42]	[728.0, 133.0]		
+18	10	Group	[780, 112, 128, 42]	[844.0, 133.0]		|text style
+21	18	CheckBox	[780, 112, 44, 42]	[802.0, 133.0]	0	|bold
+20	18	CheckBox	[824, 112, 42, 42]	[845.0, 133.0]	0	|italic
+19	18	CheckBox	[866, 112, 42, 42]	[887.0, 133.0]	0	|underline
+13	10	RadioGroup	[938, 112, 170, 42]	[1023.0, 133.0]	<AXUIElement 0x133fcf6b0> {pid=21088}	|text alignment
+17	13	RadioButton	[938, 112, 44, 42]	[960.0, 133.0]	1	|align left
+16	13	RadioButton	[982, 112, 42, 42]	[1003.0, 133.0]	0	|align center
+15	13	RadioButton	[1024, 112, 42, 42]	[1045.0, 133.0]	0	|align right
+14	13	RadioButton	[1066, 112, 42, 42]	[1087.0, 133.0]	0	|fully justify
+12	10	PopUpButton	[1138, 112, 82, 42]	[1179.0, 133.0]	1.0	|line spacing
+11	10	MenuButton	[1230, 112, 82, 42]	[1271.0, 133.0]		|list style
+3	1	Toolbar	[0, 0, 2048, 104]	[1024.0, 52.0]		
+9	3	Button	[1182, 0, 122, 104]	[1243.0, 52.0]		MyScrub
+8	3	Button	[1352, 0, 96, 104]	[1400.0, 52.0]		Copy
+7	3	Button	[1448, 0, 96, 104]	[1496.0, 52.0]		Paste
+6	3	Button	[1592, 0, 114, 104]	[1649.0, 52.0]		Copy All
+5	3	Button	[1708, 0, 142, 104]	[1779.0, 52.0]		Paste Over
+4	3	Button	[1898, 0, 132, 104]	[1964.0, 52.0]		MyLibrary
+2	1	StaticText	[174, 0, 1008, 104]	[678.0, 52.0]	Clipboard Workspace	

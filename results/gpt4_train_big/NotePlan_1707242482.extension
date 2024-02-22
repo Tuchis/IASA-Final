@@ -1,0 +1,38 @@
+The image depicts the user interface of an application named NotePlan, which seems to be a planning and organizational tool. Here are the UI elements identified within the image:
+
+On the left side of the UI, we have:
+
+1. A top bar with the application's logo followed by a magnifying glass icon representing a search function.
+2. Below the top bar is a list that includes the following items:
+   - Filters: Accompanied by a chevron icon pointing to the right, which suggests that this menu item can be expanded.
+   - Calendar Notes: This section contains sub-items:
+        * Daily: Represented with an icon resembling a calendar day.
+        * Weekly: Represented with an icon resembling a calendar week.
+        * 7-Day: Represented with an icon suggesting a 7-day range in a calendar.
+   - Notes: Below Calendar Notes and includes one sub-item:
+        * Demo Project: Indicated by a folder icon and a text label.
+   - Smart Folders: Below Notes and includes sub-items denoted by a chevron icon:
+        * Recent: Accompanied by an icon suggestive of recent items or activity.
+        * Archive: Accompanied by an icon that looks like a box, typically used to represent archived items.
+        * Templates: Represented by an icon that resembles a piece of paper, which is commonly used for templates.
+        * Trash: Accompanied by a trashcan icon, indicating a place where deleted items may be stored.
+    - Tags: At the bottom, with sub-items indicated by a chevron icon:
+        * Mentions: The text "Mentions (2)" indicates that there are 2 items tagged as mentions. This is accompanied by an @ symbol icon.
+        * Hashtags: The text "Hashtags (2)" indicates that there are 2 items tagged with hashtags.
+
+The bottom of the left side panel appears to have buttons, representing actions such as add note/folder, represented by a "+ Note/Folder" button, and navigation or view alteration buttons represented by icons for settings (gear), backward navigation (arrow pointing left), and forward navigation (arrow pointing right).
+
+On the right side of the UI, focused on an area titled "Mentions," the following elements are visible:
+
+1. A large header "Mentions" with an @ symbol next to it. This seems to be the title of the currently viewed section or category.
+2. Four items listed below the header, each with an @ symbol to the left of the text, which are:
+   - Tim
+   - client
+   - client/acme
+   - client/acme/dan
+
+These items seem to be clickable entities, which could bring up notes or entries that mention these terms specifically.
+
+The background of the application is light-colored, with different shades to visually distinguish the side panel from the main content area.
+
+Please note that without interactive access to the UI, it cannot be determined what actions occur when interacting with the UI elements. The description is entirely based on the static visual representation provided in the image.

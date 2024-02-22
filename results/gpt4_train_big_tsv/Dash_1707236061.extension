@@ -1,0 +1,249 @@
+This appears to be a screenshot of a documentation viewer or an Integrated Development Environment (IDE) displaying documentation for functions related to CUDA-enabled image processing within the OpenCV library. Let's go through each of the elements:
+
+On the top-left corner, there's a navigation sidebar with the header "Functions", which seemingly allows you to browse through different functions. The sidebar contains a list of function names, with the current selection highlighted on `cv::cuda::buildWarpAffineMaps`. The navigation sidebar includes, from top to bottom, the following items:
+
+- `cv::cuda::buildWarpAffineMaps`
+- `cv::cuda::buildWarpPerspectiveMaps`
+- `cv::cuda::pyrDown`
+- `cv::cuda::pyrUp`
+- `cv::cuda::remap`
+- `cv::cuda::resize`
+- `cv::cuda::rotate`
+- `cv::cuda::warpAffine`
+- `cv::cuda::warpPerspective`
+
+Below the navigation sidebar, there's additional blank space which might allow for scrolling if there are more items in the list.
+
+At the top of the window, there is a standard window control with three buttons on the left for close, minimize, and maximize/zoom of the window.
+
+In the top-right corner, there's a search bar with a magnifying glass icon on the left and an 'x' on the right, indicating the ability to clear the search. The search bar has placeholder text "Search," suggesting you can type in it to find other functions or content within the documentation.
+
+Below the search bar, there's a breadcrumb navigation path that starts with an icon that possibly represents a home or root directory, followed by `:: Functions`. This likely shows the current location in the documentation hierarchy and indicates that the user is viewing functions within a certain context or module.
+
+In the main content area, there are three separate code documentation blocks for the `buildWarpAffineMaps` function. This function is overloaded, as indicated by the "(2/3)" and "(3/3)" tabs near the top of the first two blocks, which suggests that there are three variations of this function and the screenshot shows the second and third variations.
+
+Each block contains the function signature, which includes the function name, return type (`void`), namespace (`cv::cuda::`), and parameters. Parameters include `Mat` or `UMat` objects, a `bool` for `inverse`, a `Size` object for `dsize`, `GpuMat` references for `xmap` and `ymap`, and a reference to a `Stream`. The default argument for the `Stream` parameter is `Stream::Null()`.
+
+Above the function signature in the first detailed block, there's a line that includes `#include <cudawarping.hpp>` suggesting the user needs to include this header file to use the function.
+
+Each documentation block has an "inline" button at the bottom-right corner, which could likely be used to toggle the view of inline documentation or code examples if available.
+
+This user interface is typically used by software developers to understand how to use different functions provided by a library, in this case, the CUDA-accelerated computer vision functions provided by OpenCV.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2400, 1556]	[1200.0, 778.0]		Image Warping
+16	1	SplitGroup	[0, 104, 2400, 1452]	[1200.0, 830.0]		
+174	16	ScrollArea	[0, 104, 516, 1452]	[258.0, 830.0]		
+175	174	Table	[0, 104, 516, 1452]	[258.0, 830.0]		|Current page's table of contents
+213	175	Row	[0, 104, 516, 48]	[258.0, 128.0]		
+214	213	Cell	[0, 104, 516, 48]	[258.0, 128.0]		
+215	214	StaticText	[10, 110, 494, 38]	[257.0, 129.0]	Functions	
+209	175	Row	[0, 152, 516, 52]	[258.0, 178.0]		
+210	209	Cell	[2, 154, 510, 48]	[257.0, 178.0]		
+212	210	StaticText	[52, 154, 452, 48]	[278.0, 178.0]	cv::cuda::buildWarpAffineMaps	
+211	210	Image	[16, 164, 28, 28]	[30.0, 178.0]		|Function
+205	175	Row	[0, 204, 516, 52]	[258.0, 230.0]		
+206	205	Cell	[2, 206, 510, 48]	[257.0, 230.0]		
+208	206	StaticText	[52, 206, 452, 48]	[278.0, 230.0]	cv::cuda::buildWarpPerspectiveMaps	
+207	206	Image	[16, 216, 28, 28]	[30.0, 230.0]		|Function
+201	175	Row	[0, 256, 516, 52]	[258.0, 282.0]		
+202	201	Cell	[2, 258, 510, 48]	[257.0, 282.0]		
+204	202	StaticText	[52, 258, 452, 48]	[278.0, 282.0]	cv::cuda::pyrDown	
+203	202	Image	[16, 268, 28, 28]	[30.0, 282.0]		|Function
+197	175	Row	[0, 308, 516, 52]	[258.0, 334.0]		
+198	197	Cell	[2, 310, 510, 48]	[257.0, 334.0]		
+200	198	StaticText	[52, 310, 452, 48]	[278.0, 334.0]	cv::cuda::pyrUp	
+199	198	Image	[16, 320, 28, 28]	[30.0, 334.0]		|Function
+193	175	Row	[0, 360, 516, 52]	[258.0, 386.0]		
+194	193	Cell	[2, 362, 510, 48]	[257.0, 386.0]		
+196	194	StaticText	[52, 362, 452, 48]	[278.0, 386.0]	cv::cuda::remap	
+195	194	Image	[16, 372, 28, 28]	[30.0, 386.0]		|Function
+189	175	Row	[0, 412, 516, 52]	[258.0, 438.0]		
+190	189	Cell	[2, 414, 510, 48]	[257.0, 438.0]		
+192	190	StaticText	[52, 414, 452, 48]	[278.0, 438.0]	cv::cuda::resize	
+191	190	Image	[16, 424, 28, 28]	[30.0, 438.0]		|Function
+185	175	Row	[0, 464, 516, 52]	[258.0, 490.0]		
+186	185	Cell	[2, 466, 510, 48]	[257.0, 490.0]		
+188	186	StaticText	[52, 466, 452, 48]	[278.0, 490.0]	cv::cuda::rotate	
+187	186	Image	[16, 476, 28, 28]	[30.0, 490.0]		|Function
+181	175	Row	[0, 516, 516, 52]	[258.0, 542.0]		
+182	181	Cell	[2, 518, 510, 48]	[257.0, 542.0]		
+184	182	StaticText	[52, 518, 452, 48]	[278.0, 542.0]	cv::cuda::warpAffine	
+183	182	Image	[16, 528, 28, 28]	[30.0, 542.0]		|Function
+177	175	Row	[0, 568, 516, 52]	[258.0, 594.0]		
+178	177	Cell	[2, 570, 510, 48]	[257.0, 594.0]		
+180	178	StaticText	[52, 570, 452, 48]	[278.0, 594.0]	cv::cuda::warpPerspective	
+179	178	Image	[16, 580, 28, 28]	[30.0, 594.0]		|Function
+176	175	Column	[0, 104, 516, 1452]	[258.0, 830.0]		
+173	16	Splitter	[516, 104, 2, 1452]	[517.0, 830.0]	258.0	
+18	16	Group	[518, 0, 1882, 1556]	[1459.0, 778.0]		
+19	18	Group	[518, 0, 1882, 1556]	[1459.0, 778.0]		
+20	19	ScrollArea	[518, 104, 1882, 1452]	[1459.0, 830.0]		|
+21	20	WebArea	[518, 0, 1882, 1556]	[1459.0, 778.0]		|Image Warping
+166	21	List	[570, 0, 1778, 16]	[1459.0, 8.0]		|
+167	166	Group	[650, 0, 1698, 16]	[1499.0, 8.0]		|
+171	167	Link	[650, 0, 230, 10]	[765.0, 5.0]		cuda::warpAffine|
+172	171	StaticText	[650, 0, 230, 10]	[765.0, 5.0]	cuda::warpAffine	|
+170	167	StaticText	[878, 0, 26, 10]	[891.0, 5.0]	 , 	|
+168	167	Link	[902, 0, 168, 10]	[986.0, 5.0]		cuda::remap|
+169	168	StaticText	[902, 0, 170, 10]	[987.0, 5.0]	cuda::remap	|
+161	21	Heading	[548, 102, 590, 88]	[843.0, 146.0]	2	◆  buildWarpAffineMaps() [2/3]|
+164	161	Link	[566, 132, 28, 34]	[580.0, 149.0]		◆ |
+165	164	StaticText	[566, 132, 28, 34]	[580.0, 149.0]	◆ 	|
+163	161	StaticText	[592, 122, 446, 50]	[815.0, 147.0]	buildWarpAffineMaps() 	|
+162	161	StaticText	[1036, 138, 84, 32]	[1078.0, 154.0]	[2/3]	|
+159	21	Group	[566, 204, 448, 50]	[790.0, 229.0]		|
+160	159	StaticText	[568, 212, 446, 34]	[791.0, 229.0]	void cv::cuda::buildWarpAffineMaps	|
+157	21	Group	[1018, 204, 14, 50]	[1025.0, 229.0]		|
+158	157	StaticText	[1020, 212, 10, 34]	[1025.0, 229.0]	(	|
+153	21	Group	[1034, 204, 144, 50]	[1106.0, 229.0]		|
+155	153	Link	[1036, 212, 50, 34]	[1061.0, 229.0]		Mat|
+156	155	StaticText	[1036, 212, 50, 34]	[1061.0, 229.0]	Mat	|
+154	153	StaticText	[1084, 212, 10, 34]	[1089.0, 229.0]	 	|
+150	21	Group	[1180, 204, 352, 50]	[1356.0, 229.0]		|
+152	150	StaticText	[1182, 212, 26, 34]	[1195.0, 229.0]	M	|
+151	150	StaticText	[1206, 212, 10, 34]	[1211.0, 229.0]	,	|
+148	21	Group	[1034, 256, 144, 50]	[1106.0, 281.0]		|
+149	148	StaticText	[1036, 264, 64, 34]	[1068.0, 281.0]	bool 	|
+145	21	Group	[1180, 256, 352, 50]	[1356.0, 281.0]		|
+147	145	StaticText	[1182, 264, 94, 34]	[1229.0, 281.0]	inverse	|
+146	145	StaticText	[1274, 264, 8, 34]	[1278.0, 281.0]	,	|
+141	21	Group	[1034, 308, 144, 50]	[1106.0, 333.0]		|
+143	141	Link	[1036, 316, 58, 34]	[1065.0, 333.0]		Size|
+144	143	StaticText	[1036, 316, 58, 34]	[1065.0, 333.0]	Size	|
+142	141	StaticText	[1092, 316, 10, 34]	[1097.0, 333.0]	 	|
+138	21	Group	[1180, 308, 352, 50]	[1356.0, 333.0]		|
+140	138	StaticText	[1182, 316, 68, 34]	[1216.0, 333.0]	dsize	|
+139	138	StaticText	[1248, 316, 10, 34]	[1253.0, 333.0]	,	|
+134	21	Group	[1034, 360, 144, 50]	[1106.0, 385.0]		|
+136	134	Link	[1036, 368, 106, 34]	[1089.0, 385.0]		GpuMat|
+137	136	StaticText	[1036, 368, 106, 34]	[1089.0, 385.0]	GpuMat	|
+135	134	StaticText	[1140, 368, 36, 34]	[1158.0, 385.0]	 & 	|
+131	21	Group	[1180, 360, 352, 50]	[1356.0, 385.0]		|
+133	131	StaticText	[1182, 368, 72, 34]	[1218.0, 385.0]	xmap	|
+132	131	StaticText	[1252, 368, 10, 34]	[1257.0, 385.0]	,	|
+127	21	Group	[1034, 412, 144, 50]	[1106.0, 437.0]		|
+129	127	Link	[1036, 420, 106, 34]	[1089.0, 437.0]		GpuMat|
+130	129	StaticText	[1036, 420, 106, 34]	[1089.0, 437.0]	GpuMat	|
+128	127	StaticText	[1140, 420, 36, 34]	[1158.0, 437.0]	 & 	|
+124	21	Group	[1180, 412, 352, 50]	[1356.0, 437.0]		|
+126	124	StaticText	[1182, 420, 72, 34]	[1218.0, 437.0]	ymap	|
+125	124	StaticText	[1252, 420, 10, 34]	[1257.0, 437.0]	,	|
+120	21	Group	[1034, 464, 144, 50]	[1106.0, 489.0]		|
+122	120	Link	[1036, 472, 98, 34]	[1085.0, 489.0]		Stream|
+123	122	StaticText	[1036, 472, 98, 34]	[1085.0, 489.0]	Stream	|
+121	120	StaticText	[1132, 472, 36, 34]	[1150.0, 489.0]	 & 	|
+112	21	Group	[1180, 464, 352, 50]	[1356.0, 489.0]		|
+119	112	StaticText	[1182, 472, 88, 34]	[1226.0, 489.0]	stream	|
+118	112	StaticText	[1268, 472, 34, 34]	[1285.0, 489.0]	 = 	|
+114	112	Group	[1300, 474, 222, 34]	[1411.0, 491.0]		|
+116	114	Link	[1310, 476, 174, 30]	[1397.0, 491.0]		Stream::Null|
+117	116	StaticText	[1310, 476, 174, 30]	[1397.0, 491.0]	Stream::Null	|
+115	114	StaticText	[1482, 476, 30, 30]	[1497.0, 491.0]	()	|
+113	112	StaticText	[1520, 472, 10, 34]	[1525.0, 489.0]	 	|
+110	21	Group	[1018, 516, 14, 50]	[1025.0, 541.0]		|
+111	110	StaticText	[1020, 524, 10, 34]	[1025.0, 541.0]	)	|
+108	21	Group	[2284, 200, 86, 370]	[2327.0, 385.0]		|
+109	108	StaticText	[2308, 536, 44, 22]	[2330.0, 547.0]	inline	|
+102	21	Group	[570, 620, 1778, 46]	[1459.0, 643.0]		|
+103	102	Group	[570, 626, 394, 34]	[767.0, 643.0]		|
+107	103	StaticText	[580, 628, 144, 30]	[652.0, 643.0]	#include <	|
+105	103	Link	[722, 628, 216, 30]	[830.0, 643.0]		cudawarping.hpp|
+106	105	StaticText	[722, 628, 218, 30]	[831.0, 643.0]	cudawarping.hpp	|
+104	103	StaticText	[938, 628, 16, 30]	[946.0, 643.0]	>	|
+97	21	Heading	[548, 754, 590, 88]	[843.0, 798.0]	2	◆  buildWarpAffineMaps() [3/3]|
+100	97	Link	[566, 784, 28, 34]	[580.0, 801.0]		◆ |
+101	100	StaticText	[566, 784, 28, 34]	[580.0, 801.0]	◆ 	|
+99	97	StaticText	[592, 774, 446, 50]	[815.0, 799.0]	buildWarpAffineMaps() 	|
+98	97	StaticText	[1036, 790, 84, 32]	[1078.0, 806.0]	[3/3]	|
+95	21	Group	[566, 856, 448, 50]	[790.0, 881.0]		|
+96	95	StaticText	[568, 864, 446, 34]	[791.0, 881.0]	void cv::cuda::buildWarpAffineMaps	|
+93	21	Group	[1018, 856, 14, 50]	[1025.0, 881.0]		|
+94	93	StaticText	[1020, 864, 10, 34]	[1025.0, 881.0]	(	|
+89	21	Group	[1034, 856, 144, 50]	[1106.0, 881.0]		|
+91	89	Link	[1036, 864, 70, 34]	[1071.0, 881.0]		UMat|
+92	91	StaticText	[1036, 864, 70, 34]	[1071.0, 881.0]	UMat	|
+90	89	StaticText	[1104, 864, 10, 34]	[1109.0, 881.0]	 	|
+86	21	Group	[1180, 856, 352, 50]	[1356.0, 881.0]		|
+88	86	StaticText	[1182, 864, 26, 34]	[1195.0, 881.0]	M	|
+87	86	StaticText	[1206, 864, 10, 34]	[1211.0, 881.0]	,	|
+84	21	Group	[1034, 908, 144, 50]	[1106.0, 933.0]		|
+85	84	StaticText	[1036, 916, 64, 34]	[1068.0, 933.0]	bool 	|
+81	21	Group	[1180, 908, 352, 50]	[1356.0, 933.0]		|
+83	81	StaticText	[1182, 916, 94, 34]	[1229.0, 933.0]	inverse	|
+82	81	StaticText	[1274, 916, 8, 34]	[1278.0, 933.0]	,	|
+77	21	Group	[1034, 960, 144, 50]	[1106.0, 985.0]		|
+79	77	Link	[1036, 968, 58, 34]	[1065.0, 985.0]		Size|
+80	79	StaticText	[1036, 968, 58, 34]	[1065.0, 985.0]	Size	|
+78	77	StaticText	[1092, 968, 10, 34]	[1097.0, 985.0]	 	|
+74	21	Group	[1180, 960, 352, 50]	[1356.0, 985.0]		|
+76	74	StaticText	[1182, 968, 68, 34]	[1216.0, 985.0]	dsize	|
+75	74	StaticText	[1248, 968, 10, 34]	[1253.0, 985.0]	,	|
+70	21	Group	[1034, 1012, 144, 50]	[1106.0, 1037.0]		|
+72	70	Link	[1036, 1020, 106, 34]	[1089.0, 1037.0]		GpuMat|
+73	72	StaticText	[1036, 1020, 106, 34]	[1089.0, 1037.0]	GpuMat	|
+71	70	StaticText	[1140, 1020, 36, 34]	[1158.0, 1037.0]	 & 	|
+67	21	Group	[1180, 1012, 352, 50]	[1356.0, 1037.0]		|
+69	67	StaticText	[1182, 1020, 72, 34]	[1218.0, 1037.0]	xmap	|
+68	67	StaticText	[1252, 1020, 10, 34]	[1257.0, 1037.0]	,	|
+63	21	Group	[1034, 1064, 144, 50]	[1106.0, 1089.0]		|
+65	63	Link	[1036, 1072, 106, 34]	[1089.0, 1089.0]		GpuMat|
+66	65	StaticText	[1036, 1072, 106, 34]	[1089.0, 1089.0]	GpuMat	|
+64	63	StaticText	[1140, 1072, 36, 34]	[1158.0, 1089.0]	 & 	|
+60	21	Group	[1180, 1064, 352, 50]	[1356.0, 1089.0]		|
+62	60	StaticText	[1182, 1072, 72, 34]	[1218.0, 1089.0]	ymap	|
+61	60	StaticText	[1252, 1072, 10, 34]	[1257.0, 1089.0]	,	|
+56	21	Group	[1034, 1116, 144, 50]	[1106.0, 1141.0]		|
+58	56	Link	[1036, 1124, 98, 34]	[1085.0, 1141.0]		Stream|
+59	58	StaticText	[1036, 1124, 98, 34]	[1085.0, 1141.0]	Stream	|
+57	56	StaticText	[1132, 1124, 36, 34]	[1150.0, 1141.0]	 & 	|
+48	21	Group	[1180, 1116, 352, 50]	[1356.0, 1141.0]		|
+55	48	StaticText	[1182, 1124, 88, 34]	[1226.0, 1141.0]	stream	|
+54	48	StaticText	[1268, 1124, 34, 34]	[1285.0, 1141.0]	 = 	|
+50	48	Group	[1300, 1126, 222, 34]	[1411.0, 1143.0]		|
+52	50	Link	[1310, 1128, 174, 30]	[1397.0, 1143.0]		Stream::Null|
+53	52	StaticText	[1310, 1128, 174, 30]	[1397.0, 1143.0]	Stream::Null	|
+51	50	StaticText	[1482, 1128, 30, 30]	[1497.0, 1143.0]	()	|
+49	48	StaticText	[1520, 1124, 10, 34]	[1525.0, 1141.0]	 	|
+46	21	Group	[1018, 1168, 14, 50]	[1025.0, 1193.0]		|
+47	46	StaticText	[1020, 1176, 10, 34]	[1025.0, 1193.0]	)	|
+44	21	Group	[2284, 852, 86, 370]	[2327.0, 1037.0]		|
+45	44	StaticText	[2308, 1188, 44, 22]	[2330.0, 1199.0]	inline	|
+38	21	Group	[570, 1272, 1778, 46]	[1459.0, 1295.0]		|
+39	38	Group	[570, 1278, 394, 34]	[767.0, 1295.0]		|
+43	39	StaticText	[580, 1280, 144, 30]	[652.0, 1295.0]	#include <	|
+41	39	Link	[722, 1280, 216, 30]	[830.0, 1295.0]		cudawarping.hpp|
+42	41	StaticText	[722, 1280, 218, 30]	[831.0, 1295.0]	cudawarping.hpp	|
+40	39	StaticText	[938, 1280, 16, 30]	[946.0, 1295.0]	>	|
+33	21	Heading	[548, 1404, 704, 88]	[900.0, 1448.0]	2	◆  buildWarpPerspectiveMaps() [1/3]|
+36	33	Link	[566, 1434, 28, 34]	[580.0, 1451.0]		◆ |
+37	36	StaticText	[566, 1434, 28, 34]	[580.0, 1451.0]	◆ 	|
+35	33	StaticText	[592, 1424, 560, 50]	[872.0, 1449.0]	buildWarpPerspectiveMaps() 	|
+34	33	StaticText	[1150, 1440, 84, 32]	[1192.0, 1456.0]	[1/3]	|
+31	21	Group	[566, 1506, 524, 50]	[828.0, 1531.0]		|
+32	31	StaticText	[568, 1514, 520, 34]	[828.0, 1531.0]	void cv::cuda::buildWarpPerspectiveMaps	|
+29	21	Group	[1092, 1506, 14, 50]	[1099.0, 1531.0]		|
+30	29	StaticText	[1094, 1514, 12, 34]	[1100.0, 1531.0]	(	|
+25	21	Group	[1110, 1506, 178, 50]	[1199.0, 1531.0]		|
+27	25	Link	[1112, 1514, 144, 34]	[1184.0, 1531.0]		InputArray|
+28	27	StaticText	[1112, 1514, 142, 34]	[1183.0, 1531.0]	InputArray	|
+26	25	StaticText	[1252, 1514, 10, 34]	[1257.0, 1531.0]	 	|
+22	21	Group	[1290, 1506, 352, 50]	[1466.0, 1531.0]		|
+24	22	StaticText	[1292, 1514, 26, 34]	[1305.0, 1531.0]	M	|
+23	22	StaticText	[1316, 1514, 8, 34]	[1320.0, 1531.0]	,	|
+17	16	StaticText	[532, 1512, 8, 32]	[536.0, 1528.0]		
+15	1	Button	[168, 24, 66, 56]	[201.0, 52.0]		
+14	1	Button	[242, 24, 66, 56]	[275.0, 52.0]		
+13	1	Button	[324, 24, 66, 56]	[357.0, 52.0]		
+12	1	Button	[2310, 24, 66, 56]	[2343.0, 52.0]		
+11	1	Button	[2146, 24, 66, 56]	[2179.0, 52.0]		
+10	1	Button	[2064, 24, 66, 56]	[2097.0, 52.0]		
+9	1	Button	[2228, 24, 66, 56]	[2261.0, 52.0]		
+6	1	TextField	[828, 24, 748, 56]	[1202.0, 52.0]	￼￼	
+8	6	Image	[832, 24, 74, 40]	[869.0, 44.0]		
+7	6	Image	[906, 24, 166, 40]	[989.0, 44.0]		
+5	1	Image	[840, 36, 50, 32]	[865.0, 52.0]		|
+4	1	Button	[1524, 32, 52, 36]	[1550.0, 50.0]		|stop progress
+3	1	Button	[1592, 24, 66, 56]	[1625.0, 52.0]		
+2	1	StaticText	[1190, 10, 20, 32]	[1200.0, 26.0]		

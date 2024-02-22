@@ -1,0 +1,21 @@
+The image shows a user interface for customizing a profile within the Google Chrome browser. Here's a detailed description of the UI elements:
+
+- At the very top of the window, there's the traditional Chrome browser controls with the back, forward, refresh, and home buttons, followed by the website address bar. The current page is "chrome://settings/manageProfile". To the right, there are several browser action buttons including the bookmark, new tab, browser profile, and browser menu buttons.
+
+- Below the address bar, there are two tabs open. The active tab is titled "Settings - Customise profile" while the other tab is indistinguishable in this image.
+
+- On the left sidebar, there's a navigation menu within the settings page labeled "Settings". It starts with "You and Google" at the top, followed by other settings categories: Autofill and passwords, Privacy and security, Performance, Appearance, Search engine, Default browser, On start-up, Languages, Downloads, Accessibility, System, and Reset settings. At the bottom, there is Extensions with a cube icon, and About Chrome.
+
+- On the top of the main settings content area, there is a search bar with a placeholder text "Search settings".
+
+- The central portion of the UI is a window for "Customise profile". Here, there are three main sections:
+  
+  1. "Name your Chrome profile": There is a text field with the placeholder text "Person 1".
+
+  2. "Pick a theme color": Below the profile name, there is a selection of theme colors represented in a grid of rounded squares. There are 24 options and the first option, which shows a gradient of blue shades, is highlighted with a check mark, denoting the current selection.
+
+  3. "Pick an avatar": There is a selection of avatars shown in a grid layout; these avatars are mostly round and depict various stylized images and icons, such as an arrow, a cat, a star, among others. A few of these avatars (specifically, the blue figure, a green creature, and an orange star) are partially outside the visible window, suggesting that there may be more options available off-screen.
+
+- There are two navigation arrows to the left of the "Customise profile" window, suggesting that users can navigate to previous or next settings pages within this window.
+
+The UI is designed with Google's Material Design language, which uses clean lines, ample whitespace, and clear visual cues to indicate interactivity, such as borders around clickable elements and drop shadows to suggest layering.

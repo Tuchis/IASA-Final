@@ -1,0 +1,25 @@
+The image displays a user interface for configuring AI characters within an application. The page is titled "AI Characters" and includes instructions that AI characters are pre-built bots that users can interact with and are customizable with specific context, training data, and model settings.
+
+Here is the detailed breakdown of the UI elements:
+
+1. On the left side, there is a vertical navigation panel with icons and labels. The icons are not entirely clear, but considering the context, they likely represent different sections or features of the application such as creating new chats, viewing chat examples, accessing settings, and potentially viewing API keys and feedback options.
+
+2. On the right side of the screen, there is a modal or a section labeled "AI Characters" with the following editable fields and information:
+
+   - Title: A required field that suggests entering a name for the AI character, for example, "Life Coach."
+   
+   - Pin this character on the main page: A toggle switch that seems to allow users to pin the character to the main page of the app for easy access.
+   
+   - Description: A text field where users can describe what the character does and how to use it, which will be shown to the user.
+   
+   - Profile Picture URL: A field for entering the URL to a profile picture for the AI character, which will be displayed along with the character's messages.
+   
+   - System Instruction (for the AI assistant): A required field to provide instructions to the AI assistant, with an example given that aligns with the character's role.
+   
+   - Override system instructions: A checkbox that allows users to decide whether to use the default system instructions or use specific instructions for this AI character.
+   
+   - Welcome message: A field where users can set the first message that the AI character will send to users when starting a new chat.
+
+3. At the bottom of the AI Characters section, there are two buttons: "Save," which likely confirms and applies the changes, and "Cancel," which probably dismisses the changes.
+
+This UI seems to be part of a chatbot configuration interface, where users can create and customize different AI characters for various purposes and interactions within the application. It balances user input with templated suggestions to streamline the creation of these characters.

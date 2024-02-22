@@ -1,0 +1,37 @@
+This image shows the user interface of a journaling application, presumably called Diarly. The UI is split into two main panels, with additional pop-up elements.
+
+On the left side of the UI:
+- There is a top bar with a circular profile icon next to three horizontal lines, possibly indicating a menu or dropdown function, and a “Search” bar below.
+- The main panel is divided into two sections: "Journals" and "View".
+- Under "Journals," there is a "My Journal" section with a smiley face icon.
+- Under "View," we have multiple view options listed with icons:
+    - "List" shows three horizontal lines,
+    - "Calendar" has a calendar grid icon,
+    - "Map" is symbolized by a map marker icon,
+    - "Gallery" looks like two rectangles overlaying each other,
+    - "Stats" is represented by a bar chart icon.
+- At the bottom, there is a "Settings" option with a gear icon.
+
+On the right side of the UI:
+- At the very top, the first row contains a light bulb icon, possibly for inspiration or tips, followed by icons for adding an image, setting text bold, italic, underlined, and strikethrough. There's also a globe or network icon, and a three-dot menu indicating more options. Next to these icons is a digital clock showing "24h."
+- Below the top row, on the left, there's a back arrow and a forward arrow, indicating navigation controls. In the center, there's text that reads "Tue, 6 February" which seems to be the selected date.
+- The main area of this pane is a note-taking area with the following text prompts:
+    - "Three small things I'm grateful for:"
+    - "What is my positive intention for the day?"
+    - "How did I feel today and what patterns or triggers did I notice?"
+- At the bottom of the note area, there is location data showing "Kyiv, Antonovycha Street" accompanied by symbols for weather (a cloud and thermometer showing "2°C") and a keyboard icon, likely for input or editing.
+- There are also hashtags displayed at the bottom: "#StartingOut" and "Welcome to Diarly 👋"
+
+Floating above the right pane is a grey pop-up menu with several text formatting options:
+- "Heading 1"
+- "Checklist"
+- "Quote"
+- "List"
+- "Ordered List"
+- "Insert current time"
+- "Insert current date"
+- "Insert time-separator"
+- "Insert weather"
+- "Insert current location"
+
+This UI seems to be designed for creating and organizing journal entries, with capabilities to tag entries, add location and weather information, and format text in various ways. The interface appears user-friendly with clearly labeled icons and text prompts.

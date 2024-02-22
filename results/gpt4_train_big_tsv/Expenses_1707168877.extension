@@ -1,0 +1,85 @@
+The image displays a user interface likely from a budgeting or finance management application. Here are the details of the UI elements visible in the image:
+
+1. **Top Sidebar Area (Left-hand side)**:
+   - **"Sheets"** - It seems to be a menu item currently not selected or highlighted.
+   - There are three small icons or buttons near the top left corner resembling circular dots, signifying a common design for menu access or window control on desktop interfaces.
+   - Below is a highlighted menu item labeled **"Planner"**. It is likely that this is the currently active section in the application.
+
+2. **Bottom Sidebar Area (Left-hand side)**:
+   - Bottom left corner has a label with a symbol that looks like a document or sheet and text **"New Sheet"**, suggesting a button for creating a new sheet or entry.
+
+3. **Main Content Area (Middle)**:
+   - Shows the text "0,00 US$" and "Today, 23:33" indicating the current balance or the amount being worked on, along with the current date and time.
+   
+4. **Category Selection Pop-up (Right-hand side)**:
+   - The pop-up is titled **"Select a category"**.
+   - A search input field at the top of the pop-up, with a magnifying glass icon indicating it's for searching categories.
+   - **List of Categories**: Each category has a distinct icon and label. From top to bottom, they are:
+     - **"No Category"** - grey icon.
+     - **"Groceries"** - blue icon with a shopping cart.
+     - **"Food & Drink"** - purple icon with a fork and glass.
+     - **"Transport"** - blue-green icon with a car.
+     - **"Internet"** - green icon with a Wi-Fi symbol.
+     - **"Rent"** - gold icon with a home.
+     - **"Entertainment"** - red-orange icon with a mask.
+     - **"Shopping"** - red icon with a bag. This one is highlighted with a check mark on the right, indicating it's the currently selected category.
+   - Below the categories, there’s a button labeled **"New Category"** suggesting the option to create a new category.
+   - In the lower right corner of the pop-up, there’s a button labeled **"Manage Categories"** which presumably leads to a category management section.
+
+5. **Confirmation Button (Lower right corner of pop-up)**:
+   - A button with a check mark, typically indicating that the user can confirm or save their current selection.
+
+6. **Top Menu Bar (Very top of the UI)**:
+   - There is a "+" sign, probably for adding new items or transactions.
+   - Next to it is a button that appears to control certain settings or modes - this is inferred from the sliders icon.
+   - A circle with what appears to be a sync or refresh icon inside.
+   - The last element has a magnifying glass, suggesting a search function.
+
+The UI design is clean and utilizes a light color scheme with shades of gray for the background elements, which focuses the user's attention on the brightly colored category icons, making them stand out for easy identification. The overall layout suggests that this application is designed to facilitate financial management tasks such as categorizing expenses or income.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Expenses
+43	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+44	43	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+33	1	Toolbar	[0, 0, 2048, 76]	[1024.0, 38.0]		
+42	33	Button	[530, 0, 60, 76]	[560.0, 38.0]		|Back
+41	33	Button	[590, 0, 80, 76]	[630.0, 38.0]		|split view horizontally left
+40	33	Button	[1392, 0, 70, 76]	[1427.0, 38.0]		|add
+39	33	Button	[1462, 0, 72, 76]	[1498.0, 38.0]		|Add People/Follow
+37	33	MenuButton	[1534, 0, 110, 76]	[1589.0, 38.0]		|more
+38	37	MenuButton	[1540, 14, 98, 50]	[1589.0, 39.0]		|more
+34	33	Group	[1644, 0, 396, 76]	[1842.0, 38.0]		
+35	34	TextField	[1650, 14, 384, 50]	[1842.0, 39.0]		
+36	35	Button	[1654, 16, 50, 44]	[1679.0, 38.0]		|Search
+32	1	Button	[104, 22, 28, 32]	[118.0, 38.0]		
+2	1	Sheet	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+3	2	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+4	3	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+28	4	Group	[444, 128, 1160, 158]	[1024.0, 207.0]		
+31	28	Button	[444, 140, 68, 76]	[478.0, 178.0]		|New
+30	28	Heading	[914, 158, 220, 32]	[1024.0, 174.0]		|Select a category
+29	28	TextField	[484, 228, 1080, 44]	[1024.0, 250.0]		|Search
+9	4	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+10	9	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+11	10	Group	[444, 128, 1160, 1280]	[1024.0, 768.0]		
+26	11	Group	[484, 356, 1080, 74]	[1024.0, 393.0]		|No Category
+27	26	Button	[484, 356, 1080, 74]	[1024.0, 393.0]		|No Category
+24	11	Group	[484, 430, 1080, 74]	[1024.0, 467.0]		|Groceries
+25	24	Button	[484, 430, 1080, 74]	[1024.0, 467.0]		|Groceries
+22	11	Group	[484, 504, 1080, 74]	[1024.0, 541.0]		|Food & Drink
+23	22	Button	[484, 504, 1080, 74]	[1024.0, 541.0]		|Food & Drink
+20	11	Group	[484, 578, 1080, 74]	[1024.0, 615.0]		|Transport
+21	20	Button	[484, 578, 1080, 74]	[1024.0, 615.0]		|Transport
+18	11	Group	[484, 652, 1080, 74]	[1024.0, 689.0]		|Internet
+19	18	Button	[484, 652, 1080, 74]	[1024.0, 689.0]		|Internet
+16	11	Group	[484, 726, 1080, 74]	[1024.0, 763.0]		|Rent
+17	16	Button	[484, 726, 1080, 74]	[1024.0, 763.0]		|Rent
+14	11	Group	[484, 800, 1080, 74]	[1024.0, 837.0]		|Entertainment
+15	14	Button	[484, 800, 1080, 74]	[1024.0, 837.0]		|Entertainment
+12	11	Group	[484, 874, 1080, 74]	[1024.0, 911.0]		|Shopping
+13	12	Button	[484, 874, 1080, 74]	[1024.0, 911.0]		|Shopping
+5	4	Group	[444, 1332, 1160, 76]	[1024.0, 1370.0]		|Toolbar
+6	5	Group	[484, 1332, 1080, 76]	[1024.0, 1370.0]		
+8	6	Button	[484, 1354, 224, 34]	[596.0, 1371.0]		| New Category
+7	6	Button	[1312, 1344, 252, 54]	[1438.0, 1371.0]		|Manage Categories

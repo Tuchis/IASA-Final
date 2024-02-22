@@ -1,0 +1,129 @@
+The image shows a portion of a user interface, specifically a spreadsheet application, which appears to be organizing a schedule for lectures, texts, and assignments related to certain subjects. The spreadsheet contains several columns and rows, with merged cells to create a layout for the content. It also incorporates various colors to differentiate between sections or types of information.
+
+At the top, we see the application's menu and toolbars, which include options like "File," "Edit," "View," "Insert," "Format," "Table," "Arrange," and "Help." There are buttons for adding categories, tables, charts, text, shapes, media, and comments. Collaboration features are also visible. The view percentage is set to 125%, and there's a zoom in/out slider for adjusting the display size.
+
+The actual content starts from row number 5 and is organized by week, starting with "week 1" and extending to "week 2" which are visible. Different rooms are assigned to different lectures such as "HG-06A37" and "NU-4B43."
+
+The first week includes days "Monday Morning," "Monday Afternoon," "Tuesday Morning," and "Tuesday Afternoon". Each period is associated with lecture titles, chapters from textbooks, texts, exercise times, and assignments. For example, "Monday Morning" includes "Lecture 1: Introduction: Network-Oriented Modeling" and texts from "Book 2 Ch. Ins and Outs of Network-Oriented Modeling."
+
+Week two shows "Monday Morning," and "Monday Afternoon" with "Supervised group work" and "Final Project Assignment" mentioned for both the periods.
+
+On the far right, there's a sidebar labeled "Table" with options for customizing the table style, adding a title or caption, adjusting header and footer settings, specifying the number of rows and columns, and changing the table font size and outline. There are also gridline settings and an option to toggle alternating row color for better visual distinction.
+
+The text within the spreadsheet cells appears to be related to a course schedule, with references to lecture topics, books, chapters, assignment details, and times for practical sessions.
+
+Overall, this UI is a typical representation of a spreadsheet tool used for organizing and presenting complex information in a structured format.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2520, 1718]	[1260.0, 859.0]		HumanAIschedule2023_v3
+111	1	Group	[0, 196, 2520, 1522]	[1260.0, 957.0]		
+102	1	ScrollArea	[0, 196, 1978, 1452]	[989.0, 922.0]		
+107	102	ScrollBar	[0, 1616, 1978, 32]	[989.0, 1632.0]	0.0	
+110	107	ValueIndicator	[2, 1624, 714, 24]	[359.0, 1636.0]	0.0	
+109	107	Button	[716, 1624, 1260, 24]	[1346.0, 1636.0]		
+108	107	Button	[0, 1624, 2, 24]	[1.0, 1636.0]		
+103	102	ScrollBar	[1946, 196, 32, 1452]	[1962.0, 922.0]	0.0	
+106	103	ValueIndicator	[1954, 198, 24, 802]	[1966.0, 599.0]	0.0	
+105	103	Button	[1954, 1002, 24, 646]	[1966.0, 1325.0]		
+104	103	Button	[1954, 196, 24, 2]	[1966.0, 197.0]		
+101	1	Button	[0, 136, 94, 60]	[47.0, 166.0]		|add
+99	1	ScrollArea	[94, 140, 1884, 56]	[1036.0, 168.0]		
+100	99	StaticText	[152, 152, 102, 30]	[203.0, 167.0]	Sheet1	
+98	1	Button	[1978, 138, 46, 58]	[2001.0, 167.0]		|Back
+97	1	Button	[2024, 138, 46, 58]	[2047.0, 167.0]		|Forward
+94	1	ScrollArea	[0, 1650, 1978, 68]	[989.0, 1684.0]		
+96	94	StaticText	[30, 1668, 56, 30]	[58.0, 1683.0]	Text	
+95	94	StaticText	[148, 1668, 198, 30]	[247.0, 1683.0]	Monday Morning	
+93	1	Button	[1980, 1654, 46, 58]	[2003.0, 1683.0]		|Back
+92	1	Button	[2026, 1654, 46, 58]	[2049.0, 1683.0]		|Forward
+87	1	RadioGroup	[1980, 140, 540, 56]	[2250.0, 168.0]	<AXUIElement 0x10d404100> {pid=2094}	
+91	87	RadioButton	[1980, 140, 140, 56]	[2050.0, 168.0]	1	|Table
+90	87	RadioButton	[2120, 140, 134, 56]	[2187.0, 168.0]	0	|Cell
+89	87	RadioButton	[2254, 140, 134, 56]	[2321.0, 168.0]	0	|Text
+88	87	RadioButton	[2388, 140, 132, 56]	[2454.0, 168.0]	0	|Arrange
+86	1	Unknown	[2224, 518, 52, 38]	[2250.0, 537.0]		
+85	1	Button	[1980, 334, 46, 26]	[2003.0, 347.0]		|Back
+84	1	Button	[2474, 334, 46, 26]	[2497.0, 347.0]		|Forward
+83	1	StaticText	[1976, 494, 544, 30]	[2248.0, 509.0]	Table Styles	
+35	1	ScrollArea	[1980, 558, 540, 1160]	[2250.0, 1138.0]		
+82	35	CheckBox	[2016, 682, 140, 36]	[2086.0, 700.0]	0	Caption
+81	35	CheckBox	[2016, 640, 102, 36]	[2067.0, 658.0]	0	Title
+80	35	StaticText	[2008, 598, 168, 30]	[2092.0, 613.0]	Table Options	
+79	35	StaticText	[2008, 794, 210, 30]	[2113.0, 809.0]	Headers & Footer	
+78	35	PopUpButton	[2006, 840, 146, 50]	[2079.0, 865.0]	0	
+77	35	PopUpButton	[2178, 840, 146, 50]	[2251.0, 865.0]	0	
+76	35	PopUpButton	[2350, 840, 146, 50]	[2423.0, 865.0]	0	
+75	35	StaticText	[2008, 952, 308, 30]	[2162.0, 967.0]	Rows	
+74	35	TextField	[2328, 946, 128, 40]	[2392.0, 966.0]	37	
+71	35	Incrementor	[2456, 938, 38, 56]	[2475.0, 966.0]	37.0	|Number of rows
+73	71	Button	[2456, 938, 38, 28]	[2475.0, 952.0]		
+72	71	Button	[2456, 966, 38, 28]	[2475.0, 980.0]		
+70	35	StaticText	[2008, 1012, 308, 30]	[2162.0, 1027.0]	Columns	
+69	35	TextField	[2328, 1006, 128, 40]	[2392.0, 1026.0]	16	
+66	35	Incrementor	[2456, 998, 38, 56]	[2475.0, 1026.0]	16.0	|Number of columns
+68	66	Button	[2456, 998, 38, 28]	[2475.0, 1012.0]		
+67	66	Button	[2456, 1026, 38, 28]	[2475.0, 1040.0]		
+65	35	StaticText	[2008, 1110, 184, 30]	[2100.0, 1125.0]	Table Font Size	
+62	35	Group	[2352, 1102, 140, 48]	[2422.0, 1126.0]		
+64	62	Button	[2352, 1102, 72, 48]	[2388.0, 1126.0]		
+63	62	Button	[2424, 1102, 68, 48]	[2458.0, 1126.0]		
+61	35	StaticText	[2008, 1214, 160, 30]	[2088.0, 1229.0]	Table Outline	
+60	35	PopUpButton	[2006, 1250, 182, 52]	[2097.0, 1276.0]		
+59	35	ColorWell	[2202, 1252, 132, 46]	[2268.0, 1275.0]		
+58	35	TextField	[2356, 1254, 100, 40]	[2406.0, 1274.0]	1 pt	
+55	35	Incrementor	[2456, 1246, 38, 56]	[2475.0, 1274.0]	1.0	
+57	55	Button	[2456, 1246, 38, 28]	[2475.0, 1260.0]		
+56	55	Button	[2456, 1274, 38, 28]	[2475.0, 1288.0]		
+54	35	CheckBox	[2008, 1316, 258, 36]	[2137.0, 1334.0]	0	Outline Table Title
+53	35	StaticText	[2008, 1422, 484, 30]	[2250.0, 1437.0]	Gridlines	
+50	35	Group	[2006, 1462, 190, 48]	[2101.0, 1486.0]		
+52	50	CheckBox	[2006, 1462, 96, 48]	[2054.0, 1486.0]	1	
+51	50	CheckBox	[2102, 1462, 94, 48]	[2149.0, 1486.0]	1	
+46	35	Group	[2214, 1462, 280, 48]	[2354.0, 1486.0]		
+49	46	CheckBox	[2214, 1462, 96, 48]	[2262.0, 1486.0]	1	
+48	46	CheckBox	[2310, 1462, 90, 48]	[2355.0, 1486.0]	1	
+47	46	CheckBox	[2400, 1462, 94, 48]	[2447.0, 1486.0]	1	
+45	35	CheckBox	[2008, 1568, 314, 36]	[2165.0, 1586.0]	0	Alternating Row Colour
+44	35	ColorWell	[2354, 1564, 132, 46]	[2420.0, 1587.0]		
+42	35	Incrementor	[2314, 1712, 38, 6]	[2333.0, 1715.0]	18.75	
+43	42	Button	[2314, 1712, 38, 6]	[2333.0, 1715.0]		
+41	35	Button	[2358, 1710, 152, 8]	[2434.0, 1714.0]		Fit
+40	35	StaticText	[2008, 1674, 232, 30]	[2124.0, 1689.0]	Row & Column Size	
+36	35	ScrollBar	[2488, 558, 32, 1160]	[2504.0, 1138.0]	0.0	
+39	36	ValueIndicator	[2496, 560, 24, 1036]	[2508.0, 1078.0]	0.0	
+38	36	Button	[2496, 1598, 24, 120]	[2508.0, 1658.0]		
+37	36	Button	[2496, 558, 24, 2]	[2508.0, 559.0]		
+5	1	Toolbar	[0, 56, 2520, 84]	[1260.0, 98.0]		
+31	5	MenuButton	[4, 56, 104, 84]	[56.0, 98.0]		|View
+33	31	RadioGroup	[10, 54, 92, 50]	[56.0, 79.0]		
+34	33	MenuButton	[10, 54, 92, 50]	[56.0, 79.0]		|Toggle sidebar
+32	31	StaticText	[22, 106, 66, 28]	[55.0, 120.0]	View	
+28	5	MenuButton	[108, 56, 140, 84]	[178.0, 98.0]		Zoom
+30	28	MenuButton	[114, 54, 128, 50]	[178.0, 79.0]		125%
+29	28	StaticText	[140, 106, 76, 28]	[178.0, 120.0]	Zoom	
+24	5	MenuButton	[458, 56, 172, 84]	[544.0, 98.0]		|Add Category
+26	24	RadioGroup	[500, 54, 92, 50]	[546.0, 79.0]		
+27	26	MenuButton	[500, 54, 92, 50]	[546.0, 79.0]		
+25	24	StaticText	[464, 106, 160, 28]	[544.0, 120.0]	Add Category	
+23	5	Button	[632, 56, 142, 84]	[703.0, 98.0]		Pivot Table
+19	5	MenuButton	[986, 56, 104, 84]	[1038.0, 98.0]		|Insert
+21	19	RadioGroup	[992, 54, 92, 50]	[1038.0, 79.0]		
+22	21	MenuButton	[992, 54, 92, 50]	[1038.0, 79.0]		
+20	19	StaticText	[1000, 106, 76, 28]	[1038.0, 120.0]	Insert	
+18	5	CheckBox	[1090, 56, 96, 84]	[1138.0, 98.0]	0	Table|Table
+17	5	CheckBox	[1186, 56, 96, 84]	[1234.0, 98.0]	0	Chart|Chart
+16	5	Button	[1282, 56, 96, 84]	[1330.0, 98.0]		Text|Text
+15	5	CheckBox	[1378, 56, 96, 84]	[1426.0, 98.0]	0	Shape|Shape
+11	5	MenuButton	[1474, 56, 104, 84]	[1526.0, 98.0]		|Media
+13	11	RadioGroup	[1480, 54, 92, 50]	[1526.0, 79.0]		
+14	13	MenuButton	[1480, 54, 92, 50]	[1526.0, 79.0]		|photo
+12	11	StaticText	[1486, 106, 80, 28]	[1526.0, 120.0]	Media	
+10	5	Button	[1578, 56, 130, 84]	[1643.0, 98.0]		Comment|Comment
+9	5	CheckBox	[1918, 56, 148, 84]	[1992.0, 98.0]	0	Collaborate|Collaborate
+6	5	Group	[2278, 56, 238, 84]	[2397.0, 98.0]	<AXUIElement 0x10d405b10> {pid=2094}	
+8	6	RadioButton	[2284, 56, 114, 84]	[2341.0, 98.0]	1	|Format
+7	6	RadioButton	[2398, 56, 112, 84]	[2454.0, 98.0]	0	|Organise
+4	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+3	1	MenuButton	[1440, 10, 20, 32]	[1450.0, 26.0]		|document actions
+2	1	StaticText	[1080, 10, 360, 32]	[1260.0, 26.0]	HumanAIschedule2023_v3	

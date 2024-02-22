@@ -1,0 +1,33 @@
+The image displays the user interface (UI) of what appears to be a time tracking or task management application. The UI can be broken down into several main elements:
+
+1. **Top Bar (Window Controls):** At the very top-left of the window, we see the typical window control buttons for macOS: red, yellow, and green dots, which are used to close, minimize, and maximize the window respectively.
+
+2. **Sidebar Navigation:**
+   - The sidebar on the left has three main sections, each with an icon and a label.
+     - "Tracking": Displays the play icon in blue, indicating that it may be the currently active or selected section.
+     - "Timeline": Shown with an icon that looks like a calendar or list.
+     - "Reports": Visualized by a bar chart icon.
+
+3. **Main Content Area:**
+   - The top part of the main content area is divided into three tab-like filters:
+     - "All Tasks"
+     - "Recent"
+     - "Archive" (appears to be selected, given the underline)
+   
+   - Below the filters, there is a "+" button with a downward-pointing arrow next to it, likely used for adding new tasks or entries. It's positioned next to the "Archive" filter.
+
+   - The central part of the main content includes a contextual message indicating the current state or contents of this section:
+        - "Your archived tasks and folders will be listed here"
+   
+   - On the right side, there's a large section titled "Archived Time Entries" with a subtitle "last 30 days" implying a filtered view of time entries.
+        - In the center of this area, there is a message "No time entries found" which suggests there are no records to display.
+        - Beneath this message, there's a "+" button accompanied by the text "Add a time entry or start the timer" indicating an action that can be taken to create a new entry or initiate a timer.
+
+4. **Bottom Task Entry:**
+   - On the left side of the screen, at the bottom, there's a single entry which may represent a running timer or a task created recently:
+     - It shows a duration "00:00:13", suggesting the timer is active and has been running for thirteen seconds.
+     - It has a label "First Task", implying it might be the title of the current activity being tracked.
+   
+   - The entry also features a small triangular play icon on its left, matching the color of the play icon in the "Tracking" navigation item, possibly indicating that the timer is currently running.
+
+In summary, the UI is designed for tracking and managing tasks with the ability to archive and review past activities. It appears user-friendly with a clear layout that separates navigation, filtering options, and content areas, with visual cues that help in identifying the state and functionality of the application such as active timers, archived items, and the adding of new tasks or time entries.

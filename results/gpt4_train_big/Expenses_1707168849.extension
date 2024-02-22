@@ -1,0 +1,22 @@
+The image you've provided shows a financial tracking or budgeting application with a user interface designed for entering transaction details. Here's a detailed description of the various UI elements visible:
+
+1. Top Section:
+   - In the top-left corner, there's a "Cancel" button which likely allows the user to exit without saving the current transaction.
+   - Centered at the top, there's a segmented control with three options: "Expense," "Income," and "Transfer." "Expense" is currently selected, indicating the user is entering an expense transaction.
+   - In the top-right corner, there is a "Done" button, likely used to save the transaction details once entry is complete.
+   - The very top bar of the app displays "0,00 US$" and the date and time "Today, 23:33," which could represent the current balance or the sum of transactions for the day.
+
+2. Main Content Section:
+   - There is a label "How much?" followed by a field where the user can enter the transaction amount. Next to this field, there's a trigger "USD," suggesting that the currency can be changed, followed by a text field containing the placeholder "-0,00 US$".
+   - Below that, there is a "Notes" text field for additional details about the transaction.
+   - Next, there's a "No Category" option with a chevron indicating it can be expanded or selected, possibly to categorize the transaction.
+   - Then there's a "Sheet:" field with the value "Planner" chosen, indicating this transaction may be assigned to a specific sheet or budget within the app.
+   - Underneath, there are date and time selectors pre-filled with "05.02.2024" and "23:34" respectively, allowing the user to set when the transaction occurred.
+   - There is a toggle labeled "Pending," which is currently switched off, probably used to mark the transaction as settled or unresolved.
+   - Finally, there is a "Repeat" option with "Never" selected, which suggests this transaction can be set to recur at regular intervals.
+
+3. Bottom Section:
+   - The left corner contains what looks like a button with a "+" icon and the label "New Sheet," for creating new sheets within the app.
+   - In the right corner, there are icons that seem to represent sync or update functionality and a magnifying glass which typically indicates a search feature. 
+
+The UI elements described above are generally utilized for entering, organizing, and tracking financial transactions. Users can detail the amount, currency, notes, categorization, date, time, and recurrence of transactions, which are essential features for managing personal or business finances.

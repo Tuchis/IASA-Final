@@ -1,0 +1,29 @@
+The image shows a section of a user interface, specifically focusing on an 'Autocorrect' settings panel. Here is a detailed description of the UI elements visible in the image:
+
+1. Window control buttons: At the top left, there are three buttons commonly found on macOS applications: red, yellow, and green, which are used for closing, minimizing, and maximizing the window, respectively.
+
+2. Settings tabs:
+   - General: A gear icon represents a tab, likely for general settings.
+   - Document: A tab with an icon resembling a piece of paper. This would be for document-specific settings.
+   - Links: An icon resembling two chain links suggests settings for hyperlink management.
+   - Editor: An icon that looks like a pen nib, indicating settings related to text editing.
+   - Autocorrect (selected): The selected tab with the common 'abc' checkmark icon, indicating text autocorrection settings.
+   - Sandbox: An icon with what appears to be a set of tools, potentially for testing or development features.
+   - License: An icon representing what might be a license or certificate, likely for software licensing information.
+
+3. Autocorrect settings:
+   - Spelling:
+     - "Correct spelling": Checked. This option is turned on to automatically correct spelling errors.
+     - "Capitalize words": Checked. This option is turned on to automatically capitalize words.
+   - Formatting:
+     - "Use smart links": Checked. This enables the auto-formatting of URLs into clickable hyperlinks.
+     - "Use smart quotes": Checked. This turns straight quotation marks into typographic (curly) quotes automatically.
+     - "Use smart dashes": Checked. This replaces hyphens with en or em dashes depending on context.
+     - "Use smart row types": Checked. It includes a note explaining that with this option enabled, markdown-like shortcuts can be used for formatting text, such as typing "#" for creating a heading. There is also a mention of a user's guide for more information.
+   - Replacements:
+     - "Use text replacements": Checked. This enables predefined text substitution.
+     - "Use double-space for period": Checked. This likely converts a double-space to a period automatically.
+   - Undo:
+     - "Use delete to undo autocorrections": Checked. A note explains that pressing the Delete key immediately after an autocorrection can undo that action, providing a faster alternative to the traditional Command-Z undo shortcut.
+
+All options in the Autocorrect panel have a blue checkmark, indicating that these features are currently enabled. This panel is designed to customize how the application handles text input and formatting. Each setting has a checkbox that allows the user to toggle the feature on or off. The overall design is clean, with a predominantly blue and gray color scheme and a concise layout.

@@ -1,0 +1,35 @@
+This is the System settings interface for the Google Chrome browser. I will describe each UI element from left to right and top to bottom:
+
+Top Left:
+1. Three browser tabs are open, with the current one showing "Settings - System" which indicates that we are looking at the System settings of Chrome.
+2. The web address (URL) is "chrome://settings/system".
+
+Top Right:
+1. Browser control buttons for minimizing, maximizing/restoring, and closing the window.
+2. Chrome browser control buttons for navigation (back, forward, and reload), a bookmark button (star), and a profile/settings button (three vertical dots).
+
+Left Sidebar:
+1. A vertical menu where "Settings" is highlighted, indicating this is the settings menu with various options listed below.
+2. The menu items available are:
+   - You and Google
+   - Autofill and passwords
+   - Privacy and security
+   - Performance
+   - Appearance
+   - Search engine
+   - Default browser
+   - On start-up
+   - Languages
+   - Downloads
+   - Accessibility
+   - System (highlighted)
+   - Reset settings
+3. Below the settings menu, there are additional buttons for "Extensions" with an external link icon, and "About Chrome".
+
+Main Content Area:
+1. A "Search settings" bar at the top allowing the user to search through the browser settings.
+2. The main pane titled "System," which includes two settings:
+   - "Use hardware acceleration when available" with a toggle switch next to it. The toggle is currently in the off position (grayed out).
+   - "Open your computer's proxy settings" with a button to the right that has an icon indicative of an external link or shortcut, suggesting it will take the user to the related proxy settings in their operating system.
+
+This interface is designed for users to configure system-level settings for the Chrome browser, such as whether to use hardware acceleration and how to handle proxy settings.

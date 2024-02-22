@@ -1,0 +1,78 @@
+The user interface in the image appears to be from an application that offers music lessons, possibly for guitar, piano, and other instruments, as indicated by the tab labels. Here is the detailed description of the UI elements:
+
+1. Top-left corner:
+   - Three circles in red, yellow, and green, typical of a macOS window control for closing, minimizing, and maximizing the window, respectively.
+
+2. Left sidebar (Navigation Pane):
+   - Blue icons with labels, they serve as navigation for different parts of the app. Starting from the top, the icons are accompanied by the following text labels:
+     - "New Project" - likely allows users to create a new music project.
+     - "Recent" - probably shows a list of recently accessed projects.
+     - "Learn to Play" - highlighted indicating the current selection and suggesting tutorial content.
+     - "Lesson Store" - might lead to a marketplace or location within the app to purchase or download additional lessons.
+     - "Project Templates" - could provide users with pre-made project templates to get started quickly.
+
+3. Main content area:
+   - Titled "Choose a Project," suggesting that the user can select from different projects or lessons.
+   - Tabs for sorting the types of lessons. The visible tabs are:
+     - "Guitar Lessons" - currently active, indicating the lessons shown are for the guitar.
+     - "Piano Lessons" - selectable for piano tutorials.
+     - "Artist Lessons" - which might contain special lessons taught by artists.
+   - Below the tabs, there's "Basic Guitar" followed by a thumbnail of an acoustic guitar, indicating the category or name of the current selection.
+   - A list selection below with "1. Intro to Guitar” highlighted, suggesting this is the first lesson or level in the basic guitar lessons.
+   - Below the list is a gray rectangle, which appears to be a button or input area labeled "Chord Trainer," possibly an interactive tool or lesson related to learning guitar chords.
+   
+4. Bottom of the Main Content Area:
+   - A link or button that may allow the user to "Open an existing project...," which suggests users can load projects they have worked on previously.
+
+5. Bottom-right corner:
+   - A "Choose" button, likely to select the highlighted lesson or project and proceed further within the application.
+
+The UI elements seem to be designed for a user-friendly experience, employing a clean, simple aesthetic that is typical for educational applications. The layout encourages easy navigation between project creation, accessing recent projects, learning, and purchasing additional lessons.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2084, 1068]	[1042.0, 534.0]		Choose a Project
+7	1	SplitGroup	[0, 0, 2084, 1068]	[1042.0, 534.0]		
+21	7	ScrollArea	[0, 56, 440, 1012]	[220.0, 562.0]		
+22	21	Outline	[2, 56, 436, 1010]	[220.0, 561.0]		
+44	22	Row	[2, 56, 436, 8]	[220.0, 60.0]		
+45	44	Cell	[22, 56, 396, 8]	[220.0, 60.0]		
+40	22	Row	[2, 64, 436, 56]	[220.0, 92.0]		
+41	40	Cell	[22, 64, 396, 56]	[220.0, 92.0]		
+43	41	Image	[40, 76, 28, 32]	[54.0, 92.0]	<NSImage 0x60000329e620 Size={14, 16} RepProvider=<NSImageSymbolRepProvider: 0x600000e96400> symbol = doc>	|document
+42	41	StaticText	[78, 76, 328, 32]	[242.0, 92.0]	New Project	
+36	22	Row	[2, 120, 436, 56]	[220.0, 148.0]		
+37	36	Cell	[22, 120, 396, 56]	[220.0, 148.0]		
+39	37	Image	[38, 134, 30, 30]	[53.0, 149.0]	<NSImage 0x60000329c5a0 Size={15, 15} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8960> symbol = clock>	|clock
+38	37	StaticText	[78, 132, 328, 32]	[242.0, 148.0]	Recent	
+32	22	Row	[2, 176, 436, 56]	[220.0, 204.0]		
+33	32	Cell	[22, 176, 396, 56]	[220.0, 204.0]		
+35	33	Image	[38, 190, 30, 28]	[53.0, 204.0]	<NSImage 0x60000329e940 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea9650> symbol = Glyphs/music.note.square>	|
+34	33	StaticText	[78, 188, 328, 32]	[242.0, 204.0]	Learn to Play	
+28	22	Row	[2, 232, 436, 56]	[220.0, 260.0]		
+29	28	Cell	[22, 232, 396, 56]	[220.0, 260.0]		
+31	29	Image	[38, 246, 30, 28]	[53.0, 260.0]	<NSImage 0x60000329f160 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8c00> symbol = star.square>	|favourite
+30	29	StaticText	[78, 244, 328, 32]	[242.0, 260.0]	Lesson Store	
+24	22	Row	[2, 288, 436, 56]	[220.0, 316.0]		
+25	24	Cell	[22, 288, 396, 56]	[220.0, 316.0]		
+27	25	Image	[36, 302, 36, 28]	[54.0, 316.0]	<NSImage 0x60000323a8a0 Size={18, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000eb4270> symbol = folder>	|move
+26	25	StaticText	[78, 300, 328, 32]	[242.0, 316.0]	Project Templates	
+23	22	Column	[22, 56, 396, 1010]	[220.0, 561.0]		
+20	7	Splitter	[440, 56, 2, 1012]	[441.0, 562.0]	220.0	
+8	7	Group	[442, 0, 1642, 1068]	[1263.0, 534.0]		
+16	8	RadioGroup	[958, 94, 610, 46]	[1263.0, 117.0]	<AXUIElement 0x135706310> {pid=3533}	
+19	16	RadioButton	[958, 92, 210, 48]	[1063.0, 116.0]	1	|Guitar Lessons
+18	16	RadioButton	[1168, 92, 200, 48]	[1268.0, 116.0]	0	|Piano Lessons
+17	16	RadioButton	[1368, 92, 200, 48]	[1468.0, 116.0]	0	|Artist Lessons
+12	8	Group	[442, 148, 1642, 718]	[1263.0, 507.0]		
+13	12	ScrollArea	[442, 148, 1642, 718]	[1263.0, 507.0]		
+15	13	ScrollBar	[442, 834, 1642, 32]	[1263.0, 850.0]	0.0	
+14	13	ScrollBar	[2052, 148, 32, 718]	[2068.0, 507.0]	0.0	
+11	8	StaticText	[1254, 888, 16, 32]	[1262.0, 904.0]		
+10	8	Button	[468, 976, 402, 64]	[669.0, 1008.0]		Open an existing project…
+9	8	Button	[1860, 976, 198, 64]	[1959.0, 1008.0]		Choose
+4	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+5	4	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+6	5	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+3	1	Button	[54, 12, 28, 32]	[68.0, 28.0]		
+2	1	StaticText	[1148, 10, 228, 32]	[1262.0, 26.0]	Choose a Project	

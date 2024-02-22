@@ -1,0 +1,29 @@
+The UI interface in the image appears to be a preferences/settings window for an application named Swish, which seems to relate to window management and gesture control on a computer operating system. The image shows a portion of the interface focusing on "Keyboard" and "Event Listener" settings. Here are the detailed elements as seen in the UI:
+
+1. Window Control Buttons: At the very top left, there are three buttons colored red, yellow, and green, typically used for closing, minimizing, and maximizing the window, respectively, on macOS.
+
+2. Sidebar Navigation: On the left side, there's a sidebar with navigation items, each with an icon:
+   - General (gear icon)
+   - Windows (window icon)
+   - Snapping (align icon)
+   - Apps (four squares icon)
+   - Menubar (menu icon)
+   - Advanced (gear icon with a wrench), which is currently highlighted, indicating that the advanced settings are being viewed.
+   - About (information icon)
+
+3. Quit Button: At the top right corner, there's a "Quit" button that likely exits the settings window or the application itself.
+
+4. Keyboard Settings Section:
+   - Title: The bold title "Keyboard" indicates this section is for keyboard-related settings.
+   
+   - Super Modifier: A text field labeled "Super Modifier" has the "fn" (function) key indicated inside the text field, with a check box next to it labeled "Require for all Gestures," which is currently unchecked. A descriptive text below states, "Use this modifier to perform window gestures on their entire area instead of their titlebar only or on their dock icon. Can be combined with all modifiers below."
+   
+   - Modifier Keys: There are three button-like elements labeled "General," "Screen," and "Secondary," each assigned a respective symbol (caret, 'S', and '2') and an icon indicating a modifier key (up arrow, command symbol, and shift key). A fourth modifier labeled "Tertiary" is also shown with the number '3' and an icon indicating a combined shift + option key. A descriptive text provides context about the functions of these modifier keys like invoking different actions such as fullscreen, closing, spaces, multi-screen actions, and more.
+   
+   - Arrow Hotkeys: A checkbox labeled "Arrow Hotkeys" followed by icons representing arrow keys and "Center" with the "Esc" (escape) key icon. The box is unchecked, and the accompanying text explains that using the super modifier with arrow keys enables snapping, screen, and spaces gestures. The "Center" key is for centering and unsnapping windows.
+
+5. Event Listener Section:
+   - Title: The bold title "Event Listener" at the bottom indicates settings related to how the app listens for events.
+   - Active Event Listener: A checked checkbox labeled "Active Event Listener" with explanatory text beneath it reads, "For a more refined experience, Swish can block scroll, flick, and pinch events in the underlying window during gestures by implementing an active event listener."
+
+Throughout the UI, there's a consistent visual design language with the use of blue color for active or selected items, checkboxes, and highlights, and grey tones for text and inactive elements. The use of iconography next to certain text elements helps convey the purpose or function of each setting. The UI suggests a clean, modern style typical of macOS applications, focusing on accessibility and ease of use.

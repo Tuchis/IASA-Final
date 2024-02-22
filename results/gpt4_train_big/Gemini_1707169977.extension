@@ -1,0 +1,21 @@
+The image displays the user interface of an application during a "Scan in Progress". The design utilizes a dark theme with various shades of blue and gray. The UI elements are as follows:
+
+1. Window Controls: In the top-left corner, there is the standard macOS window control buttons consisting of three dots in red, yellow, and green colors, which represent close, minimize, and maximize actions respectively.
+
+2. Application Name: At the top center of the window, the word "Gemini" is displayed, likely indicating the name of the application.
+
+3. Star or Favorite Button: In the top-right corner, there is a star icon, which might indicate a favorites or settings button.
+
+4. Main Information Section: The center of the window has a large text that reads "Scan in Progress", indicating that the application is currently performing a scan.
+
+5. Status Update Text: Below the "Scan in Progress" text, there is an updating message stating "Looking for duplicates...". This suggests that the application's purpose is to find duplicate files.
+
+6. File Path: A file path is being displayed underneath the status update text, which is currently "...Projects/shukai/sh...627157919647.jpg". This suggests that the application is scanning files and showing the user which file is currently being checked for duplicates.
+
+7. Stop Button: Below the file path, there is a "Stop" button with a rectangle shape and dark gray background, likely to cancel or halt the scanning process.
+
+8. Folder Icon and Label: At the lower-left corner of the interface, there is an icon of a folder with a blue label on it saying "Projects". This may indicate the target folder being scanned or the location where duplicates will be managed.
+
+9. Data Found Indicator: At the lower-right corner of the interface, a text reading "4,04 GB Found" can be observed. This indicates the amount of data that has been identified as duplicates so far.
+
+The overall impression is that this application is a tool used to identify and manage duplicate files on a system, displaying the progress to the user in real-time along with options to stop the scan and view the amount of storage space occupied by the duplicates found.

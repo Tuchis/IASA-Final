@@ -1,0 +1,126 @@
+The image displays the user interface of a study or flashcard application named "Studies." The UI features a variety of elements that are common in note-taking and study applications.
+
+At the top-left of the window, there are three circular buttons that seem to be the standard window controls for macOS: Close (red), Minimize (yellow), and Full Screen (green). The top bar has the application name "Studies" and several buttons that seem to be part of the app's functionality:
+- "Done" button on the left side, which might be used to complete or exit the current task.
+- "New Stack" button, likely used for creating a new collection or group of study notes.
+- "New Note" button, for creating a new individual study card or note within the stack.
+- "Study All Due" button, which may initiate a study session for all due notes.
+- "Study Session" button to possibly start a new study session with selected notes.
+- "Continue Session" button to resume a previously started study session.
+- "Info" button that can provide additional details or information about the selected stack or note.
+- "Sync" button presumably for synchronizing data across devices.
+- An information icon (circle with an "i" inside) which typically implies there is more information or help available.
+- A back navigation arrow and a forward navigation arrow, followed by the title "Studies Basics" and an indication "3 | 9," which could imply that the user is viewing the third note out of nine in the current stack.
+
+Below are two sections separated by a divider:
+- The left section has a magnifying glass search icon, indicating a search bar where users can type in queries.
+- The right section is labeled "Note Content" and includes a downward arrow, presumably a dropdown menu that might offer sorting or view options for the note content.
+
+The main area displays a text field at the top with the text "Each study note contains one or more facets[]." The brackets could indicate the user is currently editing that text. Below the text field is a visual collection of notes or flashcards, each consisting of an image and accompanying text which seems to serve as either questions or explanations:
+1. "Leonardo da Vinci 1452-1519"
+2. "Sistine Chapel Michelangelo"
+3. "What are the parts of the human body?"
+4. "Heart Waves Patrick J. Lynch"
+5. "Medical Illustrations"
+6. A note with a graph labeled "Monday"
+7. A note labeled "Lund"
+8. "What does this symbol mean? Beware of trains crossing" (accompanied by a railroad crossing sign)
+9. "What phase of the moon is this? Waxing Gibbous" (accompanied by an image of the moon phase)
+
+At the bottom-left, there is a toolbar that includes:
+- Text formatting options: Bold (B), Italic (I), Underline (U), and what looks like two alignment options (left-align and justify).
+- There are a few icons that aren’t clearly discernible, but they typically relate to formatting, adding multimedia content, or other editing actions.
+
+The bottom section beneath the divider mirrors the top sections; it features a search bar indicated by a magnifying glass and similar editing controls, accompanied by a playback control section that includes:
+- A previous arrow button "<"
+- A play button "►"
+- An audio level indicator represented as waves emanating from a speaker icon
+- A next arrow button ">"
+- A timer or counter set to "0s"
+
+At the bottom-right corner, there is a "+" button typically used to add new elements (possibly new cards or facets).
+
+The UI is for educational purposes, more specifically for studying using a method that resembles flashcards. Users can create notes, group them into stacks, and study them in sessions which may have progress tracking or scheduling based on the "Study All Due" and session continuity options.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1752, 1540]	[876.0, 770.0]		Studies
+15	1	SplitGroup	[0, 104, 1752, 1436]	[876.0, 822.0]		
+80	15	Splitter	[0, 104, 2, 1436]	[1.0, 822.0]	0.0	
+26	15	ScrollArea	[0, 182, 1752, 1280]	[876.0, 822.0]		
+31	26	Grid	[0, 182, 1752, 1358]	[876.0, 861.0]		
+45	31	Unknown	[0, 182, 1752, 1100]	[876.0, 732.0]		
+79	45	Button	[1664, 214, 68, 54]	[1698.0, 241.0]		
+75	45	Group	[32, 218, 244, 46]	[154.0, 241.0]		
+78	75	CheckBox	[32, 218, 84, 46]	[74.0, 241.0]	0	
+77	75	CheckBox	[116, 218, 80, 46]	[156.0, 241.0]	0	
+76	75	CheckBox	[196, 218, 80, 46]	[236.0, 241.0]	0	
+71	45	ScrollArea	[42, 298, 820, 874]	[452.0, 735.0]		
+72	71	WebArea	[42, 298, 822, 874]	[453.0, 735.0]		|
+73	72	TextArea	[60, 306, 786, 858]	[453.0, 735.0]	Each study note contains one or more facets.	|
+74	73	StaticText	[172, 310, 562, 32]	[453.0, 326.0]	Each study note contains one or more facets.	|
+67	45	Group	[58, 1186, 196, 38]	[156.0, 1205.0]		
+70	67	CheckBox	[58, 1186, 68, 38]	[92.0, 1205.0]	0	
+69	67	CheckBox	[126, 1186, 64, 38]	[158.0, 1205.0]	0	
+68	67	CheckBox	[190, 1186, 64, 38]	[222.0, 1205.0]	0	
+65	45	Group	[266, 1186, 50, 38]	[291.0, 1205.0]		
+66	65	Button	[266, 1186, 50, 38]	[291.0, 1205.0]		
+62	45	Group	[328, 1186, 132, 38]	[394.0, 1205.0]		
+64	62	Button	[328, 1186, 68, 38]	[362.0, 1205.0]		
+63	62	Button	[396, 1186, 64, 38]	[428.0, 1205.0]		
+61	45	Button	[812, 1188, 40, 30]	[832.0, 1203.0]		
+60	45	Button	[908, 1014, 30, 30]	[923.0, 1029.0]		
+59	45	Button	[978, 1020, 26, 18]	[991.0, 1029.0]		
+58	45	Button	[1044, 1014, 30, 30]	[1059.0, 1029.0]		
+57	45	Button	[1672, 1014, 30, 30]	[1687.0, 1029.0]		
+56	45	Image	[890, 300, 820, 692]	[1300.0, 646.0]		|3F8FDD07 2054 4019 838F 316DDE
+55	45	Image	[914, 1116, 30, 30]	[929.0, 1131.0]		|FEAudioControlsBadgeInactive
+54	45	ProgressIndicator	[960, 1118, 686, 24]	[1303.0, 1130.0]	0.0	
+53	45	StaticText	[1660, 1116, 34, 28]	[1677.0, 1130.0]	0s	
+52	45	Button	[904, 1190, 30, 30]	[919.0, 1205.0]		
+51	45	Button	[974, 1190, 30, 30]	[989.0, 1205.0]		
+50	45	Button	[1044, 1190, 30, 30]	[1059.0, 1205.0]		
+49	45	Button	[1668, 1190, 30, 30]	[1683.0, 1205.0]		
+48	45	Image	[1696, 1220, 44, 42]	[1718.0, 1241.0]		|FEFrontResizeClip
+46	45	ComboBox	[736, 218, 308, 46]	[890.0, 241.0]	Note Content	
+47	46	Button	[998, 218, 56, 46]	[1026.0, 241.0]		
+32	31	Unknown	[0, 1282, 1752, 258]	[876.0, 1411.0]		
+44	32	Button	[1664, 1314, 68, 54]	[1698.0, 1341.0]		
+40	32	Group	[32, 1318, 244, 46]	[154.0, 1341.0]		
+43	40	CheckBox	[32, 1318, 84, 46]	[74.0, 1341.0]	0	
+42	40	CheckBox	[116, 1318, 80, 46]	[156.0, 1341.0]	0	
+41	40	CheckBox	[196, 1318, 80, 46]	[236.0, 1341.0]	0	
+36	32	ScrollArea	[42, 1398, 820, 142]	[452.0, 1469.0]		
+37	36	WebArea	[42, 1398, 822, 142]	[453.0, 1469.0]		|
+38	37	TextArea	[60, 1406, 786, 134]	[453.0, 1473.0]	Facets are similar to the sides of traditional study cards, but you are not restricted to just two.	|
+39	38	StaticText	[80, 1410, 746, 74]	[453.0, 1447.0]	Facets are similar to the sides of traditional study cards, but you are not restricted to just two.	|
+35	32	Image	[890, 1400, 820, 140]	[1300.0, 1470.0]		|5588A86F 8135 4722 A952 AA2E7A
+33	32	ComboBox	[736, 1318, 308, 46]	[890.0, 1341.0]	Note Content	
+34	33	Button	[998, 1318, 56, 46]	[1026.0, 1341.0]		
+27	26	ScrollBar	[1722, 182, 30, 1280]	[1737.0, 822.0]	0.0	
+30	27	ValueIndicator	[1730, 184, 22, 778]	[1741.0, 573.0]	0.0	
+29	27	Button	[1730, 962, 22, 498]	[1741.0, 1211.0]		
+28	27	Button	[1730, 182, 22, 2]	[1741.0, 183.0]		
+25	15	Button	[1666, 1474, 60, 60]	[1696.0, 1504.0]		
+24	15	Button	[1184, 1474, 60, 60]	[1214.0, 1504.0]		
+23	15	MenuButton	[992, 1474, 112, 60]	[1048.0, 1504.0]		
+22	15	CheckBox	[510, 1474, 60, 60]	[540.0, 1504.0]	0	
+21	15	Button	[28, 1474, 60, 60]	[58.0, 1504.0]		
+20	15	Button	[28, 118, 106, 52]	[81.0, 144.0]		Done
+19	15	StaticText	[738, 120, 276, 34]	[876.0, 137.0]	Studies Basics  3 | 9	
+18	15	Button	[662, 108, 64, 64]	[694.0, 140.0]		
+17	15	Button	[1028, 108, 64, 64]	[1060.0, 140.0]		
+16	15	Button	[1670, 116, 64, 48]	[1702.0, 140.0]		
+14	1	StaticText	[0, 804, 32, 34]	[16.0, 821.0]	→	
+3	1	Toolbar	[0, 0, 1752, 104]	[876.0, 52.0]		
+13	3	Button	[578, 0, 140, 104]	[648.0, 52.0]		New Stack
+12	3	Button	[718, 0, 130, 104]	[783.0, 52.0]		New Note
+11	3	Button	[868, 0, 76, 104]	[906.0, 52.0]		
+10	3	Button	[962, 0, 170, 104]	[1047.0, 52.0]		Study All Due
+7	3	MenuButton	[1132, 0, 176, 104]	[1220.0, 52.0]		Study Session
+9	7	MenuButton	[1162, 20, 108, 44]	[1216.0, 42.0]		
+8	7	StaticText	[1138, 70, 164, 28]	[1220.0, 84.0]	Study Session	
+6	3	Button	[1308, 0, 210, 104]	[1413.0, 52.0]		Continue Session
+5	3	Button	[1538, 0, 76, 104]	[1576.0, 52.0]		Info
+4	3	Button	[1632, 0, 104, 104]	[1684.0, 52.0]		Sync
+2	1	StaticText	[174, 0, 404, 104]	[376.0, 52.0]	Studies	

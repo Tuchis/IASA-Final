@@ -1,0 +1,144 @@
+The image shows a user interface for customizing a profile within the Google Chrome browser. Here's a detailed description of the UI elements:
+
+- At the very top of the window, there's the traditional Chrome browser controls with the back, forward, refresh, and home buttons, followed by the website address bar. The current page is "chrome://settings/manageProfile". To the right, there are several browser action buttons including the bookmark, new tab, browser profile, and browser menu buttons.
+
+- Below the address bar, there are two tabs open. The active tab is titled "Settings - Customise profile" while the other tab is indistinguishable in this image.
+
+- On the left sidebar, there's a navigation menu within the settings page labeled "Settings". It starts with "You and Google" at the top, followed by other settings categories: Autofill and passwords, Privacy and security, Performance, Appearance, Search engine, Default browser, On start-up, Languages, Downloads, Accessibility, System, and Reset settings. At the bottom, there is Extensions with a cube icon, and About Chrome.
+
+- On the top of the main settings content area, there is a search bar with a placeholder text "Search settings".
+
+- The central portion of the UI is a window for "Customise profile". Here, there are three main sections:
+  
+  1. "Name your Chrome profile": There is a text field with the placeholder text "Person 1".
+
+  2. "Pick a theme color": Below the profile name, there is a selection of theme colors represented in a grid of rounded squares. There are 24 options and the first option, which shows a gradient of blue shades, is highlighted with a check mark, denoting the current selection.
+
+  3. "Pick an avatar": There is a selection of avatars shown in a grid layout; these avatars are mostly round and depict various stylized images and icons, such as an arrow, a cat, a star, among others. A few of these avatars (specifically, the blue figure, a green creature, and an orange star) are partially outside the visible window, suggesting that there may be more options available off-screen.
+
+- There are two navigation arrows to the left of the "Customise profile" window, suggesting that users can navigate to previous or next settings pages within this window.
+
+The UI is designed with Google's Material Design language, which uses clean lines, ample whitespace, and clear visual cues to indicate interactivity, such as borders around clickable elements and drop shadows to suggest layering.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 2030, 1606]	[1015.0, 803.0]		|
+112	1	TabGroup	[160, 0, 1870, 82]	[1095.0, 41.0]		|
+119	112	RadioButton	[160, 0, 512, 82]	[416.0, 41.0]	False	|What’s new - Memory usage - 151 MB
+120	119	Button	[588, 12, 56, 56]	[616.0, 40.0]		|Close
+117	112	RadioButton	[636, 0, 512, 82]	[892.0, 41.0]	False	|miyazaki hayao – Пошук Google - Memory usage - 158 MB
+118	117	Button	[1064, 12, 56, 56]	[1092.0, 40.0]		|Close
+115	112	RadioButton	[1112, 0, 512, 82]	[1368.0, 41.0]	True	|Settings – Customise profile - Memory usage - 97.8 MB
+116	115	Button	[1540, 12, 56, 56]	[1568.0, 40.0]		|Close
+114	112	Button	[1612, 0, 56, 82]	[1640.0, 41.0]		|New Tab
+113	112	PopUpButton	[1962, 0, 56, 82]	[1990.0, 41.0]		|Search tabs
+100	1	Toolbar	[0, 80, 2030, 92]	[1015.0, 126.0]		|
+111	100	Button	[10, 92, 68, 68]	[44.0, 126.0]		|Back
+110	100	Button	[82, 92, 68, 68]	[116.0, 126.0]		|Forward
+109	100	Button	[154, 92, 68, 68]	[188.0, 126.0]		|Reload
+105	100	Group	[240, 92, 1442, 68]	[961.0, 126.0]		|
+108	105	PopUpButton	[250, 102, 156, 48]	[328.0, 126.0]		|Chrome
+107	105	TextField	[422, 102, 1184, 48]	[1014.0, 126.0]	chrome://settings/manageProfile	|Address and search bar
+106	105	Button	[1610, 102, 48, 48]	[1634.0, 126.0]		|Bookmark this tab
+104	100	PopUpButton	[1700, 92, 68, 68]	[1734.0, 126.0]		|Extensions
+103	100	Button	[1808, 92, 68, 68]	[1842.0, 126.0]		|Side panel
+102	100	Button	[1880, 92, 68, 68]	[1914.0, 126.0]		|You
+101	100	PopUpButton	[1952, 92, 68, 68]	[1986.0, 126.0]		|Chrome
+96	1	Toolbar	[0, 172, 2030, 68]	[1015.0, 206.0]		|Bookmarks
+99	96	Button	[12, 172, 134, 56]	[79.0, 200.0]		|Gmail
+98	96	Button	[162, 172, 164, 56]	[244.0, 200.0]		|YouTube
+97	96	Button	[342, 172, 130, 56]	[407.0, 200.0]		|Maps
+5	1	WebArea	[0, 242, 2030, 1364]	[1015.0, 924.0]		Settings – Customise profile|
+85	5	Group	[0, 242, 2030, 112]	[1015.0, 298.0]		|
+92	85	Group	[0, 242, 500, 112]	[250.0, 298.0]		|
+95	92	Group	[42, 274, 48, 48]	[66.0, 298.0]		|
+93	92	Heading	[134, 272, 366, 52]	[317.0, 298.0]		Settings|
+94	93	StaticText	[134, 272, 168, 52]	[218.0, 298.0]	Settings	|
+86	85	Group	[544, 262, 1386, 72]	[1237.0, 298.0]		|
+91	86	Group	[544, 262, 1386, 72]	[1237.0, 298.0]		|
+90	86	Group	[544, 262, 1386, 72]	[1237.0, 298.0]		|
+87	86	Group	[556, 262, 1362, 72]	[1237.0, 298.0]		|
+88	87	Group	[612, 276, 1306, 46]	[1265.0, 299.0]		|
+89	88	TextField	[612, 276, 1306, 46]	[1265.0, 299.0]		Search settings|
+84	5	Group	[0, 354, 2030, 12]	[1015.0, 360.0]		|
+6	5	Group	[0, 354, 2030, 1252]	[1015.0, 980.0]		|
+7	6	Group	[0, 354, 500, 1252]	[250.0, 980.0]		|
+8	7	Group	[0, 354, 500, 1252]	[250.0, 980.0]		|
+9	8	Group	[0, 370, 500, 1236]	[250.0, 988.0]		|
+10	9	Menu	[0, 370, 500, 1236]	[250.0, 988.0]		|
+79	10	MenuItem	[2, 370, 494, 80]	[249.0, 410.0]		You and Google|
+82	79	Group	[48, 390, 40, 40]	[68.0, 410.0]		|
+83	82	Image	[48, 390, 40, 40]	[68.0, 410.0]		|
+81	79	StaticText	[128, 394, 208, 32]	[232.0, 410.0]	You and Google	|
+80	79	Group	[2, 370, 494, 80]	[249.0, 410.0]		|
+74	10	MenuItem	[2, 450, 494, 80]	[249.0, 490.0]		Autofill and passwords|
+77	74	Group	[48, 470, 40, 40]	[68.0, 490.0]		|
+78	77	Image	[48, 470, 40, 40]	[68.0, 490.0]		|
+76	74	StaticText	[128, 474, 300, 32]	[278.0, 490.0]	Autofill and passwords	|
+75	74	Group	[2, 450, 494, 80]	[249.0, 490.0]		|
+69	10	MenuItem	[2, 530, 494, 80]	[249.0, 570.0]		Privacy and security|
+72	69	Group	[48, 550, 40, 40]	[68.0, 570.0]		|
+73	72	Image	[48, 550, 40, 40]	[68.0, 570.0]		|
+71	69	StaticText	[128, 554, 268, 32]	[262.0, 570.0]	Privacy and security	|
+70	69	Group	[2, 530, 494, 80]	[249.0, 570.0]		|
+64	10	MenuItem	[2, 610, 494, 80]	[249.0, 650.0]		Performance|
+67	64	Group	[48, 630, 40, 40]	[68.0, 650.0]		|
+68	67	Image	[48, 630, 40, 40]	[68.0, 650.0]		|
+66	64	StaticText	[128, 634, 172, 32]	[214.0, 650.0]	Performance	|
+65	64	Group	[2, 610, 494, 80]	[249.0, 650.0]		|
+59	10	MenuItem	[2, 690, 494, 80]	[249.0, 730.0]		Appearance|
+62	59	Group	[48, 710, 40, 40]	[68.0, 730.0]		|
+63	62	Image	[48, 710, 40, 40]	[68.0, 730.0]		|
+61	59	StaticText	[128, 714, 160, 32]	[208.0, 730.0]	Appearance	|
+60	59	Group	[2, 690, 494, 80]	[249.0, 730.0]		|
+54	10	MenuItem	[2, 770, 494, 80]	[249.0, 810.0]		Search engine|
+57	54	Group	[48, 790, 40, 40]	[68.0, 810.0]		|
+58	57	Image	[48, 790, 40, 40]	[68.0, 810.0]		|
+56	54	StaticText	[128, 794, 190, 32]	[223.0, 810.0]	Search engine	|
+55	54	Group	[2, 770, 494, 80]	[249.0, 810.0]		|
+49	10	MenuItem	[2, 850, 494, 80]	[249.0, 890.0]		Default browser|
+52	49	Group	[48, 870, 40, 40]	[68.0, 890.0]		|
+53	52	Image	[48, 870, 40, 40]	[68.0, 890.0]		|
+51	49	StaticText	[128, 874, 210, 32]	[233.0, 890.0]	Default browser	|
+50	49	Group	[2, 850, 494, 80]	[249.0, 890.0]		|
+44	10	MenuItem	[2, 930, 494, 80]	[249.0, 970.0]		On start-up|
+47	44	Group	[48, 950, 40, 40]	[68.0, 970.0]		|
+48	47	Image	[48, 950, 40, 40]	[68.0, 970.0]		|
+46	44	StaticText	[128, 954, 154, 32]	[205.0, 970.0]	On start-up	|
+45	44	Group	[2, 930, 494, 80]	[249.0, 970.0]		|
+39	10	MenuItem	[2, 1044, 494, 80]	[249.0, 1084.0]		Languages|
+42	39	Group	[48, 1064, 40, 40]	[68.0, 1084.0]		|
+43	42	Image	[48, 1064, 40, 40]	[68.0, 1084.0]		|
+41	39	StaticText	[128, 1068, 146, 32]	[201.0, 1084.0]	Languages	|
+40	39	Group	[2, 1044, 494, 80]	[249.0, 1084.0]		|
+34	10	MenuItem	[2, 1124, 494, 80]	[249.0, 1164.0]		Downloads|
+37	34	Group	[48, 1144, 40, 40]	[68.0, 1164.0]		|
+38	37	Image	[48, 1144, 40, 40]	[68.0, 1164.0]		|
+36	34	StaticText	[128, 1148, 146, 32]	[201.0, 1164.0]	Downloads	|
+35	34	Group	[2, 1124, 494, 80]	[249.0, 1164.0]		|
+29	10	MenuItem	[2, 1204, 494, 80]	[249.0, 1244.0]		Accessibility|
+32	29	Group	[48, 1224, 40, 40]	[68.0, 1244.0]		|
+33	32	Image	[48, 1224, 40, 40]	[68.0, 1244.0]		|
+31	29	StaticText	[128, 1228, 166, 32]	[211.0, 1244.0]	Accessibility	|
+30	29	Group	[2, 1204, 494, 80]	[249.0, 1244.0]		|
+24	10	MenuItem	[2, 1284, 494, 80]	[249.0, 1324.0]		System|
+27	24	Group	[48, 1304, 40, 40]	[68.0, 1324.0]		|
+28	27	Image	[48, 1304, 40, 40]	[68.0, 1324.0]		|
+26	24	StaticText	[128, 1308, 100, 32]	[178.0, 1324.0]	System	|
+25	24	Group	[2, 1284, 494, 80]	[249.0, 1324.0]		|
+19	10	MenuItem	[2, 1364, 494, 80]	[249.0, 1404.0]		Reset settings|
+22	19	Group	[48, 1384, 40, 40]	[68.0, 1404.0]		|
+23	22	Image	[48, 1384, 40, 40]	[68.0, 1404.0]		|
+21	19	StaticText	[128, 1388, 190, 32]	[223.0, 1404.0]	Reset settings	|
+20	19	Group	[2, 1364, 494, 80]	[249.0, 1404.0]		|
+14	10	MenuItem	[2, 1478, 494, 80]	[249.0, 1518.0]		Extensions|
+17	14	Group	[48, 1498, 40, 40]	[68.0, 1518.0]		|
+18	17	Image	[48, 1498, 40, 40]	[68.0, 1518.0]		|
+16	14	StaticText	[128, 1502, 144, 32]	[200.0, 1518.0]	Extensions	|
+15	14	Group	[2, 1478, 494, 80]	[249.0, 1518.0]		|
+11	10	MenuItem	[2, 1558, 494, 48]	[249.0, 1582.0]		About Chrome|
+13	11	StaticText	[128, 1582, 192, 24]	[224.0, 1594.0]	About Chrome	|
+12	11	Group	[2, 1558, 494, 48]	[249.0, 1582.0]		|
+3	1	PopUpButton	[922, 256, 304, 74]	[1074.0, 293.0]	Bookmarks	|Side panel selector
+4	3	Button	[922, 256, 304, 74]	[1074.0, 293.0]		|
+2	1	Splitter	[888, 242, 34, 1364]	[905.0, 924.0]		|

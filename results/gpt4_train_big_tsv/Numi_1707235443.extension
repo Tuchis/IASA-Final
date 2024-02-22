@@ -1,0 +1,29 @@
+The image shows a user interface for the "Numi Preferences" settings panel. This interface contains the following elements:
+
+1. Window Control Buttons: At the top left corner, there are three colored window control buttons typically found in macOS applications: red, yellow, and green, which are used for closing, minimizing, and maximizing the window, respectively.
+
+2. Title: At the top, there is a title that reads "Numi Preferences".
+
+3. Precision Setting:
+   - Label: There is a label to the left that reads "Precision:".
+   - Text Field: Next to the label, there is a text field with a value of "2" indicating that the precision setting is currently set to two decimal places.
+
+4. Checkboxes (with labels):
+   - "Show in Menu Bar": An unchecked checkbox, signifying this option is not currently active.
+   - "Night Mode": A checked checkbox with a blue checkmark, indicating this option is currently enabled.
+   - "Always on Top": An unchecked checkbox, suggesting that this option is disabled.
+
+5. Font Setting:
+   - Label/Button: There is a blue button labeled "Dynamic Font" with a downward pointing arrow, indicating it could be a dropdown menu or an action to open another dialog.
+
+6. Hotkey Setting:
+   - Label: Above a text button, there is a label that reads "Hotkey:".
+   - Button: There is a button labeled "Record Shortcut", which presumably lets the user set a custom keyboard shortcut.
+
+7. Additional Checkboxes (with labels):
+   - "Launch Numi at Login": An unchecked checkbox, meaning the app is not set to automatically start when the user logs into their computer.
+   - "Enable Alfred integration": An unchecked checkbox, indicating that integration with Alfred (a productivity application for macOS) is not currently enabled.
+
+8. Feedback Button: At the bottom, there is a button labeled "Send Feedback" which is likely used to report issues or provide feedback to the developers.
+
+The overall interface appears to be a settings menu for Numi, which is possibly a calculator or productivity tool, and allows the user to customize various aspects of the application to their preference.

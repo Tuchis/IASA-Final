@@ -1,0 +1,141 @@
+The interface you provided is from Bartender 5, an application designed to manage and organize the menu bar of macOS. Here's a detailed breakdown of the UI elements visible in the image:
+
+### Left Panel:
+- **Gear Icon:** Typically represents settings or preferences.
+- **Menu Bar Items:** Selected sidebar item, likely the current page.
+- **Menu Bar Style:** Another sidebar item, probably for styling the menu bar.
+- **Presets:** Sidebar item, might be for saving or selecting preset configurations.
+- **Triggers:** Sidebar item, possibly for setting up conditions that trigger menu changes.
+- **Hotkeys:** Sidebar option to presumably set keyboard shortcuts.
+- **Advanced:** Sidebar item for additional settings.
+- **About:** Sidebar item that likely shows information about the application.
+
+### Top Panel:
+- **Window controls:** Three dots in red, yellow, and green that allow you to close, minimize, or maximize the window respectively.
+
+### Main Content Area:
+#### Menu Bar Items Section:
+- **Title:** Clearly labeled as "Menu Bar Items".
+- **Subtitle/Instructions:** Text explaining how to drag menu bar item icons between sections and arrange them or quickly drag them with `⌘` + dragging in the menu bar.
+
+##### Shown Menu Bar Items:
+- **Interactive Item:** It has three dots indicating you can drag it, a power icon, a calendar with "Tue 6 Feb 14:52", and a further two icons that probably represent some functionality.
+
+##### Hidden Menu Bar Items:
+- **Interactive Item:** It has a switch titled "0m Focus", indicating a toggled state, a notification badge with the number '78', and multiple icons like the battery level, clock, etc., and a search icon. Next to it, there's a box with the text "New menu bar items appear here," likely indicating the place where new items will be shown when added to this "Hidden" category.
+
+##### Always Hidden Menu Bar Items:
+- **Placeholder Item:** An area where items that are set to be always hidden would appear.
+
+#### Menu Bar Items Palette:
+- **Buttons:**
+  - **Add a Spacer:** Perhaps adds space between menu bar items.
+  - **Add a Menu Bar Item Group:** Likely allows the grouping of items together in the menu bar.
+
+Overall, the UI is structured to allow customization of macOS menu bar items, with sections for visible, hidden, and permanently hidden items, alongside options for adding spacers and groups for organization. The left sidebar allows navigation through different configurations and settings for further customization and feature handling within the Bartender 5 app.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1782, 1386]	[891.0, 693.0]		Bartender 5
+5	1	SplitGroup	[0, 0, 1782, 1386]	[891.0, 693.0]		
+103	5	StaticText	[178, 16, 160, 40]	[258.0, 36.0]	Bartender	
+102	5	StaticText	[330, 10, 36, 54]	[348.0, 37.0]	5	
+67	5	ScrollArea	[0, 76, 480, 1310]	[240.0, 731.0]		
+68	67	Outline	[0, 76, 480, 1310]	[240.0, 731.0]		
+98	68	Row	[0, 96, 480, 100]	[240.0, 146.0]		
+99	98	Cell	[20, 96, 440, 100]	[240.0, 146.0]		
+101	99	Image	[32, 108, 70, 74]	[67.0, 145.0]		|General
+100	99	StaticText	[114, 130, 102, 32]	[165.0, 146.0]	General	
+94	68	Row	[0, 196, 480, 100]	[240.0, 246.0]		
+95	94	Cell	[20, 196, 440, 100]	[240.0, 246.0]		
+97	95	Image	[32, 212, 70, 68]	[67.0, 246.0]		|Menu Bar Layout
+96	95	StaticText	[114, 230, 198, 32]	[213.0, 246.0]	Menu Bar Items	
+90	68	Row	[0, 296, 480, 100]	[240.0, 346.0]		
+91	90	Cell	[20, 296, 440, 100]	[240.0, 346.0]		
+93	91	Image	[32, 308, 70, 72]	[67.0, 344.0]		|Menu Bar Style
+92	91	StaticText	[114, 330, 192, 32]	[210.0, 346.0]	Menu Bar Style	
+86	68	Row	[0, 396, 480, 100]	[240.0, 446.0]		
+87	86	Cell	[20, 396, 440, 100]	[240.0, 446.0]		
+89	87	Image	[32, 412, 70, 68]	[67.0, 446.0]		|Presets
+88	87	StaticText	[114, 430, 100, 32]	[164.0, 446.0]	Presets	
+82	68	Row	[0, 496, 480, 100]	[240.0, 546.0]		
+83	82	Cell	[20, 496, 440, 100]	[240.0, 546.0]		
+85	83	Image	[32, 506, 70, 76]	[67.0, 544.0]		|Triggers
+84	83	StaticText	[114, 530, 108, 32]	[168.0, 546.0]	Triggers	
+78	68	Row	[0, 596, 480, 100]	[240.0, 646.0]		
+79	78	Cell	[20, 596, 440, 100]	[240.0, 646.0]		
+81	79	Image	[32, 612, 70, 68]	[67.0, 646.0]		|Hot Keys
+80	79	StaticText	[114, 630, 106, 32]	[167.0, 646.0]	Hotkeys	
+74	68	Row	[0, 696, 480, 100]	[240.0, 746.0]		
+75	74	Cell	[20, 696, 440, 100]	[240.0, 746.0]		
+77	75	Image	[32, 708, 70, 74]	[67.0, 745.0]		|Advanced
+76	75	StaticText	[114, 730, 128, 32]	[178.0, 746.0]	Advanced	
+70	68	Row	[0, 796, 480, 100]	[240.0, 846.0]		
+71	70	Cell	[20, 796, 440, 100]	[240.0, 846.0]		
+73	71	Image	[32, 818, 70, 58]	[67.0, 847.0]		|
+72	71	StaticText	[114, 830, 80, 32]	[154.0, 846.0]	About	
+69	68	Column	[20, 76, 440, 1310]	[240.0, 731.0]		
+66	5	Splitter	[480, 56, 2, 1330]	[481.0, 721.0]	240.0	
+65	5	StaticText	[518, 40, 1228, 40]	[1132.0, 60.0]	Menu Bar Items	
+64	5	StaticText	[518, 96, 1016, 32]	[1026.0, 112.0]	Drag menu bar item icons between the sections below to arrange them as you want	
+63	5	StaticText	[518, 136, 1228, 32]	[1132.0, 152.0]	You can also arrange the menu bar items quickly by ⌘ + dragging them in the menu bar	
+62	5	StaticText	[518, 176, 1228, 32]	[1132.0, 192.0]		
+61	5	StaticText	[518, 216, 320, 38]	[678.0, 235.0]	Shown menu bar items	
+52	5	ScrollArea	[522, 270, 1220, 100]	[1132.0, 320.0]		
+53	52	List	[522, 270, 1220, 100]	[1132.0, 320.0]		
+54	53	List	[1342, 284, 400, 74]	[1542.0, 321.0]		
+59	54	Group	[1342, 284, 72, 74]	[1378.0, 321.0]		
+60	59	Image	[1342, 284, 72, 74]	[1378.0, 321.0]		|Bartender 5
+57	54	Group	[1414, 284, 68, 74]	[1448.0, 321.0]		
+58	57	Image	[1414, 284, 68, 74]	[1448.0, 321.0]		|Control Center
+55	54	Group	[1482, 284, 260, 74]	[1612.0, 321.0]		
+56	55	Image	[1482, 284, 260, 74]	[1612.0, 321.0]		|Clock
+51	5	StaticText	[518, 386, 334, 38]	[685.0, 405.0]	Hidden menu bar items 	
+18	5	ScrollArea	[522, 440, 1220, 100]	[1132.0, 490.0]		
+23	18	List	[0, 440, 1742, 100]	[871.0, 490.0]		
+24	23	List	[0, 454, 1720, 74]	[860.0, 491.0]		
+50	24	Group	[0, 454, 18, 74]	[9.0, 491.0]		
+49	24	Group	[20, 454, 64, 74]	[52.0, 491.0]		
+48	24	Group	[84, 454, 76, 74]	[122.0, 491.0]		
+47	24	Group	[160, 454, 64, 74]	[192.0, 491.0]		
+46	24	Group	[224, 454, 76, 74]	[262.0, 491.0]		
+45	24	Group	[300, 454, 60, 74]	[330.0, 491.0]		
+44	24	Group	[360, 454, 68, 74]	[394.0, 491.0]		
+43	24	Group	[428, 454, 76, 74]	[466.0, 491.0]		
+41	24	Group	[504, 454, 204, 74]	[606.0, 491.0]		
+42	41	Image	[504, 454, 204, 74]	[606.0, 491.0]		|Session
+39	24	Group	[708, 454, 76, 74]	[746.0, 491.0]		
+40	39	Image	[708, 454, 76, 74]	[746.0, 491.0]		|Telegram
+37	24	Group	[784, 454, 66, 74]	[817.0, 491.0]		
+38	37	Image	[784, 454, 66, 74]	[817.0, 491.0]		|Now Playing
+35	24	Group	[850, 454, 88, 74]	[894.0, 491.0]		
+36	35	Image	[850, 454, 88, 74]	[894.0, 491.0]		|Text Input
+33	24	Group	[938, 454, 64, 74]	[970.0, 491.0]		
+34	33	Image	[938, 454, 64, 74]	[970.0, 491.0]		|Bluetooth
+31	24	Group	[1002, 454, 84, 74]	[1044.0, 491.0]		
+32	31	Image	[1002, 454, 84, 74]	[1044.0, 491.0]		|Battery
+29	24	Group	[1086, 454, 76, 74]	[1124.0, 491.0]		
+30	29	Image	[1086, 454, 76, 74]	[1124.0, 491.0]		|WiFi
+27	24	Group	[1162, 454, 64, 74]	[1194.0, 491.0]		
+28	27	Image	[1162, 454, 64, 74]	[1194.0, 491.0]		|Spotlight
+25	24	Group	[1226, 454, 494, 74]	[1473.0, 491.0]		
+26	25	Image	[1226, 454, 496, 74]	[1474.0, 491.0]		|New menu bar items appear here
+19	18	ScrollBar	[522, 508, 1220, 32]	[1132.0, 524.0]	1.0	
+22	19	ValueIndicator	[1072, 516, 668, 24]	[1406.0, 528.0]	1.0	
+21	19	Button	[1740, 516, 2, 24]	[1741.0, 528.0]		
+20	19	Button	[522, 516, 548, 24]	[796.0, 528.0]		
+17	5	StaticText	[518, 556, 430, 38]	[733.0, 575.0]	Always Hidden menu bar items	
+15	5	ScrollArea	[522, 610, 1220, 100]	[1132.0, 660.0]		
+16	15	List	[522, 610, 1220, 100]	[1132.0, 660.0]		
+14	5	StaticText	[518, 726, 324, 38]	[680.0, 745.0]	Menu bar items palette	
+7	5	ScrollArea	[522, 780, 1220, 160]	[1132.0, 860.0]		
+8	7	List	[522, 780, 1220, 160]	[1132.0, 860.0]		
+9	8	List	[534, 792, 678, 74]	[873.0, 829.0]		
+12	9	Group	[534, 792, 240, 74]	[654.0, 829.0]		
+13	12	Image	[534, 792, 240, 74]	[654.0, 829.0]		|Add a Spacer
+10	9	Group	[794, 792, 418, 74]	[1003.0, 829.0]		
+11	10	Image	[794, 792, 418, 74]	[1003.0, 829.0]		|Add a menu bar item group
+6	5	StaticText	[518, 948, 1228, 32]	[1132.0, 964.0]		
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+3	2	Group	[94, 12, 28, 32]	[108.0, 28.0]		
+4	3	Group	[94, 12, 28, 32]	[108.0, 28.0]		

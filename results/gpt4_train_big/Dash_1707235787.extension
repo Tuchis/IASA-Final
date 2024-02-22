@@ -1,0 +1,49 @@
+The image shows a user interface for an application focused on managing documentation or "docsets." The UI appears to be from a macOS app due to the window control buttons (close, minimize, and expand) seen in the upper left of the window, and it is organized into several segments.
+
+At the top of the window, there are five tabs:
+1. General
+2. Downloads (currently selected)
+3. Docsets
+4. Web Search
+5. Integration
+6. Snippets
+
+Below the tabs, there are two main panels:
+
+**Left Panel**: This panel shows a list of "Included Docsets" with accompanying icons indicating their category:
+- Main Docsets (kapeli.com)
+- Cheat Sheets (cheat.kapeli.com)
+- User Contributed (contrib.kapeli.com)
+Below this, there is an option to generate a new docset called "Docset Generator" which includes a subtitle "Create a new docset."
+
+Additional options listed include Third-Party Sources:
+- Swift Docsets (swiftpackageindex.com)
+- Ruby Docsets (rubygems.org)
+- Python Docsets (Any Sphinx docs)
+- PHP Docsets (packagist.org)
+- Java Docsets (search.maven.org)
+- Go Docsets (pkg.go.dev)
+- Rust Docsets (docs.rs)
+
+At the very bottom left, there is a checkbox option selected:
+- [x] Check for and install docset updates automatically
+
+**Right Panel**: Focused on "Find user contributed docsets to download"
+- A search input field near the top with a placeholder text "Find user contributed docsets to download"
+- Below the search field, there's a list of available docsets each with an icon suggesting the programming language or technology, the name of the docset, and the author's name. There are also download buttons next to each entry:
+  - ABAP by René van Mil
+  - ACL2 by Mu Xian Ming
+  - Ada by Bartek Jasicki
+  - Adobe Experience Manager by Ignacio Bergmann
+  - Agora C++ by Agora
+  - (and several more entries for Agora, each with a download button, some with a drop-down menu indicated by a downward arrow)
+
+At the bottom right of the right panel, there are three buttons:
+1. Contribute a docset
+2. Improve a docset
+3. Report an issue
+
+Lastly, at the very bottom right corner, there's another button:
+- Check and Install Now
+
+Overall, the UI seems to be structured to allow users easy access to download and manage documentation sets, with an emphasis on contribution and community-sourced content. The application appears to be geared towards developers or people who work with multiple programming languages and frameworks.

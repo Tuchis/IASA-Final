@@ -1,0 +1,28 @@
+The image shows a section of a UI interface from an application which appears to be a settings pane for configuring web search functionality. Here's a detailed description of the UI elements visible:
+
+1. At the top left corner, there are three small circular icons, typically representing window controls on macOS. From left to right, they are colored red, yellow, and green, which usually signify close, minimize, and maximize functions respectively.
+
+2. Across the top center of the UI, there are five tab-like elements, which seem to be different setting categories. They are labeled as follows:
+   - "General"
+   - "Downloads"
+   - "Docsets"
+   - "Web Search" (this is the currently selected tab, as indicated by a darker background)
+   - "Integration"
+   - "Snippets"
+
+3. Within the 'Web Search' tab content, there is a header with the text: "Web searches appear at the bottom of search results:"
+
+4. Below this header, there is a list of three web search options, each with a corresponding URL pattern. Each line includes:
+   - A checkbox to enable/disable the search source.
+   - An icon representing the search source.
+   - The name of the search source or service.
+   - A text field containing the URL pattern used for web searches with the respective service
+
+   The specific items listed from top to bottom are:
+   - Google: Checked. Icon depicts the Google 'G'. URL pattern in the text field reads "https://www.google.com/search?q={query}"
+   - DuckDuckGo: Unchecked. Icon depicts the DuckDuckGo logo. URL pattern in the text field reads "https://duckduckgo.com/?q={query}&ia=web"
+   - Stack Overflow: Checked. Icon depicts the Stack Overflow logo. URL pattern in the text field reads "https://stackoverflow.com/search?q={query}"
+
+5. At the bottom left corner of the window, there are two buttons marked with "+" and "-", suggesting functions to add and remove items from the list, most probably search sources in this context.
+
+Please note that the text "{query}" in the URL patterns is likely a placeholder, which would be replaced by the user's search terms during an actual web search.

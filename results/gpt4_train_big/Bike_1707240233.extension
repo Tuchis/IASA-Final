@@ -1,0 +1,28 @@
+This image shows a user interface (UI) window, potentially from a macOS application, more specifically from a settings or preferences dialog box. Here are the elements from top to bottom and left to right:
+
+**Top Bar Elements:**
+1. Red, yellow, and green window control buttons commonly used for closing, minimizing, and maximizing the window, respectively.
+2. Five tabs or sections titled "General", "Document", "Links", "Editor", and "Autocorrect", indicating different settings categories within the app. The "Sandbox" tab is highlighted, suggesting it is the currently active category.
+3. A button with the label "Sandbox" that is highlighted, possibly indicating it's an active or selected setting. This might be an additional action or an indicator related to the sandbox settings.
+4. A button labeled "License" which implies functionality to view or manage the application's license.
+
+**Main Content Area:**
+1. A section title or header "Sandbox" emphasizing the current category.
+2. An informative text that says:
+   
+   "Grant sandbox access to addition folders.
+   
+   Do this to allow Bike to resolve row links to outline documents. Bike needs read access to outline documents that are linked to when resolving links."
+
+     This text seems to be instructional, advising the user to grant additional sandbox permissions for the app named "Bike" to function correctly with regards to resolving links within documents.
+
+**Input and Buttons Area:**
+1. A label called "Extended Sandbox Folders" above an entry field, indicating where users can specify additional folders for sandbox access.
+2. A button labeled "Add" which suggests an action to include new folders to the list.
+3. A button labeled "Remove" which suggests an action to delete selected folders from the list.
+
+**Bottom Area:**
+1. An informational note or instruction that advises the user to "Close and then reopen Bike for these changes to take full effect." This indicates that any changes made within this window will only be applied after restarting the 'Bike' application.
+2. A help button denoted with a "?" that provides users with help or additional information pertinent to the settings or actions available in this window.
+
+Overall, the UI seems to belong to a settings dialog for configuring sandbox permissions for the application 'Bike', specifically for managing file access permissions for the purpose of resolving links between documents.

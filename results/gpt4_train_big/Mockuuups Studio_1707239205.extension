@@ -1,0 +1,29 @@
+The image shows a user interface (UI) of a mockup design application named "Mockuuups Studio." Here is a detailed description of the elements present in the UI:
+
+1. **Top left corner of the app**:
+    - Three circular buttons to mimic the close, minimize, and maximize controls typically found on a macOS application window.
+    - A text field titled "Untitled Mockup" which could indicate the name of the current project or file.
+
+2. **Top right corner of the app**:
+    - A button labeled "Save Mockup" with a floppy disk icon, indicating functionality for saving the current project.
+
+3. **Application header bar, below the window controls**:
+    - Application name "Mockuuups Studio" is boldly displayed at the center, serving as both a branding element and likely a menu or dropdown for app functionalities.
+    - To the left, there is a "Device" tab, suggesting options to choose from various device frames for the mockup.
+    - Other tabs include "Color," "Shadow," "Hand," "Background," and "Overlay," which imply customization options for those respective properties of the mockup.
+    - A star icon labeled "Inspire Me" possibly offers inspiration or suggestions for mockup designs.
+
+4. **The main canvas**:
+    - A mockup of a smartphone with a blue gradient screen, against a checkered background which typically denotes transparency in graphics software.
+    - The smartphone mockup has resizing handles (blue dots) at the corners, denoting that the size of the mockup can be adjusted.
+    - At the top of the smartphone's screen, there is a status bar with icons for battery, Wi-Fi, time, and cellular signal, just like a physical smartphone.
+
+5. **Above the main canvas**:
+    - A row of icons:
+        - A "Landscape/Portrait" toggle icon (depicting a mobile device and circular arrows), indicating the ability to rotate the device orientation in the mockup.
+        - A "Share" icon, hinting at features to share the mockup through various means.
+        - A "Download" icon, likely for downloading the mockup.
+        - A "Trash" icon, probably to delete the current selection or project.
+        - A "Hand" icon, which might represent a feature to display the mockup in a hand for a more realistic presentational view.
+
+Overall, this UI is designed for creating and editing mockups within the application, with various tools and functionalities represented through icons and tabs to help with adjusting and customizing the appearance of the mockup to the user's needs. The UI also includes functionality for saving, sharing, and downloading the final mockup design.

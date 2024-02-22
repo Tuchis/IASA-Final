@@ -1,0 +1,40 @@
+The image shows a partial view of a user interface for a messaging or chat application that appears to be tailored toward communication with an AI assistant, with a specific focus on a profile setup modal.
+
+Main UI Elements:
+1. On the left sidebar, there are several chat categories/options with example titles such as:
+   - "(Interview for the {{position}})"
+   - "(Example) Learn English"
+   - "(Example) Writing Content"
+   - "(Example) Web Search"
+   - "(Example) Coding Help"
+
+2. At the top of the sidebar, there are icons for new chat options and settings, including magnifying glass for search, a "+" symbol for adding new items, and other unidentifiable icons due to the overlay.
+
+3. At the top of the main chat window, there's the name of the AI being interacted with ("Setapp GPT-3.5") accompanied by an icon that seems to represent the AI (possibly indicating AI activity or status) and the date ("06 Feb 2024").
+
+4. Below the AI's name, there is a chat bubble that says: "I want YOU to act as an interviewer. I will be the candidate and you will ask me the interview questions one by one like an interviewer."
+
+5. At the very bottom of the screen, there's a footer with "Typing Mind © 2024," a menu for API Key input ("Enter API Key"), and links for "Privacy," "Terms," "FAQs," "Contact," and "Feedback."
+
+Profile Setup Modal:
+1. The modal is titled "Your Profile" with a subtitle stating "The AI assistant will remember your information on all future chats."
+
+2. The modal has two main sections: "Profile Image URL" with an input field containing a placeholder text "https://..." for entering a URL for a profile image.
+
+3. The "Your Information" section requests personal information such as:
+   - "Name: (Your name)"
+   - "Born: (Year)"
+   - "Location: (City)"
+   with additional unspecified fields indicated by an ellipsis (...).
+
+4. At the bottom of the modal, there is a "Save" button to save the entered profile information.
+
+Additional UI Elements:
+1. Across the very bottom of the UI, there are additional interface options such as:
+   - "Regenerate" button, likely for generating new AI responses.
+   - "Share" button, possibly for sharing the current chat.
+   - "Clear Context" button, which might clear the chat history or context for the AI.
+   - "New Chat" button to initiate a new conversation thread.
+   - Three horizontal dots menu icon which typically indicates more options.
+
+2. In the right corner of the bottom bar, there is a speech bubble icon with ellipses, which commonly signifies a messaging or chat feature.

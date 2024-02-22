@@ -1,0 +1,127 @@
+The image appears to show a user interface (UI) for an automation or scripting application on a MacOS system. Here's a detailed description of the UI elements presented:
+
+On the top left of the window, there are the standard MacOS window control buttons:
+- Red button: Close the window
+- Yellow button: Minimize the window
+- Green button: Enter full-screen mode or maximize the window 
+
+Just below these buttons, there is a navigation sidebar divided into three sections:
+1. **Favorites** - With icons representing tools (Screenshot, Script, Simulator, Status Menu, System, Utility, Window, Xcode) and a starred item named "Favorite."
+2. **Workflows** - It has just one item named "Favorite" with a star icon next to it.
+3. **Settings** - With two items listed: 
+   - A bolt icon followed by the word "Automation," which is highlighted in blue, indicating that it's currently selected.
+   - A gear icon followed by the word "Settings."
+
+At the top of the main panel, on the right side of the window, there is a search bar with a magnifying glass icon suggesting search functionality. Next to it, there's the title "Almighty," possibly the name of the currently selected feature or the application itself.
+
+In the main content area, there are four sections, each representing different events or triggers for automation scripts:
+1. **Screen Locked**
+   - A dimmed "No tweaks yet" text, suggesting no automation has been set up for this event.
+   - A '+' (plus) button on the right, implying that the user can add a new automation or script for the "Screen Locked" event.
+2. **Screen Unlocked**
+   - Text "No tweaks yet" in the same style as above.
+   - A '+' button mirroring the functionality described above.
+3. **Screensaver Start**
+   - Text "No tweaks yet."
+   - A '+' button, again for adding automations for when the screensaver starts.
+4. **Screensaver Stop**
+   - Text "No tweaks yet."
+   - A '+' button, for adding automations for when the screensaver stops.
+
+A scrollbar on the right indicates that the window is scrollable, meaning there might be more content not currently visible in the screenshot. The overall layout and design suggest a clean, user-friendly interface for setting up automation tasks on a Mac computer.
+
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1800, 900]	[900.0, 450.0]		Almighty
+6	1	Group	[0, 0, 1800, 900]	[900.0, 450.0]		
+7	6	SplitGroup	[0, 0, 1800, 900]	[900.0, 450.0]		
+31	7	Group	[0, 0, 400, 900]	[200.0, 450.0]		
+32	31	ScrollArea	[0, 104, 400, 796]	[200.0, 502.0]		
+37	32	Outline	[0, 104, 400, 796]	[200.0, 502.0]		|Sidebar
+91	37	Row	[0, 0, 400, 22]	[200.0, 11.0]		
+92	91	Cell	[20, 0, 360, 22]	[200.0, 11.0]		
+89	37	Row	[0, 22, 400, 56]	[200.0, 50.0]		
+90	89	Cell	[20, 22, 360, 56]	[200.0, 50.0]		
+85	37	Row	[0, 78, 400, 60]	[200.0, 108.0]		
+86	85	Cell	[20, 78, 360, 60]	[200.0, 108.0]		
+88	86	Image	[32, 86, 44, 44]	[54.0, 108.0]		|Screenshot
+87	86	StaticText	[92, 92, 138, 32]	[161.0, 108.0]	Screenshot	
+81	37	Row	[0, 138, 400, 60]	[200.0, 168.0]		
+82	81	Cell	[20, 138, 360, 60]	[200.0, 168.0]		
+84	82	Image	[32, 146, 44, 44]	[54.0, 168.0]		|Script
+83	82	StaticText	[92, 152, 72, 32]	[128.0, 168.0]	Script	
+77	37	Row	[0, 198, 400, 60]	[200.0, 228.0]		
+78	77	Cell	[20, 198, 360, 60]	[200.0, 228.0]		
+80	78	Image	[32, 206, 44, 44]	[54.0, 228.0]		|Simulator
+79	78	StaticText	[92, 212, 114, 32]	[149.0, 228.0]	Simulator	
+73	37	Row	[0, 258, 400, 60]	[200.0, 288.0]		
+74	73	Cell	[20, 258, 360, 60]	[200.0, 288.0]		
+76	74	Image	[32, 266, 44, 44]	[54.0, 288.0]		|Status Menu
+75	74	StaticText	[92, 272, 152, 32]	[168.0, 288.0]	Status Menu	
+69	37	Row	[0, 318, 400, 60]	[200.0, 348.0]		
+70	69	Cell	[20, 318, 360, 60]	[200.0, 348.0]		
+72	70	Image	[32, 326, 44, 44]	[54.0, 348.0]		|System
+71	70	StaticText	[92, 332, 90, 32]	[137.0, 348.0]	System	
+65	37	Row	[0, 378, 400, 60]	[200.0, 408.0]		
+66	65	Cell	[20, 378, 360, 60]	[200.0, 408.0]		
+68	66	Image	[32, 386, 44, 44]	[54.0, 408.0]		|Utility
+67	66	StaticText	[92, 392, 70, 32]	[127.0, 408.0]	Utility	
+61	37	Row	[0, 438, 400, 60]	[200.0, 468.0]		
+62	61	Cell	[20, 438, 360, 60]	[200.0, 468.0]		
+64	62	Image	[32, 446, 44, 44]	[54.0, 468.0]		|Window
+63	62	StaticText	[92, 452, 96, 32]	[140.0, 468.0]	Window	
+57	37	Row	[0, 498, 400, 60]	[200.0, 528.0]		
+58	57	Cell	[20, 498, 360, 60]	[200.0, 528.0]		
+60	58	Image	[32, 506, 44, 44]	[54.0, 528.0]		|Xcode
+59	58	StaticText	[92, 512, 76, 32]	[130.0, 528.0]	Xcode	
+53	37	Row	[0, 584, 400, 38]	[200.0, 603.0]		
+54	53	Cell	[20, 584, 360, 38]	[200.0, 603.0]		
+55	54	Group	[28, 584, 368, 38]	[212.0, 603.0]		
+56	55	Heading	[28, 588, 114, 28]	[85.0, 602.0]		|Workflows
+49	37	Row	[0, 622, 400, 56]	[200.0, 650.0]		
+50	49	Cell	[20, 622, 360, 56]	[200.0, 650.0]		
+52	50	StaticText	[32, 632, 40, 36]	[52.0, 650.0]	star	
+51	50	StaticText	[92, 634, 96, 32]	[140.0, 650.0]	Favorite	
+45	37	Row	[0, 730, 400, 38]	[200.0, 749.0]		
+46	45	Cell	[20, 730, 360, 38]	[200.0, 749.0]		
+47	46	Group	[28, 730, 368, 38]	[212.0, 749.0]		
+48	47	Heading	[28, 734, 92, 28]	[74.0, 748.0]		|Settings
+42	37	Row	[0, 768, 400, 56]	[200.0, 796.0]		
+43	42	Cell	[20, 768, 360, 56]	[200.0, 796.0]		
+44	43	StaticText	[42, 778, 176, 32]	[130.0, 794.0]	Automation	
+39	37	Row	[0, 824, 400, 56]	[200.0, 852.0]		
+40	39	Cell	[20, 824, 360, 56]	[200.0, 852.0]		
+41	40	StaticText	[38, 836, 142, 32]	[109.0, 852.0]	Settings	
+38	37	Column	[20, 0, 360, 900]	[200.0, 450.0]		
+33	32	ScrollBar	[368, 104, 32, 796]	[384.0, 502.0]	1.0	
+36	33	ValueIndicator	[376, 494, 24, 404]	[388.0, 696.0]	1.0	
+35	33	Button	[376, 898, 24, 2]	[388.0, 899.0]		
+34	33	Button	[376, 104, 24, 388]	[388.0, 298.0]		
+30	7	Splitter	[400, 104, 2, 796]	[401.0, 502.0]	200.0	
+8	7	Group	[402, 0, 1398, 900]	[1101.0, 450.0]		
+9	8	ScrollArea	[402, 104, 1398, 796]	[1101.0, 502.0]		
+29	9	Heading	[462, 148, 186, 32]	[555.0, 164.0]		|Screen Locked
+28	9	Button	[1696, 146, 28, 26]	[1710.0, 159.0]		|Add
+26	9	Group	[436, 200, 1330, 84]	[1101.0, 242.0]		
+27	26	StaticText	[462, 224, 170, 32]	[547.0, 240.0]	No tweaks yet	
+25	9	Heading	[462, 340, 214, 32]	[569.0, 356.0]		|Screen Unlocked
+24	9	Button	[1696, 338, 28, 26]	[1710.0, 351.0]		|Add
+22	9	Group	[436, 392, 1330, 84]	[1101.0, 434.0]		
+23	22	StaticText	[462, 416, 170, 32]	[547.0, 432.0]	No tweaks yet	
+21	9	Heading	[462, 532, 226, 32]	[575.0, 548.0]		|Screensaver Start
+20	9	Button	[1696, 530, 28, 26]	[1710.0, 543.0]		|Add
+18	9	Group	[436, 584, 1330, 84]	[1101.0, 626.0]		
+19	18	StaticText	[462, 608, 170, 32]	[547.0, 624.0]	No tweaks yet	
+17	9	Heading	[462, 724, 222, 32]	[573.0, 740.0]		|Screensaver Stop
+16	9	Button	[1696, 722, 28, 26]	[1710.0, 735.0]		|Add
+14	9	Group	[436, 776, 1330, 84]	[1101.0, 818.0]		
+15	14	StaticText	[462, 800, 170, 32]	[547.0, 816.0]	No tweaks yet	
+10	9	ScrollBar	[1768, 104, 32, 796]	[1784.0, 502.0]	0.0	
+13	10	ValueIndicator	[1776, 106, 24, 484]	[1788.0, 348.0]	0.0	
+12	10	Button	[1776, 592, 24, 308]	[1788.0, 746.0]		
+11	10	Button	[1776, 104, 24, 2]	[1788.0, 105.0]		
+3	1	Toolbar	[0, 0, 1800, 104]	[900.0, 52.0]		
+4	3	Button	[418, 0, 84, 104]	[460.0, 52.0]		|Split View Horizontally Left
+5	4	Button	[436, 28, 46, 36]	[459.0, 46.0]		|Split View Horizontally Left
+2	1	StaticText	[502, 0, 1282, 104]	[1143.0, 52.0]	Almighty	

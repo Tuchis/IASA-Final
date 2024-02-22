@@ -1,0 +1,31 @@
+This is a screenshot of the Gemini app, which is used for finding and removing duplicate files on a computer. The user interface is divided into several panels and sections, each with its own functionality.
+
+Starting from the top, there is a menu bar with typical window control buttons on the left (minimize, maximize, close) and on the right side, there are several other buttons:
+- A button with grid lines, possibly for changing the view option.
+- A magnifying glass icon, indicating a search function.
+- A star icon, which might be for marking certain items as important or favorites.
+
+Below the menu bar, on the left side of the window, there is a sidebar that categorizes files:
+- "Summary" is selected, presented at the top of the sidebar.
+- Below that, there are categories with checkboxes:
+  - "Exact Duplicates": showing a total size of 2.9 MB.
+  - "All Duplicates" is selected: showing a size of 2.9 MB.
+  - "Documents": showing a size of 139 KB.
+  - "Images": with a size of 2.8 MB.
+- "Selected": not selected, showing a size of 1.9 MB.
+
+In the larger panel to the right of the sidebar, there are two main sections:
+- The top section allows the user to select duplicates, sort them, and has a list of files labeled "IMG_8660":
+  - "Select Duplicates" dropdown menu is at the top left, suggesting the user can choose how duplicates are selected.
+  - "Sort by Size" dropdown is next to it, suggesting sorting options for the listed files.
+  - Below these are the listed duplicate images, each with a checkbox, filename, and a small thumbnail preview. There are three duplicates of "IMG_8660" named IMG_8660 2.JPG, IMG_8660 3.JPG, and another without a number.
+- The second section labeled "total_costs" has a smaller list with a single item:
+  - This item also has a checkbox, a filename ("total_costs"), and its size (139 KB). It is listed with numbers "1 | 2" next to it, suggesting it has one duplicate.
+
+In the middle panel, there's an enlarged preview of the selected file "IMG_8660".
+
+On the bottom status bar, it shows "2,9 MB in 5 files found in total", indicating the total size of detected duplicates and the count of files.
+
+Finally, in the bottom right corner, there is a "Smart Cleanup" button, which likely initiates an automated process to clean up the selected duplicates.
+
+To the far right of the bottom status bar, there's the indication of "1,9 MB Selected", which seems to show the total size of the files currently selected by the user for action.

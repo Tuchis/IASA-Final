@@ -1,0 +1,38 @@
+The image displays a user interface of a task management or reminder application. The UI elements are split into several regions and offer various functionalities:
+
+**Top-left window controls:**
+- Three dots for window management (red, yellow, green).
+
+**Left sidebar - Smart Lists and Lists:**
+- "Smart Lists" dropdown menu with a chevron icon to expand or collapse.
+- A series of predefined list filters:
+  - "All Lists" with a checkmark icon and the number "2" to signify item count.
+  - "Today" with a calendar icon and the number "0" indicating there are no tasks for today.
+  - "High Priorities" with a warning triangle icon and the number "0".
+  - "Overdue" with a warning exclamation mark and the number "1" hinting at one overdue task.
+  - "Within 3 days" with what appears to be a calendar icon and the number "1".
+  - "Recent" with a star icon and the number "2".
+  - "#Later" with a marker or tag icon and the number "0".
+  - "5 Scheduled tasks" with a numbered list icon and the number "2".
+  - "10 Recently Completed Tasks" with a checkmark box icon and the number "0".
+- "Lists" dropdown menu with a chevron and one user-defined list:
+  - "Reminders" with a list icon and the number "2".
+
+**Bottom-left toolbar:**
+- A "+" button for adding new items.
+- Buttons that seem to be for action or view options (unlabeled), styled with icons: pencil, 'greater than' arrow, number '6', right double-arrow, and three vertical dots suggesting additional options or settings.
+
+**Central pane - Tasks summary:**
+- At the top of this pane, there are three segments:
+  - "0" which indicates the number of tasks in this category.
+  - "Later" which is presumably the selected list or filter name.
+  - "1" possibly indicating the number of tasks without due dates.
+- Underneath this header, there is a task entry:
+  - A circular checkbox indicating an incomplete task.
+  - The task name "dinner".
+  - To the right of the task name, the due date and time "Sun, 18 February, 19:00" with a checkmark suggesting it's scheduled or confirmed.
+
+**Bottom-right toolbar:**
+- A "+" button, likely for adding new tasks under the "Reminders" category.
+
+Please note that the interpretation of icons is based on common UI conventions and their appearance in the image.

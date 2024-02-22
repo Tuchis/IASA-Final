@@ -1,0 +1,26 @@
+This image depicts the user interface of an application with a focus on managing 'cleaners' and 'groups'. The UI is divided into two main sections: the sidebar on the left and the main content area on the right.
+
+### Sidebar (Left Section):
+
+- The top part of the sidebar shows three colored dots: red, yellow, and green, suggesting a typical window control scheme for close, minimize, and maximize on macOS.
+- Below that is a rectangular button with a magnifying glass icon and the placeholder text "Filter". This is presumably a search or filter input field for the sidebar content.
+- The sidebar is then divided into two distinct sections titled "LIBRARY" and "CLEANER GROUPS".
+- Under the "LIBRARY" title, there are five options with a light grey background (indicating a list or menu):
+  1. "Start" (highlighted indicating the current selection)
+  2. "Import"
+  3. "Export"
+  4. "Remove"
+- In the "CLEANER GROUPS" section, there is one item listed called "CUSTOM CLEANERS".
+- At the bottom of the sidebar, there are three icons: a plus sign, a square grid, and a trash can, likely for adding a new item, managing the layout, and deleting items, respectively.
+
+### Main Content Area (Right Section):
+
+- The header of this area reads "Start", which matches the current selection in the sidebar.
+- Below the header, there are three large buttons, each representing an action:
+  1. A green button for "New Cleaner" with the description "Custom cleaners allow you to create step by step actions to modify your text as needed." and a "Create" button.
+  2. A blue button for "New Group" with the description "Custom groups allow you to organize collections of cleaners to suit your needs." and a "Create" button.
+  3. An orange button for "Import" with the description "Import cleaners and groups from external libraries." and an "Import" button.
+
+Each of these buttons has rounded corners, and the action buttons ("Create" and "Import") are centrally aligned within them.
+
+This UI appears to be designed for a desktop application where users can create, manage, and import custom text cleaners and organize them into groups, enhancing workflow efficiency. The use of color and descriptive text also suggests an attempt at a user-friendly design, making it easy to understand the purpose of each action within the app.

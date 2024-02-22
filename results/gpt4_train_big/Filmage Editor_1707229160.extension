@@ -1,0 +1,22 @@
+The image presents a user interface of a video editing software, presumably named "Filmage Editor", indicated by the watermark in the Viewer section of the interface.
+
+Starting from the top left, we have three tabs labeled: "Media," "Resources," and "Effects." Each tab's icon is visible—media clips for Media, a puzzle piece for Resources, and a star for Effects.
+
+In the Resources tab, which is currently selected, there are categories on the left sidebar to help you find various assets:
+- Text
+- Sound FX
+- Stickers
+- GIPHY
+- Unsplash (currently selected, highlighted in purple)
+- Pexels
+- Pixabay
+
+There's also a section in the middle with the heading "Powered by Unsplash" with image thumbnails available for use within projects. Above the images, there are two selectable options: "All" and "Download," and a search field next to a magnifying glass icon for searching through resources. Below the search field, there's a "Refresh" button indicated by a circular arrow.
+
+On the right side, we see a larger black box designated as the "Viewer" with "Untitled 1.flmpg" written at its top, signifying the file name or project name. Next to the project name, there is an aspect ratio dropdown selection currently set to "16:9," and an "Export" button adjacent to it, indicating the function to export the project once ready.
+
+Below, in the central part of the UI, is a timeline with timecodes running from 00:00:00:00 through 00:05:00:00. The timeline appears empty with a message at the bottom that states, "Drag media and effects here to create your video." A red vertical line (playhead) marks the position at the very beginning of the timeline, reading "00:00:00:00."
+
+At the bottom of the interface, a toolbar shows various editing tools, though they are not labeled and we cannot determine their functions from this image alone. They are represented by icons which appear to be standard for video editing, such as cut, copy, paste, undo, redo, import, zoom in/out, settings, and possibly more specific actions related to video editing.
+
+Finally, at the very top of the window, there's the standard window control for macOS with red, yellow, and green dots for closing, minimizing, and maximizing the window.

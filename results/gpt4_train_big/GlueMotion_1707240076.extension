@@ -1,0 +1,23 @@
+This UI interface appears to be from a video or animation editing app. The interface is divided into two primary sections: the left side has the video preview area and related controls, while the right side has settings for adjusting the frame rate of the video.
+
+**Left Side:**
+
+- At the very top, there's a navigation bar with a "< Go Back" button, indicating that you can go back to a previous screen.
+- Below the navigation bar, there are six tabs for different settings or features: "Frames," "Transforms," "Adjustments," "Blending," "Speed," and "Export." Each of these likely corresponds to a set of tools or options within the app.
+- The main area on the left displays an image with a yellow button overlay that says "Generate the preview >". This probably means that you can click this button to generate or refresh the preview of the current frame or scene.
+- Below the preview is a dark bar that may serve as a timeline or a status bar indicating the progress of video generation.
+- In the bottom-left corner, there are four icons that seem to represent different functionalities or views but are not labeled for interpretation.
+- At the bottom of the left section, there's a bar labeled "720p Preview," signaling that the current preview resolution is 720p.
+- Below that, there's a greyed-out timeline slider, which might be used for scrubbing through the video once the preview is generated.
+
+**Right Side – "Choose the Frame Rate" Panel:**
+
+- The title of the panel is "Choose the Frame Rate," with a subtitle "Preview video at different frame rates."
+- There is a circular slider control with a numerical readout in the center that says "30". This indicates that the current frame rate setting is 30 frames per second (FPS).
+- Below the slider, there are three text fields with labels:
+  - "Duration" with a value of "0s" (0 seconds), indicating the duration of the video is yet to be determined or is at a starting point.
+  - "FPS" with a numerical value of "30,00," reconfirming the frame rate as 30 FPS.
+  - "Length" with a dropdown menu set to "All frames," suggesting you can preview all frames or perhaps select a specific segment.
+- At the very bottom right, there's a blue button labeled "Continue >", likely used to apply the frame rate setting and proceed to the next step in the editing process.
+
+The interface suggests a feature-rich video editing software where a user can make various adjustments to their project, including choosing frame rates for preview and potentially final output.

@@ -1,0 +1,43 @@
+The image displays a user interface of a resource management application with two main areas. Here is a detailed description of each element within the UI:
+
+Left Side Panel:
+
+1. Upper Menu Bar:
+   - Close, minimize, and expand window control buttons (red, yellow, and green dots).
+   - Title of the window: "Big birthday - Edited".
+
+2. Sidebar:
+   - At the top, a back arrow and a label "Resources", indicating the current section being viewed.
+   - Below that, a section labeled "Traits" which is currently expanded, with listed resources.
+
+3. Resources List: This is a table with different columns, detailing various resources with the following fields:
+   - "Title" Column: Lists the names of resources such as "Default Resource," "Person celebrating big birthday," "Band," etc.
+   - "Type" Column: Identifies the type of resource, all listed as "Person".
+   - "Material Unit" Column: Shows a chain link icon for some resources, indicating a link or connection.
+   - "Available" Column: Lists the availability of the resources—each one reads "100%".
+   - "Initials" Column: Contains initials of the people or entities corresponding to the resources, such as "D.R.," "J.," "B.," and so on.
+   - "Email" Column: Blank for all entries.
+   - "Phone" Column: A column for phone numbers, but it's not visible in the image due to the width of the columns.
+
+4. Selected Resource Highlight:
+   - "Default Resource" is highlighted, indicating it is the currently selected resource.
+
+Right Side Panel:
+
+1. Header with Icons:
+   - A silhouette icon indicating a profile or user.
+   - A set of three icons: a pencil (edit), a chain link or hyperlink (presumably for linking resources), and three vertical dots (more options).
+
+2. Resource Information:
+   - "Resource: Info": The title of the right panel, indicating this section provides information about the selected resource.
+   - Beneath it, detailed information for the selected resource ("Default Resource") is displayed:
+     - "Title": Shows the name of the resource as "Default Resource".
+     - "Initials": The initials "D.R.".
+     - "Phone": A blank field with a phone icon, indicating a space to add a phone number.
+     - "Email": Blank field with an "at" symbol (@), indicating a space to add an email address.
+     - "Type": Shows the type of resource as "Person" with a dropdown arrow, suggesting it can be changed.
+     - "Available": Indicates the availability as "100%".
+     - "Status": Shows a status indicator, "Under-utilized", with a yellow warning triangle.
+     - "Image": A blank space with an image icon, presumably to add or display an image.
+
+All text fields and elements are legible and presented in a clean and organized manner, typical of a software application intended for planning or managing resources.

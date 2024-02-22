@@ -1,0 +1,105 @@
+The UI interface in the image appears to be a preferences/settings window for an application named Swish, which seems to relate to window management and gesture control on a computer operating system. The image shows a portion of the interface focusing on "Keyboard" and "Event Listener" settings. Here are the detailed elements as seen in the UI:
+
+1. Window Control Buttons: At the very top left, there are three buttons colored red, yellow, and green, typically used for closing, minimizing, and maximizing the window, respectively, on macOS.
+
+2. Sidebar Navigation: On the left side, there's a sidebar with navigation items, each with an icon:
+   - General (gear icon)
+   - Windows (window icon)
+   - Snapping (align icon)
+   - Apps (four squares icon)
+   - Menubar (menu icon)
+   - Advanced (gear icon with a wrench), which is currently highlighted, indicating that the advanced settings are being viewed.
+   - About (information icon)
+
+3. Quit Button: At the top right corner, there's a "Quit" button that likely exits the settings window or the application itself.
+
+4. Keyboard Settings Section:
+   - Title: The bold title "Keyboard" indicates this section is for keyboard-related settings.
+   
+   - Super Modifier: A text field labeled "Super Modifier" has the "fn" (function) key indicated inside the text field, with a check box next to it labeled "Require for all Gestures," which is currently unchecked. A descriptive text below states, "Use this modifier to perform window gestures on their entire area instead of their titlebar only or on their dock icon. Can be combined with all modifiers below."
+   
+   - Modifier Keys: There are three button-like elements labeled "General," "Screen," and "Secondary," each assigned a respective symbol (caret, 'S', and '2') and an icon indicating a modifier key (up arrow, command symbol, and shift key). A fourth modifier labeled "Tertiary" is also shown with the number '3' and an icon indicating a combined shift + option key. A descriptive text provides context about the functions of these modifier keys like invoking different actions such as fullscreen, closing, spaces, multi-screen actions, and more.
+   
+   - Arrow Hotkeys: A checkbox labeled "Arrow Hotkeys" followed by icons representing arrow keys and "Center" with the "Esc" (escape) key icon. The box is unchecked, and the accompanying text explains that using the super modifier with arrow keys enables snapping, screen, and spaces gestures. The "Center" key is for centering and unsnapping windows.
+
+5. Event Listener Section:
+   - Title: The bold title "Event Listener" at the bottom indicates settings related to how the app listens for events.
+   - Active Event Listener: A checked checkbox labeled "Active Event Listener" with explanatory text beneath it reads, "For a more refined experience, Swish can block scroll, flick, and pinch events in the underlying window during gestures by implementing an active event listener."
+
+Throughout the UI, there's a consistent visual design language with the use of blue color for active or selected items, checkboxes, and highlights, and grey tones for text and inactive elements. The use of iconography next to certain text elements helps convey the purpose or function of each setting. The UI suggests a clean, modern style typical of macOS applications, focusing on accessibility and ease of use.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1560, 948]	[780.0, 474.0]		Swish
+5	1	SplitGroup	[0, 0, 1560, 948]	[780.0, 474.0]		
+43	5	ScrollArea	[0, 104, 300, 844]	[150.0, 526.0]		
+44	43	Table	[0, 104, 300, 844]	[150.0, 526.0]		
+70	44	Row	[0, 104, 300, 72]	[150.0, 140.0]		
+71	70	Cell	[32, 104, 236, 72]	[150.0, 140.0]		
+73	71	Image	[42, 122, 34, 34]	[59.0, 139.0]		|General
+72	71	StaticText	[92, 122, 180, 36]	[182.0, 140.0]	General	
+66	44	Row	[0, 176, 300, 72]	[150.0, 212.0]		
+67	66	Cell	[32, 176, 236, 72]	[150.0, 212.0]		
+69	67	Image	[40, 196, 42, 32]	[61.0, 212.0]		|Windows
+68	67	StaticText	[92, 194, 180, 36]	[182.0, 212.0]	Windows	
+62	44	Row	[0, 248, 300, 72]	[150.0, 284.0]		
+63	62	Cell	[32, 248, 236, 72]	[150.0, 284.0]		
+65	63	Image	[40, 268, 40, 30]	[60.0, 283.0]		|Snapping
+64	63	StaticText	[92, 266, 180, 36]	[182.0, 284.0]	Snapping	
+58	44	Row	[0, 320, 300, 72]	[150.0, 356.0]		
+59	58	Cell	[32, 320, 236, 72]	[150.0, 356.0]		
+61	59	Image	[40, 340, 40, 30]	[60.0, 355.0]		|Apps
+60	59	StaticText	[92, 338, 180, 36]	[182.0, 356.0]	Apps	
+54	44	Row	[0, 392, 300, 72]	[150.0, 428.0]		
+55	54	Cell	[32, 392, 236, 72]	[150.0, 428.0]		
+57	55	Image	[40, 412, 40, 30]	[60.0, 427.0]		|Menubar
+56	55	StaticText	[92, 410, 180, 36]	[182.0, 428.0]	Menubar	
+50	44	Row	[0, 464, 300, 72]	[150.0, 500.0]		
+51	50	Cell	[32, 464, 236, 72]	[150.0, 500.0]		
+53	51	Image	[38, 482, 42, 34]	[59.0, 499.0]		|Advanced
+52	51	StaticText	[92, 482, 180, 36]	[182.0, 500.0]	Advanced	
+46	44	Row	[0, 536, 300, 72]	[150.0, 572.0]		
+47	46	Cell	[32, 536, 236, 72]	[150.0, 572.0]		
+49	47	Image	[44, 556, 32, 32]	[60.0, 572.0]		|About
+48	47	StaticText	[92, 554, 180, 36]	[182.0, 572.0]	About	
+45	44	Column	[20, 104, 260, 844]	[150.0, 526.0]		
+42	5	Splitter	[300, 104, 2, 844]	[301.0, 526.0]	150.0	
+6	5	ScrollArea	[302, 104, 1258, 844]	[931.0, 526.0]		
+41	6	StaticText	[322, 128, 222, 58]	[433.0, 157.0]	Keyboard	
+40	6	StaticText	[322, 226, 200, 34]	[422.0, 243.0]	Super Modifier	
+39	6	Button	[528, 220, 66, 48]	[561.0, 244.0]		fn
+38	6	StaticText	[632, 226, 312, 34]	[788.0, 243.0]	Require for all Gestures	
+37	6	CheckBox	[952, 224, 36, 36]	[970.0, 242.0]	0	
+36	6	StaticText	[322, 276, 1218, 64]	[931.0, 308.0]	Use this modifier to perform window gestures on their entire area instead of their titlebar only or on their dock icon. Can be combined with all modifiers below.	
+35	6	StaticText	[322, 380, 108, 34]	[376.0, 397.0]	General	
+34	6	Image	[434, 384, 26, 30]	[447.0, 399.0]		|GestureModG
+33	6	Button	[470, 374, 64, 48]	[502.0, 398.0]		⌃
+32	6	StaticText	[572, 380, 98, 34]	[621.0, 397.0]	Screen	
+31	6	Image	[676, 384, 26, 30]	[689.0, 399.0]		|GestureModS
+30	6	Button	[712, 374, 66, 48]	[745.0, 398.0]		⌘
+29	6	StaticText	[816, 380, 146, 34]	[889.0, 397.0]	Secondary	
+28	6	Image	[966, 384, 26, 30]	[979.0, 399.0]		|GestureMod2
+27	6	Button	[1002, 374, 66, 48]	[1035.0, 398.0]		⇧
+26	6	StaticText	[1106, 380, 110, 34]	[1161.0, 397.0]	Tertiary	
+25	6	Image	[1220, 384, 26, 30]	[1233.0, 399.0]		|GestureMod3
+24	6	Button	[1256, 374, 94, 48]	[1303.0, 398.0]		⇧ ⌥
+23	6	StaticText	[322, 430, 1218, 64]	[931.0, 462.0]	Perform general functions (fullscreen, closing, spaces, etc.), invoke multi-screen actions, unlock secondary (3×2 snapping, all windows, etc.) and tertiary (3×3 snapping) functionality.	
+22	6	StaticText	[322, 534, 198, 34]	[421.0, 551.0]	Arrow Hotkeys	
+21	6	CheckBox	[528, 532, 36, 36]	[546.0, 550.0]	0	
+20	6	StaticText	[604, 534, 100, 34]	[654.0, 551.0]	Arrows	
+19	6	PopUpButton	[712, 532, 166, 50]	[795.0, 557.0]	←↑↓→	
+18	6	StaticText	[914, 534, 96, 34]	[962.0, 551.0]	Center	
+17	6	PopUpButton	[1016, 532, 122, 50]	[1077.0, 557.0]	Esc	
+16	6	StaticText	[322, 590, 1218, 64]	[931.0, 622.0]	Use the super modifier together with your arrow keys to enable all snapping, screens and spaces gestures. Press the center key to center & unsnap.	
+15	6	StaticText	[322, 720, 326, 58]	[485.0, 749.0]	Event Listener	
+14	6	StaticText	[322, 818, 280, 34]	[462.0, 835.0]	Active Event Listener	
+13	6	CheckBox	[610, 816, 36, 36]	[628.0, 834.0]	1	
+12	6	StaticText	[322, 868, 1218, 64]	[931.0, 900.0]	For a more refined experience, Swish can block scroll, flick and pinch events in the underlying window during gestures by implementing an active event listener.	
+11	6	ScrollBar	[302, 916, 1258, 32]	[931.0, 932.0]	0.0	
+7	6	ScrollBar	[1528, 104, 32, 844]	[1544.0, 526.0]	0.0	
+10	7	ValueIndicator	[1536, 106, 24, 522]	[1548.0, 367.0]	0.0	
+9	7	Button	[1536, 630, 24, 318]	[1548.0, 789.0]		
+8	7	Button	[1536, 104, 24, 2]	[1548.0, 105.0]		
+3	1	Toolbar	[0, 0, 1560, 104]	[780.0, 52.0]		
+4	3	Button	[1448, 0, 96, 104]	[1496.0, 52.0]		|Quit
+2	1	StaticText	[318, 0, 1130, 104]	[883.0, 52.0]	Swish	

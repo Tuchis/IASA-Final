@@ -1,0 +1,163 @@
+The UI interface shown in the image appears to be from a Mac application named "Almighty," which seems to offer a variety of system control and customization options. The interface is divided into a left sidebar and a larger main content area on the right. The design is consistent with macOS's aesthetic, with a clean and structured layout.
+
+Starting from the left, the sidebar contains:
+
+1. A series of icons with labels indicating various system or application categories for configuration. These are:
+   - Finder
+   - Keyboard
+   - Mouse
+   - Photos
+   - Screenshot
+   - Script
+   - Simulator
+   - Status Menu
+   - System (currently selected, highlighted in blue)
+   - Utility
+   - Window
+   - Xcode
+   - Workflows
+   - A star icon labeled "Favorite"
+
+2. In the lower part of the sidebar, three round colored buttons typical of macOS window controls can be seen: red, yellow, and green, used to close, minimize, and maximize the window respectively.
+
+On the right, which represents the main content area divided into individual blocks, each category setting is represented. For this interface, the following blocks can be seen:
+
+1. Auto Plain Text
+   - Icon: A clipboard with a pencil 
+   - Title: "Auto Plain Text"
+   - Description: "Automatically convert copied text to plain text"
+   - Toggle switch: Appears to be inactive (in the off position)
+   - Tags: "System" label and a star icon, possibly indicating this is a favorite or important feature
+
+2. Bluetooth
+   - Icon: A blue diamond with a Bluetooth symbol
+   - Title: "Bluetooth"
+   - Description: "Turn on and off Bluetooth"
+   - System label with gear icon 
+
+3. Clear Clipboard
+   - Icon: Trash bin with a clipboard symbol
+   - Title: "Clear Clipboard"
+   - Description: "Clear contents on system clipboard"
+   - Tags: "System" label and a star icon, possibly indicating this is a favorite or important feature
+   - An arrow symbol, which could denote more options or actions related to the feature
+
+At the top, there is a search field on the right side of the window with the placeholder text "Search".
+
+Note that specific functionality or actions related to individual UI elements (e.g., what occurs when a toggle is switched or a section is selected) cannot be determined from the image alone and would require interactive access to the application or additional documentation.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1800, 900]	[900.0, 450.0]		Almighty
+9	1	Group	[0, 0, 1800, 900]	[900.0, 450.0]		
+10	9	SplitGroup	[0, 0, 1800, 900]	[900.0, 450.0]		
+44	10	Group	[0, 0, 400, 900]	[200.0, 450.0]		
+45	44	ScrollArea	[0, 104, 400, 796]	[200.0, 502.0]		
+50	45	Outline	[0, 104, 400, 796]	[200.0, 502.0]		|Sidebar
+112	50	Row	[0, 0, 400, 22]	[200.0, 11.0]		
+113	112	Cell	[20, 0, 360, 22]	[200.0, 11.0]		
+108	50	Row	[0, 22, 400, 60]	[200.0, 52.0]		
+109	108	Cell	[20, 22, 360, 60]	[200.0, 52.0]		
+111	109	Image	[32, 30, 44, 44]	[54.0, 52.0]		|Effect
+110	109	StaticText	[92, 36, 72, 32]	[128.0, 52.0]	Effect	
+104	50	Row	[0, 82, 400, 60]	[200.0, 112.0]		
+105	104	Cell	[20, 82, 360, 60]	[200.0, 112.0]		
+107	105	Image	[32, 90, 44, 44]	[54.0, 112.0]		|Finder
+106	105	StaticText	[92, 96, 76, 32]	[130.0, 112.0]	Finder	
+100	50	Row	[0, 142, 400, 60]	[200.0, 172.0]		
+101	100	Cell	[20, 142, 360, 60]	[200.0, 172.0]		
+103	101	Image	[32, 150, 44, 44]	[54.0, 172.0]		|Keyboard
+102	101	StaticText	[92, 156, 114, 32]	[149.0, 172.0]	Keyboard	
+96	50	Row	[0, 202, 400, 60]	[200.0, 232.0]		
+97	96	Cell	[20, 202, 360, 60]	[200.0, 232.0]		
+99	97	Image	[32, 210, 44, 44]	[54.0, 232.0]		|Mouse
+98	97	StaticText	[92, 216, 80, 32]	[132.0, 232.0]	Mouse	
+92	50	Row	[0, 262, 400, 60]	[200.0, 292.0]		
+93	92	Cell	[20, 262, 360, 60]	[200.0, 292.0]		
+95	93	Image	[32, 270, 44, 44]	[54.0, 292.0]		|Photos
+94	93	StaticText	[92, 276, 84, 32]	[134.0, 292.0]	Photos	
+88	50	Row	[0, 322, 400, 60]	[200.0, 352.0]		
+89	88	Cell	[20, 322, 360, 60]	[200.0, 352.0]		
+91	89	Image	[32, 330, 44, 44]	[54.0, 352.0]		|Screenshot
+90	89	StaticText	[92, 336, 138, 32]	[161.0, 352.0]	Screenshot	
+84	50	Row	[0, 382, 400, 60]	[200.0, 412.0]		
+85	84	Cell	[20, 382, 360, 60]	[200.0, 412.0]		
+87	85	Image	[32, 390, 44, 44]	[54.0, 412.0]		|Script
+86	85	StaticText	[92, 396, 72, 32]	[128.0, 412.0]	Script	
+80	50	Row	[0, 442, 400, 60]	[200.0, 472.0]		
+81	80	Cell	[20, 442, 360, 60]	[200.0, 472.0]		
+83	81	Image	[32, 450, 44, 44]	[54.0, 472.0]		|Simulator
+82	81	StaticText	[92, 456, 114, 32]	[149.0, 472.0]	Simulator	
+76	50	Row	[0, 502, 400, 60]	[200.0, 532.0]		
+77	76	Cell	[20, 502, 360, 60]	[200.0, 532.0]		
+79	77	Image	[32, 510, 44, 44]	[54.0, 532.0]		|Status Menu
+78	77	StaticText	[92, 516, 152, 32]	[168.0, 532.0]	Status Menu	
+72	50	Row	[0, 562, 400, 60]	[200.0, 592.0]		
+73	72	Cell	[20, 562, 360, 60]	[200.0, 592.0]		
+75	73	Image	[32, 570, 44, 44]	[54.0, 592.0]		|System
+74	73	StaticText	[92, 576, 90, 32]	[137.0, 592.0]	System	
+68	50	Row	[0, 622, 400, 60]	[200.0, 652.0]		
+69	68	Cell	[20, 622, 360, 60]	[200.0, 652.0]		
+71	69	Image	[32, 630, 44, 44]	[54.0, 652.0]		|Utility
+70	69	StaticText	[92, 636, 70, 32]	[127.0, 652.0]	Utility	
+64	50	Row	[0, 682, 400, 60]	[200.0, 712.0]		
+65	64	Cell	[20, 682, 360, 60]	[200.0, 712.0]		
+67	65	Image	[32, 690, 44, 44]	[54.0, 712.0]		|Window
+66	65	StaticText	[92, 696, 96, 32]	[140.0, 712.0]	Window	
+60	50	Row	[0, 742, 400, 60]	[200.0, 772.0]		
+61	60	Cell	[20, 742, 360, 60]	[200.0, 772.0]		
+63	61	Image	[32, 750, 44, 44]	[54.0, 772.0]		|Xcode
+62	61	StaticText	[92, 756, 76, 32]	[130.0, 772.0]	Xcode	
+56	50	Row	[0, 828, 400, 38]	[200.0, 847.0]		
+57	56	Cell	[20, 828, 360, 38]	[200.0, 847.0]		
+58	57	Group	[28, 828, 368, 38]	[212.0, 847.0]		
+59	58	Heading	[28, 832, 114, 28]	[85.0, 846.0]		|Workflows
+52	50	Row	[0, 866, 400, 34]	[200.0, 883.0]		
+53	52	Cell	[20, 866, 360, 34]	[200.0, 883.0]		
+55	53	StaticText	[32, 876, 40, 24]	[52.0, 888.0]	star	
+54	53	StaticText	[92, 878, 96, 22]	[140.0, 889.0]	Favorite	
+51	50	Column	[20, 0, 360, 900]	[200.0, 450.0]		
+46	45	ScrollBar	[368, 104, 32, 796]	[384.0, 502.0]	0.6577669902912622	
+49	46	ValueIndicator	[376, 370, 24, 388]	[388.0, 564.0]	0.6577669902912622	
+48	46	Button	[376, 760, 24, 138]	[388.0, 829.0]		
+47	46	Button	[376, 104, 24, 266]	[388.0, 237.0]		
+43	10	Splitter	[400, 104, 2, 796]	[401.0, 502.0]	200.0	
+11	10	Group	[402, 0, 1398, 900]	[1101.0, 450.0]		
+12	11	ScrollArea	[402, 104, 1398, 796]	[1101.0, 502.0]		
+17	12	OpaqueProviderGroup	[770, 136, 660, 764]	[1100.0, 518.0]		
+35	17	Group	[770, 136, 660, 220]	[1100.0, 246.0]		
+42	35	StaticText	[788, 154, 60, 60]	[818.0, 184.0]	📭	
+41	35	StaticText	[864, 154, 180, 32]	[954.0, 170.0]	Auto Plain Text	
+40	35	StaticText	[864, 188, 442, 26]	[1085.0, 201.0]	Automatically convert copied text to plain text	
+39	35	CheckBox	[1336, 162, 76, 44]	[1374.0, 184.0]	0	
+38	35	Image	[788, 294, 44, 44]	[810.0, 316.0]		|System
+37	35	StaticText	[840, 302, 72, 26]	[876.0, 315.0]	System	
+36	35	StaticText	[928, 302, 32, 28]	[944.0, 316.0]	star	
+27	17	Group	[770, 388, 660, 220]	[1100.0, 498.0]		
+34	27	StaticText	[788, 406, 60, 60]	[818.0, 436.0]	🔷	
+33	27	StaticText	[864, 406, 118, 32]	[923.0, 422.0]	Bluetooth	
+32	27	StaticText	[864, 440, 246, 26]	[987.0, 453.0]	Turn on and off Bluetooth	
+31	27	CheckBox	[1336, 414, 76, 44]	[1374.0, 436.0]	1	
+30	27	Image	[1384, 424, 14, 24]	[1391.0, 436.0]		|Flash
+29	27	Image	[788, 546, 44, 44]	[810.0, 568.0]		|System
+28	27	StaticText	[840, 554, 72, 26]	[876.0, 567.0]	System	
+19	17	Group	[770, 640, 660, 220]	[1100.0, 750.0]		
+26	19	StaticText	[788, 658, 60, 60]	[818.0, 688.0]	🚿	
+25	19	StaticText	[864, 658, 188, 32]	[958.0, 674.0]	Clear Clipboard	
+24	19	StaticText	[864, 692, 342, 26]	[1035.0, 705.0]	Clear contents on system clipboard	
+23	19	Button	[1344, 670, 52, 28]	[1370.0, 684.0]		|Flash
+22	19	Image	[788, 798, 44, 44]	[810.0, 820.0]		|System
+21	19	StaticText	[840, 806, 72, 26]	[876.0, 819.0]	System	
+20	19	StaticText	[928, 806, 32, 28]	[944.0, 820.0]	star	
+18	17	Group	[770, 892, 660, 8]	[1100.0, 896.0]		
+13	12	ScrollBar	[1768, 104, 32, 796]	[1784.0, 502.0]	0.0	
+16	13	ValueIndicator	[1776, 106, 24, 152]	[1788.0, 182.0]	0.0	
+15	13	Button	[1776, 258, 24, 640]	[1788.0, 578.0]		
+14	13	Button	[1776, 104, 24, 2]	[1788.0, 105.0]		
+3	1	Toolbar	[0, 0, 1800, 104]	[900.0, 52.0]		
+7	3	Button	[418, 0, 84, 104]	[460.0, 52.0]		|Split View Horizontally Left
+8	7	Button	[436, 28, 46, 36]	[459.0, 46.0]		|Split View Horizontally Left
+4	3	Group	[1118, 0, 666, 104]	[1451.0, 52.0]		
+5	4	TextField	[1124, 22, 654, 62]	[1451.0, 53.0]		
+6	5	Button	[1128, 30, 50, 44]	[1153.0, 52.0]		|Search
+2	1	StaticText	[502, 0, 616, 104]	[810.0, 52.0]	Almighty	

@@ -1,0 +1,47 @@
+The UI interface shown in the image appears to be from a Mac application named "Almighty," which seems to offer a variety of system control and customization options. The interface is divided into a left sidebar and a larger main content area on the right. The design is consistent with macOS's aesthetic, with a clean and structured layout.
+
+Starting from the left, the sidebar contains:
+
+1. A series of icons with labels indicating various system or application categories for configuration. These are:
+   - Finder
+   - Keyboard
+   - Mouse
+   - Photos
+   - Screenshot
+   - Script
+   - Simulator
+   - Status Menu
+   - System (currently selected, highlighted in blue)
+   - Utility
+   - Window
+   - Xcode
+   - Workflows
+   - A star icon labeled "Favorite"
+
+2. In the lower part of the sidebar, three round colored buttons typical of macOS window controls can be seen: red, yellow, and green, used to close, minimize, and maximize the window respectively.
+
+On the right, which represents the main content area divided into individual blocks, each category setting is represented. For this interface, the following blocks can be seen:
+
+1. Auto Plain Text
+   - Icon: A clipboard with a pencil 
+   - Title: "Auto Plain Text"
+   - Description: "Automatically convert copied text to plain text"
+   - Toggle switch: Appears to be inactive (in the off position)
+   - Tags: "System" label and a star icon, possibly indicating this is a favorite or important feature
+
+2. Bluetooth
+   - Icon: A blue diamond with a Bluetooth symbol
+   - Title: "Bluetooth"
+   - Description: "Turn on and off Bluetooth"
+   - System label with gear icon 
+
+3. Clear Clipboard
+   - Icon: Trash bin with a clipboard symbol
+   - Title: "Clear Clipboard"
+   - Description: "Clear contents on system clipboard"
+   - Tags: "System" label and a star icon, possibly indicating this is a favorite or important feature
+   - An arrow symbol, which could denote more options or actions related to the feature
+
+At the top, there is a search field on the right side of the window with the placeholder text "Search".
+
+Note that specific functionality or actions related to individual UI elements (e.g., what occurs when a toggle is switched or a section is selected) cannot be determined from the image alone and would require interactive access to the application or additional documentation.

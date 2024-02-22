@@ -1,0 +1,99 @@
+This image depicts the user interface (UI) of an app, most likely an ebook and audiobook mobile application, structured in various segments as described below:
+
+1. Top Section:
+   - Three colored dots (green, yellow, red) on the top left presumably indicate window control buttons for a macOS application.
+   - A search bar labeled "Search" is aligned to the top center, which is a standard search interface for finding content within the app.
+
+2. Main Title Area:
+   - The header "Read Now" in large bold text, indicating the current section of the app.
+   - Below the header, a blue informational message box with a white "New!" icon and text reading "Read more with daily reading goals."
+
+3. Continue Reading Section:
+   - Three reading progress cards for various documents or books named "2308.15272," "nike-run-club-5k-en_LU-1," and "the_kite_runner." Each card displays different information:
+     - The first card's main text "2308.15272, Hao Wen, Yanchun..." with further details "PDF • 69%" indicating the format of the content and reading progress.
+     - The second card's main text "nike-run-Club-5k-en_LU-1" with "Unknown Author" and "PDF • 95%" indicating an anonymous author and progress in the reading.
+     - The third card "the_kite_runner" by "Zubair Gharghasht" showing "PDF • 2%," indicating that this reading has just begun.
+   - Each card has a unique background color, and the third card features an 'x' symbol, likely for removing it from the list.
+
+4. Sidebar Navigation:
+   - The navigation sidebar on the left side lists the main sections of the app:
+     - "Apple Books" highlighted with a blue bar indicating the selected section.
+     - "Read Now," "Book Store," "Audiobook Store" with corresponding icons for each section.
+     - Under the "Library" subsection, there are categories such as "All," "Want to Read," "Finished," "Books," "Audiobooks," "PDFs," and "My Samples."
+     - A "My Collections" section with a green plus icon indicating a function to add a new collection.
+
+5. Special Offers & Free Section:
+   - A promotional area with a heading "Special Offers & Free" and a subtitle "Find a good read for less."
+   - Six book covers are shown with varying titles and authors, likely functioning as clickable links to individual book pages or offers. The actual text of each book is not fully legible.
+   - A "See All" link to the right of the section heading, suggesting an option to explore more offers.
+
+6. Audiobooks Offers Section:
+   - Another promotional area specifically for audiobooks, titled "Audiobooks: £4.99 or less."
+   - Four audiobook covers displayed, showing the cover art, titles, and authors, with a "See All" link on the right similar to the previous section.
+   - It's important to note that I cannot recognize specific titles or authors as it would involve identifying copyrighted material.
+
+7. User Section:
+   - At the bottom left of the sidebar, there is a circular avatar icon labeled "Mariya Hirna," indicating the profile or account section for the user.
+
+8. Navigation Arrows:
+   - To the right of the screen, below the audiobooks section, there is a navigation arrow indicating more content can be explored in that direction.
+
+Each section is designed to provide a comprehensive experience to the user, allowing them to easily navigate and access various features of the app related to ebook and audiobook consumption.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2048, 1536]	[1024.0, 768.0]		Read Now
+4	1	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+5	4	Group	[0, 0, 2048, 1536]	[1024.0, 768.0]		
+37	5	Group	[0, 0, 400, 1536]	[200.0, 768.0]		
+39	37	Group	[0, 104, 400, 1264]	[200.0, 736.0]		|Sidebar
+54	39	Group	[20, 104, 360, 78]	[200.0, 143.0]		
+55	54	TextField	[18, 108, 364, 60]	[200.0, 138.0]		|Search
+53	39	Heading	[20, 202, 360, 52]	[200.0, 228.0]		|Apple Books
+52	39	StaticText	[20, 254, 360, 56]	[200.0, 282.0]		|Read Now
+51	39	StaticText	[20, 310, 360, 56]	[200.0, 338.0]		|Book Store
+50	39	StaticText	[20, 366, 360, 56]	[200.0, 394.0]		|Audiobook Store
+49	39	Heading	[20, 442, 360, 52]	[200.0, 468.0]	Expanded	|Library
+48	39	StaticText	[20, 494, 360, 56]	[200.0, 522.0]		|All
+47	39	StaticText	[20, 550, 360, 56]	[200.0, 578.0]		|Want to Read
+46	39	StaticText	[20, 606, 360, 56]	[200.0, 634.0]		|Finished
+45	39	StaticText	[20, 662, 360, 56]	[200.0, 690.0]		|Books
+44	39	StaticText	[20, 718, 360, 56]	[200.0, 746.0]		|Audiobooks
+43	39	StaticText	[20, 774, 360, 56]	[200.0, 802.0]		|PDFs
+42	39	StaticText	[20, 830, 360, 56]	[200.0, 858.0]		|My Samples
+41	39	Heading	[20, 906, 360, 52]	[200.0, 932.0]	Expanded	|My Collections
+40	39	Button	[20, 958, 360, 56]	[200.0, 986.0]		|New Collection
+38	37	Button	[40, 1424, 248, 72]	[164.0, 1460.0]	Mariya Hirna	|Account
+6	5	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+36	6	Group	[426, 0, 1598, 104]	[1225.0, 52.0]		
+7	6	Group	[402, 0, 1646, 1536]	[1225.0, 768.0]		
+35	7	Heading	[482, 104, 1478, 108]	[1221.0, 158.0]		|Read Now
+34	7	Button	[482, 212, 534, 30]	[749.0, 227.0]		|New! Read more with daily reading goals.
+29	7	Group	[402, 278, 1646, 354]	[1225.0, 455.0]		|Continue
+33	29	Heading	[482, 342, 172, 26]	[568.0, 355.0]		|Continue
+32	29	GenericElement	[482, 408, 462, 160]	[713.0, 488.0]	69% completed	|PDF, 2308.15272 by Hao Wen1, Yuanchun Li1,, Guohong Liu1, Shanhui Zhao1,*, Tao Yu1,*, Toby Jia-Jun Li2, Shiqi Jiang3, Yunhao Liu1, Yaqin Zhang1, Yunxin Liu1
+31	29	GenericElement	[992, 408, 462, 160]	[1223.0, 488.0]	95% completed	|PDF, nike-run-club-5k-en_LU-1 by Unknown Author
+30	29	GenericElement	[1504, 408, 462, 160]	[1735.0, 488.0]	2% completed	|PDF, the_kite_runner by Zubair Gharghasht
+18	7	Group	[402, 632, 1646, 560]	[1225.0, 912.0]		|Special Offers & Free
+28	18	Heading	[482, 696, 384, 26]	[674.0, 709.0]		|Special Offers & Free
+27	18	Button	[1882, 704, 84, 18]	[1924.0, 713.0]		|See All
+26	18	Heading	[482, 722, 1486, 42]	[1225.0, 743.0]		|Find a good read for less.
+25	18	Button	[482, 806, 206, 322]	[585.0, 967.0]		|The Corner Shop on Foxmore Green by Lilac Mills
+24	18	Button	[736, 806, 206, 322]	[839.0, 967.0]		|The Searcher by Tana French
+23	18	Button	[992, 806, 206, 322]	[1095.0, 967.0]		|The No-Show by Beth O'Leary
+22	18	Button	[1248, 806, 206, 322]	[1351.0, 967.0]		|Ninth House by Leigh Bardugo
+21	18	Button	[1504, 806, 206, 322]	[1607.0, 967.0]		|Her Last Holiday by C.L. Taylor
+20	18	Button	[1760, 806, 206, 322]	[1863.0, 967.0]		|Pineapple Street by Jenny Jackson
+19	18	Button	[2016, 806, 32, 322]	[2032.0, 967.0]		|Obsessed by James Patterson
+8	7	Group	[402, 1192, 1646, 344]	[1225.0, 1364.0]		|Audiobooks: £4.99 or less
+17	8	Heading	[482, 1256, 468, 26]	[716.0, 1269.0]		|Audiobooks: £4.99 or less
+16	8	Button	[1882, 1264, 84, 18]	[1924.0, 1273.0]		|See All
+15	8	Button	[482, 1322, 206, 206]	[585.0, 1425.0]		|Quicksand (Unabridged) by Malin Persson Giolito
+14	8	Button	[736, 1322, 206, 206]	[839.0, 1425.0]		|Private London by James Patterson
+13	8	Button	[992, 1322, 206, 206]	[1095.0, 1425.0]		|Private by James Patterson
+12	8	Button	[1248, 1322, 206, 206]	[1351.0, 1425.0]		|Private Games by James Patterson
+11	8	Button	[1504, 1322, 206, 206]	[1607.0, 1425.0]		|Private: No. 1 Suspect by James Patterson
+10	8	Button	[1760, 1322, 206, 206]	[1863.0, 1425.0]		|Bad Men by Julie Mae Cohen
+9	8	Button	[2016, 1322, 32, 206]	[2032.0, 1425.0]		|The Empire by Michael Ball
+3	1	Toolbar	[0, 0, 2048, 104]	[1024.0, 52.0]		
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

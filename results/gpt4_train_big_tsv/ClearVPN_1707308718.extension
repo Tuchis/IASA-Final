@@ -1,0 +1,63 @@
+The UI interface in the image appears to be from a VPN application, which is used to establish a secure and private connection over the internet, often to access geo-restricted content. The UI is structured into various sections, which are:
+
+1. Top Header Section:
+   - On the upper left, there is a location indicator that reads "YOU'RE HERE NOW" followed by "Czechia" and an IP address "91.139.84.198", suggesting that the VPN connection is currently set to Czechia.
+   - On the upper right, we have a toggle with "VPN CONNECTION" and a button that says "Off". Next to it is a button to turn this connection on or off, depicted with a circular outline and an icon resembling a power button.
+
+2. Upper Middle Section:
+   - On the left side, there is a "Back" button with a leftward pointing arrow, indicating it will take the user to the previous screen.
+   - Centered is a large icon representing streaming, which is a play button surrounded by a circular progress or volume control, emphasizing the app's feature for streaming services.
+
+3. Lower Middle Section:
+   - The main central portion of the screen is dedicated to answering the question "What do you want to watch?". Below this text, there's a list of streaming services with corresponding icons:
+      - AmazonPrime US (with a Prime Video icon)
+      - AmazonPrime UK (with a Prime Video icon)
+      - BBC iPlayer (with the BBC iPlayer icon)
+      - Britbox (with the BritBox icon)
+      - Crackle (with the Crackle icon)
+      - Crave (with the Crave icon)
+      - Disney+ US (with the Disney+ icon)
+   - This section suggests the user can select from these various streaming services to watch.
+
+4. Bottom Section:
+   - On the left bottom corner, there's a gear/cogwheel icon, likely indicating access to settings or preferences.
+   - On the right bottom, there is some text: "Streaming - Watch shows on your favorite streaming service with this smart VPN tool." This text is further descriptive of the function of the app in relation to streaming services.
+
+The design uses purple tones and is clean, with large clickable elements which suggest a touch interface or a tablet/mobile app design. Each streaming service is listed with a button that probably connects the VPN to a server that works best with the selected streaming service.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Group	[0, 0, 1600, 1280]	[800.0, 640.0]		
+34	1	Image	[610, 148, 32, 24]	[626.0, 160.0]		|CZ
+33	1	StaticText	[658, 148, 90, 24]	[703.0, 160.0]	Czechia	
+32	1	StaticText	[96, 170, 192, 20]	[192.0, 180.0]	YOU'RE HERE NOW	
+31	1	StaticText	[850, 170, 184, 20]	[942.0, 180.0]	VPN CONNECTION	
+30	1	StaticText	[1380, 168, 34, 24]	[1397.0, 180.0]	Off	
+29	1	StaticText	[604, 188, 146, 24]	[677.0, 200.0]	91.139.84.198	
+28	1	Button	[1440, 156, 64, 48]	[1472.0, 180.0]		|reportFlag
+27	1	Button	[48, 292, 156, 48]	[126.0, 316.0]		|Back
+26	1	StaticText	[624, 350, 382, 28]	[815.0, 364.0]	What do you want to watch?	
+25	1	Image	[48, 404, 240, 240]	[168.0, 524.0]		
+24	1	StaticText	[48, 698, 174, 36]	[135.0, 716.0]	Streaming	
+23	1	StaticText	[48, 760, 478, 56]	[287.0, 788.0]	Watch shows on your favorite streaming service with this smart VPN tool.	
+22	1	Button	[56, 1160, 48, 48]	[80.0, 1184.0]		|settings_icon
+2	1	ScrollArea	[624, 420, 880, 796]	[1064.0, 818.0]		
+3	2	OpaqueProviderGroup	[656, 336, 282, 944]	[797.0, 808.0]		
+21	3	Image	[656, 336, 64, 64]	[688.0, 368.0]		
+20	3	StaticText	[736, 356, 194, 24]	[833.0, 368.0]	Amazon FreeVee	
+19	3	Image	[656, 448, 64, 64]	[688.0, 480.0]		
+18	3	StaticText	[736, 468, 198, 24]	[835.0, 480.0]	AmazonPrime US	
+17	3	Image	[656, 560, 64, 64]	[688.0, 592.0]		
+16	3	StaticText	[736, 580, 202, 24]	[837.0, 592.0]	AmazonPrime UK	
+15	3	Image	[656, 672, 64, 64]	[688.0, 704.0]		
+14	3	StaticText	[736, 692, 136, 24]	[804.0, 704.0]	BBC iPlayer	
+13	3	Image	[656, 784, 64, 64]	[688.0, 816.0]		
+12	3	StaticText	[736, 804, 86, 24]	[779.0, 816.0]	Britbox	
+11	3	Image	[656, 896, 64, 64]	[688.0, 928.0]		
+10	3	StaticText	[736, 916, 90, 24]	[781.0, 928.0]	Crackle	
+9	3	Image	[656, 1008, 64, 64]	[688.0, 1040.0]		
+8	3	StaticText	[736, 1028, 68, 24]	[770.0, 1040.0]	Crave	
+7	3	Image	[656, 1120, 64, 64]	[688.0, 1152.0]		
+6	3	StaticText	[736, 1140, 130, 24]	[801.0, 1152.0]	Disney+ US	
+5	3	Image	[656, 1232, 64, 48]	[688.0, 1256.0]		
+4	3	StaticText	[736, 1252, 132, 24]	[802.0, 1264.0]	Disney+ UK	

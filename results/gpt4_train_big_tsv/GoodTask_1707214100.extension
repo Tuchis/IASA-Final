@@ -1,0 +1,156 @@
+The image displays a user interface of a task management or reminder application. The UI elements are split into several regions and offer various functionalities:
+
+**Top-left window controls:**
+- Three dots for window management (red, yellow, green).
+
+**Left sidebar - Smart Lists and Lists:**
+- "Smart Lists" dropdown menu with a chevron icon to expand or collapse.
+- A series of predefined list filters:
+  - "All Lists" with a checkmark icon and the number "2" to signify item count.
+  - "Today" with a calendar icon and the number "0" indicating there are no tasks for today.
+  - "High Priorities" with a warning triangle icon and the number "0".
+  - "Overdue" with a warning exclamation mark and the number "1" hinting at one overdue task.
+  - "Within 3 days" with what appears to be a calendar icon and the number "1".
+  - "Recent" with a star icon and the number "2".
+  - "#Later" with a marker or tag icon and the number "0".
+  - "5 Scheduled tasks" with a numbered list icon and the number "2".
+  - "10 Recently Completed Tasks" with a checkmark box icon and the number "0".
+- "Lists" dropdown menu with a chevron and one user-defined list:
+  - "Reminders" with a list icon and the number "2".
+
+**Bottom-left toolbar:**
+- A "+" button for adding new items.
+- Buttons that seem to be for action or view options (unlabeled), styled with icons: pencil, 'greater than' arrow, number '6', right double-arrow, and three vertical dots suggesting additional options or settings.
+
+**Central pane - Tasks summary:**
+- At the top of this pane, there are three segments:
+  - "0" which indicates the number of tasks in this category.
+  - "Later" which is presumably the selected list or filter name.
+  - "1" possibly indicating the number of tasks without due dates.
+- Underneath this header, there is a task entry:
+  - A circular checkbox indicating an incomplete task.
+  - The task name "dinner".
+  - To the right of the task name, the due date and time "Sun, 18 February, 19:00" with a checkmark suggesting it's scheduled or confirmed.
+
+**Bottom-right toolbar:**
+- A "+" button, likely for adding new tasks under the "Reminders" category.
+
+Please note that the interpretation of icons is based on common UI conventions and their appearance in the image.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1562, 1000]	[781.0, 500.0]		GoodTask
+9	1	SplitGroup	[0, 0, 1562, 1000]	[781.0, 500.0]		
+115	9	Button	[24, 930, 40, 70]	[44.0, 965.0]		|add
+114	9	Button	[294, 936, 28, 64]	[308.0, 968.0]		|Goals
+113	9	Button	[344, 936, 28, 64]	[358.0, 968.0]		|Reports
+112	9	StaticText	[392, 958, 52, 28]	[418.0, 972.0]	6	
+111	9	Button	[394, 936, 44, 64]	[416.0, 968.0]		|Today Page
+110	9	Button	[462, 936, 28, 64]	[476.0, 968.0]		|Next
+109	9	Button	[512, 932, 24, 68]	[524.0, 966.0]		|Preferences
+46	9	ScrollArea	[0, 76, 560, 860]	[280.0, 506.0]		
+47	46	Table	[0, 76, 560, 860]	[280.0, 506.0]		
+104	47	Row	[0, 76, 560, 70]	[280.0, 111.0]		
+105	104	Cell	[32, 76, 496, 70]	[280.0, 111.0]		
+108	105	StaticText	[44, 106, 136, 28]	[112.0, 120.0]	Smart Lists	
+107	105	Image	[472, 106, 40, 40]	[492.0, 126.0]		|ListGroupArrow
+106	105	Button	[414, 102, 100, 40]	[464.0, 122.0]		
+99	47	Row	[0, 146, 560, 50]	[280.0, 171.0]		
+100	99	Cell	[32, 146, 496, 50]	[280.0, 171.0]		
+103	100	Image	[32, 140, 66, 66]	[65.0, 173.0]		|ListIconAll2
+102	100	StaticText	[94, 154, 396, 32]	[292.0, 170.0]	All Lists	
+101	100	StaticText	[490, 154, 24, 32]	[502.0, 170.0]	2	
+94	47	Row	[0, 196, 560, 50]	[280.0, 221.0]		
+95	94	Cell	[32, 196, 496, 50]	[280.0, 221.0]		
+98	95	Image	[32, 184, 66, 76]	[65.0, 222.0]		|favorite
+97	95	StaticText	[94, 204, 394, 32]	[291.0, 220.0]	Today	
+96	95	StaticText	[488, 204, 24, 32]	[500.0, 220.0]	0	
+89	47	Row	[0, 246, 560, 50]	[280.0, 271.0]		
+90	89	Cell	[32, 246, 496, 50]	[280.0, 271.0]		
+93	90	Image	[32, 234, 66, 76]	[65.0, 272.0]		|warning
+92	90	StaticText	[94, 254, 394, 32]	[291.0, 270.0]	High Priorities	
+91	90	StaticText	[488, 254, 24, 32]	[500.0, 270.0]	0	
+84	47	Row	[0, 296, 560, 50]	[280.0, 321.0]		
+85	84	Cell	[32, 296, 496, 50]	[280.0, 321.0]		
+88	85	Image	[32, 282, 66, 78]	[65.0, 321.0]		|Flame
+87	85	StaticText	[94, 304, 400, 32]	[294.0, 320.0]	Overdue	
+86	85	StaticText	[494, 304, 20, 32]	[504.0, 320.0]	1	
+79	47	Row	[0, 346, 560, 50]	[280.0, 371.0]		
+80	79	Cell	[32, 346, 496, 50]	[280.0, 371.0]		
+83	80	Image	[32, 334, 66, 74]	[65.0, 371.0]		|calendar
+82	80	StaticText	[94, 354, 400, 32]	[294.0, 370.0]	Within 3 days	
+81	80	StaticText	[494, 354, 20, 32]	[504.0, 370.0]	1	
+74	47	Row	[0, 396, 560, 50]	[280.0, 421.0]		
+75	74	Cell	[32, 396, 496, 50]	[280.0, 421.0]		
+78	75	Image	[32, 380, 66, 80]	[65.0, 420.0]		|sparkle
+77	75	StaticText	[94, 404, 396, 32]	[292.0, 420.0]	Recent	
+76	75	StaticText	[490, 404, 24, 32]	[502.0, 420.0]	2	
+69	47	Row	[0, 446, 560, 50]	[280.0, 471.0]		
+70	69	Cell	[32, 446, 496, 50]	[280.0, 471.0]		
+73	70	Image	[32, 434, 66, 74]	[65.0, 471.0]		|Inbox Full
+72	70	StaticText	[94, 454, 394, 32]	[291.0, 470.0]	#Later	
+71	70	StaticText	[488, 454, 24, 32]	[500.0, 470.0]	0	
+64	47	Row	[0, 496, 560, 50]	[280.0, 521.0]		
+65	64	Cell	[32, 496, 496, 50]	[280.0, 521.0]		
+68	65	Image	[32, 484, 66, 76]	[65.0, 522.0]		|
+67	65	StaticText	[94, 504, 396, 32]	[292.0, 520.0]	5 Scheduled tasks	
+66	65	StaticText	[490, 504, 24, 32]	[502.0, 520.0]	2	
+59	47	Row	[0, 546, 560, 50]	[280.0, 571.0]		
+60	59	Cell	[32, 546, 496, 50]	[280.0, 571.0]		
+63	60	Image	[32, 534, 66, 74]	[65.0, 571.0]		|archive
+62	60	StaticText	[94, 554, 394, 32]	[291.0, 570.0]	10 Recently Completed Tasks	
+61	60	StaticText	[488, 554, 24, 32]	[500.0, 570.0]	0	
+54	47	Row	[0, 596, 560, 70]	[280.0, 631.0]		
+55	54	Cell	[32, 596, 496, 70]	[280.0, 631.0]		
+58	55	StaticText	[44, 626, 62, 28]	[75.0, 640.0]	Lists	
+57	55	Image	[472, 626, 40, 40]	[492.0, 646.0]		|ListGroupArrow
+56	55	Button	[414, 622, 100, 40]	[464.0, 642.0]		
+49	47	Row	[0, 666, 560, 50]	[280.0, 691.0]		
+50	49	Cell	[32, 666, 496, 50]	[280.0, 691.0]		
+53	50	Image	[32, 660, 66, 66]	[65.0, 693.0]		|
+52	50	StaticText	[94, 674, 396, 32]	[292.0, 690.0]	Reminders	
+51	50	StaticText	[490, 674, 24, 32]	[502.0, 690.0]	2	
+48	47	Column	[20, 76, 520, 860]	[280.0, 506.0]		
+45	9	Splitter	[560, 76, 2, 924]	[561.0, 538.0]	280.0	
+10	9	Group	[562, 0, 1000, 1000]	[1062.0, 500.0]		
+12	10	ScrollArea	[562, 76, 1000, 884]	[1062.0, 518.0]		
+17	12	List	[0, 76, 1562, 884]	[781.0, 518.0]		
+18	17	List	[0, 96, 1562, 820]	[781.0, 506.0]		
+44	18	Group	[0, 96, 1562, 820]	[781.0, 506.0]		
+37	18	Group	[0, 96, 666, 820]	[333.0, 506.0]		
+41	37	ScrollArea	[0, 196, 656, 610]	[328.0, 501.0]		
+42	41	Table	[0, 196, 656, 610]	[328.0, 501.0]		
+43	42	Column	[0, 196, 656, 610]	[328.0, 501.0]		
+40	37	StaticText	[0, 122, 594, 38]	[297.0, 141.0]	Tomorrow  Wed, 7 February	
+39	37	StaticText	[606, 122, 28, 38]	[620.0, 141.0]	0	
+38	37	Button	[288, 844, 56, 64]	[316.0, 876.0]		
+24	18	Group	[706, 96, 700, 820]	[1056.0, 506.0]		
+28	24	ScrollArea	[716, 196, 680, 610]	[1056.0, 501.0]		
+29	28	Table	[716, 196, 680, 610]	[1056.0, 501.0]		
+31	29	Row	[716, 196, 680, 88]	[1056.0, 240.0]		
+32	31	Cell	[728, 196, 656, 88]	[1056.0, 240.0]		
+36	32	Button	[740, 196, 88, 88]	[784.0, 240.0]		|Check
+35	32	StaticText	[830, 220, 256, 38]	[958.0, 239.0]	dinner 	
+34	32	StaticText	[1086, 226, 256, 28]	[1214.0, 240.0]	Sun, 18 February, 19:00	
+33	32	Image	[1346, 226, 22, 28]	[1357.0, 240.0]		|
+30	29	Column	[716, 196, 680, 610]	[1056.0, 501.0]		
+27	24	StaticText	[738, 122, 602, 38]	[1039.0, 141.0]	Later	
+26	24	StaticText	[1352, 122, 22, 38]	[1363.0, 141.0]	1	
+25	24	Button	[1028, 844, 56, 64]	[1056.0, 876.0]		
+19	18	Group	[1446, 96, 116, 820]	[1504.0, 506.0]		
+21	19	ScrollArea	[1456, 196, 106, 610]	[1509.0, 501.0]		
+22	21	Table	[1456, 196, 106, 610]	[1509.0, 501.0]		
+23	22	Column	[1456, 196, 106, 610]	[1509.0, 501.0]		
+20	19	StaticText	[1478, 122, 84, 38]	[1520.0, 141.0]	No Due Date	
+13	12	ScrollBar	[562, 928, 1000, 32]	[1062.0, 944.0]	0.688	
+16	13	ValueIndicator	[1020, 936, 332, 24]	[1186.0, 948.0]	0.688	
+15	13	Button	[1352, 936, 208, 24]	[1456.0, 948.0]		
+14	13	Button	[562, 936, 458, 24]	[791.0, 948.0]		
+11	10	StaticText	[994, 964, 136, 32]	[1062.0, 980.0]	Reminders	
+2	1	Toolbar	[0, 0, 1562, 76]	[781.0, 38.0]		
+8	2	Button	[152, 0, 72, 76]	[188.0, 38.0]		|Toggle List View
+7	2	Button	[224, 0, 68, 76]	[258.0, 38.0]		|Search
+6	2	Button	[588, 0, 80, 76]	[628.0, 38.0]		|Toggle View
+5	2	Button	[668, 0, 80, 76]	[708.0, 38.0]		|Show Hide Completed
+4	2	Button	[748, 0, 66, 76]	[781.0, 38.0]		|Share
+3	2	Button	[814, 0, 64, 76]	[846.0, 38.0]		|Add New Task

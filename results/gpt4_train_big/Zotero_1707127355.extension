@@ -1,0 +1,44 @@
+This image depicts a user interface (UI) of what appears to be a reference management application, possibly for organizing research papers and documents. The UI is divided into three main sections: the navigation sidebar on the left, the toolbar at the top, and the content area in the center and right.
+
+**Navigation Sidebar:**
+- On the top of the sidebar, there is a drop-down button (the icon looks like a collection of books or folders) and a gear icon that commonly represents settings or options.
+- Below this is a section titled "My Library," which is expanded to show several subfolders or categories:
+  - Few-Shot
+  - IQT
+  - MRI
+  - MRI_IQT
+  - OxfordML
+    - Papers
+      - Cancer
+      - Mental Health
+    - Representation Learning (highlighted in blue, indicating it is the currently selected category)
+    - ReviewThesis
+    - Thesis
+    - ThesisExamples
+    - My Publications
+    - Duplicate Items
+    - Unfiled Items
+    - Bin
+- At the bottom of the sidebar, there are the words "No tags to display" which suggest a tagging functionality within the app that is not currently being used or there are no tags present for the currently selected category.
+
+**Toolbar:**
+- The toolbar consists of several buttons which are likely to be for interacting with documents or the library. From left to right:
+  - Back and Forward navigation arrows (triangle-shaped icons)
+  - A plus icon, often used for adding new items
+  - A pencil icon, usually for editing
+  - Four squares that could represent a layout change or viewing options
+  - A magnifying glass icon for search functionality
+  - A search field with the placeholder text "All Fields & Tags," suggesting the user can search through all metadata and tags associated with the documents.
+  - A series of filter or sorting buttons, indicated by various icons like funnels and lines.
+  - Two circular arrows, which are typically used to indicate a sync or refresh action
+  - An exclamation mark inside a triangle, which is a common symbol for warnings or errors
+
+**Content Area:**
+- The middle and right sections of the interface display a list of documents within the 'Representation Learning' category. Each entry in the list has:
+  - A PDF icon, suggesting that the documents are in PDF format
+  - The title of the document, such as "2106.13884.pdf", "0701907.pdf", "marr (1978) representation and recognition of...", "Samuel.pdf", and "science.pdf".
+  - An 'X' icon to the right of each document title, likely for removing or deleting the document from the category or library.
+  - A column for "Title" and another for "Creator", indicating that the list can be organized by these attributes. However, the 'Creator' column is empty for all listed documents.
+  - At the very bottom right of the content area, it says "5 items in this view," which tells us that there are five documents listed under the current view or category.
+
+To the bottom left corner of the UI, there is a search bar that seems to be a secondary or global search feature, indicated by a magnifying glass icon and three horizontal lines which could represent filter or sorting options for the search results.

@@ -1,0 +1,43 @@
+This is the user interface of an app designed for managing and tracking bills. The UI is separated into three main columns with distinct features and functions:
+
+**Left Column:**
+- "Bills" header with subcategories underneath, indicating different filters or sorts for bills:
+  - "Overview" (selected, indicated by a blue highlight) with a small badge showing the number "2", presumably denoting the number of bills under this category.
+  - "Due Soon" with a subtext specifying "1 bill - 270,00 UAH".
+  - "Due This Month" with a subtext specifying "2 bills - 710,00 UAH".
+  - "Paid Recently" with a subtext indicating "No Bills".
+- "Reports" header with a list of report categories:
+  - "Income"
+  - "Forecast"
+  - "Monthly History"
+  - "Annual Spending"
+  - "Archive"
+
+**Middle Column:**
+- A toolbar at the top with:
+  - Navigation buttons (back and forward arrows).
+  - A "+" button, likely to add new items.
+  - An icon that resembles a stack or list, followed by a dropdown menu labeled "All Items".
+  - A search field with a magnifying glass icon.
+- A table showing:
+  - Titles: "Name," "Amount," and "Due Date."
+  - Two entries labeled "Internet" and "Netflix," both described as "Every month".
+  - Corresponding amounts for "Internet" (270,00 UAH) and "Netflix" (440,00 UAH).
+  - Due dates displayed along with colored indicators: "Due today" next to the date "Mon, 5 Feb" for the "Internet" bill and "Due in 15 days" next to the date "Tue, 20 Feb" for the "Netflix" bill.
+
+**Right Column:**
+- A highlighted area indicating that "Netflix" is selected.
+- Information about the Netflix bill:
+  - A statement "Due in 15 days".
+  - The due date specified as "Tuesday, 20 February 2024".
+  - The amount due: "440,00 UAH".
+- Buttons to perform actions related to the bill:
+  - "Log Payment" button.
+  - "Skip" button.
+- Links to additional information:
+  - "View Payment History" with a subtext that says "Never Paid".
+  - "View Statistics" with a subtext also reading "Never Paid".
+- A text area with the prompt "Click to add notes".
+- Two buttons at the bottom of this column, "Archive" and "Edit", for further management of the selected bill.
+
+The user interface suggests that the application is geared toward tracking recurring payments, providing a clear and structured presentation of upcoming and past bill obligations, as well as offering functionality to manage and review payment histories and statistics. The currency used in the UI suggests it is targeted to a region where Ukrainian Hryvnia (UAH) is the currency.

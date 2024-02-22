@@ -1,0 +1,49 @@
+The user interface depicted in the image is from an application named "Swish," specifically focused on the "Windows" settings section. Here is a detailed description of the UI elements visible in the image:
+
+On the top-left side of the window, there are three colored dots typically used for window management on macOS: red, yellow, and green. These represent the close, minimize, and maximize/zoom functionalities respectively.
+
+On the left sidebar, the following sections are listed vertically with corresponding icons:
+
+1. General - represented by a gear icon.
+2. Windows (currently selected) - indicated by a window icon with two overlapping rectangles.
+3. Snapping - displayed as two arrows pointing towards each other.
+4. Apps - shown with a square icon containing smaller squares, resembling a grid of apps.
+5. Menubar - symbolized by a horizontal line with dots, likely representing a menu bar.
+6. Advanced - denoted by a gear icon with a small 'advanced' cogwheel complement.
+7. About - characterized by an information 'i' symbol within a circle.
+
+The main panel on the right contains the following elements:
+
+- Title "Windows":
+  This header indicates the current section of the settings.
+
+- Description text beneath the title:
+  "Control basic functionality by swiping and pinching on window titlebars."
+
+- A checkbox with the label "Mission Control":
+  This is currently checked, which is accompanied by the description, "Most Window and Snapping gestures also work in Mission Control & App Exposé."
+
+- A dropdown selector with "General Modifier" and an up-arrow symbol (^):
+  It suggests that it performs actions when using a general modifier key on the keyboard.
+
+Directly below this, there is a list of actions with associated icons and descriptions:
+
+- "Quit": Indicated by a red circle with a cross (×), shows the shortcut symbol G with a downward arrow and two inward pinching arrows. The text explains, "Pinch in twice to quit an application."
+
+- "Close": Similar to Quit but marked by a singular red circle (×), the shortcut is shown as G with a downward arrow and a singular inward pinching arrow. The description reads, "Pinch in once to close a window."
+
+- "Minimize": An orange circle with a downward arrow, with a shortcut represented by a downward swipe symbol. The accompanying text states, "Swipe down once to minimize a window."
+
+- "Fullscreen": A green circle with two outward arrows, followed by the shortcut which includes the tap symbol and upward swipe. The text instructs, "Pinch out or tap, hold and swipe up to enter or exit fullscreen mode."
+
+- "Hide": A gray circle with a double square symbol, having a shortcut G O and two circular symbols with a number 2 inside. The description says, "Double tap with the general modifier to hide all windows of an application. Use the secondary modifier to hide all other apps."
+
+- "Spaces": Illustrated by a blue square with left and right arrows, the gesture is a tap and swipe with a G and <-> symbols. The detailed instruction suggests, "Tap, hold and swipe or use the general modifier to move a window between Mission Control spaces."
+
+Top-right of the window is a "Quit" button, assumingly to close the application or exit the settings screen.
+
+Each action item also features a checkbox that likely allows the user to enable or disable the corresponding window management gesture. 
+
+Note: Text descriptions of gestures and actions include symbolic representations of keys, gestures, or actions such as various arrows, tap symbols, pinching gestures, and letters which denote specific keys or modifiers on the keyboard.
+
+This interface is designed for configuring gesture-based controls for window management, likely on a Mac system due to the design language and references to Mission Control and App Exposé.

@@ -1,0 +1,31 @@
+The image appears to show a user interface (UI) for an automation or scripting application on a MacOS system. Here's a detailed description of the UI elements presented:
+
+On the top left of the window, there are the standard MacOS window control buttons:
+- Red button: Close the window
+- Yellow button: Minimize the window
+- Green button: Enter full-screen mode or maximize the window 
+
+Just below these buttons, there is a navigation sidebar divided into three sections:
+1. **Favorites** - With icons representing tools (Screenshot, Script, Simulator, Status Menu, System, Utility, Window, Xcode) and a starred item named "Favorite."
+2. **Workflows** - It has just one item named "Favorite" with a star icon next to it.
+3. **Settings** - With two items listed: 
+   - A bolt icon followed by the word "Automation," which is highlighted in blue, indicating that it's currently selected.
+   - A gear icon followed by the word "Settings."
+
+At the top of the main panel, on the right side of the window, there is a search bar with a magnifying glass icon suggesting search functionality. Next to it, there's the title "Almighty," possibly the name of the currently selected feature or the application itself.
+
+In the main content area, there are four sections, each representing different events or triggers for automation scripts:
+1. **Screen Locked**
+   - A dimmed "No tweaks yet" text, suggesting no automation has been set up for this event.
+   - A '+' (plus) button on the right, implying that the user can add a new automation or script for the "Screen Locked" event.
+2. **Screen Unlocked**
+   - Text "No tweaks yet" in the same style as above.
+   - A '+' button mirroring the functionality described above.
+3. **Screensaver Start**
+   - Text "No tweaks yet."
+   - A '+' button, again for adding automations for when the screensaver starts.
+4. **Screensaver Stop**
+   - Text "No tweaks yet."
+   - A '+' button, for adding automations for when the screensaver stops.
+
+A scrollbar on the right indicates that the window is scrollable, meaning there might be more content not currently visible in the screenshot. The overall layout and design suggest a clean, user-friendly interface for setting up automation tasks on a Mac computer.

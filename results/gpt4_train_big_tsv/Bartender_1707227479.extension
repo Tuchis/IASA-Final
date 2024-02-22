@@ -1,0 +1,127 @@
+The provided image displays the user interface of an application named Bartender 5. The UI is split into two main sections: a sidebar menu to the left and a settings panel to the right. Here's a detailed description of each element:
+
+Sidebar Menu (Left Section):
+- At the top, there are three small dots, suggesting a drag handle or a place to click and drag.
+- Below the drag handle, there are several icons in a vertical layout, each representing a different settings category:
+  1. General (selected, indicated by the darker color of the icon and a blue bar on the left side)
+  2. Menu Bar Items
+  3. Menu Bar Style
+  4. Presets
+  5. Triggers
+  6. Hotkeys
+  7. Advanced
+  8. About
+
+Right Section (Settings):
+- The header of this section is labeled "Bartender 5."
+- Below the header, it's divided into different setting groups:
+
+  General Settings Group:
+  - "Start at login" toggle switch (off position)
+  - Title: "Show hidden menu bar items when:"
+    - Sub-options with corresponding toggle switches (all in the off position):
+      - "Click on empty menu bar space"
+      - "Swipe or scroll in menu bar"
+      - "Hover over empty menu bar space"
+  - Slider labeled "Delay before showing on hover" with a measurement of "0.2 seconds."
+  - "Automatically rehide" toggle switch (off position)
+  - "Show items in bar below menu bar (Bartender Bar)" toggle switch (off position), with an image representation of the "Bartender Bar" next to it.
+
+  Bartender Menu Bar Item Settings Group:
+  - Title: "Bartender menu bar item"
+    - Sub-option "Bartender has a menu bar item" with an accompanying toggle switch (off position).
+    - "Bartender menu bar icon" with a "More" button and a down arrow, suggesting more options available when clicked.
+    - "Show divider (<>) between shown and hidden sections" with an accompanying toggle switch (off position).
+  - "Menu bar item spacing" with a "Default Spacing" button and a down arrow, suggesting options for modifying spacing.
+
+  Screens Settings Group:
+  - "Hide all menu bar items on inactive menu bars" toggle switch (off position).
+  - "Show all menu bar items when active screen is bigger than" with an information message "* Built-in Retina Display" and a slider configured to "3,000 pixels wide".
+
+Additional UI elements:
+- There's a greyed-out button at the very bottom of the right section, with three ellipses ("...") suggesting additional options or more information.
+
+Overall, this interface allows users to customize the way menu bar items are displayed and interacted with on their device by enabling/disabling various toggles and accessing further options through sliders and buttons.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1702, 1386]	[851.0, 693.0]		Bartender 5
+4	1	SplitGroup	[0, 0, 1702, 1386]	[851.0, 693.0]		
+80	4	StaticText	[178, 16, 160, 40]	[258.0, 36.0]	Bartender	
+79	4	StaticText	[330, 10, 36, 54]	[348.0, 37.0]	5	
+44	4	ScrollArea	[0, 76, 480, 1310]	[240.0, 731.0]		
+45	44	Outline	[0, 76, 480, 1310]	[240.0, 731.0]		
+75	45	Row	[0, 96, 480, 100]	[240.0, 146.0]		
+76	75	Cell	[20, 96, 440, 100]	[240.0, 146.0]		
+78	76	Image	[32, 108, 70, 74]	[67.0, 145.0]		|General
+77	76	StaticText	[114, 130, 102, 32]	[165.0, 146.0]	General	
+71	45	Row	[0, 196, 480, 100]	[240.0, 246.0]		
+72	71	Cell	[20, 196, 440, 100]	[240.0, 246.0]		
+74	72	Image	[32, 212, 70, 68]	[67.0, 246.0]		|Menu Bar Layout
+73	72	StaticText	[114, 230, 198, 32]	[213.0, 246.0]	Menu Bar Items	
+67	45	Row	[0, 296, 480, 100]	[240.0, 346.0]		
+68	67	Cell	[20, 296, 440, 100]	[240.0, 346.0]		
+70	68	Image	[32, 308, 70, 72]	[67.0, 344.0]		|Menu Bar Style
+69	68	StaticText	[114, 330, 192, 32]	[210.0, 346.0]	Menu Bar Style	
+63	45	Row	[0, 396, 480, 100]	[240.0, 446.0]		
+64	63	Cell	[20, 396, 440, 100]	[240.0, 446.0]		
+66	64	Image	[32, 412, 70, 68]	[67.0, 446.0]		|Presets
+65	64	StaticText	[114, 430, 100, 32]	[164.0, 446.0]	Presets	
+59	45	Row	[0, 496, 480, 100]	[240.0, 546.0]		
+60	59	Cell	[20, 496, 440, 100]	[240.0, 546.0]		
+62	60	Image	[32, 506, 70, 76]	[67.0, 544.0]		|Triggers
+61	60	StaticText	[114, 530, 108, 32]	[168.0, 546.0]	Triggers	
+55	45	Row	[0, 596, 480, 100]	[240.0, 646.0]		
+56	55	Cell	[20, 596, 440, 100]	[240.0, 646.0]		
+58	56	Image	[32, 612, 70, 68]	[67.0, 646.0]		|Hot Keys
+57	56	StaticText	[114, 630, 106, 32]	[167.0, 646.0]	Hotkeys	
+51	45	Row	[0, 696, 480, 100]	[240.0, 746.0]		
+52	51	Cell	[20, 696, 440, 100]	[240.0, 746.0]		
+54	52	Image	[32, 708, 70, 74]	[67.0, 745.0]		|Advanced
+53	52	StaticText	[114, 730, 128, 32]	[178.0, 746.0]	Advanced	
+47	45	Row	[0, 796, 480, 100]	[240.0, 846.0]		
+48	47	Cell	[20, 796, 440, 100]	[240.0, 846.0]		
+50	48	Image	[32, 818, 70, 58]	[67.0, 847.0]		|
+49	48	StaticText	[114, 830, 80, 32]	[154.0, 846.0]	About	
+46	45	Column	[20, 76, 440, 1310]	[240.0, 731.0]		
+43	4	Splitter	[480, 56, 2, 1330]	[481.0, 721.0]	240.0	
+42	4	StaticText	[518, 40, 126, 40]	[581.0, 60.0]	General	
+41	4	StaticText	[558, 108, 1000, 32]	[1058.0, 124.0]	Start at login	
+40	4	Button	[1568, 108, 56, 34]	[1596.0, 125.0]	0	
+39	4	StaticText	[518, 180, 1148, 32]	[1092.0, 196.0]	Show hidden menu bar items when:	
+38	4	StaticText	[558, 240, 390, 32]	[753.0, 256.0]	Click on empty menu bar space	
+37	4	Button	[1568, 242, 56, 32]	[1596.0, 258.0]	1	
+36	4	StaticText	[558, 292, 336, 32]	[726.0, 308.0]	Swipe or scroll in menu bar	
+35	4	Button	[1568, 294, 56, 32]	[1596.0, 310.0]	1	
+34	4	StaticText	[558, 344, 424, 32]	[770.0, 360.0]	Hover over empty menu bar space	
+33	4	Button	[1568, 346, 56, 32]	[1596.0, 362.0]	0	
+32	4	StaticText	[558, 396, 380, 32]	[748.0, 412.0]	Delay before showing on hover	
+30	4	Slider	[558, 452, 894, 56]	[1005.0, 480.0]	0.2	
+31	30	ValueIndicator	[732, 452, 24, 56]	[744.0, 480.0]	0.2	
+29	4	StaticText	[1460, 460, 56, 32]	[1488.0, 476.0]	0.2	
+28	4	StaticText	[1508, 460, 118, 32]	[1567.0, 476.0]	 seconds	
+27	4	StaticText	[558, 542, 254, 32]	[685.0, 558.0]	Automatically rehide	
+26	4	Button	[1568, 542, 56, 32]	[1596.0, 558.0]	1	
+25	4	StaticText	[558, 654, 618, 32]	[867.0, 670.0]	Show items in bar below menu bar (Bartender Bar)	
+24	4	Image	[1208, 630, 200, 80]	[1308.0, 670.0]		|BartenderBar
+23	4	Button	[1568, 654, 56, 32]	[1596.0, 670.0]	0	
+22	4	StaticText	[518, 750, 1148, 32]	[1092.0, 766.0]	Bartender menu bar item	
+21	4	StaticText	[558, 810, 380, 32]	[748.0, 826.0]	Bartender has a menu bar item	
+20	4	Button	[1568, 810, 56, 32]	[1596.0, 826.0]	1	
+19	4	StaticText	[558, 862, 308, 40]	[712.0, 882.0]	Bartender menu bar icon	
+18	4	PopUpButton	[1356, 860, 274, 50]	[1493.0, 885.0]	More	
+17	4	StaticText	[558, 922, 652, 32]	[884.0, 938.0]	Show divider (❮) between shown and hidden sections	
+16	4	Button	[1568, 922, 56, 32]	[1596.0, 938.0]	0	
+15	4	StaticText	[558, 1014, 284, 32]	[700.0, 1030.0]	Menu bar item spacing	
+14	4	PopUpButton	[1252, 1008, 378, 50]	[1441.0, 1033.0]	Default Spacing	
+13	4	StaticText	[518, 1090, 1148, 32]	[1092.0, 1106.0]	Screens	
+12	4	StaticText	[558, 1150, 566, 32]	[841.0, 1166.0]	Hide all menu bar items on inactive menu bars	
+11	4	Button	[1568, 1150, 56, 32]	[1596.0, 1166.0]	0	
+10	4	StaticText	[558, 1202, 716, 32]	[916.0, 1218.0]	Show all menu bar items when active screen is bigger than	
+9	4	Button	[1568, 1202, 56, 32]	[1596.0, 1218.0]	0	
+7	4	Slider	[558, 1250, 822, 92]	[969.0, 1296.0]	3000.0	
+8	7	ValueIndicator	[878, 1268, 24, 56]	[890.0, 1296.0]	3000.0	
+6	4	StaticText	[1396, 1276, 88, 32]	[1440.0, 1292.0]	3,000	
+5	4	StaticText	[1476, 1276, 148, 32]	[1550.0, 1292.0]	 pixels wide	
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		
+3	2	Group	[94, 12, 28, 32]	[108.0, 28.0]		

@@ -1,0 +1,95 @@
+The image displays a user interface of a resource management application with two main areas. Here is a detailed description of each element within the UI:
+
+Left Side Panel:
+
+1. Upper Menu Bar:
+   - Close, minimize, and expand window control buttons (red, yellow, and green dots).
+   - Title of the window: "Big birthday - Edited".
+
+2. Sidebar:
+   - At the top, a back arrow and a label "Resources", indicating the current section being viewed.
+   - Below that, a section labeled "Traits" which is currently expanded, with listed resources.
+
+3. Resources List: This is a table with different columns, detailing various resources with the following fields:
+   - "Title" Column: Lists the names of resources such as "Default Resource," "Person celebrating big birthday," "Band," etc.
+   - "Type" Column: Identifies the type of resource, all listed as "Person".
+   - "Material Unit" Column: Shows a chain link icon for some resources, indicating a link or connection.
+   - "Available" Column: Lists the availability of the resources—each one reads "100%".
+   - "Initials" Column: Contains initials of the people or entities corresponding to the resources, such as "D.R.," "J.," "B.," and so on.
+   - "Email" Column: Blank for all entries.
+   - "Phone" Column: A column for phone numbers, but it's not visible in the image due to the width of the columns.
+
+4. Selected Resource Highlight:
+   - "Default Resource" is highlighted, indicating it is the currently selected resource.
+
+Right Side Panel:
+
+1. Header with Icons:
+   - A silhouette icon indicating a profile or user.
+   - A set of three icons: a pencil (edit), a chain link or hyperlink (presumably for linking resources), and three vertical dots (more options).
+
+2. Resource Information:
+   - "Resource: Info": The title of the right panel, indicating this section provides information about the selected resource.
+   - Beneath it, detailed information for the selected resource ("Default Resource") is displayed:
+     - "Title": Shows the name of the resource as "Default Resource".
+     - "Initials": The initials "D.R.".
+     - "Phone": A blank field with a phone icon, indicating a space to add a phone number.
+     - "Email": Blank field with an "at" symbol (@), indicating a space to add an email address.
+     - "Type": Shows the type of resource as "Person" with a dropdown arrow, suggesting it can be changed.
+     - "Available": Indicates the availability as "100%".
+     - "Status": Shows a status indicator, "Under-utilized", with a yellow warning triangle.
+     - "Image": A blank space with an image icon, presumably to add or display an image.
+
+All text fields and elements are legible and presented in a clean and organized manner, typical of a software application intended for planning or managing resources.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2500, 1560]	[1250.0, 780.0]		Big birthday
+49	1	StaticText	[1638, 276, 66, 32]	[1671.0, 292.0]	Title	
+48	1	TextField	[1766, 272, 712, 42]	[2122.0, 293.0]	Default Resource	
+47	1	Button	[1604, 278, 26, 26]	[1617.0, 291.0]		
+46	1	StaticText	[1638, 212, 102, 32]	[1689.0, 228.0]	Subtitle	
+45	1	TextField	[1752, 208, 726, 42]	[2115.0, 229.0]		
+44	1	StaticText	[1638, 276, 188, 32]	[1732.0, 292.0]	Additional Title	
+43	1	TextField	[1838, 272, 638, 42]	[2157.0, 293.0]		
+42	1	StaticText	[1638, 340, 86, 32]	[1681.0, 356.0]	Initials	
+41	1	TextField	[1766, 336, 712, 42]	[2122.0, 357.0]	D.R.	
+40	1	StaticText	[1638, 424, 84, 32]	[1680.0, 440.0]	Phone	
+39	1	Button	[2436, 424, 40, 32]	[2456.0, 440.0]		
+38	1	TextField	[1766, 420, 662, 42]	[2097.0, 441.0]		
+37	1	StaticText	[1638, 488, 72, 32]	[1674.0, 504.0]	Email	
+36	1	Button	[2436, 488, 40, 32]	[2456.0, 504.0]		
+35	1	TextField	[1766, 484, 662, 42]	[2097.0, 505.0]		
+34	1	StaticText	[1638, 572, 68, 32]	[1672.0, 588.0]	Type	
+33	1	PopUpButton	[1760, 568, 724, 50]	[2122.0, 593.0]	Person	
+32	1	StaticText	[1638, 636, 116, 32]	[1696.0, 652.0]	Available	
+31	1	TextField	[1766, 632, 712, 42]	[2122.0, 653.0]	100%	
+30	1	StaticText	[1638, 720, 86, 32]	[1681.0, 736.0]	Status	
+28	1	StaticText	[1762, 720, 716, 32]	[2120.0, 736.0]	￼ Under-utilized	
+29	28	Image	[1766, 720, 20, 32]	[1776.0, 736.0]		
+27	1	StaticText	[1638, 790, 82, 32]	[1679.0, 806.0]	Image	
+26	1	Image	[1766, 792, 710, 710]	[2121.0, 1147.0]		|
+3	1	Toolbar	[0, 0, 2500, 104]	[1250.0, 52.0]		
+22	3	Group	[1420, 0, 122, 104]	[1481.0, 52.0]		
+23	22	Group	[1416, 12, 130, 80]	[1481.0, 52.0]		|New
+25	23	Button	[1416, 12, 74, 80]	[1453.0, 52.0]		
+24	23	Button	[1490, 12, 56, 80]	[1518.0, 52.0]		
+18	3	Group	[1542, 0, 194, 104]	[1639.0, 52.0]		
+19	18	Group	[1538, 12, 202, 80]	[1639.0, 52.0]		|Indentation
+21	19	Button	[1538, 12, 102, 80]	[1589.0, 52.0]		
+20	19	Button	[1640, 12, 100, 80]	[1690.0, 52.0]		
+14	3	Group	[1736, 0, 122, 104]	[1797.0, 52.0]		
+15	14	Group	[1732, 12, 130, 80]	[1797.0, 52.0]		|Link
+17	15	Button	[1732, 12, 74, 80]	[1769.0, 52.0]		
+16	15	Button	[1806, 12, 56, 80]	[1834.0, 52.0]		
+12	3	MenuButton	[1858, 0, 112, 104]	[1914.0, 52.0]		|Action
+13	12	MenuButton	[1856, 12, 116, 80]	[1914.0, 52.0]		
+11	3	Button	[2018, 0, 72, 104]	[2054.0, 52.0]		|Dynamic Help
+10	3	Button	[2090, 0, 72, 104]	[2126.0, 52.0]		|Critical Path
+9	3	Button	[2162, 0, 72, 104]	[2198.0, 52.0]		|Resources
+8	3	Button	[2234, 0, 72, 104]	[2270.0, 52.0]		|Settings
+4	3	Group	[2306, 0, 178, 104]	[2395.0, 52.0]		
+5	4	Group	[2302, 12, 186, 80]	[2395.0, 52.0]		|Layout
+7	5	Button	[2302, 12, 94, 80]	[2349.0, 52.0]		
+6	5	Button	[2396, 12, 92, 80]	[2442.0, 52.0]		
+2	1	StaticText	[174, 0, 1246, 104]	[797.0, 52.0]	Big birthday	

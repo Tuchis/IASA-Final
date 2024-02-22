@@ -1,0 +1,36 @@
+This image appears to display the UI interface for the system settings section of a VPN application, possibly named ClearVPN. The image showcases various elements, categorized and organized in a user-friendly manner. Here's a detailed description of the visible elements:
+
+1. Header:
+   - The header says "System settings" in large, bold white text, indicating that this is the section of the app dedicated to configuring system-level options for the application.
+
+2. Navigation Menu (on the left side):
+   - "Account"
+   - "Your devices"
+   - "System settings" (highlighted indicating the current selection)
+   - "Shortcuts"
+   - "Stand with Ukraine" (with Ukraine's flag represented by an emoji)
+   - "Need help?"
+
+3. System Settings Section (divided into three categories):
+   
+   SYSTEM
+   - "Kill Switch" - A toggle switch is next to this, turned on (indicated by its pinkish color and the position of the toggle), with a description below it saying "Prevent traffic leaks in case Internet connection goes off".
+   
+   - "Show ClearVPN in the Dock" - Another toggle switch is beside this text, also turned on, with a description "Let the app always be at hand".
+   
+   STARTUP
+   - "Launch on system startup" - Below this, there is a toggle switch in the off position (indicated by its greyish color and the position of the toggle), and the description below reads "Keep it at hand whenever you need the app".
+   
+   TROUBLESHOOTING
+   - "Reset all changes made by ClearVPN" - This section includes a button labeled "Remove VPN configurations".
+  
+4. Ad Banner (bottom-left):
+   - It includes an icon of a laptop and displays the message "Are you sure all your devices are protected?" with a note saying "7 of 8 slots remaining," inferring a limit on the number of devices or slots available for protection under the user's current plan.
+
+5. Closure Button:
+   - An "X" button at the top-right corner of the interface is presumably used to close the settings panel or the application itself.
+
+6. Background & Aesthetic:
+   - The UI is mainly purple with white text for better readability and a modern appearance.
+
+The UI seems thoughtfully designed to provide clear information about the system settings, offering users straightforward access to enable or disable key features of the VPN application.

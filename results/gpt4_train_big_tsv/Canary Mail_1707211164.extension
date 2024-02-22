@@ -1,0 +1,35 @@
+The image is of a welcome screen for a mobile application named "Canary". The screen consists of several UI elements designed to introduce the app and guide the user to proceed with its use. Here's a breakdown of each of the elements:
+
+1. Top Indicators:
+   - Three horizontal dots on the upper part of the screen serve as slide indicators to show the user's progress through a series of introductory slides. The leftmost dot is filled, suggesting that this is the first slide.
+
+2. Heading Text:
+   - A large, bold text "Welcome to Canary" centered on the screen. The word "Canary" is highlighted in blue, distinguishing the app's name from the other text.
+
+3. Logo:
+   - Below the heading text is an illustration of a stylized bird that likely represents the app's logo or mascot. This bird is blue with gradients and is oriented as if in flight.
+
+4. Description:
+   - A short paragraph with smaller text is located below the logo. The text reads: "Use the power of AI to craft your emails, surface the important ones, and kill your spam." This description outlines the key features of the Canary app, emphasizing the utilization of AI.
+
+5. Continue Button:
+   - A prominent, rounded blue button with the text "Continue" in white, centered at the bottom of the screen. This button is meant for the user to tap in order to proceed with using the app or to go to the next introductory slide.
+
+6. Terms and Privacy Acknowledgment:
+   - At the very bottom, a smaller text states: "By continuing you agree to accept our terms of service and privacy policy". This is a disclaimer and acknowledgment that the user accepts the app's terms and privacy policy by proceeding. The phrases "terms of service" and "privacy policy" are likely hyperlinks, as they are underlined, inviting users to read these documents.
+
+Overall, the UI is clean and straightforward, designed to be welcoming and informative while prompting the user to continue to the next step in the app's onboarding process.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 752, 1390]	[376.0, 695.0]		Window
+10	1	StaticText	[96, 144, 560, 160]	[376.0, 224.0]	"Welcome to
+Canary"	
+9	1	Image	[256, 434, 240, 240]	[376.0, 554.0]		|icon3
+8	1	StaticText	[96, 802, 560, 130]	[376.0, 867.0]	Use the power of AI to craft your emails, surface the important ones, and kill your spam.	
+7	1	Button	[100, 1098, 552, 100]	[376.0, 1148.0]		Continue
+6	1	StaticText	[126, 1226, 498, 34]	[375.0, 1243.0]	By continuing you agree to accept our	
+5	1	Button	[142, 1262, 218, 34]	[251.0, 1279.0]		terms of service
+4	1	StaticText	[364, 1262, 56, 34]	[392.0, 1279.0]	and	
+3	1	Button	[424, 1262, 186, 34]	[517.0, 1279.0]		privacy policy
+2	1	Button	[94, 12, 28, 32]	[108.0, 28.0]		

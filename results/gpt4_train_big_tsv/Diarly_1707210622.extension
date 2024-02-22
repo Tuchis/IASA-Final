@@ -1,0 +1,145 @@
+This image displays the user interface of a journaling application with various elements that contribute to its functionality:
+
+1. **Top Bar:**
+   - Three gray dots at the top left suggest a menu or more options.
+   - A rectangular button with what appears to be an outline of a "printer" icon perhaps for printing.
+   - A search field indicated by a magnifying glass icon on the left of the field, with the placeholder text "Search".
+
+2. **Left Sidebar:**
+   - A list of menu items including:
+     - "Search", accompanied by a magnifying glass icon.
+     - "Journals" with a dropdown that currently has "My Journal" selected (emoticon ahead of the name).
+     - "View" with sub-items "List", "Calendar", "Map", "Gallery" (all represented by icons resembling a list, calendar, map marker, and a picture grid respectively).
+     - "Stats" with a graph-like icon.
+     - "Settings" with a gear icon.
+
+3. **Main Content Area:**
+   - The name of the journal, "My Journal," with a dropdown arrow indicating other journals might be selectable.
+   - A rounded rectangle with the number "1" and the label "Daily entries".
+   - Another similar shape with the number "1" and the label "Notes".
+   - Yet another similar shape, slightly larger, with the number "1" and the label "Attachments".
+
+4. **Streak Widget:**
+   - A title "Let's establish a streak" and a motivating statement "Start journaling to build your streak".
+   - An indicator showing "Current streak: 1 day" and "Next level: 3 days" with a check mark next to it.
+
+5. **Word Count Comparison Widget:**
+   - A title "Your word count vs. famous books" and a bar comparing "Approaching: On the shortness of life by Seneca".
+   - Below the bar "Your journal: 518 words" and "Target: 10,000 words". A book icon is placed at the end of the progress bar.
+
+6. **Trends Chart:**
+   - A title "Trends for selected time range:" with time span buttons below it reading "7d", "30d", "3mo", "6mo", "1y".
+   - Below the title and to the left, a label "Words written" along with a line graph showing a spike at the end.
+
+7. **Content Breakdown:**
+   - Circular diagrams labeled "Content breakdown", showing percentage breakdowns for categories like "Journals", "Notes", "Attachments", each with 0% except for Journals which indicates 100%.
+
+8. **Tasks Widget:**
+   - A section titled "Completed tasks" with a text "Nothing to show here", implying this area would display tasks that have been completed.
+
+The overall layout is clean and uses a muted color palette, primarily consisting of grey, white, and pastel tones, which suggests a minimalist and modern design aesthetic. The selected view or section appears to focus on statistical insights into the user's journaling habits, aiming to provide motivation and track progress.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 3024, 1748]	[1512.0, 874.0]		Diary
+102	1	StaticText	[90, 1680, 136, 36]	[158.0, 1698.0]	Settings	
+101	1	StaticText	[30, 1678, 48, 40]	[54.0, 1698.0]		
+100	1	StaticText	[92, 116, 270, 34]	[227.0, 133.0]		
+99	1	StaticText	[34, 118, 44, 28]	[56.0, 132.0]		
+62	1	ScrollArea	[0, 182, 440, 1466]	[220.0, 915.0]		
+63	62	Table	[0, 182, 440, 1466]	[220.0, 915.0]		
+96	63	Row	[0, 182, 440, 58]	[220.0, 211.0]		
+97	96	Cell	[0, 182, 440, 58]	[220.0, 211.0]		
+98	97	StaticText	[16, 194, 118, 32]	[75.0, 210.0]	Journals	
+92	63	Row	[0, 240, 440, 80]	[220.0, 280.0]		
+93	92	Cell	[0, 240, 440, 80]	[220.0, 280.0]		
+95	93	StaticText	[28, 260, 54, 38]	[55.0, 279.0]	😌	
+94	93	StaticText	[88, 264, 142, 32]	[159.0, 280.0]	My Journal	
+90	63	Row	[0, 320, 440, 2]	[220.0, 321.0]		
+91	90	Cell	[0, 320, 440, 2]	[220.0, 321.0]		
+87	63	Row	[0, 322, 440, 58]	[220.0, 351.0]		
+88	87	Cell	[0, 322, 440, 58]	[220.0, 351.0]		
+89	88	StaticText	[16, 334, 70, 32]	[51.0, 350.0]	View	
+83	63	Row	[0, 380, 440, 80]	[220.0, 420.0]		
+84	83	Cell	[0, 380, 440, 80]	[220.0, 420.0]		
+86	84	StaticText	[28, 400, 48, 40]	[52.0, 420.0]		
+85	84	StaticText	[88, 404, 52, 32]	[114.0, 420.0]	List	
+79	63	Row	[0, 460, 440, 80]	[220.0, 500.0]		
+80	79	Cell	[0, 460, 440, 80]	[220.0, 500.0]		
+82	80	StaticText	[28, 480, 48, 40]	[52.0, 500.0]		
+81	80	StaticText	[88, 484, 118, 32]	[147.0, 500.0]	Calendar	
+75	63	Row	[0, 540, 440, 80]	[220.0, 580.0]		
+76	75	Cell	[0, 540, 440, 80]	[220.0, 580.0]		
+78	76	StaticText	[28, 560, 48, 40]	[52.0, 580.0]		
+77	76	StaticText	[88, 564, 62, 32]	[119.0, 580.0]	Map	
+71	63	Row	[0, 620, 440, 80]	[220.0, 660.0]		
+72	71	Cell	[0, 620, 440, 80]	[220.0, 660.0]		
+74	72	StaticText	[28, 640, 48, 40]	[52.0, 660.0]		
+73	72	StaticText	[88, 644, 94, 32]	[135.0, 660.0]	Gallery	
+67	63	Row	[0, 700, 440, 80]	[220.0, 740.0]		
+68	67	Cell	[0, 700, 440, 80]	[220.0, 740.0]		
+70	68	StaticText	[28, 720, 48, 40]	[52.0, 740.0]		
+69	68	StaticText	[88, 724, 72, 32]	[124.0, 740.0]	Stats	
+65	63	Row	[0, 780, 440, 2]	[220.0, 781.0]		
+66	65	Cell	[0, 780, 440, 2]	[220.0, 781.0]		
+64	63	Column	[0, 182, 440, 1466]	[220.0, 915.0]		
+4	1	ScrollArea	[440, 104, 2584, 1644]	[1732.0, 926.0]		
+9	4	List	[440, 104, 2584, 1644]	[1732.0, 926.0]		
+39	9	List	[440, 104, 2584, 586]	[1732.0, 397.0]		|😌 My Journal
+59	39	Group	[440, 104, 2584, 120]	[1732.0, 164.0]		
+61	59	StaticText	[862, 146, 334, 66]	[1029.0, 179.0]	😌 My Journal	
+60	59	StaticText	[1194, 164, 34, 26]	[1211.0, 177.0]		
+52	39	Group	[832, 224, 1800, 198]	[1732.0, 323.0]		
+58	52	StaticText	[1150, 276, 30, 54]	[1165.0, 303.0]	1	|Total number of entries from your timeline
+57	52	StaticText	[1090, 342, 152, 28]	[1166.0, 356.0]	Daily entries	
+56	52	StaticText	[1716, 276, 30, 54]	[1731.0, 303.0]	1	|Total number of your notes
+55	52	StaticText	[1690, 342, 82, 28]	[1731.0, 356.0]	Notes	
+54	52	StaticText	[2282, 276, 30, 54]	[2297.0, 303.0]	1	|All media, files, and other attachments you've added to your journal
+53	52	StaticText	[2218, 342, 156, 28]	[2296.0, 356.0]	Attachments	
+46	39	Group	[832, 430, 896, 260]	[1280.0, 560.0]		
+51	46	StaticText	[1640, 562, 52, 44]	[1666.0, 584.0]		
+50	46	StaticText	[868, 466, 306, 34]	[1021.0, 483.0]	Let's establish a streak	
+49	46	StaticText	[868, 516, 380, 28]	[1058.0, 530.0]	Start journaling to build your streak	
+48	46	StaticText	[868, 624, 244, 30]	[990.0, 639.0]	Current streak: 1 day	
+47	46	StaticText	[1484, 624, 208, 30]	[1588.0, 639.0]	Next level: 3 days	
+40	39	Group	[1736, 430, 896, 260]	[2184.0, 560.0]		
+45	40	StaticText	[2546, 562, 50, 42]	[2571.0, 583.0]		
+44	40	StaticText	[1772, 466, 452, 34]	[1998.0, 483.0]	Your word count vs. famous books	
+43	40	StaticText	[1772, 516, 516, 28]	[2030.0, 530.0]	Approaching: On the shortness of life by Seneca	|https://en.wikipedia.org/wiki/On_the_Shortness_of_Life
+42	40	StaticText	[1772, 624, 274, 30]	[1909.0, 639.0]	Your journal: 518 words	|Total words you've written in your journal so far.
+41	40	StaticText	[2348, 624, 248, 30]	[2472.0, 639.0]	Target: 10 000 words	|Word count of the next book you're about to surpass.
+10	9	List	[440, 690, 2584, 1058]	[1732.0, 1219.0]		|Trends for selected time range:
+32	10	Group	[440, 690, 2584, 150]	[1732.0, 765.0]		
+38	32	StaticText	[848, 762, 484, 42]	[1090.0, 783.0]	Trends for selected time range:	
+37	32	Button	[2026, 750, 118, 70]	[2085.0, 785.0]		7d
+36	32	Button	[2144, 750, 118, 70]	[2203.0, 785.0]		30d
+35	32	Button	[2262, 750, 118, 70]	[2321.0, 785.0]		3mo
+34	32	Button	[2380, 750, 118, 70]	[2439.0, 785.0]		6mo
+33	32	Button	[2498, 750, 118, 70]	[2557.0, 785.0]		1y
+28	10	Group	[832, 840, 1800, 630]	[1732.0, 1155.0]		
+31	28	StaticText	[868, 876, 190, 34]	[963.0, 893.0]	Words written	
+29	28	List	[868, 918, 1728, 516]	[1732.0, 1176.0]		|Chart View
+30	29	StaticText	[868, 918, 1728, 516]	[1732.0, 1176.0]		|. 1 dataset. 
+14	10	Group	[832, 1478, 896, 270]	[1280.0, 1613.0]		
+27	14	StaticText	[868, 1514, 262, 34]	[999.0, 1531.0]	Content breakdown	
+24	14	List	[852, 1568, 238, 180]	[971.0, 1658.0]		|Chart View
+26	24	StaticText	[852, 1568, 238, 180]	[971.0, 1658.0]		|. 2 Elements
+25	24	Row	[888, 1604, 166, 144]	[971.0, 1676.0]		| : 100 
+21	14	List	[1058, 1568, 238, 180]	[1177.0, 1658.0]		|Chart View
+23	21	StaticText	[1058, 1568, 238, 180]	[1177.0, 1658.0]		|. 2 Elements
+22	21	Row	[1094, 1604, 166, 144]	[1177.0, 1676.0]		| : 100 
+18	14	List	[1264, 1568, 238, 180]	[1383.0, 1658.0]		|Chart View
+20	18	StaticText	[1264, 1568, 238, 180]	[1383.0, 1658.0]		|. 2 Elements
+19	18	Row	[1300, 1604, 166, 144]	[1383.0, 1676.0]		| : 100 
+15	14	List	[1470, 1568, 238, 180]	[1589.0, 1658.0]		|Chart View
+17	15	StaticText	[1470, 1568, 238, 180]	[1589.0, 1658.0]		|. 2 Elements
+16	15	Row	[1506, 1604, 166, 144]	[1589.0, 1676.0]		| : 100 
+11	10	Group	[1736, 1478, 896, 270]	[2184.0, 1613.0]		
+13	11	StaticText	[1772, 1514, 226, 34]	[1885.0, 1531.0]	Completed tasks	
+12	11	List	[1772, 1556, 824, 192]	[2184.0, 1652.0]		|Chart View
+5	4	ScrollBar	[3004, 104, 20, 1644]	[3014.0, 926.0]	0.0	
+8	5	ValueIndicator	[3004, 106, 20, 1534]	[3014.0, 873.0]	0.0	
+7	5	Button	[3004, 1640, 20, 106]	[3014.0, 1693.0]		
+6	5	Button	[3004, 104, 20, 2]	[3014.0, 105.0]		
+3	1	Button	[184, 16, 64, 70]	[216.0, 51.0]		
+2	1	Toolbar	[0, 0, 3024, 104]	[1512.0, 52.0]		

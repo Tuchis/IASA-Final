@@ -1,0 +1,40 @@
+This image displays the user interface (UI) of a video editing application. I will describe all visible UI elements from top to bottom and left to right:
+
+### Top Menu Bar:
+- **Media**: A tab that is currently inactive.
+- **Resources**: The active tab, which is currently selected.
+- **Effects**: Another tab that is inactive.
+
+### Left Sidebar - Resources Section:
+- **Text**: An icon of a 'T' indicates options for text elements in a video.
+- **Sound FX**: An icon representing sound waves, for sound effects.
+- **Stickers**: An icon that hints at the availability of stickers to overlay on videos.
+- **GIPHY**: This is highlighted with a purple band, indicating it is the currently selected resource. It suggests that the application integrates with GIPHY to provide GIFs.
+- **Unsplash**: An external source for images, not currently selected.
+- **Pexels**: Another external source for images, not currently selected.
+- **Pixabay**: The final listed source for external images, also not currently selected.
+
+### Resource Filters:
+- **All**: A filter option that is currently selected, showing all types of media from GIPHY.
+- **Download**: A filter option that presumably shows only downloaded resources.
+
+### Search and Refresh:
+- **Search Bar**: An empty text field labeled "Search," for searching within the resources.
+- **Refresh Button**: Icon with a circular arrow, likely used to refresh the content listed below.
+
+### GIPHY Resources:
+- Resource thumbnails show a variety of images from GIPHY sorted by the "All" filter. Thumbnails contain both static pictures and GIFs, with the latter labeled with a "GIF" tag on the bottom.
+
+### Main Viewer Area:
+- **Untitled 1.filmg**: The text field indicating the name of the current project.
+- **Viewer**: Label for the main preview area, which is currently dark and labeled with "Filmage Editor," suggesting the name of the application.
+- **Aspect Ratio Selector**: An interface element showing "16:9," this dropdown would allow the user to change the aspect ratio of the project.
+- **Export Button**: The button to export the video project, symbolized by an arrow pointing upwards out of a tray.
+
+### Bottom Section - Timeline and Controls:
+- A timeline with timestamps indicating the length and progress of the video project.
+- The red playhead at "00:00:00:00" indicates the start of the video.
+- Below that are track layers for video and audio, each with icons suggesting the purpose (e.g., film for video tracks, musical note for audio tracks).
+- A grayed-out text indicates "Drag media and effects here to create your video," which is an instruction for users on how to use the timeline area.
+
+The UI elements are designed with a dark theme, contrasting colors for selected items, and a minimalist approach, likely to support workflow efficiency and visual ease in video editing tasks.

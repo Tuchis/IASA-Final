@@ -1,0 +1,44 @@
+The provided image displays the user interface of an application named Bartender 5. The UI is split into two main sections: a sidebar menu to the left and a settings panel to the right. Here's a detailed description of each element:
+
+Sidebar Menu (Left Section):
+- At the top, there are three small dots, suggesting a drag handle or a place to click and drag.
+- Below the drag handle, there are several icons in a vertical layout, each representing a different settings category:
+  1. General (selected, indicated by the darker color of the icon and a blue bar on the left side)
+  2. Menu Bar Items
+  3. Menu Bar Style
+  4. Presets
+  5. Triggers
+  6. Hotkeys
+  7. Advanced
+  8. About
+
+Right Section (Settings):
+- The header of this section is labeled "Bartender 5."
+- Below the header, it's divided into different setting groups:
+
+  General Settings Group:
+  - "Start at login" toggle switch (off position)
+  - Title: "Show hidden menu bar items when:"
+    - Sub-options with corresponding toggle switches (all in the off position):
+      - "Click on empty menu bar space"
+      - "Swipe or scroll in menu bar"
+      - "Hover over empty menu bar space"
+  - Slider labeled "Delay before showing on hover" with a measurement of "0.2 seconds."
+  - "Automatically rehide" toggle switch (off position)
+  - "Show items in bar below menu bar (Bartender Bar)" toggle switch (off position), with an image representation of the "Bartender Bar" next to it.
+
+  Bartender Menu Bar Item Settings Group:
+  - Title: "Bartender menu bar item"
+    - Sub-option "Bartender has a menu bar item" with an accompanying toggle switch (off position).
+    - "Bartender menu bar icon" with a "More" button and a down arrow, suggesting more options available when clicked.
+    - "Show divider (<>) between shown and hidden sections" with an accompanying toggle switch (off position).
+  - "Menu bar item spacing" with a "Default Spacing" button and a down arrow, suggesting options for modifying spacing.
+
+  Screens Settings Group:
+  - "Hide all menu bar items on inactive menu bars" toggle switch (off position).
+  - "Show all menu bar items when active screen is bigger than" with an information message "* Built-in Retina Display" and a slider configured to "3,000 pixels wide".
+
+Additional UI elements:
+- There's a greyed-out button at the very bottom of the right section, with three ellipses ("...") suggesting additional options or more information.
+
+Overall, this interface allows users to customize the way menu bar items are displayed and interacted with on their device by enabling/disabling various toggles and accessing further options through sliders and buttons.

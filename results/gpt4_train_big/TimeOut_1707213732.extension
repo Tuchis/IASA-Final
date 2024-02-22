@@ -1,0 +1,37 @@
+The UI interface displayed in the image appears to be from a break management app and is divided into two primary sections: the left sidebar menu and the main content area on the right. 
+
+**Left Sidebar Menu:**
+- The top left corner has typical window control buttons: red, yellow, and green, which are used to close, minimize, and maximize the window respectively.
+- Below that is a navigation menu with icons representing different sections of the app:
+  1. Activity (selected) - represented by a clipboard icon.
+  2. General - represented by a gear icon.
+  3. Shortcuts - represented by a keyboard key icon.
+  4. Exclusions - represented by a crossed circle.
+  5. Updates - represented by a circular arrow, suggesting update-related settings.
+  6. Advanced - represented by a cog and wrench.
+
+Under the 'Activity' section, which is currently active, there are two categories of breaks listed:
+- Normal: Displays a status indication with a red dot followed by the text "due in 49 min, 3 secs" and "new break", and there's an instruction "click to configure break".
+- Micro: Shows a status indication with a green dot followed by the text "due in 13 min, 48 secs" and "new break", with the same instruction "click to configure break".
+
+Below the breaks, there is an 'Options' title followed by the menu sections listed above.
+
+**Main Content Area (Shortcuts Section):**
+- At the top, there's a heading that reads "Optional keyboard shortcuts that work from any app."
+- Below the heading is a list of actions with corresponding empty text fields and 'Record Shortcut' buttons for users to assign custom keyboard shortcuts. The actions are as follows:
+  1. Start Normal Break
+  2. Start Micro Break
+  3. Start Next Break
+  4. Postpone Next Break (1)
+  5. Postpone Next Break (2)
+  6. Skip Next / Current Break
+  7. Pause All Indefinitely
+  8. Resume All Breaks
+  9. Reset All Breaks
+  10. Stop Sound
+
+No shortcuts have been set, as indicated by the empty fields next to each action.
+
+Each action has a blank space, presumably for displaying the shortcut once recorded, and they each have an accompanying "Record Shortcut" button, which users would presumably click to set a shortcut.
+
+Overall, the UI seems straightforward and functional, meant for managing work breaks and setting up keyboard shortcuts to control these breaks within the app.

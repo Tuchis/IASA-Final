@@ -1,0 +1,21 @@
+The image shows the "Document" settings tab of a software application's preferences pane. Here is a detailed description of the user interface elements within this settings pane:
+
+1. Window Management Buttons: At the top-left corner, there are three buttons commonly used in macOS for window management: a red button for closing the window, a yellow button for minimizing it, and a green button for entering full-screen mode or maximizing the window.
+
+2. Settings Categories: Below the window management buttons, on the left side, there are setting category tabs. The selected tab is "Document", highlighted with a blue background, while other tabs like "General", "Links", "Editor", "Autocorrect", "Sandbox", and "License" are visible beside it with icons representing their functions.
+
+3. Document Settings Header: The word "Document" is displayed prominently at the top center of the settings pane, indicating the current category.
+
+4. Setting Options:
+   - "New:": A subsection header with a checkbox labeled "Show welcome text" indicating whether to display welcome text in new documents. The checkbox is checked (✓).
+   - Below the "New:" section, there’s a field labeled "Bike" with text "extension" just beside it. Inside the field, the word "bike" is written, and there’s a small blue checkbox icon that suggests this setting can be confirmed with the checkbox.
+   - Descriptive text under this field explains, "New documents will have this type and file extension. Only plain text file extensions are allowed."
+
+5. "When Open:" Section:
+   - A setting option with the label "Expand All Rows" and a description that reads: "Used when opening documents while Bike is already running. Documents that are re-opened when Bike launches restore previously expanded rows."
+   - A blue checkbox icon appears next to the option, indicating that the setting is enabled.
+
+6. "When Quit Bike:" Section:
+   - This setting includes an unchecked checkbox labeled "Close documents" with descriptive text below it stating: "Leave unchecked if you want Bike to re-open your documents. This overrides the system setting 'Close windows when quitting application'."
+
+From the context, it looks like this application is likely a text editor or a similar document handling tool that goes by the name "Bike." The options and settings provided are for configuring how the application handles the creation, opening, and closing of documents. The UI suggests a clean, straightforward set of options that allow a degree of personalization to the user's workflow with documents in "Bike."

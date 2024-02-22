@@ -1,0 +1,148 @@
+This image contains a screenshot of a web browser's user interface with a focus on a start or new tab page. The specific web browser appears to be Safari, based on the interface style. Here is a description of the UI elements visible in the screenshot:
+
+1. **Top Bar:**
+   - Red, yellow, and green window control buttons typically found in macOS applications.
+   - Back and forward navigation buttons (arrow icons).
+   - A sidebar button to toggle the display of the sidebar (depicted as a book icon).
+   - A smart search field for entering website names or search terms.
+   - A refresh/stop loading button next to the search bar (circular arrow icon).
+   - A "+" button likely used to open a new tab.
+   - Tabs not fully visible but denoted by the faint outline of another tab to the right.
+
+2. **Sidebar:**
+   - The selected item in the sidebar is "Bookmarks".
+   - Within Bookmarks, there are two sections visible: "Favourites" and "Tab Group Favourites".
+   - "Favourites" has a star icon, and "Tab Group Favourites" has a folder-like icon.
+
+3. **Main Content Area:**
+   - Title "Favourites" with a selection of four favorite website shortcuts:
+       Apple (with an Apple logo)
+       Yandex (with a Yandex logo)
+       Bing (with a Bing logo)
+       Google (with a Google logo)
+   - The "Shared with You" section:
+       A greyed-out graphic suggesting that content would appear here based on shared links in messages.
+       Text beneath reads: "Links shared with you in Messages can automatically appear here, along with shared links that you pin."
+   - The "Privacy Report" section:
+       An icon resembling a shield with a checkmark.
+       Text below reads: "Safari has not encountered any trackers in the last seven days."
+   - The "Siri Suggestions" section:
+       A prompt that explains websites found in Mail, News, and more will appear here when available, also noting that the section may be hidden if there is no content.
+   - "Reading List" appears at the bottom, which is likely another section that the user can expand to view saved articles.
+
+4. **Bottom Bar:**
+   - An icon that looks like overlapping squares, which typically represents the "Show all tabs" option.
+   - An icon that resembles a window with a sidebar to toggle the sidebar's visibility.
+
+The overall interface is clean and minimalist, typical of macOS design aesthetics. The web browser is organizing information into sections like Favourites and Siri Suggestions for quick access to frequently used features and personalized content recommendations.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2648, 1718]	[1324.0, 859.0]		Start Page
+19	1	SplitGroup	[0, 0, 2648, 1718]	[1324.0, 859.0]		
+80	19	Group	[0, 104, 650, 1614]	[325.0, 911.0]		
+106	80	Button	[38, 102, 44, 46]	[60.0, 125.0]		|Back
+105	80	StaticText	[92, 104, 172, 38]	[178.0, 123.0]	Bookmarks	
+81	80	ScrollArea	[0, 178, 650, 1540]	[325.0, 948.0]		|bookmarks
+102	81	Group	[0, 118, 650, 60]	[325.0, 148.0]		
+103	102	TextField	[24, 126, 602, 44]	[325.0, 148.0]		
+104	103	Button	[28, 126, 50, 44]	[53.0, 148.0]		|Search
+86	81	Outline	[0, 178, 650, 1540]	[325.0, 948.0]		|bookmarks
+100	86	Row	[0, 118, 650, 60]	[325.0, 148.0]		
+101	100	Cell	[20, 118, 610, 60]	[325.0, 148.0]		
+94	86	Row	[0, 178, 650, 52]	[325.0, 204.0]		
+95	94	Cell	[20, 178, 610, 52]	[325.0, 204.0]		|Favourites
+97	95	TextField	[50, 178, 600, 52]	[350.0, 204.0]		|Favourites
+99	97	Image	[50, 178, 36, 50]	[68.0, 203.0]		|favourite
+98	97	TextField	[92, 188, 542, 32]	[363.0, 204.0]	Favourites	
+96	95	DisclosureTriangle	[24, 178, 26, 52]	[37.0, 204.0]	0	
+88	86	Row	[0, 230, 650, 52]	[325.0, 256.0]		
+89	88	Cell	[20, 230, 610, 52]	[325.0, 256.0]		|Tab Group Favourites
+91	89	TextField	[50, 230, 600, 52]	[350.0, 256.0]		|Tab Group Favourites
+93	91	Image	[50, 230, 36, 50]	[68.0, 255.0]		|
+92	91	TextField	[92, 240, 542, 32]	[363.0, 256.0]	Tab Group Favourites	
+90	89	DisclosureTriangle	[24, 230, 26, 52]	[37.0, 256.0]	0	
+87	86	Column	[20, 118, 610, 1600]	[325.0, 918.0]		
+82	81	ScrollBar	[618, 178, 32, 1540]	[634.0, 948.0]	1.0	
+85	82	ValueIndicator	[618, 238, 32, 1478]	[634.0, 977.0]	1.0	
+84	82	Button	[618, 1716, 32, 2]	[634.0, 1717.0]		
+83	82	Button	[618, 178, 32, 58]	[634.0, 207.0]		
+79	19	Splitter	[650, 104, 2, 1614]	[651.0, 911.0]	325.0	
+20	19	TabGroup	[652, 0, 1996, 1718]	[1650.0, 859.0]		
+22	20	ScrollArea	[652, 104, 1996, 1614]	[1650.0, 911.0]		
+27	22	List	[652, 104, 1996, 1614]	[1650.0, 911.0]		
+59	27	List	[1010, 232, 1280, 286]	[1650.0, 375.0]		|Favourites
+76	59	Group	[1010, 232, 1280, 84]	[1650.0, 274.0]		
+77	76	Unknown	[1010, 232, 1280, 84]	[1650.0, 274.0]		|Favourites
+78	77	Button	[1010, 232, 224, 52]	[1122.0, 258.0]		Favourites
+72	59	Button	[1010, 316, 128, 202]	[1074.0, 417.0]		|Apple
+75	72	Image	[1010, 316, 128, 128]	[1074.0, 380.0]		|
+74	72	Image	[990, 296, 166, 166]	[1073.0, 379.0]		|Apple
+73	72	Button	[1006, 458, 136, 28]	[1074.0, 472.0]	Apple	|Apple
+68	59	Button	[1154, 316, 128, 202]	[1218.0, 417.0]		|Yandex
+71	68	Image	[1154, 316, 128, 128]	[1218.0, 380.0]		|
+70	68	Image	[1134, 296, 166, 166]	[1217.0, 379.0]		|Yandex
+69	68	Button	[1150, 458, 136, 28]	[1218.0, 472.0]	Yandex	|Yandex
+64	59	Button	[1298, 316, 128, 202]	[1362.0, 417.0]		|Bing
+67	64	Image	[1298, 316, 128, 128]	[1362.0, 380.0]		|
+66	64	Image	[1278, 296, 166, 166]	[1361.0, 379.0]		|Bing
+65	64	Button	[1294, 458, 136, 28]	[1362.0, 472.0]	Bing	|Bing
+60	59	Button	[1442, 316, 128, 202]	[1506.0, 417.0]		|Google
+63	60	Image	[1442, 316, 128, 128]	[1506.0, 380.0]		|
+62	60	Image	[1422, 296, 166, 166]	[1505.0, 379.0]		|Google
+61	60	Button	[1438, 458, 136, 28]	[1506.0, 472.0]	Google	|Google
+50	27	List	[1010, 592, 1280, 324]	[1650.0, 754.0]		|Shared with You
+56	50	Group	[1010, 592, 1280, 84]	[1650.0, 634.0]		
+57	56	Unknown	[1010, 592, 1280, 84]	[1650.0, 634.0]		|Shared with You
+58	57	Button	[1010, 592, 340, 52]	[1180.0, 618.0]		Shared with You
+51	50	Button	[1010, 676, 1280, 240]	[1650.0, 796.0]		
+55	51	Image	[1010, 676, 1280, 240]	[1650.0, 796.0]		|
+54	51	Image	[990, 656, 1318, 278]	[1649.0, 795.0]		|boxShadow
+53	51	Image	[1042, 724, 1216, 44]	[1650.0, 746.0]		|
+52	51	StaticText	[1038, 794, 1224, 64]	[1650.0, 826.0]	"Links shared with you in Messages can automatically appear
+here, along with shared links that you pin."	
+41	27	List	[1010, 990, 1280, 196]	[1650.0, 1088.0]		|Privacy Report
+47	41	Group	[1010, 990, 1280, 84]	[1650.0, 1032.0]		
+48	47	Unknown	[1010, 990, 1280, 84]	[1650.0, 1032.0]		
+49	48	Button	[1010, 990, 310, 52]	[1165.0, 1016.0]		Privacy Report
+42	41	Button	[1010, 1074, 1280, 112]	[1650.0, 1130.0]		|Safari has not encountered any trackers in the last seven days.
+46	42	Image	[1010, 1074, 1280, 112]	[1650.0, 1130.0]		|
+45	42	Image	[1050, 1104, 64, 52]	[1082.0, 1130.0]		|
+44	42	StaticText	[1166, 1114, 764, 32]	[1548.0, 1130.0]	Safari has not encountered any trackers in the last seven days.	
+43	42	Image	[990, 1054, 1318, 150]	[1649.0, 1129.0]		|Safari has not encountered any trackers in the last seven days.
+32	27	List	[1010, 1260, 1280, 324]	[1650.0, 1422.0]		|Siri Suggestions
+38	32	Group	[1010, 1260, 1280, 84]	[1650.0, 1302.0]		
+39	38	Unknown	[1010, 1260, 1280, 84]	[1650.0, 1302.0]		|Siri Suggestions
+40	39	Button	[1010, 1260, 344, 52]	[1182.0, 1286.0]		Siri Suggestions
+33	32	Button	[1010, 1344, 1280, 240]	[1650.0, 1464.0]		
+37	33	Image	[1010, 1344, 1280, 240]	[1650.0, 1464.0]		|
+36	33	Image	[990, 1324, 1318, 278]	[1649.0, 1463.0]		|boxShadow
+35	33	Image	[1042, 1392, 1216, 46]	[1650.0, 1415.0]		|
+34	33	StaticText	[1038, 1462, 1224, 64]	[1650.0, 1494.0]	"Websites found in Mail, News and more will appear here when available.
+This section may be hidden if there is no content to display."	
+28	27	List	[1010, 1658, 1280, 60]	[1650.0, 1688.0]		|Reading List
+29	28	Group	[1010, 1658, 1280, 60]	[1650.0, 1688.0]		
+30	29	Unknown	[1010, 1658, 1280, 60]	[1650.0, 1688.0]		|Reading List
+31	30	Button	[1010, 1658, 262, 52]	[1141.0, 1684.0]		Reading List
+23	22	ScrollBar	[2616, 104, 32, 1614]	[2632.0, 911.0]	0.0	
+26	23	ValueIndicator	[2624, 106, 24, 1258]	[2636.0, 735.0]	0.0	
+25	23	Button	[2624, 1364, 24, 352]	[2636.0, 1540.0]		
+24	23	Button	[2624, 104, 24, 2]	[2636.0, 105.0]		
+21	20	Button	[2544, 1632, 64, 52]	[2576.0, 1658.0]		|customisations
+3	1	Toolbar	[0, 0, 2648, 104]	[1324.0, 52.0]		
+16	3	Group	[174, 0, 460, 104]	[404.0, 52.0]		
+18	16	Button	[170, 12, 90, 80]	[215.0, 52.0]		|hide sidebar
+17	16	MenuButton	[550, 12, 88, 80]	[594.0, 52.0]		|new tab group
+12	3	Group	[668, 0, 150, 104]	[743.0, 52.0]		
+13	12	Group	[664, 12, 158, 80]	[743.0, 52.0]		
+15	13	Button	[664, 12, 80, 80]	[704.0, 52.0]		|Go back
+14	13	Button	[744, 12, 78, 80]	[783.0, 52.0]		|Go forward
+9	3	Group	[1106, 0, 1086, 104]	[1649.0, 52.0]		
+11	9	Button	[1448, 24, 44, 56]	[1470.0, 52.0]		Show Search Menu|Show Search Menu
+10	9	TextField	[1158, 36, 1024, 56]	[1670.0, 64.0]		|smart search field
+8	3	Button	[2406, 0, 74, 104]	[2443.0, 52.0]		|Share
+5	3	Button	[2480, 0, 72, 104]	[2516.0, 52.0]		|New Tab
+6	5	Button	[2476, 12, 80, 80]	[2516.0, 52.0]		|new tab
+7	6	Button	[2476, 12, 80, 80]	[2516.0, 52.0]		|add
+4	3	Button	[2552, 0, 80, 104]	[2592.0, 52.0]		|Tab Overview
+2	1	Button	[78, 36, 28, 32]	[92.0, 52.0]		

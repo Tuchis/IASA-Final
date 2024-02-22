@@ -1,0 +1,49 @@
+This image shows the "BetterTouchTool Settings" user interface within an application that allows users to customize Touch Bar settings on a MacOS device.
+
+At the top of the window, we see the window controls for minimize, maximize, and close, specific to MacOS applications.
+
+On the left side of the window is a vertical navigation pane, divided into two sections: "Standard Settings" and "Advanced Settings". Under "Standard Settings," we see the following options:
+- Basic
+- User Interface
+- Touch Bar (highlighted indicating the current selection)
+- Stream Deck
+- Notch / Action Menu Bar
+- Window Snapping & Moving
+- BTT Remote
+
+Under "Advanced Settings," we see these options:
+- General
+- Trackpad
+- Magic Mouse
+- Keyboard
+- Drawings / Mouse Gestures
+- MIDI Settings
+- Scripting BTT
+- Web Server
+- Normal Mouse
+
+On the right side of the window, we see the area dedicated to the Touch Bar settings, with a heading "BetterTouchTool Settings". Below the heading are tabs for Default Settings and Advanced. The Default Settings tab is currently active.
+
+Within the Default Settings tab, there are a series of checkboxes and text areas that represent different settings the user can customize for their Touch Bar:
+
+1. "Enable Touch Bar support (disabling requires you to restart BTT)" - this option is checked, indicating that Touch Bar support is currently enabled.
+
+2. "Show macOS Control Strip" - this option is checked, indicating that the macOS Control Strip should be shown. Next to it, there's another option "Hide left close / X button (requires BTT restart)" which is not checked.
+
+3. "Show BetterTouchTool Icon in Control Strip" - this option is checked, indicating that the BetterTouchTool icon should be displayed in the macOS Control Strip.
+
+4. "Show BetterTouchTool Icon on the left side (only if not showing macOS Control Strip)" followed by a text input field that says "Free space after BTT Icon: 20 px" - this option is checked, and it seems you can specify the space after the BTT icon if it's displayed on the left side.
+
+5. "Show ESC Button on the left side of the Touch Bar" followed by another text input field that says "Free space after ESC button: 10 px" - this option is also checked, allowing users to control the appearance of the ESC button and the space after it.
+
+6. A checkbox for "Hide global actions if app specific actions are configured in BTT" is unmarked, suggesting that global actions will be shown unless this is checked.
+
+7. "Hide BetterTouchTool Touch Bar if nothing to show (no actions configured)" - this option is checked, which means the BetterTouchTool Touch Bar will be hidden if there are no actions configured.
+
+Below these settings, there is a text section labeled "Some tips" which provides the following points:
+- Disabling the system Touch Bar.
+- How to show/hide the BTT Touch Bar.
+- Deciding per-app Touch Bar settings.
+- A link to community-shared Touch Bar presets.
+
+Overall, the UI provides basic configurations related to the macOS Touch Bar via BetterTouchTool, enabling users to tailor the functionality and display to their preferences.

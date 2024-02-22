@@ -1,0 +1,94 @@
+The image displays a user interface that appears to be a part of an application for configuring touch bar settings on a Mac, likely for customizing the touch bar of a MacBook Pro or similar device. The interface is composed of three main sections, each with distinct elements.
+
+### Left Section
+The leftmost section has a dark grey background and contains two elements:
+1. At the top, there are three horizontal lines indicating some sort of a menu or draggable area, followed by an arrow pointing to the left (indicating collapse functionality). Above this, are the circular red, yellow, and green buttons typical of macOS window controls, signifying close, minimize, and maximize/zoom respectively.
+2. Below this, there is a sidebar with two selectable items: 'All Apps', which is not highlighted and thus not active, and 'Finder', which is highlighted with a blue background indicating it is the currently selected application.
+
+The bottom area of the sidebar features one plus button and a trash bin button, suggesting functionality to add a new item or delete an existing one, respectively. To the right, there's a magnifying glass icon indicating a search function, and a plus icon which likely allows for adding new items.
+
+### Middle Section
+The middle section seems to be the main interactive area where users can choose triggers and assign actions to those triggers. This section is also divided into two parts.
+1. On the left side within this section, there is a large area with the text "Please Select a Trigger" and a blue outline pointing rightward towards a blue plus button. This interface implies that the user can create or select a trigger by pressing the plus button.
+   
+2. To the right, there is another similar area with the text "Assign First Action to Selected Trigger" and a blue plus button. This suggests that after selecting a trigger, a user can assign an action to it by pressing the plus button.
+
+These two parts may represent a step-by-step process: first selecting a trigger and then assigning an action to it.
+
+### Right Section
+The rightmost section is relatively empty and seems dedicated to more detailed settings or configuration options for the selected trigger.
+1. At the top, the header reads 'Touch Bar Trigger Configuration', indicating that this panel pertains to the detailed settings for a touch bar trigger.
+2. Beneath this header is a button with a downward-pointing arrow and the text "Select Trigger", suggesting a dropdown menu where the user could choose from different trigger options.
+
+Above this panel are additional UI elements:
+- A back arrow at the very top left, which likely takes the user to a previous screen or menu.
+- Icons indicating 'Touch Bar' and connected cube shapes, which could be indicative of 'Touch Bar Settings'.
+- Next to the right is an icon that appears to represent two sliders, possibly leading to finer settings or preferences.
+- On the far right, there's an overflow menu (indicated by three vertical dots), usually denoting more options or settings.
+- Just below this, there is text indicating the current preset in use, marked 'Preset: Default', which suggests that the interface allows for the saving and selection of different configuration presets.
+
+Finally, to the right of the 'Preset: Default' dropdown, there is another icon resembling a window with layers; this may represent a function related to layout or different views within the application.
+
+Overall, the interface is designed to be a multi-step configuration tool for customizing the touch bar experience on a macOS device, with an emphasis on selecting applications, defining triggers, and assigning actions to those triggers.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 1770, 1000]	[885.0, 500.0]		BetterTouchTool Configuration
+58	1	Button	[150, 50, 70, 34]	[185.0, 67.0]		<<<
+57	1	Button	[2, 926, 76, 74]	[40.0, 963.0]		
+56	1	Button	[64, 926, 76, 74]	[102.0, 963.0]		
+45	1	ScrollArea	[0, 94, 370, 836]	[185.0, 512.0]		
+46	45	Table	[0, 94, 370, 836]	[185.0, 512.0]		
+52	46	Row	[0, 94, 370, 52]	[185.0, 120.0]		
+53	52	Cell	[2, 96, 360, 48]	[182.0, 120.0]		
+55	53	Image	[16, 100, 38, 38]	[35.0, 119.0]		|network
+54	53	StaticText	[62, 106, 296, 28]	[210.0, 120.0]	All Apps	
+48	46	Row	[0, 146, 370, 52]	[185.0, 172.0]		
+49	48	Cell	[2, 148, 360, 48]	[182.0, 172.0]		
+51	49	Image	[16, 152, 38, 38]	[35.0, 171.0]		|
+50	49	StaticText	[62, 158, 296, 28]	[210.0, 172.0]	Finder	
+47	46	Column	[0, 94, 366, 836]	[183.0, 512.0]		
+36	1	Group	[370, 0, 1400, 94]	[1070.0, 47.0]		
+44	36	Button	[372, 20, 80, 64]	[412.0, 52.0]		|Back
+43	36	PopUpButton	[438, 28, 476, 50]	[676.0, 53.0]	 ◦ Touch Bar	
+42	36	Button	[1644, 0, 92, 96]	[1690.0, 48.0]		|action
+41	36	CheckBox	[1392, 28, 236, 34]	[1510.0, 45.0]	0	Preset: Default ▾
+40	36	Button	[908, 20, 298, 64]	[1057.0, 52.0]		Touch Bar Settings
+37	36	RadioGroup	[1208, 26, 158, 48]	[1287.0, 50.0]	<AXUIElement 0x10f11d8e0> {pid=18369}	
+39	37	RadioButton	[1208, 26, 74, 48]	[1245.0, 50.0]	1	|column view
+38	37	RadioButton	[1282, 26, 72, 48]	[1318.0, 50.0]	0	|list view
+2	1	SplitGroup	[370, 94, 1400, 906]	[1070.0, 547.0]		
+25	2	ScrollArea	[370, 94, 470, 836]	[605.0, 512.0]		
+26	25	Table	[370, 150, 470, 780]	[605.0, 540.0]		
+33	26	Row	[370, 150, 470, 90]	[605.0, 195.0]		
+34	33	Cell	[370, 150, 470, 90]	[605.0, 195.0]		
+35	34	StaticText	[472, 180, 314, 30]	[629.0, 195.0]	Please Select a Trigger ►	
+30	26	Row	[370, 240, 470, 682]	[605.0, 581.0]		
+31	30	Cell	[370, 240, 470, 682]	[605.0, 581.0]		
+32	31	Button	[570, 270, 72, 72]	[606.0, 306.0]		+
+29	26	Column	[370, 150, 470, 780]	[605.0, 540.0]		
+27	26	Group	[370, 94, 470, 56]	[605.0, 122.0]		
+28	27	Button	[370, 94, 470, 56]	[605.0, 122.0]		Groups & Top Level Triggers
+24	2	Button	[622, 940, 56, 56]	[650.0, 968.0]		
+23	2	Button	[698, 940, 56, 56]	[726.0, 968.0]		
+22	2	Button	[774, 940, 56, 56]	[802.0, 968.0]		
+21	2	Button	[388, 940, 56, 56]	[416.0, 968.0]		
+12	2	ScrollArea	[838, 94, 470, 906]	[1073.0, 547.0]		
+13	12	Table	[838, 150, 470, 850]	[1073.0, 575.0]		
+17	13	Row	[838, 150, 470, 260]	[1073.0, 280.0]		
+18	17	Cell	[840, 152, 464, 256]	[1072.0, 280.0]		
+20	18	Button	[1008, 270, 120, 120]	[1068.0, 330.0]		+
+19	18	StaticText	[910, 178, 326, 80]	[1073.0, 218.0]	"Assign First Action to
+ Selected Trigger"	
+16	13	Column	[838, 150, 470, 850]	[1073.0, 575.0]		
+14	13	Group	[838, 94, 470, 56]	[1073.0, 122.0]		
+15	14	Button	[838, 94, 470, 56]	[1073.0, 122.0]		Actions Assigned to Selected Trigger
+11	2	Button	[1244, 940, 56, 56]	[1272.0, 968.0]		
+10	2	Button	[1168, 940, 56, 56]	[1196.0, 968.0]		
+9	2	Button	[858, 940, 56, 56]	[886.0, 968.0]		
+8	2	Image	[1326, 116, 80, 80]	[1366.0, 156.0]		|touchbar pop
+7	2	StaticText	[1422, 124, 298, 64]	[1571.0, 156.0]	Touch Bar Trigger Configuration	
+6	2	StaticText	[1422, 190, 326, 30]	[1585.0, 205.0]		
+5	2	Button	[1636, 98, 128, 34]	[1700.0, 115.0]		
+3	2	ScrollArea	[1310, 220, 460, 780]	[1540.0, 610.0]		
+4	3	Button	[1320, 230, 442, 64]	[1541.0, 262.0]		Select Trigger|drop down

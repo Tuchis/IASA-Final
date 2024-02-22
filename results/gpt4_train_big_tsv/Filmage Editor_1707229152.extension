@@ -1,0 +1,197 @@
+This image displays the user interface (UI) of a video editing application. I will describe all visible UI elements from top to bottom and left to right:
+
+### Top Menu Bar:
+- **Media**: A tab that is currently inactive.
+- **Resources**: The active tab, which is currently selected.
+- **Effects**: Another tab that is inactive.
+
+### Left Sidebar - Resources Section:
+- **Text**: An icon of a 'T' indicates options for text elements in a video.
+- **Sound FX**: An icon representing sound waves, for sound effects.
+- **Stickers**: An icon that hints at the availability of stickers to overlay on videos.
+- **GIPHY**: This is highlighted with a purple band, indicating it is the currently selected resource. It suggests that the application integrates with GIPHY to provide GIFs.
+- **Unsplash**: An external source for images, not currently selected.
+- **Pexels**: Another external source for images, not currently selected.
+- **Pixabay**: The final listed source for external images, also not currently selected.
+
+### Resource Filters:
+- **All**: A filter option that is currently selected, showing all types of media from GIPHY.
+- **Download**: A filter option that presumably shows only downloaded resources.
+
+### Search and Refresh:
+- **Search Bar**: An empty text field labeled "Search," for searching within the resources.
+- **Refresh Button**: Icon with a circular arrow, likely used to refresh the content listed below.
+
+### GIPHY Resources:
+- Resource thumbnails show a variety of images from GIPHY sorted by the "All" filter. Thumbnails contain both static pictures and GIFs, with the latter labeled with a "GIF" tag on the bottom.
+
+### Main Viewer Area:
+- **Untitled 1.filmg**: The text field indicating the name of the current project.
+- **Viewer**: Label for the main preview area, which is currently dark and labeled with "Filmage Editor," suggesting the name of the application.
+- **Aspect Ratio Selector**: An interface element showing "16:9," this dropdown would allow the user to change the aspect ratio of the project.
+- **Export Button**: The button to export the video project, symbolized by an arrow pointing upwards out of a tray.
+
+### Bottom Section - Timeline and Controls:
+- A timeline with timestamps indicating the length and progress of the video project.
+- The red playhead at "00:00:00:00" indicates the start of the video.
+- Below that are track layers for video and audio, each with icons suggesting the purpose (e.g., film for video tracks, musical note for audio tracks).
+- A grayed-out text indicates "Drag media and effects here to create your video," which is an instruction for users on how to use the timeline area.
+
+The UI elements are designed with a dark theme, contrasting colors for selected items, and a minimalist approach, likely to support workflow efficiency and visual ease in video editing tasks.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2880, 1628]	[1440.0, 814.0]		Untitled 1.flmg
+154	1	Image	[40, 92, 64, 48]	[72.0, 116.0]		|ic big navigationbar normal 1
+153	1	StaticText	[100, 102, 92, 30]	[146.0, 117.0]	Media	
+152	1	Button	[40, 76, 154, 80]	[117.0, 116.0]		
+151	1	Image	[208, 92, 64, 48]	[240.0, 116.0]		|ic big navigationbar select 2
+150	1	StaticText	[268, 102, 148, 30]	[342.0, 117.0]	Resources	
+149	1	Button	[208, 76, 204, 80]	[310.0, 116.0]		
+148	1	Image	[432, 92, 64, 48]	[464.0, 116.0]		|ic big navigationbar normal 3
+147	1	StaticText	[492, 102, 104, 30]	[544.0, 117.0]	Effects	
+146	1	Button	[432, 76, 160, 80]	[512.0, 116.0]		
+145	1	StaticText	[2356, 102, 90, 32]	[2401.0, 118.0]	Viewer	
+144	1	Image	[2312, 96, 40, 40]	[2332.0, 116.0]		|ic navigationbar checker
+143	1	Button	[2304, 88, 148, 56]	[2378.0, 116.0]		
+142	1	Image	[2348, 80, 20, 20]	[2358.0, 90.0]		|ic checker updatetip red
+141	1	StaticText	[2718, 102, 88, 32]	[2762.0, 118.0]	Export	
+140	1	Image	[2678, 96, 40, 40]	[2698.0, 116.0]		|ic navigationbar export unslec
+139	1	Button	[2652, 88, 188, 56]	[2746.0, 116.0]		
+138	1	Image	[2586, 96, 40, 40]	[2606.0, 116.0]		|ic zhankai
+137	1	StaticText	[2490, 100, 112, 32]	[2546.0, 116.0]	16:9	
+136	1	Button	[2484, 88, 142, 56]	[2555.0, 116.0]		
+135	1	StaticText	[1802, 180, 668, 30]	[2136.0, 195.0]		
+134	1	StaticText	[1452, 776, 148, 30]	[1526.0, 791.0]	00:00:00:00	
+133	1	Button	[2776, 776, 40, 40]	[2796.0, 796.0]		
+132	1	StaticText	[2616, 776, 148, 30]	[2690.0, 791.0]	00:00:00:00	
+131	1	Image	[1922, 444, 426, 112]	[2135.0, 500.0]		|img watermark
+130	1	StaticText	[56, 184, 134, 30]	[123.0, 199.0]	Resources	
+129	1	StaticText	[106, 240, 308, 30]	[260.0, 255.0]	Text	
+128	1	Image	[60, 236, 40, 40]	[80.0, 256.0]		|ic sidebar text
+127	1	Button	[50, 228, 380, 56]	[240.0, 256.0]		
+126	1	StaticText	[106, 296, 308, 32]	[260.0, 312.0]	Sound FX	
+125	1	Image	[60, 292, 40, 40]	[80.0, 312.0]		|Resource Sound icon
+124	1	Button	[50, 284, 380, 56]	[240.0, 312.0]		
+123	1	StaticText	[106, 352, 308, 30]	[260.0, 367.0]	Stickers	
+122	1	Image	[60, 348, 40, 40]	[80.0, 368.0]		|ic sidebar stickers
+121	1	Button	[50, 340, 380, 56]	[240.0, 368.0]		
+120	1	StaticText	[106, 408, 308, 32]	[260.0, 424.0]	GIPHY	
+119	1	Image	[60, 404, 40, 40]	[80.0, 424.0]		|ic giphy
+118	1	Button	[50, 396, 380, 56]	[240.0, 424.0]		
+117	1	StaticText	[106, 464, 308, 32]	[260.0, 480.0]	Unsplash	
+116	1	Image	[60, 460, 40, 40]	[80.0, 480.0]		|ic unsplash
+115	1	Button	[50, 452, 380, 56]	[240.0, 480.0]		
+114	1	StaticText	[106, 520, 308, 32]	[260.0, 536.0]	Pexels	
+113	1	Image	[60, 516, 40, 40]	[80.0, 536.0]		|ic pexels
+112	1	Button	[50, 508, 380, 56]	[240.0, 536.0]		
+111	1	StaticText	[106, 576, 308, 32]	[260.0, 592.0]	Pixabay	
+110	1	Image	[60, 572, 40, 40]	[80.0, 592.0]		|ic pixabay
+109	1	Button	[50, 564, 380, 56]	[240.0, 592.0]		
+108	1	Button	[488, 192, 148, 40]	[562.0, 212.0]		All
+107	1	Button	[636, 192, 148, 40]	[710.0, 212.0]		Favorite
+106	1	TextField	[1164, 198, 144, 28]	[1236.0, 212.0]		
+105	1	Button	[1304, 192, 40, 40]	[1324.0, 212.0]		
+104	1	Button	[488, 192, 148, 40]	[562.0, 212.0]		All
+103	1	Button	[636, 192, 148, 40]	[710.0, 212.0]		Download
+102	1	TextField	[1072, 198, 228, 28]	[1186.0, 212.0]		
+101	1	Button	[1304, 192, 40, 40]	[1324.0, 212.0]		
+52	1	ScrollArea	[448, 252, 952, 688]	[924.0, 596.0]		
+57	52	List	[448, 252, 952, 1376]	[924.0, 940.0]		
+58	57	List	[448, 252, 952, 1376]	[924.0, 940.0]		|Powered by GIPHY
+90	58	Group	[448, 252, 952, 160]	[924.0, 332.0]		
+100	90	Image	[488, 284, 40, 40]	[508.0, 304.0]		|ic giphy
+99	90	StaticText	[532, 288, 248, 32]	[656.0, 304.0]	Powered by GIPHY	
+98	90	StaticText	[1268, 288, 94, 30]	[1315.0, 303.0]	Refresh	
+97	90	Button	[1224, 284, 40, 40]	[1244.0, 304.0]		
+96	90	Button	[1272, 284, 86, 40]	[1315.0, 304.0]		
+95	90	Image	[530, 388, 64, 4]	[562.0, 390.0]		|pic checker line
+94	90	StaticText	[514, 350, 94, 30]	[561.0, 365.0]	Picture	
+93	90	Button	[488, 348, 148, 36]	[562.0, 366.0]		
+92	90	StaticText	[686, 350, 46, 30]	[709.0, 365.0]	GIF	
+91	90	Button	[636, 348, 148, 36]	[710.0, 366.0]		
+88	58	Group	[488, 444, 200, 200]	[588.0, 544.0]		
+89	88	Image	[488, 444, 200, 200]	[588.0, 544.0]		|
+86	58	Group	[712, 444, 200, 200]	[812.0, 544.0]		
+87	86	Image	[712, 444, 200, 200]	[812.0, 544.0]		|
+84	58	Group	[936, 444, 200, 200]	[1036.0, 544.0]		
+85	84	Image	[936, 444, 200, 200]	[1036.0, 544.0]		|
+82	58	Group	[1160, 444, 200, 200]	[1260.0, 544.0]		
+83	82	Image	[1160, 444, 200, 200]	[1260.0, 544.0]		|
+80	58	Group	[488, 668, 200, 200]	[588.0, 768.0]		
+81	80	Image	[488, 668, 200, 200]	[588.0, 768.0]		|
+78	58	Group	[712, 668, 200, 200]	[812.0, 768.0]		
+79	78	Image	[712, 668, 200, 200]	[812.0, 768.0]		|
+76	58	Group	[936, 668, 200, 200]	[1036.0, 768.0]		
+77	76	Image	[936, 668, 200, 200]	[1036.0, 768.0]		|
+74	58	Group	[1160, 668, 200, 200]	[1260.0, 768.0]		
+75	74	Image	[1160, 668, 200, 200]	[1260.0, 768.0]		|
+72	58	Group	[488, 892, 200, 200]	[588.0, 992.0]		
+73	72	Image	[488, 892, 200, 200]	[588.0, 992.0]		|
+70	58	Group	[712, 892, 200, 200]	[812.0, 992.0]		
+71	70	Image	[712, 892, 200, 200]	[812.0, 992.0]		|
+68	58	Group	[936, 892, 200, 200]	[1036.0, 992.0]		
+69	68	Image	[936, 892, 200, 200]	[1036.0, 992.0]		|
+66	58	Group	[1160, 892, 200, 200]	[1260.0, 992.0]		
+67	66	Image	[1160, 892, 200, 200]	[1260.0, 992.0]		|
+65	58	Group	[488, 1116, 200, 200]	[588.0, 1216.0]		
+64	58	Group	[712, 1116, 200, 200]	[812.0, 1216.0]		
+63	58	Group	[936, 1116, 200, 200]	[1036.0, 1216.0]		
+62	58	Group	[1160, 1116, 200, 200]	[1260.0, 1216.0]		
+61	58	Group	[488, 1340, 200, 200]	[588.0, 1440.0]		
+60	58	Group	[712, 1340, 200, 200]	[812.0, 1440.0]		
+59	58	Group	[936, 1340, 200, 200]	[1036.0, 1440.0]		
+53	52	ScrollBar	[1370, 252, 30, 688]	[1385.0, 596.0]	0.0	
+56	53	ValueIndicator	[1370, 256, 30, 110]	[1385.0, 311.0]	0.0	
+55	53	Button	[1370, 366, 30, 572]	[1385.0, 652.0]		
+54	53	Button	[1370, 252, 30, 4]	[1385.0, 254.0]		
+51	1	Button	[80, 1058, 40, 40]	[100.0, 1078.0]		
+38	1	ScrollArea	[446, 1028, 2394, 100]	[1643.0, 1078.0]		
+50	38	StaticText	[440, 1050, 200, 34]	[540.0, 1067.0]	00:00:00:00	
+49	38	StaticText	[654, 1050, 200, 34]	[754.0, 1067.0]	00:00:30:00	
+48	38	StaticText	[868, 1050, 200, 34]	[968.0, 1067.0]	00:01:00:00	
+47	38	StaticText	[1082, 1050, 200, 34]	[1182.0, 1067.0]	00:01:30:00	
+46	38	StaticText	[1298, 1050, 200, 34]	[1398.0, 1067.0]	00:02:00:00	
+45	38	StaticText	[1512, 1050, 200, 34]	[1612.0, 1067.0]	00:02:30:00	
+44	38	StaticText	[1726, 1050, 200, 34]	[1826.0, 1067.0]	00:03:00:00	
+43	38	StaticText	[1940, 1050, 200, 34]	[2040.0, 1067.0]	00:03:30:00	
+42	38	StaticText	[2156, 1050, 200, 34]	[2256.0, 1067.0]	00:04:00:00	
+41	38	StaticText	[2370, 1050, 200, 34]	[2470.0, 1067.0]	00:04:30:00	
+40	38	StaticText	[2584, 1050, 200, 34]	[2684.0, 1067.0]	00:05:00:00	
+39	38	StaticText	[2800, 1050, 80, 34]	[2840.0, 1067.0]	00:05:30:00	
+36	1	ScrollArea	[446, 1128, 2394, 460]	[1643.0, 1358.0]		
+37	36	StaticText	[1334, 1344, 616, 32]	[1642.0, 1360.0]	Drag media and effects here to create your video.	
+24	1	ScrollArea	[40, 1128, 402, 460]	[241.0, 1358.0]		
+35	24	Button	[70, 1492, 40, 40]	[90.0, 1512.0]		
+34	24	Button	[140, 1492, 40, 40]	[160.0, 1512.0]		
+33	24	Button	[210, 1492, 40, 40]	[230.0, 1512.0]		
+32	24	Button	[70, 1336, 40, 40]	[90.0, 1356.0]		
+31	24	Button	[140, 1336, 40, 40]	[160.0, 1356.0]		
+30	24	Button	[210, 1336, 40, 40]	[230.0, 1356.0]		
+29	24	Button	[280, 1336, 40, 40]	[300.0, 1356.0]		
+28	24	Button	[70, 1184, 40, 40]	[90.0, 1204.0]		
+27	24	Button	[140, 1184, 40, 40]	[160.0, 1204.0]		
+26	24	Button	[210, 1184, 40, 40]	[230.0, 1204.0]		
+25	24	Button	[280, 1184, 40, 40]	[300.0, 1204.0]		
+23	1	Image	[430, 1080, 28, 548]	[444.0, 1354.0]		|pic axis timeneedle nor
+22	1	Button	[76, 964, 40, 40]	[96.0, 984.0]		
+21	1	Button	[164, 964, 40, 40]	[184.0, 984.0]		
+20	1	Button	[228, 964, 40, 40]	[248.0, 984.0]		
+19	1	Button	[448, 964, 40, 40]	[468.0, 984.0]		
+18	1	Button	[512, 964, 40, 40]	[532.0, 984.0]		
+17	1	Button	[576, 964, 40, 40]	[596.0, 984.0]		
+16	1	Button	[668, 964, 40, 40]	[688.0, 984.0]		
+15	1	Button	[740, 964, 40, 40]	[760.0, 984.0]		
+14	1	Button	[812, 964, 40, 40]	[832.0, 984.0]		
+13	1	Button	[884, 964, 40, 40]	[904.0, 984.0]		
+12	1	Button	[2270, 964, 40, 40]	[2290.0, 984.0]		
+11	1	Button	[2342, 964, 40, 40]	[2362.0, 984.0]		
+10	1	Button	[2414, 964, 40, 40]	[2434.0, 984.0]		
+9	1	Button	[2486, 964, 40, 40]	[2506.0, 984.0]		
+8	1	Button	[2704, 964, 40, 40]	[2724.0, 984.0]		
+7	1	Button	[2780, 960, 60, 48]	[2810.0, 984.0]		
+6	1	Image	[2776, 960, 64, 48]	[2808.0, 984.0]		|ic toolbar audiotest no open
+5	1	Image	[2794, 966, 12, 36]	[2800.0, 984.0]		|pic yinpin small
+4	1	Image	[2808, 966, 12, 36]	[2814.0, 984.0]		|pic yinpin small
+3	1	StaticText	[400, 10, 2080, 36]	[1440.0, 28.0]	Untitled 1.flmg	
+2	1	StaticText	[1430, 10, 20, 32]	[1440.0, 26.0]		

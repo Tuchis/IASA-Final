@@ -1,0 +1,35 @@
+This image appears to be a screenshot of the user interface from a music production software. The UI is designed to let a user choose a project template for starting a new music composition. Here are the elements of the UI described in detail:
+
+1. Top Menu Bar:
+   - Traffic light buttons on the top left (red, yellow, green) for window control typical of macOS.
+   - Title "Choose a Project"
+
+2. Sidebar (Left Panel):
+   - "New Project" button with a sheet-of-paper icon.
+   - "Recent" with a clock-like icon indicating recent projects.
+   - "Learn to Play" with a note and a video play icon.
+   - "Lesson Store" with a shopping cart icon.
+   - "Project Templates" is selected, indicated by a blue highlight and a clipboard icon.
+
+3. Main Area - Project Templates Selection:
+   - Six project templates each represented by a gray box with an icon and label:
+     - "Keyboard Collection" with a keyboard icon.
+     - "Amp Collection" with an electric guitar amplifier icon.
+     - "Voice" with a microphone icon.
+     - "Hip-Hop" with a drum machine pad icon.
+     - "Electronic" with arrows and a waveform icon.
+     - "Songwriter," highlighted in blue as the selected template, with an acoustic guitar and music note icon.
+
+4. Details Panel (Bottom Half of Main Area):
+   - In the "Details" dropdown: 
+     - A description text: "An ideal writing studio with drums, guitar amps and vocal tracks"
+     - Settings for "Tempo:" set to "96" BPM with a dropdown selector and an option to "Tap Tempo".
+     - "Key Signature:" showing "C" selected, with radio buttons for "Major" (selected) and "Minor".
+     - "Time Signature:" set to "4/4" with a dropdown selector.
+     - "Input Device:" and "Output Device:" both set to "System Setting" with accompanying refresh icons.
+   - "Open an existing project..." link at the bottom.
+
+5. Choose Button:
+   - A blue "Choose" button located at the bottom right, likely to proceed with the selected project template.
+
+This UI is structured to give users a straightforward project start-up by selecting a template that best fits their intended music style or intended recording setup. The details section provides customisable settings for tempo, key signature, and time signature, which help to quickly shape the basic aspects of the new project. The "System Setting" options suggest that the software will defaults to the computer's system settings for audio input and output unless specified otherwise by the user. The presence of a link to open an existing project indicates that users can easily switch between starting a new project and continuing with an ongoing one.

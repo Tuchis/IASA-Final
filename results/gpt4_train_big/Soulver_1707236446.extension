@@ -1,0 +1,31 @@
+The image displays a user interface (UI) of an application with a focus on settings or configuration, specifically under a "Calculator" context. Here are the details of the visible UI elements:
+
+1. **Top Window Bar:**
+    - Traffic light buttons on the left (red, yellow, green) indicating close, minimize, and maximize functions.
+    - A set of toggles or tabs labeled "General", "Calculator", "Editing", "Styling", "Currencies", "QuickSoulver", which appear to be the different settings or modes within the application. The "Calculator" tab is currently active.
+
+2. **Side Panel:**
+    - Icons and labels indicating different settings or configuration categories:
+        - "Number Formatting" with a globe icon.
+        - "Regional Settings" with a clock icon.
+        - "Currency Symbols" with a currency/euro icon.
+        - A subheading labeled "Data Sources" with three categories beneath it:
+            - "Stocks" with a stocks icon.
+            - "Weather" with a cloud/rain icon.
+            - "AI Assistant" with a robot head icon.
+        - A subheading labeled "Your Definitions" with additional categories:
+            - "Global Variables" with a mathematical function icon.
+            - "Custom Units" with a ruler icon.
+            - "Additional Places" with a location pin icon.
+    - Controls at the bottom of the side panel are a "+" and a "−", which are likely for adding or removing items within the selected category.
+
+3. **Main Content Area:**
+    - A two-column table or list:
+        - Column headers: "Name" and "Value".
+        - One populated row with "random_state" in the 'Name' column and "42" in the 'Value' column, hinting at a setting or variable where users can define custom key-value pairs.
+
+4. **Window Controls:**
+    - A "+" button in the upper-right corner, likely for adding a new row to the table list.
+    - A "—" button next to the "+" button, likely for removing the selected row from the table list.
+
+The overall context of this UI indicates that it is a part of an application's preferences or settings aimed at customizing calculator functions, formats, or additional data sources. The "Global Variables" section is currently selected, which implies that the user is managing variables within the Calculator settings of the application, demonstrated by the defined global variable "random_state" with a value of "42".

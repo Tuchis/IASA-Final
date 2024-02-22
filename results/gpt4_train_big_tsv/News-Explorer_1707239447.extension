@@ -1,0 +1,145 @@
+The image displays the user interface of a feed or news aggregator application. Here is a detailed description of the UI elements presented:
+
+1. **Window Controls**: In the top left corner, there are typical window controls for minimizing, maximizing/restoring, and closing the window represented by three dots (•••) - red, yellow, and green.
+
+2. **Sidebar**:
+   - **Smart Filters** section with icons for 'Latest News', 'Unread Items', and 'Favorites'.
+   - **Add Feed Button**: At the bottom-left, there's a '+' button, alongside a pencil and settings icon, presumably for adding, editing, and configuring settings or feeds.
+   - **Status Indicator**: At the bottom, there's an indicator showing three dots and a star.
+
+3. **Main Content Area**: 
+   - **Title Bar**: At the top, it states 'Latest News' with a subtitle stating '0 articles'.
+   - **Search Bar**: Towards the right, there's a search bar with a magnifying glass icon and placeholder text 'Search'.
+
+4. **Pop-up Window**:
+   - **Source Selection**: At the top, it indicates the source as 'RSS Feeds' with an icon representing RSS. There's an information icon and a 'Keywords:' section below it with the text 'machine learning'.
+   - **Feeds List**: Below, there's a list of feeds that match the keyword search. Each feed has a title, a brief description, and a URL. The feeds listed are:
+      - "MachineLearningMastery.com" with the description "Making developers awesome at machine learning." and the URL "http://feeds.feedburner.com/MachineLearningMastery"
+      - "Machine Learning" which is a subreddit that appears to be closed temporarily. There's a further description in the form of a URL "http://www.reddit.com/r/MachineLearning/.rss"
+      - "Machine Learning (Theory)" described as dealing with "Machine learning and learning theory research" and the URL "http://hunch.net/?feed=rss2"
+      - Another "Machine Learning" feed without a description, presenting only the URL "http://hunch.net/?feed=rss2"
+   - **Feed Selection**: The first feed ("MachineLearningMastery.com") is highlighted in blue, suggesting it has been selected.
+   - **Folder Management**: At the bottom, there is a section labeled 'Add to folder:' with an input option that currently reads 'Subscriptions'. There is also a 'New Folder...' option for organizing feeds.
+
+5. **Action Buttons**: At the bottom of the pop-up window, there are two buttons:
+   - "Cancel" on the left, likely to cancel the operation.
+   - "Add Selected Feeds" on the right, presumably to add the selected feeds to the specified folder.
+
+This interface allows users to search for, manage, and add feeds based on certain keywords and organize them into folders, thereby customizing their news aggregation experience.
+
+Here is the representation of the same UI elements. It has additional information, as coordinates of the elements. You can use this information to connect the representation with the UI elements that are present at the screen and were described above.
+id	pid	role	visible_bbox	center	value	description
+1	0	Window	[0, 0, 2326, 1386]	[1163.0, 693.0]		Latest News – 0 articles
+79	1	SplitGroup	[0, 0, 2326, 1386]	[1163.0, 693.0]		
+97	79	ScrollArea	[0, 104, 476, 1210]	[238.0, 709.0]		
+98	97	Outline	[0, 104, 476, 1210]	[238.0, 709.0]		
+112	98	Row	[0, 104, 476, 38]	[238.0, 123.0]		
+113	112	Cell	[20, 104, 436, 38]	[238.0, 123.0]		|Smart Filters
+114	113	StaticText	[28, 108, 372, 28]	[214.0, 122.0]	Smart Filters	
+108	98	Row	[0, 142, 476, 56]	[238.0, 170.0]		
+109	108	Cell	[20, 142, 436, 56]	[238.0, 170.0]		|Latest News
+111	109	Image	[32, 150, 40, 40]	[52.0, 170.0]		|today selection
+110	109	StaticText	[76, 154, 368, 32]	[260.0, 170.0]	Latest News	
+104	98	Row	[0, 198, 476, 56]	[238.0, 226.0]		
+105	104	Cell	[20, 198, 436, 56]	[238.0, 226.0]		|Unread Items
+107	105	Image	[32, 206, 40, 40]	[52.0, 226.0]		|unread selection
+106	105	StaticText	[76, 210, 368, 32]	[260.0, 226.0]	Unread Items	
+100	98	Row	[0, 254, 476, 56]	[238.0, 282.0]		
+101	100	Cell	[20, 254, 436, 56]	[238.0, 282.0]		
+103	101	Image	[32, 262, 40, 40]	[52.0, 282.0]		|favorite selection
+102	101	StaticText	[76, 266, 368, 32]	[260.0, 282.0]	Favorites	
+99	98	Column	[20, 104, 436, 1210]	[238.0, 709.0]		
+96	79	StaticText	[0, 676, 482, 32]	[241.0, 692.0]	↓ Use the + button to add new feeds	
+95	79	Button	[22, 1342, 32, 32]	[38.0, 1358.0]		
+94	79	CheckBox	[314, 1342, 32, 32]	[330.0, 1358.0]	1	
+93	79	CheckBox	[368, 1342, 32, 32]	[384.0, 1358.0]	0	
+92	79	CheckBox	[418, 1342, 32, 32]	[434.0, 1358.0]	0	
+91	79	Button	[68, 1340, 40, 40]	[88.0, 1360.0]		
+90	79	Splitter	[478, 104, 2, 1282]	[479.0, 745.0]	239.0	
+87	79	ScrollArea	[480, 104, 600, 1282]	[780.0, 745.0]		
+88	87	Table	[480, 104, 600, 1282]	[780.0, 745.0]		
+89	88	Column	[500, 104, 560, 1282]	[780.0, 745.0]		
+86	79	Splitter	[1080, 104, 2, 1282]	[1081.0, 745.0]	300.0	
+80	79	Group	[1082, 0, 1244, 1386]	[1704.0, 693.0]		
+81	80	Group	[1082, 0, 1244, 1386]	[1704.0, 693.0]		
+82	81	ScrollArea	[1082, 104, 1244, 1282]	[1704.0, 745.0]		|
+83	82	WebArea	[1082, 104, 1244, 1282]	[1704.0, 745.0]		|
+84	83	Group	[1098, 680, 1228, 68]	[1712.0, 714.0]		|
+85	84	StaticText	[1516, 680, 408, 68]	[1720.0, 714.0]	No Item Selected	|
+69	1	Toolbar	[0, 0, 2326, 104]	[1163.0, 52.0]		
+78	69	CheckBox	[362, 0, 100, 104]	[412.0, 52.0]	0	|View
+77	69	Button	[970, 0, 94, 104]	[1017.0, 52.0]		|Check
+76	69	CheckBox	[1098, 0, 100, 104]	[1148.0, 52.0]	0	|Reader
+75	69	Button	[1198, 0, 100, 104]	[1248.0, 52.0]		|Slidehsow
+74	69	CheckBox	[1654, 0, 100, 104]	[1704.0, 52.0]	0	|Star
+73	69	Button	[1754, 0, 100, 104]	[1804.0, 52.0]		|Share
+70	69	Group	[1854, 0, 456, 104]	[2082.0, 52.0]		
+71	70	TextField	[1860, 22, 444, 62]	[2082.0, 53.0]		
+72	71	Button	[1864, 30, 50, 44]	[1889.0, 52.0]		|search
+66	1	Button	[118, 36, 28, 32]	[132.0, 52.0]		
+67	66	Group	[118, 36, 28, 32]	[132.0, 52.0]		
+68	67	Group	[118, 36, 28, 32]	[132.0, 52.0]		
+65	1	StaticText	[496, 0, 426, 104]	[709.0, 52.0]	Latest News	
+64	1	StaticText	[496, 0, 426, 104]	[709.0, 52.0]	0 articles	
+2	1	Sheet	[508, 222, 1310, 940]	[1163.0, 692.0]		
+14	2	ScrollArea	[548, 394, 1230, 580]	[1163.0, 684.0]		
+19	14	Table	[550, 452, 1226, 934]	[1163.0, 919.0]		
+58	19	Row	[550, 452, 1226, 132]	[1163.0, 518.0]		
+59	58	Cell	[562, 454, 1196, 128]	[1160.0, 518.0]		
+63	59	StaticText	[710, 462, 442, 38]	[931.0, 481.0]	MachineLearningMastery.com	
+62	59	StaticText	[710, 504, 1046, 30]	[1233.0, 519.0]	Making developers awesome at machine learning.	
+61	59	StaticText	[710, 538, 1046, 30]	[1233.0, 553.0]	http://feeds.feedburner.com/MachineLearningMastery	
+60	59	Image	[580, 464, 112, 112]	[636.0, 520.0]		|
+52	19	Row	[550, 584, 1226, 162]	[1163.0, 665.0]		
+53	52	Cell	[562, 586, 1196, 158]	[1160.0, 665.0]		
+57	53	StaticText	[710, 594, 264, 38]	[842.0, 613.0]	Machine Learning	
+56	53	StaticText	[710, 636, 1046, 60]	[1233.0, 666.0]	This subreddit is temporarily closed in protest of Reddit killing third party apps, see /r/ModCoord and /r/Save3rdPartyApps for more information.	
+55	53	StaticText	[710, 700, 1046, 30]	[1233.0, 715.0]	http://www.reddit.com/r/MachineLearning/.rss	
+54	53	Image	[580, 596, 112, 112]	[636.0, 652.0]		|
+46	19	Row	[550, 746, 1226, 132]	[1163.0, 812.0]		
+47	46	Cell	[562, 748, 1196, 128]	[1160.0, 812.0]		
+51	47	StaticText	[710, 756, 398, 38]	[909.0, 775.0]	Machine Learning (Theory)	
+50	47	StaticText	[710, 798, 1046, 30]	[1233.0, 813.0]	Machine learning and learning theory research	
+49	47	StaticText	[710, 832, 1046, 30]	[1233.0, 847.0]	http://hunch.net/?feed=rss2	
+48	47	Image	[580, 758, 112, 112]	[636.0, 814.0]		|
+40	19	Row	[550, 878, 1226, 162]	[1163.0, 959.0]		
+41	40	Cell	[562, 880, 1196, 158]	[1160.0, 959.0]		
+45	41	StaticText	[710, 888, 264, 38]	[842.0, 907.0]	Machine Learning	
+44	41	StaticText	[710, 930, 1046, 60]	[1233.0, 960.0]	Providing researchers with access to millions of scientific documents from journals, books, series, protocols, reference works and proceedings.	
+43	41	StaticText	[710, 994, 1046, 30]	[1233.0, 1009.0]	http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10994&channel-name=Machine+Learning	
+42	41	Image	[580, 890, 112, 112]	[636.0, 946.0]		|
+34	19	Row	[550, 1040, 1226, 132]	[1163.0, 1106.0]		
+35	34	Cell	[562, 1042, 1196, 128]	[1160.0, 1106.0]		
+39	35	StaticText	[710, 1050, 360, 38]	[890.0, 1069.0]	Machine Learning Times	
+38	35	StaticText	[710, 1092, 1046, 30]	[1233.0, 1107.0]	machine learning & data science news	
+37	35	StaticText	[710, 1126, 1046, 30]	[1233.0, 1141.0]	http://www.predictiveanalyticsworld.com/patimes/feed/	
+36	35	Image	[580, 1052, 112, 112]	[636.0, 1108.0]		|
+28	19	Row	[550, 1172, 1226, 136]	[1163.0, 1240.0]		
+29	28	Cell	[562, 1174, 1196, 128]	[1160.0, 1238.0]		
+33	29	StaticText	[710, 1182, 74, 38]	[747.0, 1201.0]	Blog	
+32	29	StaticText	[710, 1224, 528, 60]	[974.0, 1254.0]	Making developers awesome at machine learning	
+31	29	StaticText	[710, 1288, 1046, 30]	[1233.0, 1303.0]	http://machinelearningmastery.com/blog/feed/	
+30	29	Image	[580, 1184, 112, 112]	[636.0, 1240.0]		|
+23	19	Row	[550, 1308, 1226, 78]	[1163.0, 1347.0]		
+24	23	Cell	[562, 1310, 1196, 76]	[1160.0, 1348.0]		
+27	24	StaticText	[710, 1318, 922, 38]	[1171.0, 1337.0]	Machine Learning Blog | ML@CMU | Carnegie Mellon University	
+26	24	StaticText	[710, 1360, 960, 26]	[1190.0, 1373.0]	We defy current Machine Learning research and applications. We work on solving high-level difficulty AI problems.	
+25	24	Image	[580, 1320, 112, 66]	[636.0, 1353.0]		|
+22	19	Column	[550, 452, 1220, 934]	[1160.0, 919.0]		
+20	19	Group	[550, 396, 1226, 56]	[1163.0, 424.0]		
+21	20	Button	[550, 396, 1220, 56]	[1160.0, 424.0]		Feeds
+15	14	ScrollBar	[1744, 452, 32, 520]	[1760.0, 712.0]	0.0	
+18	15	ValueIndicator	[1752, 454, 24, 52]	[1764.0, 480.0]	0.0	
+17	15	Button	[1752, 506, 24, 466]	[1764.0, 739.0]		
+16	15	Button	[1752, 452, 24, 2]	[1764.0, 453.0]		
+13	2	Button	[1480, 1072, 312, 64]	[1636.0, 1104.0]		Add Selected Feeds
+12	2	PopUpButton	[726, 998, 1060, 50]	[1256.0, 1023.0]	Subscriptions	
+11	2	StaticText	[544, 1002, 174, 32]	[631.0, 1018.0]	Add to folder:	
+10	2	StaticText	[544, 1088, 208, 30]	[648.0, 1103.0]		
+9	2	Button	[1332, 1072, 152, 64]	[1408.0, 1104.0]		Cancel
+8	2	TextField	[732, 318, 888, 44]	[1176.0, 340.0]	machine learning	
+7	2	Button	[1636, 310, 154, 64]	[1713.0, 342.0]		Search
+6	2	PopUpButton	[726, 260, 902, 50]	[1177.0, 285.0]	RSS Feeds	
+5	2	StaticText	[616, 264, 100, 32]	[666.0, 280.0]	Source:	
+4	2	StaticText	[584, 324, 134, 32]	[651.0, 340.0]	Keywords:	
+3	2	Button	[718, 1072, 226, 64]	[831.0, 1104.0]		New Folder…
